@@ -43,7 +43,7 @@
 
 ## Repository cards
 
-- [388 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
+- [380 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
 
 ## RSS
 
@@ -53,6 +53,68 @@
 
 ## Products (English)
 
+- [Strata](https://tesign.com/en/item/strata/): Keyboard-first Linux file manager: Miller columns, Ctrl+K search, RAW/PDF/video previews
+- [DSH Desktop](https://tesign.com/en/item/dsh-desktop/): Unofficial Windows/macOS desktop client for the DeepSeek Harness agent; no Node.js setup
+- [fx](https://tesign.com/en/item/vercel-labs-fx/): Vercel Labs' coding agent CLI: a 6.17 MiB Zig binary, shell-like, embeddable via WASM
+- [OpenAnalytics](https://tesign.com/en/item/openanalytics/): Cookieless, self-hostable web analytics with revenue attribution, an MCP server and a CLI
+- [Hydra Download Manager](https://tesign.com/en/item/hydra-download-manager/): Multi-connection download manager: desktop GUI, browser add-ons, wget/curl-compatible CLI
+- [Lertaro](https://tesign.com/en/item/lertaro/): Windows search launcher reading the NTFS USN Journal and $MFT for near-instant file search
+- [anydoc](https://tesign.com/en/item/anydoc/): Converts Word, PowerPoint, Excel, PDF and EPUB to Markdown; run via npx or in the browser
+- [Sonora](https://tesign.com/en/item/sonora/): Native Rust/GPUI music client for Spotify, YouTube Music, Subsonic and local files
+- [Pomodoist](https://tesign.com/en/item/pomodoist/): Self-hosted Todoist alternative with Pomodoro focus sessions and weekly progress reports
+- [OpenClip](https://tesign.com/en/item/openclip/): Select text in any Mac app; a floating bar offers copy, transform, math and AI actions
+- [Rakazo](https://tesign.com/en/item/rakazo/): Self-hosted persistent AI teammates with their own memory, routines and computers
+- [MonoCode](https://tesign.com/en/item/monocode/): Tabbed desktop UI for Claude Code, Codex, Cursor and 5 more agents, on your own logins
+- [Slotstream](https://tesign.com/en/item/slotstream/): Run a 105 GB Qwen model on a 48 GB Mac: experts stream from SSD, Ollama-compatible API
+- [Easel](https://tesign.com/en/item/easel/): Workbench for social creators: discover, plan, create, publish to 7 Chinese platforms
+- [PartMode](https://tesign.com/en/item/partmode/): Parametric mechanical CAD in the browser: constrained sketches, assemblies, drawings, STEP
+- [MangoDisk](https://tesign.com/en/item/mangodisk/): Disk cleaner for macOS and Windows: read-only scan, then caches, duplicates and big files
+- [Breakscale](https://tesign.com/en/item/breakscale/): Browser system-design simulator: build a topology, load it until it breaks, see why
+- [Spotifast (formerly Fastpotify)](https://tesign.com/en/item/spotifast/): Native Rust Spotify client, 100-250 MB RAM, Linux/macOS/Windows; playback needs Premium
+- [OpenMausBot](https://tesign.com/en/item/openmausbot/): Chat app where every contact is an AI agent running on your own claude, codex or grok CLI
+- [Halcyon Video](https://tesign.com/en/item/halcyon-video/): Turns your Jellyfin, Plex or Emby library into a walkable 3D 1990s video rental store
+- [FerrumPix](https://tesign.com/en/item/ferrumpix/): Photo manager, RAW developer and pixel editor in one app; connects to Immich and Nextcloud
+- [Let's Seal](https://tesign.com/en/item/lets-seal/): Free web app and open SEAL standard that proves a file is unaltered and existed by a date
+- [terminal-browser](https://tesign.com/en/item/terminal-browser/): A real Chromium browser running inside kitty-graphics terminals like ghostty and VS Code
+- [AIPOCH Open-Science](https://tesign.com/en/item/aipoch-open-science/): Local-first AI research workbench: agents run Python/R, every result keeps provenance
+- [Edge-Drop](https://tesign.com/en/item/edge-drop/): Windows clipboard shelf on the screen edge — hover to open, drag items into any app
+- [ZenConverter](https://tesign.com/en/item/zenconverter/): Android converter for video, audio, images and PDFs — runs on the phone, no uploads
+- [OpenMouse](https://tesign.com/en/item/openmouse/): Browser control panel for gaming-mouse DPI and polling rate, no vendor driver needed
+- [ESP-KVM](https://tesign.com/en/item/esp-kvm/): ESP32-P4 IP-KVM: a PC's BIOS screen, keyboard and mouse in a browser, about $40 in parts
+- [Drift](https://tesign.com/en/item/cutwire-drift/): Multi-track video editor for Shorts and game clips, with no subscription or watermark
+- [Capptivo](https://tesign.com/en/item/capptivo/): Free screen recorder with follow-cursor zoom and on-device captions for product demos
+- [Comp AI CRM](https://tesign.com/en/item/trycompai-crm/): CRM whose agent researches contacts on its own schedule and never writes a guess as fact.
+- [Talivia](https://tesign.com/en/item/talivia/): Self-hosted web analytics with Session Replay that ties each visit to payment revenue.
+- [OpenReply](https://tesign.com/en/item/openreply/): Self-hosted ManyChat alternative: Instagram comment keyword → DM via Meta's official API.
+- [Yap](https://tesign.com/en/item/yap/): Press a shortcut, talk, text lands in any macOS field; on-device, no account or API key.
+- [Crisp](https://tesign.com/en/item/crisp/): Free macOS menu bar app: HiDPI scaling, DDC brightness and presets for external monitors.
+- [FluxDown](https://tesign.com/en/item/fluxdown/): Free, ad-free IDM alternative: HTTP, FTP, torrent, eD2K and HLS/DASH on a Rust engine.
+- [nurb](https://tesign.com/en/item/nurb/): Describe a part in words; AI models a real CAD solid, checks printability, exports a 3MF.
+- [Bento](https://tesign.com/en/item/bento/): A PowerPoint alternative in one HTML file; edit, present and share with only a browser.
+- [OpenWorker](https://tesign.com/en/item/openworker/): Desktop AI coworker on your key or local Ollama; 25+ integrations, asks before acting.
+- [GenOffice](https://tesign.com/en/item/genoffice/): Free desktop office suite for real .docx/.xlsx/.pptx and PDF, with an AI on your own key.
+- [Decimen Optical Transfer](https://tesign.com/en/item/decimen-optical-transfer/): Send a file up to 64 MB between two devices using only a screen and a camera; no network.
+- [Adrafinil](https://tesign.com/en/item/adrafinil/): Keeps a Mac awake only while a coding agent works, lid closed or not; normal sleep after.
+- [PokeTokenBar](https://tesign.com/en/item/poketokenbar/): Mac menu bar app: your AI coding tokens hatch and evolve a Pokemon; tracks usage limits.
+- [peerd](https://tesign.com/en/item/peerd/): An AI agent inside a Chrome/Firefox extension: drives your tabs, runs code in-browser.
+- [nodeterm](https://tesign.com/en/item/nodeterm/): Terminals and agents as canvas nodes; tmux sessions survive app quits, restore on reboot.
+- [LLM Space](https://tesign.com/en/item/llm-space/): Mac app for agent builders: trace every model call, replay a failed run step by step.
+- [Omnigent](https://tesign.com/en/item/omnigent/): One control layer over Claude Code, Codex, Cursor and more, reachable from any device
+- [MiMo Code](https://tesign.com/en/item/mimo-code/): Xiaomi's terminal coding agent with cross-session memory, subagents and voice input
+- [GitFut](https://tesign.com/en/item/gitfut/): Turns a GitHub profile into a FIFA-style card rated out of 99, embeddable as a live PNG
+- [SQL to ER Diagram](https://tesign.com/en/item/sql-to-er-diagram/): Paste CREATE TABLE DDL, get an interactive ER diagram drawn entirely in your browser
+- [make-look-scanned](https://tesign.com/en/item/make-look-scanned/): Makes a PDF look like a physical scan (skew, paper tone, grain); Go CLI or in-browser WASM
+- [PDFx](https://tesign.com/en/item/pdfx/): Bundles many PDFs into one file that is still a valid PDF; its viewer splits them back
+- [Conduit](https://tesign.com/en/item/conduit/): SSH, Mosh, SFTP terminal for Android and iOS with no account; hardware keys over USB/NFC
+- [Tinycast](https://tesign.com/en/item/tinycast/): Native macOS launcher under 100 MB of RAM that also runs Raycast extensions
+- [Dory](https://tesign.com/en/item/dory/): Docker Desktop alternative for Apple Silicon: Docker 29, Compose v2, k3s, Linux VMs
+- [Solar Wanderer](https://tesign.com/en/item/solar-wanderer/): 1:1 real-time solar system in the browser, driven by NASA JPL ephemerides; phone-friendly
+- [HypoMux](https://tesign.com/en/item/hypomux/): Windows tool that spreads Steam and IDM downloads over Ethernet, Wi-Fi and hotspot at once
+- [OpenKnowledge](https://tesign.com/en/item/openknowledge/): WYSIWYG markdown editor for any local folder, with Claude or Codex editing alongside
+- [DeskBox](https://tesign.com/en/item/deskbox/): Free Windows desktop organizer with folder-backed widgets; open-source Fences alternative
+- [kage](https://tesign.com/en/item/kage/): CLI that renders a site in headless Chrome and saves a script-free copy to read offline
+- [Bramble](https://tesign.com/en/item/bramble/): Password manager with no account: devices sync peer-to-peer; extension, desktop, mobile
+- [Vorssaint](https://tesign.com/en/item/vorssaint/): Free macOS menu bar app: per-app volume, window snapping, clipboard history, uninstaller
 - [oauthcli](https://tesign.com/en/item/oauthcli/): Checks what an OAuth or OIDC server supports and audits it against RFCs.
 - [proton-cli](https://tesign.com/en/item/proton-cli/): Runs Proton Mail, Drive, Calendar, Pass and Contacts from the terminal.
 - [Birdview](https://tesign.com/en/item/birdview/): Maps which modules an agent will touch before it edits a line.
@@ -112,3 +174,6 @@
 ## Monthly
 
 - [Monthly 2026-09](https://tesign.com/en/archive/2026-09/)
+- [Monthly 2026-08](https://tesign.com/en/archive/2026-08/)
+- [Monthly 2026-07](https://tesign.com/en/archive/2026-07/)
+- [Monthly 2026-06](https://tesign.com/en/archive/2026-06/)
