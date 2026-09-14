@@ -1,6 +1,6 @@
 # TESIGN
 
-> TESIGN Radar collects newly released SaaS, AI apps, developer tools and design experiments from public sources every day, rejects most of them, and publishes only the few worth trying, installing, sharing or building from. Machines filter the noise; a person decides (the first lists of 13–14 September 2026 were AI-chosen and are under review). Run by tesign, a one-person studio. There is no paid placement.
+> TESIGN Radar presents AI-selected daily tools and rising and all-time rankings, under the owner’s delegation. Stars, increases, cross-source signals, updates and licences are the evidence. AI chooses the lists under the owner’s delegation. No human review is running in September 2026. Total stars, increases, cross-source signals, last updates and licences are shown as evidence. Run by tesign, a one-person studio. No ads, paid placement, accounts or payments.
 
 ## Start here
 
@@ -9,6 +9,21 @@
 - [FAQ](https://tesign.com/en/faq/)
 - [Explore](https://tesign.com/en/explore/): every kept product with categories, sources and signals
 - [한국어](https://tesign.com/): Korean edition (same content)
+
+## Rising
+
+- [Rising 24h](https://tesign.com/en/rising/24h/): observed GitHub star increases, with reference time and missing-day gaps
+- [Rising 7d](https://tesign.com/en/rising/): observed GitHub star increases, with reference time and missing-day gaps
+- [Rising 30d](https://tesign.com/en/rising/30d/): observed GitHub star increases, with reference time and missing-day gaps
+
+## All-time
+
+- [All-time Top 250](https://tesign.com/en/top/): stars, maintenance and cross-source evidence; method at /en/about/#ranks
+
+## RSS
+
+- [Today](https://tesign.com/feed.xml)
+- [Rising 7d](https://tesign.com/feed/rising.xml)
 
 ## Products (English)
 
