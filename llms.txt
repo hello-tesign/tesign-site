@@ -1,0 +1,73 @@
+# TESIGN
+
+> TESIGN Radar collects newly released SaaS, AI apps, developer tools and design experiments from public sources every day, rejects most of them, and publishes only the few worth trying, installing, sharing or building from. Machines filter the noise; a person decides (the first lists of 13–14 September 2026 were AI-chosen and are under review). Run by tesign, a one-person studio. There is no paid placement.
+
+## Start here
+
+- [Today](https://tesign.com/en/): the finite daily selection (10 items; see /en/about/ for how items are chosen)
+- [About](https://tesign.com/en/about/): what TESIGN Radar is and how selection works
+- [FAQ](https://tesign.com/en/faq/)
+- [Explore](https://tesign.com/en/explore/): every kept product with categories, sources and signals
+- [한국어](https://tesign.com/): Korean edition (same content)
+
+## Products (English)
+
+- [oauthcli](https://tesign.com/en/item/oauthcli/): Checks what an OAuth or OIDC server supports and audits it against RFCs.
+- [proton-cli](https://tesign.com/en/item/proton-cli/): Runs Proton Mail, Drive, Calendar, Pass and Contacts from the terminal.
+- [Birdview](https://tesign.com/en/item/birdview/): Maps which modules an agent will touch before it edits a line.
+- [Design Studio AI](https://tesign.com/en/item/design-studio-ai/): Lets people and agents edit the same web, slide, 3D and video designs.
+- [PDF Pocket Tools](https://tesign.com/en/item/pdf-pocket-tools/): Merges, splits, rotates and reorders PDFs from one offline HTML file.
+- [Programming Museum](https://tesign.com/en/item/museum-of-source-code/): Hangs real, runnable source code in frames you walk past room by room.
+- [roamux](https://tesign.com/en/item/roamux/): Lets you watch and steer coding agents on your own machine from a phone.
+- [pdfcn](https://tesign.com/en/item/pdfcn/): Builds invoice and report PDFs from React components you paste in.
+- [DLSS 5 Swapper](https://tesign.com/en/item/dlss5-swapper/): Scans your game library and installs or restores DLSS 5 per game.
+- [Amagine3D](https://tesign.com/en/item/amagine3d/): Designs printable hardware enclosures from a description and dimensions.
+- [Viserys](https://tesign.com/en/item/viserys-agent/): Gives a coding agent one fixed process from define to ship, as skills.
+- [BongoCat](https://tesign.com/en/item/bongocat/): Puts a Live2D desktop pet on screen that reacts to every key and click.
+- [DuoFold for Android](https://tesign.com/en/item/duofold-android/): Makes a regular Android screen fold and shift as you tilt the phone.
+- [Highball](https://tesign.com/en/item/highball/): Runs Windows games on Apple Silicon and tells you if yours will work.
+- [Worlds Upon The Wind](https://tesign.com/en/item/wutw-public/): Releases a Steam deckbuilder's full source and art as public domain.
+- [agent-memory](https://tesign.com/en/item/agent-memory/): Keeps what an agent learned as Markdown files it can search and reread.
+- [Agency](https://tesign.com/en/item/agency/): Turns work a coding agent finds into cards you decide with one click.
+- [Chat On Steroids](https://tesign.com/en/item/chat-on-steroids/): Lets a ChatGPT chat edit your files, run tests and use your desktop.
+- [ARTEMIS](https://tesign.com/en/item/artemis/): Turns written instructions into automation on real Android phones.
+- [Codex Astra Orchestrator + Luna Subagents](https://tesign.com/en/item/codex-astra-luna-orchestrator/): Installs a Codex setup where Astra orchestrates and Luna does the work.
+- [humanizer](https://tesign.com/en/item/humanizer/): Strips the tells of AI-generated writing out of a draft.
+- [caveman](https://tesign.com/en/item/caveman/): Cuts an agent's token use by stripping prompts down to bare words.
+- [pi-desktop](https://tesign.com/en/item/pi-desktop/): Runs a local-first coding agent as a desktop app with plugins.
+- [DeskComm CRM](https://tesign.com/en/item/deskcommcrm/): Runs a self-hosted CRM with built-in AI agents and WhatsApp chat.
+- [OpenDisplay](https://tesign.com/en/item/opendisplay/): Turns an iPhone or iPad into a real second monitor for a Mac.
+- [SoL-Pi](https://tesign.com/en/item/sol-pi/): Scales automated research loops that tune agent harnesses.
+- [YuE2](https://tesign.com/en/item/yue/): Generates music, makes zero-shot covers and edits parts of a track.
+- [quickgui](https://tesign.com/en/item/quickgui/): Renders desktop interfaces on the GPU without a webview.
+- [Taste-Skill](https://tesign.com/en/item/taste-skill/): Stops a coding agent from producing the same generic-looking result.
+- [diagram-design](https://tesign.com/en/item/diagram-design/): Draws 38 editorial diagram types as self-contained HTML and SVG.
+- [Headroom](https://tesign.com/en/item/headroom/): Compresses tool output, logs and files before they reach the model.
+- [OpenResearch](https://tesign.com/en/item/openresearch/): Runs several research agents in parallel on any model you choose.
+- [open-code-review](https://tesign.com/en/item/open-code-review/): Reviews code line by line with fixed rule pipelines plus an LLM agent.
+- [ecc](https://tesign.com/en/item/ecc/): Adds skills, memory and security rules to a coding agent harness.
+- [Hermes Agent](https://tesign.com/en/item/hermes-agent/): Runs an agent meant to grow with the person using it.
+- [OpenMontage](https://tesign.com/en/item/openmontage/): Turns a coding assistant into a full video production pipeline.
+- [Worktrunk](https://tesign.com/en/item/worktrunk/): Manages Git worktrees for running several coding agents in parallel.
+- [ponytail](https://tesign.com/en/item/ponytail/): Makes a coding agent ask whether the code needs writing at all.
+- [DeepSeek Harness](https://tesign.com/en/item/deepseek-harness/): Builds an agent harness where every capability is a plugin.
+- [tokentab](https://tesign.com/en/item/tokentab/): Reads agent session logs and works out cost by model, project and day.
+- [colibri](https://tesign.com/en/item/colibri/): Runs frontier MoE models on hardware you already own.
+- [archify](https://tesign.com/en/item/archify/): Exports architecture and data-flow diagrams as self-contained HTML.
+- [Orca](https://tesign.com/en/item/orca/): Runs a fleet of coding agents in parallel from one place.
+- [Recordly](https://tesign.com/en/item/recordly/): Turns a screen recording into a polished demo video without editing.
+- [gods-eye-view](https://tesign.com/en/item/gods-eye-view/): Puts real satellite and flight tracks on a 3D globe in your browser.
+- [VoiceStudio](https://tesign.com/en/item/voicestudio/): Clones voices, dubs video and transcribes audio on your own machine.
+
+## Daily
+
+- [Daily 2026-09-14](https://tesign.com/en/day/2026-09-14/)
+- [Daily 2026-09-13](https://tesign.com/en/day/2026-09-13/)
+
+## Weekly
+
+- [Weekly 2026-09-07](https://tesign.com/en/weekly/2026-W37/)
+
+## Monthly
+
+- [Monthly 2026-09](https://tesign.com/en/archive/2026-09/)

@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#F4F2EC" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1115" media="(prefers-color-scheme: dark)">
+<title>oauthcli — OAuth·OIDC 서버가 무엇을 지원하는지 확인하고 RFC 기준으로 검사합니다.</title>
+<meta name="description" content="OAuth 서버를 붙일 때는 문서와 실제 동작이 다른 지점을 토큰을 손으로 주고받으며 찾게 됩니다. oauthcli는 인가 서버가 공개한 메타데이터를 읽고 RFC별 적합성을 판정하며, 모든 grant로 토큰을 받아 해독·검증하고 브라우저·디바이스 플로우와 동적 클라이언트…">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://tesign.com/item/oauthcli/">
+<link rel="alternate" hreflang="ko" href="https://tesign.com/item/oauthcli/">
+<link rel="alternate" hreflang="en" href="https://tesign.com/en/item/oauthcli/">
+<link rel="alternate" hreflang="x-default" href="https://tesign.com/item/oauthcli/">
+<meta property="og:site_name" content="TESIGN">
+<meta property="og:type" content="article">
+<meta property="og:title" content="oauthcli — OAuth·OIDC 서버가 무엇을 지원하는지 확인하고 RFC 기준으로 검사합니다.">
+<meta property="og:description" content="OAuth 서버를 붙일 때는 문서와 실제 동작이 다른 지점을 토큰을 손으로 주고받으며 찾게 됩니다. oauthcli는 인가 서버가 공개한 메타데이터를 읽고 RFC별 적합성을 판정하며, 모든 grant로 토큰을 받아 해독·검증하고 브라우저·디바이스 플로우와 동적 클라이언트…">
+<meta property="og:url" content="https://tesign.com/item/oauthcli/">
+<meta property="og:image" content="https://tesign.com/img/oauthcli-b34b7298a3.png">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="oauthcli — OAuth·OIDC 서버가 무엇을 지원하는지 확인하고 RFC 기준으로 검사합니다.">
+<meta name="twitter:description" content="OAuth 서버를 붙일 때는 문서와 실제 동작이 다른 지점을 토큰을 손으로 주고받으며 찾게 됩니다. oauthcli는 인가 서버가 공개한 메타데이터를 읽고 RFC별 적합성을 판정하며, 모든 grant로 토큰을 받아 해독·검증하고 브라우저·디바이스 플로우와 동적 클라이언트…">
+<meta name="twitter:image" content="https://tesign.com/img/oauthcli-b34b7298a3.png">
+<meta property="article:published_time" content="2026-09-14T02:41:59.171Z">
+<meta property="article:modified_time" content="2026-09-14T02:41:59.180Z">
+<meta name="google-site-verification" content="9D1UUTnCcT_ugg2MUf-iWPOaAZE0GJBJCRuUJ7oIGi8">
+<meta name="naver-site-verification" content="55a6063ad92963e29ce4ad0b0134991a6bfcbff9">
+<link rel="stylesheet" href="/assets/fonts/pretendard-1.3.9/pretendardvariable-dynamic-subset.css">
+<link rel="stylesheet" href="/assets/site.css?v=6c415273">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"oauthcli — OAuth·OIDC 서버가 무엇을 지원하는지 확인하고 RFC 기준으로 검사합니다.","description":"OAuth 서버를 붙일 때는 문서와 실제 동작이 다른 지점을 토큰을 손으로 주고받으며 찾게 됩니다. oauthcli는 인가 서버가 공개한 메타데이터를 읽고 RFC별 적합성을 판정하며, 모든 grant로 토큰을 받아 해독·검증하고 브라우저·디바이스 플로우와 동적 클라이언트 등록까지 명령 하나씩으로 돌립니다. 모든 명령에 --format json이 있고 종료 코드가 판정을 담아 에이전트도 같은 도구를 씁니다. Go로 설치하며 명세 원문이 바이너리에 들어 있고, README에 라이선스는 표기돼 있지 않습니다.","mainEntityOfPage":"https://tesign.com/item/oauthcli/","datePublished":"2026-09-14T02:41:59.171Z","dateModified":"2026-09-14T02:41:59.180Z","inLanguage":"ko","author":{"@type":"Organization","name":"TESIGN","url":"https://tesign.com"},"publisher":{"@type":"Organization","name":"TESIGN","url":"https://tesign.com","logo":{"@type":"ImageObject","url":"https://tesign.com/assets/og-logo.0de43341ce.png"}},"image":["https://tesign.com/img/oauthcli-b34b7298a3.png"],"about":{"@type":"Thing","name":"oauthcli","url":"https://github.com/Southclaws/oauthcli"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"TESIGN Radar","item":"https://tesign.com/"},{"@type":"ListItem","position":2,"name":"oauthcli","item":"https://tesign.com/item/oauthcli/"}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6QJYB562CK"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-6QJYB562CK',{anonymize_ip:true});</script>
+<script src="//wcs.naver.net/wcslog.js"></script>
+<script>if(!wcs_add)var wcs_add={};wcs_add["wa"]="1afe72b95063150";if(window.wcs){wcs_do();}</script>
+</head>
+<body class="item-page">
+<a class="skip" href="#main">본문 바로가기</a>
+<header class="site-head">
+  <a class="wordmark" href="/">TESIGN</a>
+  <nav class="site-nav" id="site-nav" aria-label="주 메뉴"><ul class="site-nav__list"><li class="site-nav__item"><a class="site-nav__link" href="/">오늘</a></li><li class="site-nav__item"><a class="site-nav__link" href="/weekly/">주간 베스트</a></li><li class="site-nav__item"><a class="site-nav__link" href="/collections/">컬렉션</a></li><li class="site-nav__item"><a class="site-nav__link" href="/explore/">탐색</a></li><li class="site-nav__item"><a class="site-nav__link" href="/archive/">아카이브</a></li><li class="site-nav__item"><a class="site-nav__link" href="/about/">소개</a></li></ul></nav>
+  <div class="head-tools"><p class="lang"><span aria-current="true">KO</span> · <a href="/en/item/oauthcli/" hreflang="en" lang="en">EN</a></p>
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-open="메뉴" data-close="닫기">메뉴</button></div>
+</header>
+<main id="main"><article class="shell item">
+  <ol class="crumbs"><li><a href="/">TESIGN / RADAR</a></li><li aria-current="page">oauthcli</li></ol>
+  <h1 class="item__name">oauthcli</h1>
+  <p class="item__line">OAuth·OIDC 서버가 무엇을 지원하는지 확인하고 RFC 기준으로 검사합니다.</p>
+  <p class="badges" aria-label="선정 신호와 근거"><span class="badge badge--new">신규 <b>생성 1h 만에 포착</b></span></p>
+  <figure class="plate plate--card"><picture><source type="image/webp" srcset="/img/oauthcli-b34b7298a3-240.webp 240w, /img/oauthcli-b34b7298a3-480.webp 480w, /img/oauthcli-b34b7298a3-800.webp 800w, /img/oauthcli-b34b7298a3-1200.webp 1200w" sizes="(min-width:1280px) 1120px, 100vw"><img src="/img/oauthcli-b34b7298a3-1200.webp" alt="Southclaws/oauthcli 저장소의 GitHub 소셜 카드. 왼쪽에 이름과 한 줄 설명, 오른쪽에 프로필 사진." width="1200" height="600" loading="eager" fetchpriority="high" decoding="async"></picture></figure>
+  <section class="take prose"><h2 class="h-mono">TESIGN TAKE</h2><p>&#39;우리 서버가 표준을 지키나&#39;를 RFC 조항 단위 판정으로 바꿔 줍니다.</p></section>
+  <div class="cta"><a class="btn" href="https://github.com/Southclaws/oauthcli" rel="noopener nofollow ugc" target="_blank">INSTALL<small>설치</small></a><button class="btn btn--ghost" type="button" data-save="oauthcli" data-save-label="SAVE" data-saved-label="SAVED" aria-pressed="false">SAVE</button><button class="btn btn--ghost" type="button" data-share="https://tesign.com/item/oauthcli/" data-url="https://tesign.com/item/oauthcli/" data-title="oauthcli" data-share-label="공유" data-copy-label="링크 복사" data-copied="복사됨" aria-live="polite">공유</button></div>
+  <h2 class="h-mono">한눈에 보는 사실</h2><dl class="glance"><dt>사용 범위</dt><dd>미확인 — 쓰기 전에 살펴보세요.</dd><dt>언어</dt><dd>Go</dd><dt>플랫폼</dt><dd>windows · macos · linux · cli</dd><dt>출처</dt><dd><a href="https://github.com/Southclaws/oauthcli" rel="noopener nofollow ugc" target="_blank">Show HN</a></dd><dt>처음 본 시각</dt><dd><time datetime="2026-09-13T12:59:26.645Z">2026-09-13 12:59 UTC</time></dd><dt>분류</dt><dd>보안 · 개발 도구</dd></dl><p class="license-scope">요약이며 법적 조언이 아닙니다.</p>
+  <div class="prose"><h2 id="why">왜 볼 만한가</h2><p>OAuth 서버를 붙일 때는 문서와 실제 동작이 다른 지점을 토큰을 손으로 주고받으며 찾게 됩니다. oauthcli는 인가 서버가 공개한 메타데이터를 읽고 RFC별 적합성을 판정하며, 모든 grant로 토큰을 받아 해독·검증하고 브라우저·디바이스 플로우와 동적 클라이언트 등록까지 명령 하나씩으로 돌립니다. 모든 명령에 --format json이 있고 종료 코드가 판정을 담아 에이전트도 같은 도구를 씁니다. Go로 설치하며 명세 원문이 바이너리에 들어 있고, README에 라이선스는 표기돼 있지 않습니다.</p>
+    <h2 id="build">이걸로 무엇을 만들 수 있나</h2><ul><li>배포 전에 인가 서버 적합성을 검사하는 CI 단계</li><li>신규 IdP 도입 검토용 RFC 지원 현황 보고서</li><li>에이전트가 토큰을 받아 API를 시험하는 자동화 스킬</li></ul>
+    <section class="who"><h2 id="who">누구에게 맞나</h2><dl><dt>백엔드 개발자</dt><dd>인가 서버 연동에서 어디가 어긋나는지 찾을 때</dd><dt>보안 담당자</dt><dd>사내 IdP의 RFC 적합성을 점검할 때</dd><dt>에이전트 개발자</dt><dd>에이전트에 토큰 발급을 맡길 때</dd></dl></section>
+    <section class="start"><h2 id="start">5분 안에 시작하기</h2><div class="start__body"><pre><code><span class="start__command">$ go install github.com/Southclaws/oauthcli@latest</span>
+<span class="start__command">$ oauthcli discover https://accounts.google.com     # what does this issuer publish and support?</span>
+<span class="start__command">$ oauthcli check https://accounts.google.com        # is it conformant? one verdict per RFC</span>
+<span class="start__comment"># Go 툴체인 필요 · 실행 파일 이름은 oauthcli</span></code></pre><button class="btn btn--ghost start__copy" type="button" data-copy="go install github.com/Southclaws/oauthcli@latest
+oauthcli discover https://accounts.google.com     # what does this issuer publish and support?
+oauthcli check https://accounts.google.com        # is it conformant? one verdict per RFC" data-copied="복사됨" aria-live="polite">복사</button></div></section>
+    <section class="caveat"><h2 id="caveat">주의할 점</h2><ul><li>README에 라이선스가 표기돼 있지 않습니다</li><li>Go 툴체인으로 설치합니다(바이너리 배포는 README에 없음)</li><li>--register 같은 상태를 만드는 검사는 opt-in입니다</li></ul></section>
+    <h2 id="receipt">영수증</h2>
+  </div>
+  <dl class="receipt">
+    <dt>처음 본 시각</dt><dd><time datetime="2026-09-13T12:59:26.645Z">2026-09-13 12:59 UTC</time></dd>
+    <dt>출처 등록</dt><dd><time datetime="2026-09-13T11:53:35.000Z">2026-09-13 11:53 UTC</time></dd>
+    <dt>선정</dt><dd><time datetime="2026-09-14T02:41:59.171Z">2026-09-14 02:41 UTC</time></dd>
+    
+    <dt>생성에서 포착까지</dt><dd>1h</dd>
+    <dt>처음 봤을 때</dt><dd>1 ★</dd>
+    <dt>출처</dt><dd><a href="https://github.com/Southclaws/oauthcli" rel="noopener nofollow ugc" target="_blank">Show HN</a></dd>
+    
+  </dl>
+  <section class="related"><h2 class="h-mono">함께 볼 만한 것</h2><div class="related__tiles"><a class="tile tile--card" href="/item/proton-cli/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/proton-cli-acdf4ec7d8-240.webp 240w, /img/proton-cli-acdf4ec7d8-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/proton-cli-acdf4ec7d8-480.webp" alt="roman-16/proton-cli 저장소의 GitHub 소셜 카드. 왼쪽에 이름과 한 줄 설명, 오른쪽에 프로필 사진." width="1200" height="600" loading="lazy" decoding="async"></picture></span><span class="tile__name">proton-cli</span><span class="tile__line">Proton 메일·드라이브·캘린더·패스·연락처를 터미널에서 다룹니다.</span></a><a class="tile" href="/item/birdview/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/birdview-ae29760b36-240.webp 240w, /img/birdview-ae29760b36-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/birdview-ae29760b36-480.webp" alt="Birdview 활동 화면. 어두운 배경에 세 묶음의 모듈 상자, Task scheduler와 Agent loop가 강조 표시." width="1440" height="900" loading="lazy" decoding="async"></picture></span><span class="tile__name">Birdview</span><span class="tile__line">에이전트가 코드를 고치기 전에 건드릴 모듈을 구조도 위에 먼저 보여 줍니다.</span></a><a class="tile tile--card" href="/item/roamux/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/roamux-b2be828ca3-240.webp 240w, /img/roamux-b2be828ca3-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/roamux-b2be828ca3-480.webp" alt="phyra-research/roamux 저장소의 GitHub 소셜 카드. 왼쪽에 이름과 한 줄 설명, 오른쪽에 남색 원형 로고." width="1200" height="600" loading="lazy" decoding="async"></picture></span><span class="tile__name">roamux</span><span class="tile__line">내 컴퓨터에서 도는 코딩 에이전트를 폰이나 브라우저로 지켜보고 조종합니다.</span></a><a class="tile" href="/item/pdfcn/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/pdfcn-fe0ed112f9-240.webp 240w, /img/pdfcn-fe0ed112f9-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/pdfcn-fe0ed112f9-480.webp" alt="pdfcn 문서 사이트 첫 화면. Beautiful PDFs, made simple 제목 아래 pnpm 설치 명령과 Get Started 버튼." width="2400" height="1260" loading="lazy" decoding="async"></picture></span><span class="tile__name">pdfcn</span><span class="tile__line">복사해 붙이는 React 컴포넌트로 표·청구서·보고서 PDF를 만듭니다.</span></a></div></section>
+  
+  <nav class="pn" aria-label="이전 / 다음"><span><a href="/">← 오늘의 목록으로</a></span><span></span></nav>
+</article></main>
+<footer class="site-foot">
+  <div><p class="wordmark">TESIGN / RADAR</p><p>넓게 모으고, 엄격하게 거르고, 아주 조금만 공개합니다.</p><p>TESIGN Radar는 매일 새로 나오는 SaaS·AI 앱·개발 도구·디자인 실험을 공개 출처에서 넓게 모은 뒤 대부분을 걸러내고, 직접 써보고·설치하고·공유하고·이걸로 무언가 만들어 볼 만한 극소수만 골라 보여주는 큐레이션 서비스입니다.</p></div>
+  <nav aria-label="footer"><ul><li><a href="/">오늘</a></li><li><a href="/weekly/">주간 베스트</a></li><li><a href="/collections/">컬렉션</a></li><li><a href="/explore/">탐색</a></li><li><a href="/archive/">아카이브</a></li><li><a href="/about/">소개</a></li><li><a href="/faq/">FAQ</a></li><li><a href="/llms.txt">llms.txt</a></li><li><a href="/sitemap.xml">sitemap</a></li></ul></nav>
+  <address>tesign · <a href="https://tesign.com">tesign.com</a> · <a href="mailto:hello@tesign.com">hello@tesign.com</a><br><small><a href="/radar/" rel="nofollow" title="로그인">Radar <span class="sr-only">(로그인 필요 · 비공개 관리 화면)</span></a></small></address>
+</footer>
+<script src="/assets/site.js?v=6c415273" defer></script>
+</body>
+</html>

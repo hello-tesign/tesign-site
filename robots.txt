@@ -1,0 +1,62 @@
+User-agent: *
+Disallow: /radar/
+Disallow: /404.html
+Allow: /
+
+User-agent: GPTBot
+Disallow: /radar/
+Allow: /
+
+User-agent: ChatGPT-User
+Disallow: /radar/
+Allow: /
+
+User-agent: OAI-SearchBot
+Disallow: /radar/
+Allow: /
+
+User-agent: ClaudeBot
+Disallow: /radar/
+Allow: /
+
+User-agent: Claude-User
+Disallow: /radar/
+Allow: /
+
+User-agent: Claude-SearchBot
+Disallow: /radar/
+Allow: /
+
+User-agent: anthropic-ai
+Disallow: /radar/
+Allow: /
+
+User-agent: PerplexityBot
+Disallow: /radar/
+Allow: /
+
+User-agent: Google-Extended
+Disallow: /radar/
+Allow: /
+
+User-agent: Applebot-Extended
+Disallow: /radar/
+Allow: /
+
+User-agent: CCBot
+Disallow: /radar/
+Allow: /
+
+User-agent: Bytespider
+Disallow: /radar/
+Allow: /
+
+User-agent: Amazonbot
+Disallow: /radar/
+Allow: /
+
+User-agent: meta-externalagent
+Disallow: /radar/
+Allow: /
+
+Sitemap: https://tesign.com/sitemap.xml

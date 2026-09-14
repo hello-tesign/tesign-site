@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#F4F2EC" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1115" media="(prefers-color-scheme: dark)">
+<title>open-code-review — Reviews code line by line with fixed…</title>
+<meta name="description" content="Rule-only review tools miss a lot; review left to a model alone comes out uneven. open-code-review runs deterministic pipelines alongside an LLM agent…">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://tesign.com/en/item/open-code-review/">
+<link rel="alternate" hreflang="ko" href="https://tesign.com/item/open-code-review/">
+<link rel="alternate" hreflang="en" href="https://tesign.com/en/item/open-code-review/">
+<link rel="alternate" hreflang="x-default" href="https://tesign.com/item/open-code-review/">
+<meta property="og:site_name" content="TESIGN">
+<meta property="og:type" content="article">
+<meta property="og:title" content="open-code-review — Reviews code line by line with fixed…">
+<meta property="og:description" content="Rule-only review tools miss a lot; review left to a model alone comes out uneven. open-code-review runs deterministic pipelines alongside an LLM agent…">
+<meta property="og:url" content="https://tesign.com/en/item/open-code-review/">
+<meta property="og:image" content="https://tesign.com/img/open-code-review-157e8e3de1.png">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="open-code-review — Reviews code line by line with fixed…">
+<meta name="twitter:description" content="Rule-only review tools miss a lot; review left to a model alone comes out uneven. open-code-review runs deterministic pipelines alongside an LLM agent…">
+<meta name="twitter:image" content="https://tesign.com/img/open-code-review-157e8e3de1.png">
+<meta property="article:published_time" content="2026-09-13T11:32:21.881Z">
+<meta property="article:modified_time" content="2026-09-14T02:41:59.266Z">
+<meta name="google-site-verification" content="9D1UUTnCcT_ugg2MUf-iWPOaAZE0GJBJCRuUJ7oIGi8">
+<meta name="naver-site-verification" content="55a6063ad92963e29ce4ad0b0134991a6bfcbff9">
+<link rel="stylesheet" href="/assets/fonts/pretendard-1.3.9/pretendardvariable-dynamic-subset.css">
+<link rel="stylesheet" href="/assets/site.css?v=6c415273">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"open-code-review — Reviews code line by line with fixed rule pipelines plus an LLM agent.","description":"Rule-only review tools miss a lot; review left to a model alone comes out uneven. open-code-review runs deterministic pipelines alongside an LLM agent and leaves line-level comments. It ships a multi-language ruleset covering NPE, thread safety, XSS and SQL injection, and works with both OpenAI and ","mainEntityOfPage":"https://tesign.com/en/item/open-code-review/","datePublished":"2026-09-13T11:32:21.881Z","dateModified":"2026-09-14T02:41:59.266Z","inLanguage":"en","author":{"@type":"Organization","name":"TESIGN","url":"https://tesign.com"},"publisher":{"@type":"Organization","name":"TESIGN","url":"https://tesign.com","logo":{"@type":"ImageObject","url":"https://tesign.com/assets/og-logo.0de43341ce.png"}},"image":["https://tesign.com/img/open-code-review-157e8e3de1.png"],"about":{"@type":"Thing","name":"open-code-review","url":"https://open-codereview.ai/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"TESIGN Radar","item":"https://tesign.com/en/"},{"@type":"ListItem","position":2,"name":"open-code-review","item":"https://tesign.com/en/item/open-code-review/"}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6QJYB562CK"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-6QJYB562CK',{anonymize_ip:true});</script>
+<script src="//wcs.naver.net/wcslog.js"></script>
+<script>if(!wcs_add)var wcs_add={};wcs_add["wa"]="1afe72b95063150";if(window.wcs){wcs_do();}</script>
+</head>
+<body class="item-page">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-head">
+  <a class="wordmark" href="/en/">TESIGN</a>
+  <nav class="site-nav" id="site-nav" aria-label="Main menu"><ul class="site-nav__list"><li class="site-nav__item"><a class="site-nav__link" href="/en/">TODAY</a></li><li class="site-nav__item"><a class="site-nav__link" href="/en/weekly/">WEEKLY BEST</a></li><li class="site-nav__item"><a class="site-nav__link" href="/en/collections/">COLLECTIONS</a></li><li class="site-nav__item"><a class="site-nav__link" href="/en/explore/">EXPLORE</a></li><li class="site-nav__item"><a class="site-nav__link" href="/en/archive/">ARCHIVE</a></li><li class="site-nav__item"><a class="site-nav__link" href="/en/about/">ABOUT</a></li></ul></nav>
+  <div class="head-tools"><p class="lang"><span aria-current="true">EN</span> · <a href="/item/open-code-review/" hreflang="ko" lang="ko">KO</a></p>
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-open="Menu" data-close="Close">Menu</button></div>
+</header>
+<main id="main"><article class="shell item">
+  <ol class="crumbs"><li><a href="/en/">TESIGN / RADAR</a></li><li aria-current="page">open-code-review</li></ol>
+  <h1 class="item__name">open-code-review</h1>
+  <p class="item__line">Reviews code line by line with fixed rule pipelines plus an LLM agent.</p>
+  
+  <div class="gallery"><figure class="plate plate--readme" id="g1" style="--image-max:3200px"><picture><source type="image/webp" srcset="/img/open-code-review-157e8e3de1-240.webp 240w, /img/open-code-review-157e8e3de1-480.webp 480w, /img/open-code-review-157e8e3de1-800.webp 800w, /img/open-code-review-157e8e3de1-1200.webp 1200w" sizes="(min-width:1280px) 1120px, 100vw"><img src="/img/open-code-review-157e8e3de1-1200.webp" alt="The repository&#39;s own benchmark leaderboard: F1, precision, recall, time and tokens per model and review tool, in a dark table." width="2560" height="1836" loading="eager" fetchpriority="high" decoding="async"></picture></figure><figure class="plate plate--readme" id="g2" style="--image-max:1805px"><picture><source type="image/webp" srcset="/img/open-code-review-c53611d9ec-240.webp 240w, /img/open-code-review-c53611d9ec-480.webp 480w, /img/open-code-review-c53611d9ec-800.webp 800w, /img/open-code-review-c53611d9ec-1200.webp 1200w" sizes="(min-width:1280px) 1120px, 100vw"><img src="/img/open-code-review-c53611d9ec-1200.webp" alt="The repository&#39;s own benchmark leaderboard: F1, precision, recall, time and tokens per model and review tool, in a dark table." width="1444" height="884" loading="lazy" decoding="async"></picture></figure><figure class="plate plate--readme" id="g3" style="--image-max:2000px"><picture><source type="image/webp" srcset="/img/open-code-review-1c1b772672-240.webp 240w, /img/open-code-review-1c1b772672-480.webp 480w, /img/open-code-review-1c1b772672-800.webp 800w, /img/open-code-review-1c1b772672-1200.webp 1200w" sizes="(min-width:1280px) 1120px, 100vw"><img src="/img/open-code-review-1c1b772672-1200.webp" alt="The repository&#39;s own benchmark leaderboard: F1, precision, recall, time and tokens per model and review tool, in a dark table." width="1600" height="840" loading="lazy" decoding="async"></picture></figure></div><nav class="gallery__nav" aria-label="The repository&#39;s own benchmark leaderboard: F1, precision, recall, time and tokens per model and review tool, in a dark table."><a href="#g1" aria-label="1 / 3"><picture><source type="image/webp" srcset="/img/open-code-review-157e8e3de1-240.webp 240w" sizes="(min-width:900px) 96px, 72px"><img src="/img/open-code-review-157e8e3de1-240.webp" alt="The repository&#39;s own benchmark leaderboard: F1, precision, recall, time and tokens per model and review tool, in a dark table." width="2560" height="1836" loading="lazy" decoding="async"></picture></a><a href="#g2" aria-label="2 / 3"><picture><source type="image/webp" srcset="/img/open-code-review-c53611d9ec-240.webp 240w" sizes="(min-width:900px) 96px, 72px"><img src="/img/open-code-review-c53611d9ec-240.webp" alt="The repository&#39;s own benchmark leaderboard: F1, precision, recall, time and tokens per model and review tool, in a dark table." width="1444" height="884" loading="lazy" decoding="async"></picture></a><a href="#g3" aria-label="3 / 3"><picture><source type="image/webp" srcset="/img/open-code-review-1c1b772672-240.webp 240w" sizes="(min-width:900px) 96px, 72px"><img src="/img/open-code-review-1c1b772672-240.webp" alt="The repository&#39;s own benchmark leaderboard: F1, precision, recall, time and tokens per model and review tool, in a dark table." width="1600" height="840" loading="lazy" decoding="async"></picture></a></nav>
+  <section class="take prose"><h2 class="h-mono">TESIGN TAKE</h2><p>Splitting deterministic steps from the agent is a convincing answer to reviews that drift off the right line.</p></section>
+  <div class="cta"><a class="btn" href="https://open-codereview.ai/" rel="noopener nofollow ugc" target="_blank">TRY</a><button class="btn btn--ghost" type="button" data-save="open-code-review" data-save-label="SAVE" data-saved-label="SAVED" aria-pressed="false">SAVE</button><button class="btn btn--ghost" type="button" data-share="https://tesign.com/en/item/open-code-review/" data-url="https://tesign.com/en/item/open-code-review/" data-title="open-code-review" data-share-label="SHARE" data-copy-label="COPY LINK" data-copied="COPIED" aria-live="polite">SHARE</button></div>
+  <h2 class="h-mono">AT A GLANCE</h2><dl class="glance"><dt>LICENSE</dt><dd><a href="https://spdx.org/licenses/Apache-2.0.html" rel="noopener" target="_blank">Apache-2.0</a></dd><dt>USAGE</dt><dd>Commercial use, redistribution OK. Keep notices; mark changes.</dd><dt>LANGUAGE</dt><dd>Go</dd><dt>PLATFORM</dt><dd>windows · macos · linux · cli</dd><dt>SOURCES</dt><dd><a href="https://github.com/alibaba/open-code-review" rel="noopener nofollow ugc" target="_blank">GitHub</a></dd><dt>OPEN SOURCE</dt><dd>YES</dd><dt>FIRST SEEN</dt><dd><time datetime="2026-09-13T07:43:26.628Z">2026-09-13 07:43 UTC</time></dd><dt>CATEGORY</dt><dd>DEV TOOLS · SECURITY</dd></dl><p class="license-scope">A summary, not legal advice.</p>
+  <div class="prose"><h2 id="why">WHY IT MATTERS</h2><p>Rule-only review tools miss a lot; review left to a model alone comes out uneven. open-code-review runs deterministic pipelines alongside an LLM agent and leaves line-level comments. It ships a multi-language ruleset covering NPE, thread safety, XSS and SQL injection, and works with both OpenAI and Anthropic models. Alibaba published it under Apache-2.0.</p>
+    <h2 id="build">BUILD FROM THIS</h2><ul><li>An internal review step that runs on every pull request</li><li>A report that looks only at insecure patterns</li><li>A team ruleset extended with your own internal rules</li></ul>
+    <section class="who"><h2 id="who">WHO IT&#39;S FOR</h2><dl><dt>Team lead</dt><dd>adds an automatic review step to CI for every PR</dd><dt>Security owner</dt><dd>checks for XSS and SQL injection patterns regularly</dd><dt>Solo developer</dt><dd>wants a second pair of eyes before merging</dd></dl></section>
+    <section class="start"><h2 id="start">START IN 5 MINUTES</h2><div class="start__body"><pre><code><span class="start__comment"># Needs Git 2.41 or newer</span>
+<span class="start__command">$ npm install -g @alibaba-group/open-code-review</span>
+<span class="start__command">$ ocr config provider</span>
+<span class="start__command">$ ocr config model</span>
+<span class="start__command">$ cd your-project</span>
+<span class="start__command">$ ocr review</span></code></pre><button class="btn btn--ghost start__copy" type="button" data-copy="npm install -g @alibaba-group/open-code-review
+ocr config provider
+ocr config model
+cd your-project
+ocr review" data-copied="COPIED" aria-live="polite">COPY</button></div></section>
+    <section class="caveat"><h2 id="caveat">CAVEATS</h2><ul><li>Needs an LLM provider and API key (except in delegation mode)</li><li>It favours precision and states that recall is lower by design</li><li>Benchmark figures come from the repository&#39;s own dataset</li></ul></section>
+    <h2 id="receipt">RECEIPT</h2>
+  </div>
+  <dl class="receipt">
+    <dt>FIRST SEEN</dt><dd><time datetime="2026-09-13T07:43:26.628Z">2026-09-13 07:43 UTC</time></dd>
+    <dt>AT SOURCE</dt><dd><time datetime="2026-05-18T02:16:36.000Z">2026-05-18 02:16 UTC</time></dd>
+    <dt>KEPT</dt><dd><time datetime="2026-09-13T11:32:21.601Z">2026-09-13 11:32 UTC</time></dd>
+    <dt>STAR DELTA</dt><dd>+79 ★ / 24h</dd>
+    <dt>CREATED → FIRST SEEN</dt><dd>118d</dd>
+    <dt>WHEN FIRST SEEN</dt><dd>22,814 ★</dd>
+    <dt>SOURCES</dt><dd><a href="https://github.com/alibaba/open-code-review" rel="noopener nofollow ugc" target="_blank">GitHub</a></dd>
+    
+  </dl>
+  <section class="related"><h2 class="h-mono">ALSO WORTH SEEING</h2><div class="related__tiles"><a class="tile tile--card" href="/en/item/oauthcli/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/oauthcli-b34b7298a3-240.webp 240w, /img/oauthcli-b34b7298a3-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/oauthcli-b34b7298a3-480.webp" alt="GitHub social card for Southclaws/oauthcli: name and &#39;A command line toolkit for…&#39; description left, avatar right." width="1200" height="600" loading="lazy" decoding="async"></picture></span><span class="tile__name">oauthcli</span><span class="tile__line">Checks what an OAuth or OIDC server supports and audits it against RFCs.</span></a><a class="tile tile--card" href="/en/item/proton-cli/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/proton-cli-acdf4ec7d8-240.webp 240w, /img/proton-cli-acdf4ec7d8-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/proton-cli-acdf4ec7d8-480.webp" alt="GitHub social card for roman-16/proton-cli: name and &#39;Your CLI for Proton Mail…&#39; description left, avatar right." width="1200" height="600" loading="lazy" decoding="async"></picture></span><span class="tile__name">proton-cli</span><span class="tile__line">Runs Proton Mail, Drive, Calendar, Pass and Contacts from the terminal.</span></a><a class="tile" href="/en/item/birdview/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/birdview-ae29760b36-240.webp 240w, /img/birdview-ae29760b36-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/birdview-ae29760b36-480.webp" alt="Birdview activity view: module boxes in three groups on a dark canvas, with Task scheduler and Agent loop highlighted." width="1440" height="900" loading="lazy" decoding="async"></picture></span><span class="tile__name">Birdview</span><span class="tile__line">Maps which modules an agent will touch before it edits a line.</span></a><a class="tile" href="/en/item/design-studio-ai/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/design-studio-ai-c602c052ed-240.webp 240w, /img/design-studio-ai-c602c052ed-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/design-studio-ai-c602c052ed-480.webp" alt="Design Studio AI workspace: a &#39;What should we create?&#39; prompt box in the centre, six starter templates below." width="1836" height="1135" loading="lazy" decoding="async"></picture></span><span class="tile__name">Design Studio AI</span><span class="tile__line">Lets people and agents edit the same web, slide, 3D and video designs.</span></a></div></section>
+  
+  <nav class="pn" aria-label="PREV / NEXT"><span><a href="/en/">← BACK TO TODAY&#39;S LIST</a></span><span></span></nav>
+</article></main>
+<footer class="site-foot">
+  <div><p class="wordmark">TESIGN / RADAR</p><p>Collect broadly. Reject aggressively. Publish sparingly.</p><p>TESIGN Radar collects newly released SaaS, AI apps, developer tools and design experiments from public sources every day, rejects most of them, and publishes only the few worth trying, installing, sharing or building from.</p></div>
+  <nav aria-label="footer"><ul><li><a href="/en/">TODAY</a></li><li><a href="/en/weekly/">WEEKLY BEST</a></li><li><a href="/en/collections/">COLLECTIONS</a></li><li><a href="/en/explore/">EXPLORE</a></li><li><a href="/en/archive/">ARCHIVE</a></li><li><a href="/en/about/">ABOUT</a></li><li><a href="/en/faq/">FAQ</a></li><li><a href="/llms.txt">llms.txt</a></li><li><a href="/sitemap.xml">sitemap</a></li></ul></nav>
+  <address>tesign · <a href="https://tesign.com">tesign.com</a> · <a href="mailto:hello@tesign.com">hello@tesign.com</a><br><small><a href="/radar/" rel="nofollow" title="LOGIN">Radar <span class="sr-only">(Login required · private console)</span></a></small></address>
+</footer>
+<script src="/assets/site.js?v=6c415273" defer></script>
+</body>
+</html>

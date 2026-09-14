@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#F4F2EC" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1115" media="(prefers-color-scheme: dark)">
+<title>YuE2 — 곡을 만들고, 기존 곡을 다시 부르게 하고, 부분만 고칩니다.</title>
+<meta name="description" content="음악 생성 도구는 한 번 뽑고 나면 일부만 고치기가 어렵습니다. YuE2는 곡 구조를 기호로 먼저 계획한 다음 생성하고, 제로샷 커버와 에이전트 방식 편집까지 같은 흐름 안에 둡니다. Python으로 쓰였고 Apache-2.0으로 공개돼 있으며 데모 페이지가 따로 있습니다.…">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+<link rel="canonical" href="https://tesign.com/item/yue/">
+<link rel="alternate" hreflang="ko" href="https://tesign.com/item/yue/">
+<link rel="alternate" hreflang="en" href="https://tesign.com/en/item/yue/">
+<link rel="alternate" hreflang="x-default" href="https://tesign.com/item/yue/">
+<meta property="og:site_name" content="TESIGN">
+<meta property="og:type" content="article">
+<meta property="og:title" content="YuE2 — 곡을 만들고, 기존 곡을 다시 부르게 하고, 부분만 고칩니다.">
+<meta property="og:description" content="음악 생성 도구는 한 번 뽑고 나면 일부만 고치기가 어렵습니다. YuE2는 곡 구조를 기호로 먼저 계획한 다음 생성하고, 제로샷 커버와 에이전트 방식 편집까지 같은 흐름 안에 둡니다. Python으로 쓰였고 Apache-2.0으로 공개돼 있으며 데모 페이지가 따로 있습니다.…">
+<meta property="og:url" content="https://tesign.com/item/yue/">
+<meta property="og:image" content="https://tesign.com/img/yue-9a684df443.png">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="YuE2 — 곡을 만들고, 기존 곡을 다시 부르게 하고, 부분만 고칩니다.">
+<meta name="twitter:description" content="음악 생성 도구는 한 번 뽑고 나면 일부만 고치기가 어렵습니다. YuE2는 곡 구조를 기호로 먼저 계획한 다음 생성하고, 제로샷 커버와 에이전트 방식 편집까지 같은 흐름 안에 둡니다. Python으로 쓰였고 Apache-2.0으로 공개돼 있으며 데모 페이지가 따로 있습니다.…">
+<meta name="twitter:image" content="https://tesign.com/img/yue-9a684df443.png">
+<meta property="article:published_time" content="2026-09-13T11:32:21.881Z">
+<meta property="article:modified_time" content="2026-09-14T02:41:59.304Z">
+<meta name="google-site-verification" content="9D1UUTnCcT_ugg2MUf-iWPOaAZE0GJBJCRuUJ7oIGi8">
+<meta name="naver-site-verification" content="55a6063ad92963e29ce4ad0b0134991a6bfcbff9">
+<link rel="stylesheet" href="/assets/fonts/pretendard-1.3.9/pretendardvariable-dynamic-subset.css">
+<link rel="stylesheet" href="/assets/site.css?v=6c415273">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"YuE2 — 곡을 만들고, 기존 곡을 다시 부르게 하고, 부분만 고칩니다.","description":"음악 생성 도구는 한 번 뽑고 나면 일부만 고치기가 어렵습니다. YuE2는 곡 구조를 기호로 먼저 계획한 다음 생성하고, 제로샷 커버와 에이전트 방식 편집까지 같은 흐름 안에 둡니다. Python으로 쓰였고 Apache-2.0으로 공개돼 있으며 데모 페이지가 따로 있습니다. 직접 돌리는 모델이라 실행 환경은 준비해야 합니다.","mainEntityOfPage":"https://tesign.com/item/yue/","datePublished":"2026-09-13T11:32:21.881Z","dateModified":"2026-09-14T02:41:59.304Z","inLanguage":"ko","author":{"@type":"Organization","name":"TESIGN","url":"https://tesign.com"},"publisher":{"@type":"Organization","name":"TESIGN","url":"https://tesign.com","logo":{"@type":"ImageObject","url":"https://tesign.com/assets/og-logo.0de43341ce.png"}},"image":["https://tesign.com/img/yue-9a684df443.png"],"about":{"@type":"Thing","name":"YuE2","url":"https://map-yue2.github.io/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"TESIGN Radar","item":"https://tesign.com/"},{"@type":"ListItem","position":2,"name":"YuE2","item":"https://tesign.com/item/yue/"}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6QJYB562CK"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-6QJYB562CK',{anonymize_ip:true});</script>
+<script src="//wcs.naver.net/wcslog.js"></script>
+<script>if(!wcs_add)var wcs_add={};wcs_add["wa"]="1afe72b95063150";if(window.wcs){wcs_do();}</script>
+</head>
+<body class="item-page">
+<a class="skip" href="#main">본문 바로가기</a>
+<header class="site-head">
+  <a class="wordmark" href="/">TESIGN</a>
+  <nav class="site-nav" id="site-nav" aria-label="주 메뉴"><ul class="site-nav__list"><li class="site-nav__item"><a class="site-nav__link" href="/">오늘</a></li><li class="site-nav__item"><a class="site-nav__link" href="/weekly/">주간 베스트</a></li><li class="site-nav__item"><a class="site-nav__link" href="/collections/">컬렉션</a></li><li class="site-nav__item"><a class="site-nav__link" href="/explore/">탐색</a></li><li class="site-nav__item"><a class="site-nav__link" href="/archive/">아카이브</a></li><li class="site-nav__item"><a class="site-nav__link" href="/about/">소개</a></li></ul></nav>
+  <div class="head-tools"><p class="lang"><span aria-current="true">KO</span> · <a href="/en/item/yue/" hreflang="en" lang="en">EN</a></p>
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-open="메뉴" data-close="닫기">메뉴</button></div>
+</header>
+<main id="main"><article class="shell item">
+  <ol class="crumbs"><li><a href="/">TESIGN / RADAR</a></li><li aria-current="page">YuE2</li></ol>
+  <h1 class="item__name">YuE2</h1>
+  <p class="item__line">곡을 만들고, 기존 곡을 다시 부르게 하고, 부분만 고칩니다.</p>
+  
+  <div class="gallery"><figure class="plate" id="g1"><picture><source type="image/webp" srcset="/img/yue-9a684df443-240.webp 240w, /img/yue-9a684df443-480.webp 480w, /img/yue-9a684df443-800.webp 800w, /img/yue-9a684df443-1200.webp 1200w" sizes="(min-width:1280px) 1120px, 100vw"><img src="/img/yue-9a684df443-1200.webp" alt="YuE2 데모 사이트. &#39;Music, with a plan.&#39; 헤드라인, 모델·벤치마크 링크 상자, 하단 오디오 플레이어." width="2400" height="1260" loading="eager" fetchpriority="high" decoding="async"></picture></figure><figure class="plate" id="g2"><picture><source type="image/webp" srcset="/img/yue-53526f32ce-240.webp 240w, /img/yue-53526f32ce-480.webp 480w, /img/yue-53526f32ce-800.webp 800w, /img/yue-53526f32ce-1200.webp 1200w" sizes="(min-width:1280px) 1120px, 100vw"><img src="/img/yue-53526f32ce-1200.webp" alt="YuE2 데모 사이트. &#39;Music, with a plan.&#39; 헤드라인, 모델·벤치마크 링크 상자, 하단 오디오 플레이어." width="2352" height="1191" loading="lazy" decoding="async"></picture></figure></div><nav class="gallery__nav" aria-label="YuE2 데모 사이트. &#39;Music, with a plan.&#39; 헤드라인, 모델·벤치마크 링크 상자, 하단 오디오 플레이어."><a href="#g1" aria-label="1 / 2"><picture><source type="image/webp" srcset="/img/yue-9a684df443-240.webp 240w" sizes="(min-width:900px) 96px, 72px"><img src="/img/yue-9a684df443-240.webp" alt="YuE2 데모 사이트. &#39;Music, with a plan.&#39; 헤드라인, 모델·벤치마크 링크 상자, 하단 오디오 플레이어." width="2400" height="1260" loading="lazy" decoding="async"></picture></a><a href="#g2" aria-label="2 / 2"><picture><source type="image/webp" srcset="/img/yue-53526f32ce-240.webp 240w" sizes="(min-width:900px) 96px, 72px"><img src="/img/yue-53526f32ce-240.webp" alt="YuE2 데모 사이트. &#39;Music, with a plan.&#39; 헤드라인, 모델·벤치마크 링크 상자, 하단 오디오 플레이어." width="2352" height="1191" loading="lazy" decoding="async"></picture></a></nav>
+  <section class="take prose"><h2 class="h-mono">TESIGN TAKE</h2><p>곡을 먼저 악보로 계획하고 그 악보를 고쳐 다시 만들 수 있다는 점이, 뽑고 끝나는 생성기와 다릅니다.</p></section>
+  <div class="cta"><a class="btn" href="https://map-yue2.github.io/" rel="noopener nofollow ugc" target="_blank">RUN<small>실행</small></a><button class="btn btn--ghost" type="button" data-save="yue" data-save-label="SAVE" data-saved-label="SAVED" aria-pressed="false">SAVE</button><button class="btn btn--ghost" type="button" data-share="https://tesign.com/item/yue/" data-url="https://tesign.com/item/yue/" data-title="YuE2" data-share-label="공유" data-copy-label="링크 복사" data-copied="복사됨" aria-live="polite">공유</button></div>
+  <h2 class="h-mono">한눈에 보는 사실</h2><dl class="glance"><dt>라이선스</dt><dd><a href="https://spdx.org/licenses/Apache-2.0.html" rel="noopener" target="_blank">Apache-2.0</a></dd><dt>사용 범위</dt><dd>상업 이용·수정·재배포 가능. 고지 유지, 바꾼 부분은 표시.</dd><dt>언어</dt><dd>Python</dd><dt>플랫폼</dt><dd>linux</dd><dt>출처</dt><dd><a href="https://github.com/multimodal-art-projection/yue" rel="noopener nofollow ugc" target="_blank">GitHub</a></dd><dt>오픈소스</dt><dd>예</dd><dt>처음 본 시각</dt><dd><time datetime="2026-09-13T07:43:26.628Z">2026-09-13 07:43 UTC</time></dd><dt>분류</dt><dd>AI · 미디어</dd></dl><p class="license-scope">요약이며 법적 조언이 아닙니다.</p>
+  <div class="prose"><h2 id="why">왜 볼 만한가</h2><p>음악 생성 도구는 한 번 뽑고 나면 일부만 고치기가 어렵습니다. YuE2는 곡 구조를 기호로 먼저 계획한 다음 생성하고, 제로샷 커버와 에이전트 방식 편집까지 같은 흐름 안에 둡니다. Python으로 쓰였고 Apache-2.0으로 공개돼 있으며 데모 페이지가 따로 있습니다. 직접 돌리는 모델이라 실행 환경은 준비해야 합니다.</p>
+    <h2 id="build">이걸로 무엇을 만들 수 있나</h2><ul><li>영상에 붙일 배경 음악을 직접 만드는 제작 라인</li><li>기존 곡을 다른 목소리로 다시 부르게 하는 실험</li></ul>
+    <section class="who"><h2 id="who">누구에게 맞나</h2><dl><dt>영상 제작자</dt><dd>배경 음악을 직접 만들어 쓰고 싶을 때(비상업 한정)</dd><dt>음악 연구자</dt><dd>기호 계획과 오디오 생성을 함께 다룰 때</dd><dt>ML 엔지니어</dt><dd>GPU 서버에서 음악 모델을 돌려 볼 때</dd></dl></section>
+    <section class="start"><h2 id="start">5분 안에 시작하기</h2><div class="start__body"><pre><code><span class="start__command">$ git clone https://github.com/multimodal-art-projection/YuE.git</span>
+<span class="start__command">$ cd YuE</span>
+<span class="start__command">$ python3.12 -m venv .venv</span>
+<span class="start__command">$ source .venv/bin/activate</span>
+<span class="start__command">$ python -m pip install .</span>
+<span class="start__command">$ python examples/generate.py --output outputs/first-song</span></code></pre><button class="btn btn--ghost start__copy" type="button" data-copy="git clone https://github.com/multimodal-art-projection/YuE.git
+cd YuE
+python3.12 -m venv .venv
+source .venv/bin/activate
+python -m pip install .
+python examples/generate.py --output outputs/first-song" data-copied="복사됨" aria-live="polite">복사</button></div></section>
+    <section class="caveat"><h2 id="caveat">주의할 점</h2><ul><li>Linux·Python 3.12·NVIDIA GPU(VRAM 24 GB)가 필요합니다</li><li>코드는 Apache-2.0이지만 모델 가중치는 CC BY-NC 4.0(비상업)입니다</li><li>첫 실행 때 Hugging Face에서 모델 파일을 내려받습니다</li></ul></section>
+    <h2 id="receipt">영수증</h2>
+  </div>
+  <dl class="receipt">
+    <dt>처음 본 시각</dt><dd><time datetime="2026-09-13T07:43:26.628Z">2026-09-13 07:43 UTC</time></dd>
+    <dt>출처 등록</dt><dd><time datetime="2025-01-23T06:21:58.000Z">2025-01-23 06:21 UTC</time></dd>
+    <dt>선정</dt><dd><time datetime="2026-09-13T11:32:21.681Z">2026-09-13 11:32 UTC</time></dd>
+    <dt>스타 변화</dt><dd>+45 ★ / 24h</dd>
+    <dt>생성에서 포착까지</dt><dd>598d</dd>
+    <dt>처음 봤을 때</dt><dd>7,449 ★</dd>
+    <dt>출처</dt><dd><a href="https://github.com/multimodal-art-projection/yue" rel="noopener nofollow ugc" target="_blank">GitHub</a></dd>
+    
+  </dl>
+  <section class="related"><h2 class="h-mono">함께 볼 만한 것</h2><div class="related__tiles"><a class="tile" href="/item/birdview/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/birdview-ae29760b36-240.webp 240w, /img/birdview-ae29760b36-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/birdview-ae29760b36-480.webp" alt="Birdview 활동 화면. 어두운 배경에 세 묶음의 모듈 상자, Task scheduler와 Agent loop가 강조 표시." width="1440" height="900" loading="lazy" decoding="async"></picture></span><span class="tile__name">Birdview</span><span class="tile__line">에이전트가 코드를 고치기 전에 건드릴 모듈을 구조도 위에 먼저 보여 줍니다.</span></a><a class="tile" href="/item/design-studio-ai/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/design-studio-ai-c602c052ed-240.webp 240w, /img/design-studio-ai-c602c052ed-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/design-studio-ai-c602c052ed-480.webp" alt="Design Studio AI 작업 공간. 가운데에 What should we create? 입력창, 아래에 템플릿 여섯 종." width="1836" height="1135" loading="lazy" decoding="async"></picture></span><span class="tile__name">Design Studio AI</span><span class="tile__line">사람과 에이전트가 같은 문서에서 웹·슬라이드·3D·영상을 함께 만듭니다.</span></a><a class="tile tile--card" href="/item/roamux/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/roamux-b2be828ca3-240.webp 240w, /img/roamux-b2be828ca3-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/roamux-b2be828ca3-480.webp" alt="phyra-research/roamux 저장소의 GitHub 소셜 카드. 왼쪽에 이름과 한 줄 설명, 오른쪽에 남색 원형 로고." width="1200" height="600" loading="lazy" decoding="async"></picture></span><span class="tile__name">roamux</span><span class="tile__line">내 컴퓨터에서 도는 코딩 에이전트를 폰이나 브라우저로 지켜보고 조종합니다.</span></a><a class="tile tile--card" href="/item/viserys-agent/"><span class="tile__image"><picture><source type="image/webp" srcset="/img/viserys-agent-221696f1a3-240.webp 240w, /img/viserys-agent-221696f1a3-480.webp 480w" sizes="(min-width:900px) 220px, 200px"><img src="/img/viserys-agent-221696f1a3-480.webp" alt="rizqinrr/viserys-agent 저장소의 GitHub 소셜 카드. 왼쪽에 저장소 이름, 오른쪽에 보라색 로봇 일러스트." width="1200" height="600" loading="lazy" decoding="async"></picture></span><span class="tile__name">Viserys</span><span class="tile__line">코딩 에이전트에 정의부터 배포까지 정해진 작업 절차를 스킬로 입힙니다.</span></a></div></section>
+  
+  <nav class="pn" aria-label="이전 / 다음"><span><a href="/">← 오늘의 목록으로</a></span><span></span></nav>
+</article></main>
+<footer class="site-foot">
+  <div><p class="wordmark">TESIGN / RADAR</p><p>넓게 모으고, 엄격하게 거르고, 아주 조금만 공개합니다.</p><p>TESIGN Radar는 매일 새로 나오는 SaaS·AI 앱·개발 도구·디자인 실험을 공개 출처에서 넓게 모은 뒤 대부분을 걸러내고, 직접 써보고·설치하고·공유하고·이걸로 무언가 만들어 볼 만한 극소수만 골라 보여주는 큐레이션 서비스입니다.</p></div>
+  <nav aria-label="footer"><ul><li><a href="/">오늘</a></li><li><a href="/weekly/">주간 베스트</a></li><li><a href="/collections/">컬렉션</a></li><li><a href="/explore/">탐색</a></li><li><a href="/archive/">아카이브</a></li><li><a href="/about/">소개</a></li><li><a href="/faq/">FAQ</a></li><li><a href="/llms.txt">llms.txt</a></li><li><a href="/sitemap.xml">sitemap</a></li></ul></nav>
+  <address>tesign · <a href="https://tesign.com">tesign.com</a> · <a href="mailto:hello@tesign.com">hello@tesign.com</a><br><small><a href="/radar/" rel="nofollow" title="로그인">Radar <span class="sr-only">(로그인 필요 · 비공개 관리 화면)</span></a></small></address>
+</footer>
+<script src="/assets/site.js?v=6c415273" defer></script>
+</body>
+</html>
