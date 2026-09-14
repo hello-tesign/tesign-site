@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>TESIGN Radar · 7일 급상승</title><link>https://tesign.com/rising/</link><description>AI chooses the lists under the owner’s delegation. No human review is running in September 2026. Total stars, increases, cross-source signals, last updates and licences are shown as evidence.</description><language>ko</language><lastBuildDate>Mon, 14 Sep 2026 10:33:34 GMT</lastBuildDate>
+<rss version="2.0"><channel><title>TESIGN Radar · 7일 급상승</title><link>https://tesign.com/rising/</link><description>AI chooses the lists under the owner’s delegation. No human review is running in September 2026. Total stars, increases, cross-source signals, last updates and licences are shown as evidence.</description><language>ko</language><lastBuildDate>Mon, 14 Sep 2026 13:49:30 GMT</lastBuildDate>
 <item><title>gods-eye-view</title><link>https://tesign.com/item/gods-eye-view/</link><guid isPermaLink="true">https://tesign.com/item/gods-eye-view/</guid><description>실제 위성과 항공기 위치를 브라우저 3D 지구본 위에 띄웁니다.
 gods-eye-view: Puts real satellite and flight tracks on a 3D globe in your browser.
 ★ 30.7k · ▲ +2,208 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
@@ -15,7 +15,7 @@ VoiceStudio: Clones voices, dubs video and transcribes audio on your own machine
 <item><title>ponytail</title><link>https://tesign.com/item/ponytail/</link><guid isPermaLink="true">https://tesign.com/item/ponytail/</guid><description>에이전트가 코드를 쓰기 전에 안 써도 되는지 먼저 따지게 합니다.
 ponytail: Makes a coding agent ask whether the code needs writing at all.
 ★ 137k · ▲ +860 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>skills</title><link>https://github.com/mattpocock/skills</link><guid isPermaLink="true">https://github.com/mattpocock/skills</guid><description>Skills for Real Engineers. Straight from my .agents directory.
+<item><title>skills</title><link>https://tesign.com/repo/mattpocock/skills/</link><guid isPermaLink="false">https://github.com/mattpocock/skills</guid><description>Skills for Real Engineers. Straight from my .agents directory.
 skills: Skills for Real Engineers. Straight from my .agents directory.
 ★ 261k · ▲ +708 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
 <item><title>diagram-design</title><link>https://tesign.com/item/diagram-design/</link><guid isPermaLink="true">https://tesign.com/item/diagram-design/</guid><description>편집 디자인 관점의 도형 38종을 HTML·SVG로 만들어 줍니다.
@@ -24,7 +24,7 @@ diagram-design: Draws 38 editorial diagram types as self-contained HTML and SVG.
 <item><title>colibri</title><link>https://tesign.com/item/colibri/</link><guid isPermaLink="true">https://tesign.com/item/colibri/</guid><description>큰 MoE 모델을 지금 가진 컴퓨터에서 돌립니다.
 colibri: Runs frontier MoE models on hardware you already own.
 ★ 28.9k · ▲ +497 / 7d · ▲ 937 HN · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>spec-kit</title><link>https://github.com/github/spec-kit</link><guid isPermaLink="true">https://github.com/github/spec-kit</guid><description>💫 Toolkit to help you get started with Spec-Driven Development
+<item><title>spec-kit</title><link>https://tesign.com/repo/github/spec-kit/</link><guid isPermaLink="false">https://github.com/github/spec-kit</guid><description>💫 Toolkit to help you get started with Spec-Driven Development
 spec-kit: 💫 Toolkit to help you get started with Spec-Driven Development
 ★ 136k · ▲ +495 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
 <item><title>SoL-Pi</title><link>https://tesign.com/item/sol-pi/</link><guid isPermaLink="true">https://tesign.com/item/sol-pi/</guid><description>에이전트 하네스를 자동 연구 루프로 돌려 가며 다듬습니다.
@@ -42,34 +42,34 @@ humanizer: Strips the tells of AI-generated writing out of a draft.
 <item><title>OpenMontage</title><link>https://tesign.com/item/openmontage/</link><guid isPermaLink="true">https://tesign.com/item/openmontage/</guid><description>코딩 도구에 붙여 영상 제작 공정을 통째로 돌립니다.
 OpenMontage: Turns a coding assistant into a full video production pipeline.
 ★ 58.1k · ▲ +319 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>arcbox</title><link>https://github.com/arcboxlabs/arcbox</link><guid isPermaLink="true">https://github.com/arcboxlabs/arcbox</guid><description>Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.
+<item><title>arcbox</title><link>https://tesign.com/repo/arcboxlabs/arcbox/</link><guid isPermaLink="false">https://github.com/arcboxlabs/arcbox</guid><description>Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.
 arcbox: Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.
 ★ 5.6k · ▲ +319 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
 <item><title>Hermes Agent</title><link>https://tesign.com/item/hermes-agent/</link><guid isPermaLink="true">https://tesign.com/item/hermes-agent/</guid><description>쓰는 사람에 맞춰 계속 자라는 에이전트를 띄웁니다.
 Hermes Agent: Runs an agent meant to grow with the person using it.
 ★ 245k · ▲ +305 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>cloddsbot</title><link>https://github.com/alsk1992/cloddsbot</link><guid isPermaLink="true">https://github.com/alsk1992/cloddsbot</guid><description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+<item><title>cloddsbot</title><link>https://tesign.com/repo/alsk1992/cloddsbot/</link><guid isPermaLink="false">https://github.com/alsk1992/cloddsbot</guid><description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
 cloddsbot: Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
 ★ 2.6k · ▲ +304 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
 <item><title>DeskComm CRM</title><link>https://tesign.com/item/deskcommcrm/</link><guid isPermaLink="true">https://tesign.com/item/deskcommcrm/</guid><description>채팅으로 파는 영업을 CRM과 AI 상담으로 묶어 운영합니다.
 DeskComm CRM: Runs a self-hosted CRM with built-in AI agents and WhatsApp chat.
 ★ 2k · ▲ +290 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>firecrawl</title><link>https://github.com/firecrawl/firecrawl</link><guid isPermaLink="true">https://github.com/firecrawl/firecrawl</guid><description>The context API to search, scrape, and interact with the web at scale. 🔥
+<item><title>firecrawl</title><link>https://tesign.com/repo/firecrawl/firecrawl/</link><guid isPermaLink="false">https://github.com/firecrawl/firecrawl</guid><description>The context API to search, scrape, and interact with the web at scale. 🔥
 firecrawl: The context API to search, scrape, and interact with the web at scale. 🔥
 ★ 180k · ▲ +290 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>hyperresearch</title><link>https://github.com/jordan-gibbs/hyperresearch</link><guid isPermaLink="true">https://github.com/jordan-gibbs/hyperresearch</guid><description>Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
+<item><title>hyperresearch</title><link>https://tesign.com/repo/jordan-gibbs/hyperresearch/</link><guid isPermaLink="false">https://github.com/jordan-gibbs/hyperresearch</guid><description>Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
 hyperresearch: Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
 ★ 3.1k · ▲ +283 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>dsh-desktop</title><link>https://github.com/dataelement/dsh-desktop</link><guid isPermaLink="true">https://github.com/dataelement/dsh-desktop</guid><description>DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
+<item><title>dsh-desktop</title><link>https://tesign.com/repo/dataelement/dsh-desktop/</link><guid isPermaLink="false">https://github.com/dataelement/dsh-desktop</guid><description>DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 dsh-desktop: DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 ★ 5.9k · ▲ +273 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>codex-auth-helper</title><link>https://github.com/zhishile/codex-auth-helper</link><guid isPermaLink="true">https://github.com/zhishile/codex-auth-helper</guid><description>Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。
+<item><title>codex-auth-helper</title><link>https://tesign.com/repo/zhishile/codex-auth-helper/</link><guid isPermaLink="false">https://github.com/zhishile/codex-auth-helper</guid><description>Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。
 codex-auth-helper: Codex登陆助手：安全地在本地导出您的已登录 ChatGPT 会话配置，生成符合 Codex 规范的 auth.json 本地备份文件。
 ★ 14.7k · ▲ +252 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>no-ai-slop</title><link>https://github.com/petergyang/no-ai-slop</link><guid isPermaLink="true">https://github.com/petergyang/no-ai-slop</guid><description>Removes 20+ patterns of AI slop from any piece of writing.
+<item><title>no-ai-slop</title><link>https://tesign.com/repo/petergyang/no-ai-slop/</link><guid isPermaLink="false">https://github.com/petergyang/no-ai-slop</guid><description>Removes 20+ patterns of AI slop from any piece of writing.
 no-ai-slop: Removes 20+ patterns of AI slop from any piece of writing.
 ★ 8.9k · ▲ +248 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>vscode</title><link>https://github.com/microsoft/vscode</link><guid isPermaLink="true">https://github.com/microsoft/vscode</guid><description>Visual Studio Code
+<item><title>vscode</title><link>https://tesign.com/repo/microsoft/vscode/</link><guid isPermaLink="false">https://github.com/microsoft/vscode</guid><description>Visual Studio Code
 vscode: Visual Studio Code
 ★ 192k · ▲ +247 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
 <item><title>YuE2</title><link>https://tesign.com/item/yue/</link><guid isPermaLink="true">https://tesign.com/item/yue/</guid><description>곡을 만들고, 기존 곡을 다시 부르게 하고, 부분만 고칩니다.
@@ -78,37 +78,37 @@ YuE2: Generates music, makes zero-shot covers and edits parts of a track.
 <item><title>OpenResearch</title><link>https://tesign.com/item/openresearch/</link><guid isPermaLink="true">https://tesign.com/item/openresearch/</guid><description>조사 에이전트 여러 개를 원하는 모델로 동시에 돌립니다.
 OpenResearch: Runs several research agents in parallel on any model you choose.
 ★ 1.8k · ▲ +234 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>tradingagents</title><link>https://github.com/tauricresearch/tradingagents</link><guid isPermaLink="true">https://github.com/tauricresearch/tradingagents</guid><description>TradingAgents: Multi-Agents LLM Financial Trading Framework
+<item><title>tradingagents</title><link>https://tesign.com/repo/tauricresearch/tradingagents/</link><guid isPermaLink="false">https://github.com/tauricresearch/tradingagents</guid><description>TradingAgents: Multi-Agents LLM Financial Trading Framework
 tradingagents: TradingAgents: Multi-Agents LLM Financial Trading Framework
 ★ 105k · ▲ +225 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>kubernetes</title><link>https://github.com/kubernetes/kubernetes</link><guid isPermaLink="true">https://github.com/kubernetes/kubernetes</guid><description>Production-Grade Container Scheduling and Management
+<item><title>kubernetes</title><link>https://tesign.com/repo/kubernetes/kubernetes/</link><guid isPermaLink="false">https://github.com/kubernetes/kubernetes</guid><description>Production-Grade Container Scheduling and Management
 kubernetes: Production-Grade Container Scheduling and Management
 ★ 128k · ▲ +222 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>wand-enhancer</title><link>https://github.com/k1tbyte/wand-enhancer</link><guid isPermaLink="true">https://github.com/k1tbyte/wand-enhancer</guid><description>Advanced UX and interoperability extension for Wand (WeMod) app
+<item><title>wand-enhancer</title><link>https://tesign.com/repo/k1tbyte/wand-enhancer/</link><guid isPermaLink="false">https://github.com/k1tbyte/wand-enhancer</guid><description>Advanced UX and interoperability extension for Wand (WeMod) app
 wand-enhancer: Advanced UX and interoperability extension for Wand (WeMod) app
 ★ 27k · ▲ +209 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>webcmd</title><link>https://github.com/agentrhq/webcmd</link><guid isPermaLink="true">https://github.com/agentrhq/webcmd</guid><description>Self-learning agent browser
+<item><title>webcmd</title><link>https://tesign.com/repo/agentrhq/webcmd/</link><guid isPermaLink="false">https://github.com/agentrhq/webcmd</guid><description>Self-learning agent browser
 webcmd: Self-learning agent browser
 ★ 2.2k · ▲ +207 / 7d · ▲ 2 HN · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>experiential</title><link>https://github.com/experientiallabs/experiential</link><guid isPermaLink="true">https://github.com/experientiallabs/experiential</guid><description>Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
+<item><title>experiential</title><link>https://tesign.com/repo/experientiallabs/experiential/</link><guid isPermaLink="false">https://github.com/experientiallabs/experiential</guid><description>Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
 experiential: Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
 ★ 4.7k · ▲ +205 / 7d · ▲ 222 HN · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>omarchy</title><link>https://github.com/omacom/omarchy</link><guid isPermaLink="true">https://github.com/omacom/omarchy</guid><description>Beautiful, Modern &amp; Opinionated Linux
+<item><title>omarchy</title><link>https://tesign.com/repo/omacom/omarchy/</link><guid isPermaLink="false">https://github.com/omacom/omarchy</guid><description>Beautiful, Modern &amp; Opinionated Linux
 omarchy: Beautiful, Modern &amp; Opinionated Linux
 ★ 40.7k · ▲ +204 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>editor</title><link>https://github.com/pascalorg/editor</link><guid isPermaLink="true">https://github.com/pascalorg/editor</guid><description>Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
+<item><title>editor</title><link>https://tesign.com/repo/pascalorg/editor/</link><guid isPermaLink="false">https://github.com/pascalorg/editor</guid><description>Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 editor: Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
 ★ 23.9k · ▲ +204 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>ui-ux-pro-max-skill</title><link>https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</link><guid isPermaLink="true">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid><description>An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+<item><title>ui-ux-pro-max-skill</title><link>https://tesign.com/repo/nextlevelbuilder/ui-ux-pro-max-skill/</link><guid isPermaLink="false">https://github.com/nextlevelbuilder/ui-ux-pro-max-skill</guid><description>An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 ui-ux-pro-max-skill: An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 ★ 127k · ▲ +200 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>recurrent-looped-tranformer</title><link>https://github.com/yifanzhang-pro/recurrent-looped-tranformer</link><guid isPermaLink="true">https://github.com/yifanzhang-pro/recurrent-looped-tranformer</guid><description>Official Project Page for Recurrent Looped Transformer (RLT)
+<item><title>recurrent-looped-tranformer</title><link>https://tesign.com/repo/yifanzhang-pro/recurrent-looped-tranformer/</link><guid isPermaLink="false">https://github.com/yifanzhang-pro/recurrent-looped-tranformer</guid><description>Official Project Page for Recurrent Looped Transformer (RLT)
 recurrent-looped-tranformer: Official Project Page for Recurrent Looped Transformer (RLT)
 ★ 308 · ▲ +97 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
 <item><title>quickgui</title><link>https://tesign.com/item/quickgui/</link><guid isPermaLink="true">https://tesign.com/item/quickgui/</guid><description>웹뷰 없이 GPU로 직접 그리는 데스크톱 화면을 만듭니다.
 quickgui: Renders desktop interfaces on the GPU without a webview.
 ★ 199 · ▲ +58 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
-<item><title>macduo</title><link>https://github.com/dhananjaybhosale/macduo</link><guid isPermaLink="true">https://github.com/dhananjaybhosale/macduo</guid><description>A native Swift + Metal Mac app that makes your desktop follow your MacBook lid.
+<item><title>macduo</title><link>https://tesign.com/repo/dhananjaybhosale/macduo/</link><guid isPermaLink="false">https://github.com/dhananjaybhosale/macduo</guid><description>A native Swift + Metal Mac app that makes your desktop follow your MacBook lid.
 macduo: A native Swift + Metal Mac app that makes your desktop follow your MacBook lid.
 ★ 173 · ▲ +37 / 7d · As of 2026-09-14T03:00:00.000Z</description><pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate></item>
 </channel></rss>
