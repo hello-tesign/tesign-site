@@ -4,7 +4,7 @@
 
 ## Start here
 
-- [Today](https://tesign.com/en/): the finite daily selection (10 items; see /en/about/ for how items are chosen)
+- [Today](https://tesign.com/en/): the finite daily selection (6 items; see /en/about/ for how items are chosen)
 - [About](https://tesign.com/en/about/): what TESIGN Radar is and how selection works
 - [FAQ](https://tesign.com/en/faq/)
 - [Explore](https://tesign.com/en/explore/): every kept product with categories, sources and signals
@@ -41,7 +41,7 @@
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 32 observed events in the last 30 days (11 star-threshold crossings, 20 new repositories, 1 rising leaders), as of 2026-09-15T08:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 33 observed events in the last 30 days (11 star-threshold crossings, 21 new repositories, 1 rising leaders), as of 2026-09-15T10:00:00.000Z; method at /en/about/#ranks
 
 ## Repository cards
 
@@ -68,6 +68,12 @@
 
 ## Products (English)
 
+- [Spec Kit](https://tesign.com/en/item/spec-kit/): Makes your coding agent write the spec first, then plan, build and verify against it.
+- [Words of Hanoi](https://tesign.com/en/item/words-of-hanoi/): A daily puzzle: move letter tiles between five tubes until every full tube spells a word.
+- [Hindsight](https://tesign.com/en/item/hindsight/): Remembers 49,411 videos, maps 22,904 by issue, traces how a YouTuber's argument changed.
+- [SubSweep](https://tesign.com/en/item/subsweep/): Finds forgotten subscriptions, price hikes and refund windows in an Australian bank CSV.
+- [Qwen2.5 Program Slicing Security Auditor](https://tesign.com/en/item/qwen2-5-program-slicing-security-auditor/): Paste JS or HTML; a fine-tuned 7B model traces each risky sink to an exploit and verdict.
+- [Forma](https://tesign.com/en/item/forma/): Drop an .onnx file in the browser, see the graph, edit a node and export — no Python.
 - [Strata](https://tesign.com/en/item/strata/): Keyboard-first Linux file manager: Miller columns, Ctrl+K search, RAW/PDF/video previews
 - [DSH Desktop](https://tesign.com/en/item/dsh-desktop/): Unofficial Windows/macOS desktop client for the DeepSeek Harness agent; no Node.js setup
 - [fx](https://tesign.com/en/item/vercel-labs-fx/): Vercel Labs' coding agent CLI: a 6.17 MiB Zig binary, shell-like, embeddable via WASM
@@ -179,6 +185,7 @@
 
 ## Daily
 
+- [Daily 2026-09-15](https://tesign.com/en/day/2026-09-15/)
 - [Daily 2026-09-14](https://tesign.com/en/day/2026-09-14/)
 - [Daily 2026-09-13](https://tesign.com/en/day/2026-09-13/)
 
