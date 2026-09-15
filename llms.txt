@@ -28,7 +28,7 @@
 - [Top 20 · PRODUCTIVITY](https://tesign.com/en/top/productivity/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · DATA](https://tesign.com/en/top/data/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · INFRA](https://tesign.com/en/top/infra/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 9 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 10 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · COMMERCE](https://tesign.com/en/top/commerce/): 7 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · MEDIA](https://tesign.com/en/top/media/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · EDUCATION](https://tesign.com/en/top/education/): 6 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
@@ -41,11 +41,24 @@
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 27 observed events in the last 30 days (9 star-threshold crossings, 17 new repositories, 1 rising leaders), as of 2026-09-14T23:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 32 observed events in the last 30 days (11 star-threshold crossings, 20 new repositories, 1 rising leaders), as of 2026-09-15T08:00:00.000Z; method at /en/about/#ranks
 
 ## Repository cards
 
-- [366 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
+- [368 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
+
+## Store hits
+
+- [Store hits · NEW ENTRIES · KR](https://tesign.com/en/store/new/): 1 apps; released within 30 days and charted within 7 days of release, as of 2026-09-15T08:44:45.998Z
+- [Store hits · FREE TOP · KR](https://tesign.com/en/store/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-15T08:44:45.998Z
+- [Store hits · PAID TOP · KR](https://tesign.com/en/store/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-15T08:44:45.998Z
+- [Store hits · NEW ENTRIES · US](https://tesign.com/en/store/us/new/): 3 apps; released within 30 days and charted within 7 days of release, as of 2026-09-15T08:44:45.998Z
+- [Store hits · FREE TOP · US](https://tesign.com/en/store/us/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-15T08:44:45.998Z
+- [Store hits · PAID TOP · US](https://tesign.com/en/store/us/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-15T08:44:45.998Z
+
+## App Store cards
+
+- [360 auto-generated App Store app cards](https://tesign.com/en/about/): one /en/app/appstore/<id>/ page per app observed on Apple's public KR/US top-100 free/paid charts without an edited entry (Apple's store description, rating, rating count, chart ranks and our observation times only; not edited, not listed here), as of 2026-09-15T08:44:45.998Z
 
 ## RSS
 
