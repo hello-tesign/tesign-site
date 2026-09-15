@@ -1,0 +1,216 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "decimen-optical-transfer",
+  "url": "https://tesign.com/item/decimen-optical-transfer/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/decimen-optical-transfer/",
+      "json": "https://tesign.com/item/decimen-optical-transfer/index.json",
+      "markdown": "https://tesign.com/item/decimen-optical-transfer/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/decimen-optical-transfer/",
+      "json": "https://tesign.com/en/item/decimen-optical-transfer/index.json",
+      "markdown": "https://tesign.com/en/item/decimen-optical-transfer/index.md"
+    }
+  },
+  "name": "Decimen Optical Transfer",
+  "use_label": "네트워크 없는 파일 전송",
+  "one_liner": "화면과 카메라만으로 두 기기 사이에 파일을 보내는 웹 앱 — 애니메이션 QR 스트림, 네트워크·설치 없음, 64MB까지.",
+  "text": {
+    "why": "두 기기 사이에 네트워크가 없거나 믿을 수 없을 때, Decimen은 파일을 애니메이션 QR 코드의 끝없는 스트림으로 화면에 띄우고 다른 기기의 카메라가 그것을 읽어 파일을 복원합니다. 화면→카메라 링크에는 되돌아오는 채널이 없으므로 분수 부호(Luby transform)를 써서 수신 측이 임의의 순서로 약 K×1.15개 프레임만 모으면 복원되며, 놓친 프레임은 시간만 늦출 뿐 결과를 망치지 않습니다. 49인치 모니터→iPhone 17 Pro Max 구간에서 1.0MB를 2.5초, 지속 418.5KB/s로 전송한 기록이 실행 리포트와 함께 공개되어 있습니다.",
+    "take": "네트워크 대신 빛으로 바이트를 옮기는 오래된 발상을 분수 부호와 브라우저만으로 실용 속도까지 끌어올린 실험이며, 암호화가 없어 화면을 보는 모든 카메라가 읽을 수 있다는 점을 스스로 분명히 밝힙니다.",
+    "build": [
+      "스트림을 APNG나 PNG 시퀀스로 내보내 영상 강의나 배포 페이지에 넣으면, 재생 화면에 카메라를 대는 누구나 같은 파일을 받을 수 있습니다. 소스는 npm으로 자체 호스팅되고 독립 실행 페이지 두 개로도 빌드되므로 격리망 안 배포에 응용할 수 있습니다."
+    ],
+    "who": [
+      {
+        "role": "격리망·회의실 등 네트워크가 막힌 환경",
+        "situation": "화면과 카메라만으로 설정 파일이나 문서 전달"
+      },
+      {
+        "role": "낯선 기기에 짧은 텍스트·파일을 넘길 때",
+        "situation": "계정·페어링·클라우드 없이 양쪽 브라우저만 열어 전송"
+      },
+      {
+        "role": "부호 이론·브라우저 카메라 처리에 관심 있는 개발자",
+        "situation": "공개된 프로토콜 문서와 벤치마크 실행 리포트"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. 두 기기 모두 https://decimen.app/ 을 열기 — 설치 없음, 한쪽은 Send, 다른 쪽은 Receive"
+      },
+      {
+        "command": false,
+        "text": "2. 직접 돌리려면:"
+      },
+      {
+        "command": false,
+        "text": "npm install"
+      },
+      {
+        "command": false,
+        "text": "npm run dev"
+      },
+      {
+        "command": false,
+        "text": "보내는 기기에서 https://localhost:5173/send/ , 받는 폰에서 터미널에 표시된 Network URL 열기(자가 서명 인증서 1회 허용)"
+      }
+    ],
+    "caveat": [
+      "라이선스 AGPL-3.0-or-later(v0.4.0부터; v0.3.0까지의 릴리스는 MIT로 남음). 자체 호스팅·수정 배포 시 AGPL 의무 적용.",
+      "암호화 없음 — 보내는 화면이 보이는 카메라는 누구나 읽을 수 있음. 파일 64MB, 텍스트 4MB 한도.",
+      "웹 앱(PWA)이라 카메라 권한만 필요; 속도는 화면 크기·카메라에 크게 좌우(폰→폰 기록은 199.2KB/s). 홈페이지 기준 v0.5.3."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://decimen.app/"
+  },
+  "ready": "browser",
+  "categories": [
+    "experiment",
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "qr-code",
+    "file-transfer",
+    "fountain-codes",
+    "air-gap",
+    "pwa",
+    "camera"
+  ],
+  "platform": [
+    "web",
+    "ios",
+    "android"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포는 물론 네트워크 서비스로 제공해도 소스 공개.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://decimen.app/",
+    "github": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+        "posted_at": "2026-08-07T16:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 6752,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:43.861Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": 2,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "media",
+        "label": "미디어",
+        "rank": 14
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-08-26T12:51:11.000Z",
+    "owner_type": "User",
+    "open_issues": 23,
+    "contributors": 2,
+    "releases_count": 8,
+    "latest_release": {
+      "tag": "v0.5.3",
+      "published_at": "2026-08-20T00:46:56.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:43.861Z",
+    "core_checked_at": "2026-09-15T19:34:43.861Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "과거 기록",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/decimen-optical-transfer-4354ccd078.jpg",
+    "cover": "https://tesign.com/img/decimen-optical-transfer-4354ccd078.jpg",
+    "cover_width": 840,
+    "cover_height": 1525,
+    "gallery": [
+      "https://tesign.com/img/decimen-optical-transfer-4354ccd078.jpg",
+      "https://tesign.com/img/decimen-optical-transfer-5537a8d35c.png"
+    ],
+    "alt": "다른 화면의 애니메이션 QR 스트림을 읽으며 파일을 수신하는 폰: 130.5KB/s 처리량과 절반쯤 진행된 디코딩 진행 표시",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:14:08.680Z",
+    "source_created_at": "2026-07-30T18:17:54.000Z",
+    "discovery_hours": 1070.937411111111,
+    "launch_signal_at": "2026-08-07T16:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.543Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:56.834Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

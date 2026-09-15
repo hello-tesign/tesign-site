@@ -41,11 +41,11 @@
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 33 observed events in the last 30 days (11 star-threshold crossings, 21 new repositories, 1 rising leaders), as of 2026-09-15T10:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 32 observed events in the last 30 days (9 star-threshold crossings, 22 new repositories, 1 rising leaders), as of 2026-09-15T14:00:00.000Z; method at /en/about/#ranks
 
 ## Repository cards
 
-- [368 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
+- [367 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
 
 ## Store hits
 

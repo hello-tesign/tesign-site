@@ -1,0 +1,157 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "pdf-pocket-tools",
+  "url": "https://tesign.com/item/pdf-pocket-tools/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/pdf-pocket-tools/",
+      "json": "https://tesign.com/item/pdf-pocket-tools/index.json",
+      "markdown": "https://tesign.com/item/pdf-pocket-tools/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/pdf-pocket-tools/",
+      "json": "https://tesign.com/en/item/pdf-pocket-tools/index.json",
+      "markdown": "https://tesign.com/en/item/pdf-pocket-tools/index.md"
+    }
+  },
+  "name": "PDF Pocket Tools",
+  "use_label": "생산성",
+  "one_liner": "HTML 파일 하나가 PDF 합치기·나누기·회전·재배열을 오프라인으로 처리합니다.",
+  "text": {
+    "why": "PDF 몇 장을 합치거나 순서를 바꾸려고 온라인 서비스에 문서를 올리는 일이 흔합니다. PDF Pocket Tools는 약 200KB짜리 HTML 파일 하나를 브라우저에서 열어 합치기·나누기·회전·순서 바꾸기·삭제를 처리하고, 파일은 컴퓨터 밖으로 나가지 않습니다. 설치도 계정도 인터넷도 필요 없습니다. itch.io에서 1달러에 팔며, 저장 직전까지 전부 되는 무료 라이브 데모를 브라우저에서 바로 써 볼 수 있습니다.",
+    "take": "기능보다 '파일이 컴퓨터를 떠나지 않는다'는 약속을 사는 1달러입니다.",
+    "build": [
+      "사무실 공용 PC에 두는 설치 없는 PDF 정리 도구",
+      "계약서·영수증을 외부에 올리지 않고 합치는 개인 작업 습관"
+    ],
+    "who": [
+      {
+        "role": "사무직",
+        "situation": "계약서 PDF를 외부 사이트에 올리기 꺼려질 때"
+      },
+      {
+        "role": "출장자",
+        "situation": "인터넷 없는 곳에서 PDF를 정리해야 할 때"
+      }
+    ],
+    "start": [],
+    "caveat": [
+      "GitHub 저장소가 없어 README를 확인하지 못했습니다(itch.io 문구 기준)",
+      "1달러 유료 — 무료 데모는 저장 직전에 멈춥니다",
+      "라이선스와 소스 공개 여부는 확인되지 않았습니다"
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://pdfpockettools.itch.io/pdf-pocket-tools"
+  },
+  "ready": "browser",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "pdf",
+    "offline",
+    "single-file",
+    "privacy"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
+    "url": null,
+    "note": null,
+    "open_source": null
+  },
+  "language": null,
+  "source_urls": {
+    "canonical": "https://pdfpockettools.itch.io/pdf-pocket-tools",
+    "github": null,
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://pdfpockettools.itch.io/pdf-pocket-tools",
+        "posted_at": "2026-09-13T08:59:02.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49681663"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": null,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": null,
+    "stars_observed_since_check": null,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-15T11:21:52.765Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": null,
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 1h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/pdf-pocket-tools-f7994b9155.png",
+    "cover": "https://tesign.com/img/pdf-pocket-tools-f7994b9155.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/pdf-pocket-tools-f7994b9155.png"
+    ],
+    "alt": "PDF Pocket Tools itch.io 페이지. 왼쪽에 데모 안내와 기능 목록, 오른쪽에 스크린샷 두 장, 아래에 Buy Now 버튼.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T10:29:56.400Z",
+    "source_created_at": "2026-09-13T08:59:02.000Z",
+    "discovery_hours": 1.515111111111111,
+    "launch_signal_at": "2026-09-13T08:59:02.000Z",
+    "kept_at": "2026-09-14T02:41:59.112Z",
+    "first_published_at": null,
+    "updated_at": "2026-09-15T04:36:56.957Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

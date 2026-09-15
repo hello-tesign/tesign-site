@@ -1,0 +1,207 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "make-look-scanned",
+  "url": "https://tesign.com/item/make-look-scanned/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/make-look-scanned/",
+      "json": "https://tesign.com/item/make-look-scanned/index.json",
+      "markdown": "https://tesign.com/item/make-look-scanned/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/make-look-scanned/",
+      "json": "https://tesign.com/en/item/make-look-scanned/index.json",
+      "markdown": "https://tesign.com/en/item/make-look-scanned/index.md"
+    }
+  },
+  "name": "make-look-scanned",
+  "use_label": "PDF를 스캔본처럼 만들기",
+  "one_liner": "PDF를 실제 스캔본처럼 보이게 만드는 Go CLI·브라우저 도구 — 기울기·종이 톤·노이즈·JPEG 잡티",
+  "text": {
+    "why": "페이지를 이미지로 래스터화해 효과를 입힌 뒤 이미지 전용 PDF로 다시 조립한다. 원본의 선택 가능한 텍스트는 사라지는데, 이것이 기본 스캐너와 같은 동작이다. 시드가 입력 파일 내용 해시에서 나오므로 같은 파일은 항상 바이트까지 같은 결과가 나오고 `--seed N`으로 다른 재현 가능한 모양을 얻는다. 브라우저 버전은 PDF.js로 래스터화한 픽셀을 같은 Go 효과 코드의 WASM에 넘기며, 파일은 업로드되지 않는다.",
+    "take": "'스캔한 것처럼'을 재현 가능하게 만든 도구다 — 같은 입력이면 바이트까지 같은 결과가 나온다.",
+    "build": [
+      "TOML 프리셋으로 팀 표준 '스캔 룩'을 정의하거나, `task build:web`으로 약 8MB 단일 HTML을 만들어 오프라인 사내 도구로 배포할 수 있다."
+    ],
+    "who": [
+      {
+        "role": "서류 제출용 스캔본 형태가 필요한 사람",
+        "situation": "프린트·스캔 없이 PDF 변환"
+      },
+      {
+        "role": "OCR·문서 파이프라인 개발자",
+        "situation": "스캔 품질 테스트 데이터 생성"
+      },
+      {
+        "role": "디자이너",
+        "situation": "종이 문서 질감의 목업"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "go build -o make-look-scanned ."
+      },
+      {
+        "command": false,
+        "text": "make-look-scanned in.pdf                 # -> in.scanned.pdf"
+      },
+      {
+        "command": false,
+        "text": "make-look-scanned in.pdf --noise 0.4 --skew 2.5 --jpeg-quality 30"
+      },
+      {
+        "command": false,
+        "text": "make-look-scanned --preset medium in.pdf"
+      },
+      {
+        "command": false,
+        "text": "브라우저 버전: https://overflowy.github.io/make-look-scanned/"
+      }
+    ],
+    "caveat": [
+      "AGPL-3.0 — CLI가 MuPDF(go-fitz)를 정적 링크하므로 결합 바이너리를 배포하면 소스 제공 의무가 따른다. 브라우저 빌드는 MuPDF 없이 PDF.js(Apache-2.0)를 쓴다. 빌드에 Go와 C 툴체인(cgo) 필요. 출력은 이미지 전용 PDF라 텍스트 검색·선택 불가. CLI와 브라우저 결과는 시각적으로 동등하지만 바이트 동일하지는 않다. 마지막 푸시 2026-06-21."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://overflowy.github.io/make-look-scanned"
+  },
+  "ready": "browser",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "pdf",
+    "go",
+    "wasm",
+    "cli",
+    "document",
+    "scan"
+  ],
+  "platform": [
+    "cli",
+    "web"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포는 물론 네트워크 서비스로 제공해도 소스 공개.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Go",
+  "source_urls": {
+    "canonical": "https://overflowy.github.io/make-look-scanned",
+    "github": "https://github.com/overflowy/make-look-scanned",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/overflowy/make-look-scanned",
+        "posted_at": "2026-06-20T18:17:58.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=48611513"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/overflowy/make-look-scanned",
+        "posted_at": "2026-06-20T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 807,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:35.192Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 155,
+    "hn_points_observed_at": "2026-09-13T15:54:57.318Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-06-21T10:39:21.000Z",
+    "owner_type": "User",
+    "open_issues": 1,
+    "contributors": 1,
+    "releases_count": 2,
+    "latest_release": {
+      "tag": "v1.1.0",
+      "published_at": "2026-06-21T10:43:31.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:35.192Z",
+    "core_checked_at": "2026-09-15T19:34:35.192Z"
+  },
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "교차 신호",
+      "value": "Show HN + GitHub"
+    },
+    {
+      "kind": "back",
+      "label": "과거 기록",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/make-look-scanned-bf573df87d.jpg",
+    "cover": "https://tesign.com/img/make-look-scanned-bf573df87d.jpg",
+    "cover_width": 1990,
+    "cover_height": 1252,
+    "gallery": [
+      "https://tesign.com/img/make-look-scanned-bf573df87d.jpg"
+    ],
+    "alt": "README 예시 이미지 — 왼쪽은 원본 PDF 페이지, 오른쪽은 스캔한 것처럼 기울어지고 회색조·종이 톤·가장자리 그늘이 입혀진 같은 페이지",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:24:39.265Z",
+    "source_created_at": "2026-06-20T18:17:58.000Z",
+    "discovery_hours": 2030.1114625,
+    "launch_signal_at": "2026-06-20T18:17:58.000Z",
+    "kept_at": "2026-09-14T19:27:43.493Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.904Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

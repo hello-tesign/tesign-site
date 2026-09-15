@@ -1,0 +1,225 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "gods-eye-view",
+  "url": "https://tesign.com/item/gods-eye-view/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/gods-eye-view/",
+      "json": "https://tesign.com/item/gods-eye-view/index.json",
+      "markdown": "https://tesign.com/item/gods-eye-view/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/gods-eye-view/",
+      "json": "https://tesign.com/en/item/gods-eye-view/index.json",
+      "markdown": "https://tesign.com/en/item/gods-eye-view/index.md"
+    }
+  },
+  "name": "gods-eye-view",
+  "use_label": "브라우저용 실시간 위성 지구본",
+  "one_liner": "실제 위성과 항공기 위치를 브라우저 3D 지구본 위에 띄웁니다.",
+  "text": {
+    "why": "위성이나 항공기 움직임을 보려면 보통 전문 도구를 깔고 데이터 소스를 따로 붙여야 합니다. gods-eye-view는 그 과정을 브라우저 한 화면으로 옮겨, 공개된 실시간 데이터를 사실적인 3D 지구본 위에 바로 얹습니다. Pinokio로 설치하거나 터미널에서 직접 실행해 내 브라우저에서 열며, Cesium을 기반으로 만들어졌습니다. 다만 저장소에 라이선스가 표기돼 있지 않아 그대로 가져다 쓰기 전에 확인이 필요합니다.",
+    "take": "공개 데이터만으로 이만한 관제실 화면을 내 컴퓨터에서 띄울 수 있다는 점이 핵심입니다.",
+    "build": [
+      "공개 위성 데이터를 띄워 두는 사내 브리핑용 지도 화면",
+      "지리·우주 수업에 쓰는 실시간 관측 데모 페이지"
+    ],
+    "who": [
+      {
+        "role": "교사·강사",
+        "situation": "항공·위성·지진을 실시간으로 보여 주는 수업"
+      },
+      {
+        "role": "데이터 개발자",
+        "situation": "공개 지리 데이터를 3D 지구본에 얹어 보려 할 때"
+      },
+      {
+        "role": "OSINT 입문자",
+        "situation": "유료 도구 없이 공개 신호를 한 화면에서 볼 때"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Node.js 24.14+ 필요 · 실행 후 http://localhost:4173 을 엽니다"
+      },
+      {
+        "command": true,
+        "text": "git clone https://github.com/bilawalsidhu/gods-eye-view.git"
+      },
+      {
+        "command": true,
+        "text": "cd gods-eye-view"
+      },
+      {
+        "command": true,
+        "text": "npm ci"
+      },
+      {
+        "command": true,
+        "text": "npm run doctor"
+      },
+      {
+        "command": true,
+        "text": "npm run dev"
+      }
+    ],
+    "caveat": [
+      "사실적 3D 지구본과 음성 조작은 Cesium ion·Google·OpenAI 키가 필요합니다",
+      "데이터가 지연·추정될 수 있어 항법·긴급 대응 등에는 쓰지 말라고 명시",
+      "GitHub 메타데이터엔 라이선스가 없지만 README는 MIT라고 밝힙니다"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  "ready": "install",
+  "categories": [
+    "data",
+    "science"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "geospatial",
+    "osint",
+    "3d"
+  ],
+  "platform": [
+    "web",
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://maptheworld.ai/",
+    "github": "https://github.com/bilawalsidhu/gods-eye-view",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/bilawalsidhu/gods-eye-view",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 34598,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:39.795Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 112,
+    "star_delta_7d": 2331,
+    "star_delta_30d": 2967,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      4,
+      7,
+      166,
+      227,
+      181,
+      14,
+      7,
+      80,
+      360,
+      819,
+      617,
+      318,
+      47,
+      83
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": 206,
+    "rising": {
+      "24h": null,
+      "7d": 1,
+      "30d": 4
+    },
+    "categories": [
+      {
+        "category": "data",
+        "label": "데이터",
+        "rank": 4
+      },
+      {
+        "category": "science",
+        "label": "과학",
+        "rank": 1
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T19:33:33.000Z",
+    "owner_type": "User",
+    "open_issues": 160,
+    "contributors": 17,
+    "releases_count": 2,
+    "latest_release": {
+      "tag": "v0.1.1",
+      "published_at": "2026-09-01T19:43:06.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:33:39.795Z",
+    "core_checked_at": "2026-09-15T19:33:39.795Z"
+  },
+  "signals": [
+    {
+      "kind": "rising",
+      "label": "상승 중",
+      "value": "+112 ★ / 24h"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/gods-eye-view-a601fa9eaa.png",
+    "cover": "https://tesign.com/img/gods-eye-view-a601fa9eaa.png",
+    "cover_width": 800,
+    "cover_height": 450,
+    "gallery": [
+      "https://tesign.com/img/gods-eye-view-a601fa9eaa.png",
+      "https://tesign.com/img/gods-eye-view-404c26313b.png",
+      "https://tesign.com/img/gods-eye-view-920fe60879.png",
+      "https://tesign.com/img/gods-eye-view-058cb13e22.png"
+    ],
+    "alt": "README GIF의 한 프레임. 우주에서 본 3D 지구본 위에 추적 대상 라벨과 궤도선이 겹쳐 있습니다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:22.965Z",
+    "source_created_at": "2026-06-22T23:37:22.000Z",
+    "discovery_hours": 1976.1002680555555,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.432Z",
+    "first_published_at": "2026-09-13T11:32:21.801Z",
+    "updated_at": "2026-09-15T07:17:17.530Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "worktrunk",
+  "url": "https://tesign.com/item/worktrunk/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/worktrunk/",
+      "json": "https://tesign.com/item/worktrunk/index.json",
+      "markdown": "https://tesign.com/item/worktrunk/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/worktrunk/",
+      "json": "https://tesign.com/en/item/worktrunk/index.json",
+      "markdown": "https://tesign.com/en/item/worktrunk/index.md"
+    }
+  },
+  "name": "Worktrunk",
+  "use_label": "병렬 에이전트 작업 폴더",
+  "one_liner": "에이전트를 병렬로 돌릴 때 쓰는 Git worktree를 정리해 줍니다.",
+  "text": {
+    "why": "에이전트를 여러 개 동시에 붙이면 브랜치와 작업 폴더가 서로를 덮어쓰기 시작합니다. worktrunk는 Git worktree를 만들고 옮기고 지우는 일을 명령 한 줄로 줄여, 에이전트마다 독립된 작업 폴더를 주는 흐름을 전제로 만들어졌습니다. Rust로 쓰인 CLI이고, 저장소에 라이선스가 표기돼 있지 않아 도입 전에 확인이 필요합니다.",
+    "take": "브랜치 이름만으로 worktree를 만들고 지우게 해서, 병렬 에이전트 작업의 진짜 걸림돌을 치웁니다.",
+    "build": [
+      "에이전트마다 작업 폴더를 떼어 주는 사내 개발 흐름",
+      "끝난 병렬 작업을 걷어 내는 하루 마감 스크립트"
+    ],
+    "who": [
+      {
+        "role": "1인 개발자",
+        "situation": "에이전트마다 작업 폴더를 따로 주고 싶을 때"
+      },
+      {
+        "role": "팀 개발자",
+        "situation": "PR 브랜치를 바로 worktree로 열어 검토할 때"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "macOS·Linux(Homebrew):"
+      },
+      {
+        "command": true,
+        "text": "brew install worktrunk && wt config shell install"
+      },
+      {
+        "command": false,
+        "text": "Windows(winget, 명령은 git-wt):"
+      },
+      {
+        "command": true,
+        "text": "winget install max-sixty.worktrunk"
+      },
+      {
+        "command": true,
+        "text": "git-wt config shell install"
+      },
+      {
+        "command": true,
+        "text": "wt switch --create feature-auth"
+      }
+    ],
+    "caveat": [
+      "GitHub 메타데이터엔 라이선스가 없지만 README 배지는 MIT OR Apache-2.0입니다",
+      "셸 통합(wt config shell install)을 해야 디렉터리 이동이 됩니다",
+      "Windows에선 wt가 Windows Terminal과 겹쳐 git-wt로 설치됩니다"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://worktrunk.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "git",
+    "worktrees",
+    "agents"
+  ],
+  "platform": [
+    "macos",
+    "linux",
+    "windows",
+    "cli"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
+    "url": "https://github.com/max-sixty/worktrunk?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://worktrunk.dev/",
+    "github": "https://github.com/max-sixty/worktrunk",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 7762,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:02.690Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 2,
+    "star_delta_7d": 89,
+    "star_delta_30d": 91,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      13,
+      34,
+      40,
+      2,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:32:55.000Z",
+    "owner_type": "User",
+    "open_issues": 55,
+    "contributors": 73,
+    "releases_count": 149,
+    "latest_release": {
+      "tag": "v0.77.0",
+      "published_at": "2026-09-08T22:12:09.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:02.690Z",
+    "core_checked_at": "2026-09-15T19:34:02.690Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/worktrunk-47fd19d15d.png",
+    "cover": "https://tesign.com/img/worktrunk-47fd19d15d.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/worktrunk-47fd19d15d.png"
+    ],
+    "alt": "worktrunk.dev 문서 첫 화면. 왼쪽 wt switch·list·merge 명령 목록, 본문에 wt list 출력이 담긴 터미널 데모.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:30.193Z",
+    "source_created_at": "2025-10-17T22:13:14.000Z",
+    "discovery_hours": 7929.504498055556,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.548Z",
+    "first_published_at": "2026-09-13T11:32:21.830Z",
+    "updated_at": "2026-09-15T04:36:57.053Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

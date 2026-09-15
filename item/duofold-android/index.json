@@ -1,0 +1,187 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "duofold-android",
+  "url": "https://tesign.com/item/duofold-android/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/duofold-android/",
+      "json": "https://tesign.com/item/duofold-android/index.json",
+      "markdown": "https://tesign.com/item/duofold-android/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/duofold-android/",
+      "json": "https://tesign.com/en/item/duofold-android/index.json",
+      "markdown": "https://tesign.com/en/item/duofold-android/index.md"
+    }
+  },
+  "name": "DuoFold for Android",
+  "use_label": "안드로이드 폰용 접힘 효과",
+  "one_liner": "폴더블이 아닌 안드로이드 폰에서도 기울이면 화면이 접히듯 움직이게 합니다.",
+  "text": {
+    "why": "화면이 기기 움직임을 따라 접히는 연출은 특정 폰의 전유물이었습니다. DuoFold는 Shizuku로 현재 화면을 받아 OpenGL ES로 다시 투영해, 폰을 좌우·앞뒤로 기울이면 원근·블러·조명이 실시간으로 따라오게 합니다. 루트가 필요 없고 앱은 인터넷 권한이 없어 화면 이미지를 저장하거나 올리지 않으며, MIT로 공개돼 있습니다. Android 14 이상 표준 빌드와 10~13용 호환 빌드가 있고, Xiaomi 15에서만 실기기 테스트를 거쳤습니다.",
+    "take": "루트 없이 시스템 전체 화면을 다시 그리는 실험이고, 실용성보다 구현이 볼거리입니다.",
+    "build": [
+      "매장 시연용 폰에 넣는 눈길 끄는 화면 효과",
+      "모션 센서와 GPU 투영을 잇는 안드로이드 렌더링 공부 자료"
+    ],
+    "who": [
+      {
+        "role": "안드로이드 개발자",
+        "situation": "화면 캡처와 GPU 투영 구현을 보고 싶을 때"
+      },
+      {
+        "role": "폰 튜닝 애호가",
+        "situation": "Shizuku를 이미 쓰고 있어 새 효과를 찾을 때"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Latest Release에서 Android 14+는 표준 빌드, 10~13은 호환 빌드 APK 내려받기"
+      },
+      {
+        "command": false,
+        "text": "Shizuku를 설치해 무선 디버깅이나 ADB로 서비스 시작"
+      },
+      {
+        "command": false,
+        "text": "앱에서 01 Shizuku 승인 → 02 접근성 서비스 → 03 10초 체험 → 04 전역 효과"
+      }
+    ],
+    "caveat": [
+      "Shizuku가 설치·실행 중이어야 합니다(루트는 불필요)",
+      "Xiaomi 15/Android 16에서만 테스트 — 제조사별 제한이 다를 수 있음",
+      "오래 켜 두면 GPU 부하와 배터리 소모가 늘어납니다"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://github.com/jcx396905-gif/duofold-android"
+  },
+  "ready": "install",
+  "categories": [
+    "media",
+    "experiment"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "android",
+    "shizuku",
+    "opengl",
+    "ui-effect"
+  ],
+  "platform": [
+    "android"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Java",
+  "source_urls": {
+    "canonical": "https://github.com/jcx396905-gif/duofold-android",
+    "github": "https://github.com/jcx396905-gif/duofold-android",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/jcx396905-gif/duofold-android",
+        "posted_at": "2026-09-13T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 133,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:09.370Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 14,
+    "star_delta_30d": 14,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      14,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-13T03:13:29.000Z",
+    "owner_type": "User",
+    "open_issues": 1,
+    "contributors": 1,
+    "releases_count": 3,
+    "latest_release": {
+      "tag": "v0.6.0",
+      "published_at": "2026-09-13T03:13:29.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:09.370Z",
+    "core_checked_at": "2026-09-15T19:34:09.370Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 23h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/duofold-android-11ccdb6642.jpg",
+    "cover": "https://tesign.com/img/duofold-android-11ccdb6642.jpg",
+    "cover_width": 720,
+    "cover_height": 1280,
+    "gallery": [
+      "https://tesign.com/img/duofold-android-11ccdb6642.jpg",
+      "https://tesign.com/img/duofold-android-f6871b50bb.jpg",
+      "https://tesign.com/img/duofold-android-5d45fb7841.jpg",
+      "https://tesign.com/img/duofold-android-3b96ad0468.png"
+    ],
+    "alt": "DuoFold 실기기 시연 영상의 표지. 책상 위에서 손에 든 폰의 홈 화면이 기울어진 채 흐릿하게 번져 보입니다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:34.171Z",
+    "source_created_at": "2026-09-12T08:33:04.000Z",
+    "discovery_hours": 23.1750475,
+    "launch_signal_at": "2026-09-13T00:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:58.993Z",
+    "first_published_at": "2026-09-14T02:41:59.484Z",
+    "updated_at": "2026-09-15T04:36:56.854Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

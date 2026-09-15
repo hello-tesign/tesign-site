@@ -1,0 +1,181 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "dlss5-swapper",
+  "url": "https://tesign.com/item/dlss5-swapper/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/dlss5-swapper/",
+      "json": "https://tesign.com/item/dlss5-swapper/index.json",
+      "markdown": "https://tesign.com/item/dlss5-swapper/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/dlss5-swapper/",
+      "json": "https://tesign.com/en/item/dlss5-swapper/index.json",
+      "markdown": "https://tesign.com/en/item/dlss5-swapper/index.md"
+    }
+  },
+  "name": "DLSS 5 Swapper",
+  "use_label": "게이머용 DLSS 5 설치",
+  "one_liner": "게임 라이브러리를 훑어 DLSS 5 뉴럴 렌더링을 한 번에 넣고 되돌립니다.",
+  "text": {
+    "why": "게임마다 DLSS 파일을 손으로 바꾸면 원본을 잃기 쉽고, 어떤 게임에서 되는지는 해 봐야 압니다. DLSS 5 Swapper는 Steam·Epic·GOG·Game Pass 폴더를 스캔해 게임별로 설치·복원·백업을 관리하고, DLSS가 없는 게임은 Feeder 경로로, 오래된 API는 dgVoodoo 경유로 다룹니다. F8 오버레이로 게임 중에 슬라이더를 만지고, 같은 그래픽카드 사용자의 보고를 커뮤니티 페이지에서 봅니다. Windows 10/11 전용 MIT 무료 앱이며, 안티치트 게임은 크래시나 계정 정지 위험을 경고합니다.",
+    "take": "설치보다 백업·복원·커뮤니티 보고까지 한 화면에 모은 관리 도구라는 점이 요점입니다.",
+    "build": [
+      "라이브러리 전체에 같은 설정을 넣고 되돌리는 개인 관리 루틴",
+      "게임·카드별 결과를 모아 두는 커뮤니티 리포트",
+      "오래된 DX9·에뮬레이터 게임에 뉴럴 렌더링을 얹는 실험"
+    ],
+    "who": [
+      {
+        "role": "PC 게이머",
+        "situation": "RTX 카드로 여러 게임에 DLSS 5를 넣어 보고 싶을 때"
+      },
+      {
+        "role": "에뮬레이터 이용자",
+        "situation": "옛 콘솔 게임 화질을 올려 보고 싶을 때"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "최신 릴리스 페이지에서 Windows 설치 파일 또는 포터블 버전 내려받기"
+      },
+      {
+        "command": false,
+        "text": "같은 페이지의 SHA256SUMS.txt로 체크섬 확인"
+      },
+      {
+        "command": false,
+        "text": "Feeder 경로는 Visual C++ 런타임(x64, 32비트 게임은 x86도) 필요"
+      }
+    ],
+    "caveat": [
+      "안티치트 게임은 크래시·계정 정지 위험 — 앱이 경고만 하고 우회하지 않음",
+      "OptiScaler 경로의 기본 모델은 RTX 50 계열에서만 돌아갑니다",
+      "Linux 바이너리는 없고 Proton은 실험적 커뮤니티 소스뿐입니다"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://github.com/rakanki911/dlss5-swapper"
+  },
+  "ready": "install",
+  "categories": [
+    "games"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "dlss",
+    "gaming",
+    "windows",
+    "gpu"
+  ],
+  "platform": [
+    "windows"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://github.com/rakanki911/dlss5-swapper",
+    "github": "https://github.com/rakanki911/dlss5-swapper",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/rakanki911/dlss5-swapper",
+        "posted_at": "2026-09-13T01:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 4997,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:18.866Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 39,
+    "star_delta_7d": 210,
+    "star_delta_30d": 691,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      2,
+      8,
+      111,
+      164,
+      175,
+      21,
+      2,
+      null,
+      11,
+      52,
+      53,
+      53,
+      6,
+      33
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-13T02:02:21.000Z",
+    "owner_type": "User",
+    "open_issues": 30,
+    "contributors": 5,
+    "releases_count": 13,
+    "latest_release": {
+      "tag": "v2.2.7",
+      "published_at": "2026-09-12T23:47:45.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:18.866Z",
+    "core_checked_at": "2026-09-15T19:34:18.866Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/dlss5-swapper-407ca79f8a.png",
+    "cover": "https://tesign.com/img/dlss5-swapper-407ca79f8a.png",
+    "cover_width": 1280,
+    "cover_height": 720,
+    "gallery": [
+      "https://tesign.com/img/dlss5-swapper-407ca79f8a.png",
+      "https://tesign.com/img/dlss5-swapper-8656b16045.png",
+      "https://tesign.com/img/dlss5-swapper-229ff9438a.png",
+      "https://tesign.com/img/dlss5-swapper-1ef893407c.png"
+    ],
+    "alt": "DLSS 5 Swapper 홍보 배너. 검은 회로 배경에 초록 '5' 앱 아이콘, 오른쪽에 One Click. Every Game. 문구.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:38.190Z",
+    "source_created_at": "2026-08-29T23:51:32.000Z",
+    "discovery_hours": 343.86838611111114,
+    "launch_signal_at": "2026-09-13T01:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:59.054Z",
+    "first_published_at": null,
+    "updated_at": "2026-09-15T04:36:56.847Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

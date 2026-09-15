@@ -1,0 +1,201 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "omnigent",
+  "url": "https://tesign.com/item/omnigent/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/omnigent/",
+      "json": "https://tesign.com/item/omnigent/index.json",
+      "markdown": "https://tesign.com/item/omnigent/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/omnigent/",
+      "json": "https://tesign.com/en/item/omnigent/index.json",
+      "markdown": "https://tesign.com/en/item/omnigent/index.md"
+    }
+  },
+  "name": "Omnigent",
+  "use_label": "코딩 에이전트 통합 제어층",
+  "one_liner": "Claude Code·Codex·Cursor 등 코딩 에이전트를 한 층 위에서 묶어 터미널→브라우저→폰으로 세션을 이어가는 메타 하네스",
+  "text": {
+    "why": "세션이 사람을 따라간다 — 터미널에서 시작한 대화를 브라우저(localhost:6767)나 같은 네트워크의 폰에서 이어받고, 메시지·서브에이전트·터미널·파일이 동기화된다. 에이전트는 YAML 한 장(프롬프트·도구·서브에이전트)이고, 정책으로 셸 실행 전 승인, 세션당 도구 호출 수, 달러 지출 상한(예: max_cost_usd 5.00)을 서버·에이전트·세션 3단계로 겹쳐 건다. 예시 에이전트 Polly는 코딩 서브에이전트에 일을 나누고 리뷰는 작성자와 다른 벤더 모델에 맡긴다.",
+    "take": "에이전트를 하나 더 만드는 대신 이미 쓰는 에이전트들을 갈아 끼우고 감독하는 층을 두겠다는 설계다 — 알파라는 표시를 함께 봐야 한다.",
+    "build": [
+      "Polly처럼 '작성자와 다른 벤더가 리뷰'하는 멀티 에이전트 코딩 파이프라인이나, 지출 상한과 초대 전용 가입을 건 팀 공용 에이전트 서버(docker compose)를 세울 수 있다."
+    ],
+    "who": [
+      {
+        "role": "여러 코딩 에이전트를 병행하는 개발자",
+        "situation": "한 세션에서 Claude Code·Codex 혼용"
+      },
+      {
+        "role": "팀 리드",
+        "situation": "지출 상한·승인 정책을 건 공용 에이전트 서버"
+      },
+      {
+        "role": "이동이 많은 사람",
+        "situation": "노트북에서 돌리는 에이전트를 폰에서 이어 보기"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "curl -fsSL https://raw.githubusercontent.com/omnigent-ai/omnigent/main/scripts/install_oss.sh | sh   # 방법 1(권장 설치 스크립트)"
+      },
+      {
+        "command": false,
+        "text": "uv tool install omnigent        # 또는: 수동 설치 (pip install \"omnigent\"도 가능)"
+      },
+      {
+        "command": false,
+        "text": "brew install omnigent-ai/tap/omnigent   # 또는: Homebrew"
+      },
+      {
+        "command": false,
+        "text": "omnigent"
+      },
+      {
+        "command": false,
+        "text": "omnigent claude                      # Claude Code, in a session your team can join"
+      }
+    ],
+    "caveat": [
+      "Apache-2.0. README 배지와 홈페이지 모두 status alpha. 익명 사용 텔레메트리가 기본으로 켜져 있고 옵트아웃은 별도 문서. Python 3.12+, Node.js 22+, tmux 필요, Linux는 bubblewrap 필수. Windows는 '저하 모드'(tmux 터미널 래퍼 없음, 파일시스템·네트워크 샌드박스 없음). macOS 데스크톱 앱 제공. 모델 비용은 본인 키·구독 기준."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://omnigent.ai/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai-agents",
+    "orchestration",
+    "claude-code",
+    "codex",
+    "multi-agent",
+    "python"
+  ],
+  "platform": [
+    "cli",
+    "macos",
+    "linux",
+    "windows",
+    "web"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 고지 유지, 바꾼 부분은 표시.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://omnigent.ai/",
+    "github": "https://github.com/omnigent-ai/omnigent",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "posted_at": "2026-06-13T19:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 9969,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:30.211Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 4,
+    "star_delta_30d": 18,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      4,
+      6,
+      4,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:23:28.000Z",
+    "owner_type": "Organization",
+    "open_issues": 1368,
+    "contributors": 253,
+    "releases_count": 16,
+    "latest_release": {
+      "tag": "v0.14.0",
+      "published_at": "2026-09-15T13:06:10.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:30.211Z",
+    "core_checked_at": "2026-09-15T19:34:30.211Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "과거 기록",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/omnigent-7e2847f0a5.png",
+    "cover": "https://tesign.com/img/omnigent-7e2847f0a5.png",
+    "cover_width": 2834,
+    "cover_height": 1884,
+    "gallery": [
+      "https://tesign.com/img/omnigent-7e2847f0a5.png",
+      "https://tesign.com/img/omnigent-87718a7590.png"
+    ],
+    "alt": "Omnigent 데스크톱 앱 — 새 세션을 시작하는 화면과, 고정·프로젝트별로 묶인 세션 목록 사이드바",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:16:59.696Z",
+    "source_created_at": "2026-06-11T12:18:13.000Z",
+    "discovery_hours": 2251.979637777778,
+    "launch_signal_at": "2026-06-13T19:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.513Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.920Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

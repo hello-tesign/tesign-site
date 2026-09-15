@@ -1,0 +1,214 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "openknowledge",
+  "url": "https://tesign.com/item/openknowledge/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/openknowledge/",
+      "json": "https://tesign.com/item/openknowledge/index.json",
+      "markdown": "https://tesign.com/item/openknowledge/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/openknowledge/",
+      "json": "https://tesign.com/en/item/openknowledge/index.json",
+      "markdown": "https://tesign.com/en/item/openknowledge/index.md"
+    }
+  },
+  "name": "OpenKnowledge",
+  "use_label": "노트·위키용 AI 편집기",
+  "one_liner": "로컬 폴더의 마크다운을 노션처럼 편집하고 Claude·Codex 같은 AI가 옆에서 함께 고치는 편집기",
+  "text": {
+    "why": "코드베이스, 위키, Obsidian 볼트 등 마크다운이 든 기존 폴더를 그대로 열어 Google Docs나 Notion처럼 위지윅으로 편집합니다. Claude, Codex, OpenCode, Pi 같은 에이전트와 나란히 편집하는 기능이 들어 있고, 컴퓨터에서 감지된 에이전트에 MCP와 스킬을 설치하는 안내를 앱이 해 줍니다. 데스크톱 앱(macOS·Windows·Linux) 또는 `npm install -g @inkeep/open-knowledge` 뒤 `ok start --open`으로 웹 UI를 띄울 수 있습니다.",
+    "take": "'Notion + VS Code'라는 자기 설명이 정확합니다. 파일은 내 폴더에, 편집은 위지윅, 에이전트는 MCP로 붙습니다.",
+    "build": [
+      "LLM 위키나 '두 번째 뇌'를 위한 스타터 팩으로 구조화된 지식 베이스를 만들고, MCP로 자기 에이전트가 문서를 검색·작성하게 할 수 있습니다. 팀 공유·자동 동기화는 git/GitHub 기반입니다."
+    ],
+    "who": [
+      {
+        "role": "Obsidian·마크다운 노트 사용자",
+        "situation": "기존 볼트를 위지윅으로 편집"
+      },
+      {
+        "role": "Claude Code·Codex 사용자",
+        "situation": "스펙과 문서를 에이전트와 나란히 작성"
+      },
+      {
+        "role": "소규모 팀",
+        "situation": "git/GitHub 기반 공유와 자동 동기화"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "npm install -g @inkeep/open-knowledge   # Node.js 24+ 와 git 필요"
+      },
+      {
+        "command": false,
+        "text": "cd your-project"
+      },
+      {
+        "command": false,
+        "text": "ok init          # 프로젝트 스캐폴드 + AI 편집기 연결(Claude Code, Claude Desktop, Cursor, Codex, OpenCode, OpenClaw)"
+      },
+      {
+        "command": false,
+        "text": "ok start --open  # 웹 편집기를 띄우고 브라우저에서 열기"
+      },
+      {
+        "command": false,
+        "text": "# 데스크톱 앱: openknowledge.ai/download 에서 DMG / Setup / deb·rpm"
+      }
+    ],
+    "caveat": [
+      "라이선스 GPL-3.0-or-later. README는 'Private, local, and free'라고 명시. 홈페이지 구조화 데이터 기준 무료(가격 0 USD), 유료 플랜 표기 없음(2026-09-15 확인).",
+      "데스크톱 앱은 macOS Apple Silicon·Windows 10+(x64/Arm64)·Linux(x64/arm64). 인텔 맥과 서버는 CLI 웹 앱으로. 웹 앱은 Node.js 24+와 git 필요.",
+      "AI 편집은 사용자가 이미 쓰는 Claude·Codex 등 하네스에 의존(각 서비스 비용은 별도). 최신 릴리스 v0.72.1(2026-09-15 확인). 개발사 Inkeep."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://openknowledge.ai/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "markdown",
+    "wysiwyg",
+    "knowledge-base",
+    "mcp",
+    "claude-code",
+    "local-first"
+  ],
+  "platform": [
+    "macos",
+    "windows",
+    "linux",
+    "web",
+    "cli"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포하면 소스 공개 의무(카피레프트).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://openknowledge.ai/",
+    "github": "https://github.com/inkeep/open-knowledge",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/inkeep/open-knowledge",
+        "posted_at": "2026-06-25T16:04:46.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=48675435"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/inkeep/open-knowledge",
+        "posted_at": "2026-06-25T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 4225,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:37.152Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 15,
+    "star_delta_30d": 23,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      6,
+      2,
+      null,
+      null,
+      null,
+      null,
+      13,
+      2,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 381,
+    "hn_points_observed_at": "2026-09-13T15:45:51.076Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T17:47:29.000Z",
+    "owner_type": "Organization",
+    "open_issues": 38,
+    "contributors": 15,
+    "releases_count": 1042,
+    "latest_release": {
+      "tag": "v0.74.0-beta.0",
+      "published_at": "2026-09-15T17:53:33.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-09-15T19:34:37.152Z",
+    "core_checked_at": "2026-09-15T19:34:37.152Z"
+  },
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "교차 신호",
+      "value": "Show HN + GitHub"
+    },
+    {
+      "kind": "back",
+      "label": "과거 기록",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/openknowledge-bde9248524.webp",
+    "cover": "https://tesign.com/img/openknowledge-bde9248524.webp",
+    "cover_width": 2736,
+    "cover_height": 1540,
+    "gallery": [
+      "https://tesign.com/img/openknowledge-bde9248524.webp",
+      "https://tesign.com/img/openknowledge-a469e9d41f.png"
+    ],
+    "alt": "OpenKnowledge 편집기: 왼쪽 Claude 패널이 출시 주간 회고를 초안하고, 오른쪽 'Launch week recap' 문서에 Highlights 항목이 채워지는 화면",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:29:34.920Z",
+    "source_created_at": "2026-06-25T16:04:46.000Z",
+    "discovery_hours": 1912.4135888888889,
+    "launch_signal_at": "2026-06-25T16:04:46.000Z",
+    "kept_at": "2026-09-14T19:27:43.451Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.933Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

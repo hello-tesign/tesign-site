@@ -1,0 +1,198 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "vorssaint",
+  "url": "https://tesign.com/item/vorssaint/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/vorssaint/",
+      "json": "https://tesign.com/item/vorssaint/index.json",
+      "markdown": "https://tesign.com/item/vorssaint/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/vorssaint/",
+      "json": "https://tesign.com/en/item/vorssaint/index.json",
+      "markdown": "https://tesign.com/en/item/vorssaint/index.md"
+    }
+  },
+  "name": "Vorssaint",
+  "use_label": "맥 사용자용 유틸리티 모음",
+  "one_liner": "맥 메뉴 막대 아이콘 하나에 앱별 볼륨·창 정렬·클립보드 기록·언인스톨러를 묶은 무료 도구 모음",
+  "text": {
+    "why": "맥 사용자가 하나씩 따로 사는 유틸리티(앱별 볼륨, 시스템 모니터, 앱 전환기, 창 스냅, 클립보드 기록, 언인스톨러)를 메뉴 막대 아이콘 하나 뒤에 모았습니다. 계정·텔레메트리·구독이 없고, 설정의 Features 화면에서 기능을 통째로 설치·제거할 수 있어 제거한 기능은 로드조차 되지 않아 CPU·메모리를 쓰지 않습니다. 2026년 6월 첫 커밋 뒤 README 기준 3일 만에 GitHub 트렌딩 상단에 올랐고, 현재 별 18,627개입니다.",
+    "take": "유료 유틸리티 여러 개를 대체하면서, 안 쓰는 기능은 로드조차 안 되게 만든 설계가 이 앱의 핵심입니다.",
+    "build": [
+      "GPL 소스(Swift)라 앱별 오디오 라우팅이나 창 스냅 같은 개별 기능의 구현을 참고해 자기 도구를 만들 수 있습니다. 단 이름·아이콘·외형은 TRADEMARKS.md로 따로 보호되므로 포크는 새 정체성이 필요합니다."
+    ],
+    "who": [
+      {
+        "role": "맥 사용자",
+        "situation": "앱별 볼륨, 창 스냅, 클립보드 기록을 앱 하나로"
+      },
+      {
+        "role": "유료 유틸리티를 여러 개 쓰는 사람",
+        "situation": "구독 없는 대체"
+      },
+      {
+        "role": "Swift 개발자",
+        "situation": "메뉴 막대 앱의 기능 모듈 구조 참고"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "brew install --cask vorssaint"
+      },
+      {
+        "command": false,
+        "text": "# 또는 releases 페이지의 디스크 이미지를 받아 Applications로 드래그"
+      },
+      {
+        "command": false,
+        "text": "# 제거: brew uninstall --cask vorssaint"
+      },
+      {
+        "command": false,
+        "text": "# 설정·권한까지 완전 제거: ./Tools/uninstall.sh"
+      }
+    ],
+    "caveat": [
+      "라이선스 GPL-3.0(README: GPL-3.0-or-later). 이름·로고·외형은 TRADEMARKS.md로 별도 보호.",
+      "Apple Silicon 맥과 macOS 14 Sonoma 이상만 지원. 기능별로 접근성·화면 기록 등 macOS 권한이 필요(모두 선택).",
+      "무료, 계정·분석 없음. 최신 릴리스 v3.3.5(2026-09-15 확인)."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://vorssaint.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "macos",
+    "menu-bar",
+    "window-management",
+    "clipboard",
+    "swift",
+    "utilities"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포하면 소스 공개 의무(카피레프트).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://vorssaint.com/",
+    "github": "https://github.com/vorssaint/vorssaint-utils",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/vorssaint/vorssaint-utils",
+        "posted_at": "2026-09-13T03:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 19211,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:24.397Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 15,
+    "star_delta_7d": 188,
+    "star_delta_30d": 591,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      21,
+      102,
+      229,
+      46,
+      2,
+      12,
+      19,
+      73,
+      45,
+      24,
+      6,
+      9
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": 23
+    },
+    "categories": []
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T18:08:03.000Z",
+    "owner_type": "User",
+    "open_issues": 467,
+    "contributors": 82,
+    "releases_count": 77,
+    "latest_release": {
+      "tag": "v3.4.0-beta.1",
+      "published_at": "2026-09-15T11:36:48.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-09-15T19:34:24.397Z",
+    "core_checked_at": "2026-09-15T19:34:24.397Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/vorssaint-7c7da88ea9.png",
+    "cover": "https://tesign.com/img/vorssaint-7c7da88ea9.png",
+    "cover_width": 1600,
+    "cover_height": 1058,
+    "gallery": [
+      "https://tesign.com/img/vorssaint-7c7da88ea9.png",
+      "https://tesign.com/img/vorssaint-70645cadf6.png",
+      "https://tesign.com/img/vorssaint-ec50f23a52.png",
+      "https://tesign.com/img/vorssaint-8878bea451.png"
+    ],
+    "alt": "Vorssaint 설정의 Features 화면: 37개 기능이 모두 설치된 상태, Essentials·Windows·Battery and quiet 번들 카드와 기능별 Uninstall 버튼",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:06:10.416Z",
+    "source_created_at": "2026-06-12T15:25:43.000Z",
+    "discovery_hours": 2224.6742822222222,
+    "launch_signal_at": "2026-09-13T03:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.408Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:57.051Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

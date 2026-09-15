@@ -1,0 +1,201 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "esp-kvm",
+  "url": "https://tesign.com/item/esp-kvm/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/esp-kvm/",
+      "json": "https://tesign.com/item/esp-kvm/index.json",
+      "markdown": "https://tesign.com/item/esp-kvm/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/esp-kvm/",
+      "json": "https://tesign.com/en/item/esp-kvm/index.json",
+      "markdown": "https://tesign.com/en/item/esp-kvm/index.md"
+    }
+  },
+  "name": "ESP-KVM",
+  "use_label": "직접 만드는 원격 KVM",
+  "one_liner": "ESP32-P4 보드로 만드는 IP-KVM — OS가 없거나 부팅 전인 PC의 BIOS 화면과 키보드·마우스를 브라우저에서 다룬다(부품 약 $40)",
+  "text": {
+    "why": "원격 데스크톱은 OS가 살아 있어야 하지만, 이 장치는 대상 PC의 HDMI 출력과 USB 포트에 물려 BIOS·부트 메뉴·OS가 없는 상태까지 브라우저로 보여 준다. ESP32-P4 보드와 Toshiba TC358743 HDMI-CSI 브리지(Geekworm C790)로 구성되며 홈페이지는 부품값을 약 $40으로 적는다. 1080p 실측은 Waveshare ESP32-P4-ETH에서 MJPEG 20fps, Function EV(rev 3.2)에서 H.264 22–24fps이고, 가상 미디어 부팅·Wake-on-LAN·ATX 전원 제어·Home Assistant(MQTT)·WireGuard/Tailscale까지 들어 있다. 브라우저에서 바로 플래시할 수 있고 최신 릴리스는 v0.48.0(2026-09-14).",
+    "take": "원격 데스크톱이 죽은 자리에서만 진가가 드러나는 도구인데, 그 자리를 40달러 부품과 브라우저 플래시로 채웠다 — 단, 공개 인터넷에 두지 말라는 저자의 경고는 문자 그대로 받아들여야 한다.",
+    "build": [
+      "홈랩 서버·미니PC 여러 대에 BMC 대용으로 달거나, 런북(화면에 'Press F2'가 뜨면 F2를 누르는 식의 매크로)과 크론 스케줄러를 엮어 BIOS 설정·부트 메뉴처럼 문자 화면에서 이뤄지는 작업과 야간 점검을 자동화할 수 있다."
+    ],
+    "who": [
+      {
+        "role": "홈랩·미니PC 운영자",
+        "situation": "BIOS 진입·OS 재설치를 원격으로"
+      },
+      {
+        "role": "Home Assistant 사용자",
+        "situation": "MQTT 자동 발견으로 화면 스틸·전원 버튼·센서 연동"
+      },
+      {
+        "role": "ESP32-P4·HDMI 캡처를 다루는 임베디드 개발자",
+        "situation": "TC358743 브링업과 CSI 레지스터 코드 참고"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. Releases에서 보드용 espkvm-<version>-<board>-merged.bin 받기 (예: -p4-eth-, -funcev-)"
+      },
+      {
+        "command": false,
+        "text": "esptool --chip esp32p4 -b 921600 write-flash 0x0 espkvm-<version>-<board>-merged.bin"
+      },
+      {
+        "command": false,
+        "text": "# 또는 Chrome/Edge에서 https://espkvm.io/flash/ 로 바로 플래시"
+      },
+      {
+        "command": false,
+        "text": "2. 이더넷, 대상 PC의 HDMI, 보드의 USB 2.0 OTG-HS 포트를 연결하고 https://espkvm.local/ 접속"
+      },
+      {
+        "command": false,
+        "text": "3. admin / admin 으로 로그인 → 비밀번호를 바꿔야 다음으로 진행됨"
+      }
+    ],
+    "caveat": [
+      "Apache-2.0; 저자가 H.264 자체는 라이선스와 무관하게 특허 부담이 있다고 명시",
+      "하드웨어 조건: PSRAM 32MB·플래시 16MB 이상의 ESP32-P4 보드 + TC358743 캡처 보드(Geekworm C790) — 홈페이지 기준 약 $40; 칩 리비전(3.0 미만/이상)에 따라 빌드가 다름",
+      "보안 검토를 거치지 않았으니 공개 인터넷 노출 금지(VPN 내장); HDMI 오디오 미구현; H.264·키보드·마우스는 장치 CA를 신뢰한 HTTPS에서만 동작"
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://espkvm.io/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "hardware",
+    "infra"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ip-kvm",
+    "esp32-p4",
+    "hdmi-capture",
+    "homelab",
+    "esp-idf",
+    "home-assistant"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 고지 유지, 바꾼 부분은 표시.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "C",
+  "source_urls": {
+    "canonical": "https://espkvm.io/",
+    "github": "https://github.com/espkvm/espkvm",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/espkvm/espkvm",
+        "posted_at": "2026-09-11T14:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 422,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:24.834Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 12,
+    "star_delta_30d": 12,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      4,
+      6,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T16:53:23.000Z",
+    "owner_type": "Organization",
+    "open_issues": 2,
+    "contributors": 4,
+    "releases_count": 81,
+    "latest_release": {
+      "tag": "v.0.49.0",
+      "published_at": "2026-09-15T17:02:26.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:24.834Z",
+    "core_checked_at": "2026-09-15T19:35:24.834Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "과거 기록",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/esp-kvm-d27aaf95fb.png",
+    "cover": "https://tesign.com/img/esp-kvm-d27aaf95fb.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/esp-kvm-d27aaf95fb.png",
+      "https://tesign.com/img/esp-kvm-684b0ecfa8.png",
+      "https://tesign.com/img/esp-kvm-2af3c5639a.webp",
+      "https://tesign.com/img/esp-kvm-c6105a3a10.png"
+    ],
+    "alt": "ESP-KVM 브라우저 콘솔 — 대상 PC 바탕화면에 우클릭 메뉴가 열려 있고, 아래 상태 바와 영상 설정 패널이 보이는 화면",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:56:24.840Z",
+    "source_created_at": "2026-07-22T20:25:01.000Z",
+    "discovery_hours": 1261.5232888888888,
+    "launch_signal_at": "2026-09-11T14:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.595Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:56.864Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "nurb",
+  "url": "https://tesign.com/item/nurb/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/nurb/",
+      "json": "https://tesign.com/item/nurb/index.json",
+      "markdown": "https://tesign.com/item/nurb/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/nurb/",
+      "json": "https://tesign.com/en/item/nurb/index.json",
+      "markdown": "https://tesign.com/en/item/nurb/index.md"
+    }
+  },
+  "name": "nurb",
+  "use_label": "3D 프린터용 대화형 CAD",
+  "one_liner": "3D 프린팅할 부품을 말로 설명하면 AI가 진짜 CAD 솔리드로 만들고, 인쇄 가능성 검사 뒤 3MF로 내보냅니다.",
+  "text": {
+    "why": "nurb의 부품은 메시가 아니라 OCCT 커널 위의 진짜 B-rep 솔리드(build123d)여서 챔퍼·필렛이 실제 연산이고 STEP으로 Fusion이나 FreeCAD에서 열립니다. AI는 눈이 없으므로 `nurb check`가 오버행·얇은 벽·떠 있는 영역·휨 위험 등 13가지 규칙을 정확한 솔리드에 대해 돌리고, 발견 사항을 해당 면에 좌표로 붙입니다. 이미 구독 중인 AI로 로컬에서만 동작하며 계정이나 클라우드가 없습니다.",
+    "take": "AI CAD의 진짜 병목은 모델링이 아니라 '인쇄가 되는지'인데, nurb는 그 검사를 도구로 만들었습니다.",
+    "build": [
+      "집 안의 어긋난 부품(청소기 호스 어댑터, 선반 브래킷)을 치수만 재서 말로 주문하는 개인 제작 흐름을 만들 수 있고, `nurb check --strict`를 CI에 넣어 부품 라이브러리의 인쇄 가능성을 자동 검사하는 파이프라인도 꾸릴 수 있습니다."
+    ],
+    "who": [
+      {
+        "role": "3D 프린터를 가진 메이커",
+        "situation": "말로 설명해 맞춤 부품 설계·출력"
+      },
+      {
+        "role": "CAD를 배우지 않은 취미가",
+        "situation": "슬라이더로 치수만 조정해 변형 부품 제작"
+      },
+      {
+        "role": "AI 에이전트를 쓰는 개발자",
+        "situation": "부품을 파이썬 함수로 두고 CLI로 빌드·검사·내보내기"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Mac 앱: GitHub Releases에서 nurb.dmg(Apple silicon) 또는 nurb-intel.dmg 내려받기"
+      },
+      {
+        "command": false,
+        "text": "curl -fsSL https://nurb.dev/install.sh | sh   # 명령줄 한 줄 설치(uv·nurb·에이전트 스킬 모두)"
+      },
+      {
+        "command": false,
+        "text": "# 또는: uv tool install nurb   (또는 pip install nurb) — 이 경우 스킬은 아래 줄로 따로 설치"
+      },
+      {
+        "command": false,
+        "text": "npx skills add shpigford/nurb --skill nurb   # 에이전트 스킬 설치"
+      },
+      {
+        "command": false,
+        "text": "nurb update   # nurb와 설치된 에이전트 스킬을 함께 업그레이드"
+      }
+    ],
+    "caveat": [
+      "라이선스는 FSL-1.1-MIT(LICENSE 파일 확인): 경쟁 제품을 만드는 용도를 제외하면 소스 이용 가능이고 각 릴리스는 2년 뒤 MIT로 전환됩니다. 통상의 오픈소스 라이선스와 다르니 상업 이용 전 조문을 읽어야 합니다. 첫 빌드는 CAD 커널 로딩으로 약 45초, `nurb slice`는 OrcaSlicer 또는 Bambu Studio 설치가 필요하고 `nurb render`만 브라우저(Playwright chromium)를 요구합니다. Mac 앱 외 플랫폼의 지원 범위는 [확인 필요]. 비용 없음, AI 구독은 사용자 부담."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://nurb.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "hardware",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "3d-printing",
+    "cad",
+    "ai-agent",
+    "occt",
+    "python",
+    "cli"
+  ],
+  "platform": [
+    "macos",
+    "cli"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
+    "url": "https://github.com/shpigford/nurb?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://nurb.dev/",
+    "github": "https://github.com/shpigford/nurb",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/Shpigford/nurb",
+        "posted_at": "2026-07-29T19:46:24.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49102100"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 539,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:29.303Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-13T14:48:48.921Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-05T11:41:55.000Z",
+    "owner_type": "User",
+    "open_issues": 12,
+    "contributors": 11,
+    "releases_count": 37,
+    "latest_release": {
+      "tag": "v0.26.0",
+      "published_at": "2026-09-05T11:41:55.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:29.303Z",
+    "core_checked_at": "2026-09-15T19:35:29.303Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "과거 기록",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/nurb-77b79fad3b.png",
+    "cover": "https://tesign.com/img/nurb-77b79fad3b.png",
+    "cover_width": 3218,
+    "cover_height": 1900,
+    "gallery": [
+      "https://tesign.com/img/nurb-77b79fad3b.png",
+      "https://tesign.com/img/nurb-0c67d8c9bd.png"
+    ],
+    "alt": "nurb 앱: 프로젝트 레일, 에이전트 채팅, 부품이 표시된 라이브 3D 뷰어",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T14:48:48.921Z",
+    "source_created_at": "2026-07-29T19:46:24.000Z",
+    "discovery_hours": 1099.0402558333333,
+    "launch_signal_at": "2026-07-29T19:46:24.000Z",
+    "kept_at": "2026-09-14T19:27:43.560Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:56.916Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

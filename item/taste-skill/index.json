@@ -1,0 +1,190 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "taste-skill",
+  "url": "https://tesign.com/item/taste-skill/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/taste-skill/",
+      "json": "https://tesign.com/item/taste-skill/index.json",
+      "markdown": "https://tesign.com/item/taste-skill/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/taste-skill/",
+      "json": "https://tesign.com/en/item/taste-skill/index.json",
+      "markdown": "https://tesign.com/en/item/taste-skill/index.md"
+    }
+  },
+  "name": "Taste-Skill",
+  "use_label": "에이전트의 화면 디자인 감각",
+  "one_liner": "에이전트가 만드는 화면이 매번 비슷해지는 것을 막습니다.",
+  "text": {
+    "why": "에이전트에 화면을 맡기면 어디서 본 듯한 기본 레이아웃이 반복됩니다. Taste-Skill은 그 기본값을 바꾸는 스킬로, 뻔하게 생긴 결과가 나오지 않도록 판단 기준을 얹습니다. Claude Code·Codex 같은 도구에 붙여 쓰고 MIT 라이선스로 공개돼 있습니다. 무엇을 좋은 결과로 볼지는 취향이 갈리는 영역이라, 팀 기준과 맞는지는 직접 보고 정해야 합니다.",
+    "take": "에이전트 화면의 기본값을 바꾸는 규칙집이라, 결과가 팀 취향에 맞는지는 직접 보고 정해야 합니다.",
+    "build": [
+      "프런트엔드 결과물의 기본값을 바꾸는 팀 설정",
+      "시안 여러 장을 빠르게 뽑는 디자인 탐색 단계"
+    ],
+    "who": [
+      {
+        "role": "1인 창업자",
+        "situation": "랜딩 페이지 시안을 빠르게 여러 장 뽑을 때"
+      },
+      {
+        "role": "프런트엔드 개발자",
+        "situation": "에이전트 결과물의 첫인상을 올리고 싶을 때"
+      },
+      {
+        "role": "디자이너",
+        "situation": "레퍼런스 보드용 이미지 생성 지침이 필요할 때"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "npx skills add https://github.com/Leonxlnx/taste-skill"
+      },
+      {
+        "command": false,
+        "text": "스킬 하나만 고르려면 --skill \"설치 이름\" 옵션을 붙입니다"
+      },
+      {
+        "command": false,
+        "text": "SKILL.md를 프로젝트에 복사하거나 대화에 붙여 넣어도 됩니다"
+      }
+    ],
+    "caveat": [
+      "기본 taste-skill은 v2(실험적)이며 v1은 별도 이름으로 남아 있습니다",
+      "'무엇이 좋은 화면인가'는 취향 문제라 결과를 직접 검토해야 합니다"
+    ]
+  },
+  "cta": {
+    "type": "use_package",
+    "label": "USE PACKAGE",
+    "url": "https://tasteskill.dev/"
+  },
+  "ready": "developer",
+  "categories": [
+    "design",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "design",
+    "agent-skills",
+    "frontend"
+  ],
+  "platform": [],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://tasteskill.dev/",
+    "github": "https://github.com/leonxlnx/taste-skill",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/leonxlnx/taste-skill",
+        "posted_at": "2026-09-13T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 87389,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:12.129Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 30,
+    "star_delta_7d": 226,
+    "star_delta_30d": 583,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      4,
+      104,
+      101,
+      127,
+      12,
+      4,
+      9,
+      7,
+      68,
+      59,
+      46,
+      9,
+      26
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": 53,
+    "rising": {
+      "24h": null,
+      "7d": 36,
+      "30d": 25
+    },
+    "categories": [
+      {
+        "category": "design",
+        "label": "디자인",
+        "rank": 1
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-08-24T15:23:56.000Z",
+    "owner_type": "User",
+    "open_issues": 67,
+    "contributors": 7,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:34:12.129Z",
+    "core_checked_at": "2026-09-15T19:34:12.129Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/taste-skill-af69471b0d.webp",
+    "cover": "https://tesign.com/img/taste-skill-af69471b0d.webp",
+    "cover_width": 1983,
+    "cover_height": 793,
+    "gallery": [
+      "https://tesign.com/img/taste-skill-af69471b0d.webp",
+      "https://tesign.com/img/taste-skill-25b5d2a20e.png"
+    ],
+    "alt": "Taste Skill 배너. 베이지 배경에 로고와 'Anti-Slop Frontend Framework' 문구, 흰 UI 목업 그래픽.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:34.171Z",
+    "source_created_at": "2026-02-19T21:44:05.000Z",
+    "discovery_hours": 4929.991436388889,
+    "launch_signal_at": "2026-09-13T00:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.655Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T04:36:57.029Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

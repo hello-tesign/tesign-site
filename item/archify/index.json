@@ -1,0 +1,213 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "archify",
+  "url": "https://tesign.com/item/archify/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/archify/",
+      "json": "https://tesign.com/item/archify/index.json",
+      "markdown": "https://tesign.com/item/archify/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/archify/",
+      "json": "https://tesign.com/en/item/archify/index.json",
+      "markdown": "https://tesign.com/en/item/archify/index.md"
+    }
+  },
+  "name": "archify",
+  "use_label": "에이전트 사용자용 구조도 생성",
+  "one_liner": "구조도와 흐름도를 의존성 없는 HTML 한 파일로 뽑아냅니다.",
+  "text": {
+    "why": "구조도는 한 번 그려 두면 금방 낡고, 고칠 때마다 그리기 도구를 다시 여는 일이 반복됩니다. archify는 코딩 에이전트가 쓰는 스킬 형태라, 코드 옆에서 구조·워크플로·시퀀스·데이터 흐름·라이프사이클 다이어그램을 만들어 냅니다. 결과는 의존성 없는 HTML 한 파일이라 그대로 열거나 내보낼 수 있습니다. MIT 라이선스입니다.",
+    "take": "구조도를 코드 옆에서 에이전트가 그리고 검증까지 하게 하니, 낡은 도식 문제가 줄어듭니다.",
+    "build": [
+      "저장소 구조를 설명하는 온보딩 문서용 도식",
+      "고객 제안서에 넣을 시스템 흐름도 한 장",
+      "배포할 때마다 다시 그려 붙이는 아키텍처 페이지"
+    ],
+    "who": [
+      {
+        "role": "백엔드 개발자",
+        "situation": "온보딩 문서용 구조도를 계속 갱신해야 할 때"
+      },
+      {
+        "role": "기술 컨설턴트",
+        "situation": "제안서에 넣을 시스템 흐름도가 필요할 때"
+      },
+      {
+        "role": "테크 리드",
+        "situation": "PR 전후 아키텍처 변경을 비교해 보여 줄 때"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "npx skills add tt-a1i/archify -g"
+      },
+      {
+        "command": false,
+        "text": "설치 없이 써 보려면(Codex 예):"
+      },
+      {
+        "command": true,
+        "text": "npx skills use tt-a1i/archify@archify --agent codex"
+      },
+      {
+        "command": false,
+        "text": "에이전트 채팅에서 시스템 설명을 주고 Archify로 그려 달라고 요청"
+      }
+    ],
+    "caveat": [
+      "Cursor·Claude Code·Codex·OpenCode 등 에이전트 호스트와 Node.js가 필요합니다",
+      "기본 설정에서 안내용 업데이트 확인 요청을 보냅니다(환경변수로 끌 수 있음)",
+      "Mermaid 자동 변환·WYSIWYG 편집은 범위 밖이라고 밝힙니다"
+    ]
+  },
+  "cta": {
+    "type": "use_package",
+    "label": "USE PACKAGE",
+    "url": "https://tt-a1i.github.io/archify"
+  },
+  "ready": "developer",
+  "categories": [
+    "dev-tools",
+    "design"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "diagrams",
+    "agent-skills",
+    "docs"
+  ],
+  "platform": [],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://tt-a1i.github.io/archify",
+    "github": "https://github.com/tt-a1i/archify",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/tt-a1i/archify",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 63355,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:51.620Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 155,
+    "star_delta_7d": 1139,
+    "star_delta_30d": 3358,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      17,
+      36,
+      658,
+      581,
+      602,
+      139,
+      33,
+      66,
+      119,
+      350,
+      263,
+      173,
+      42,
+      119
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": 95,
+    "rising": {
+      "24h": null,
+      "7d": 3,
+      "30d": 2
+    },
+    "categories": [
+      {
+        "category": "dev-tools",
+        "label": "개발 도구",
+        "rank": 20
+      },
+      {
+        "category": "design",
+        "label": "디자인",
+        "rank": 3
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T08:27:46.000Z",
+    "owner_type": "User",
+    "open_issues": 173,
+    "contributors": 29,
+    "releases_count": 18,
+    "latest_release": {
+      "tag": "v2.16.0",
+      "published_at": "2026-08-30T11:17:04.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:33:51.620Z",
+    "core_checked_at": "2026-09-15T19:33:51.620Z"
+  },
+  "signals": [
+    {
+      "kind": "rising",
+      "label": "상승 중",
+      "value": "+155 ★ / 24h"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/archify-78b7af839e.png",
+    "cover": "https://tesign.com/img/archify-78b7af839e.png",
+    "cover_width": 1440,
+    "cover_height": 810,
+    "gallery": [
+      "https://tesign.com/img/archify-78b7af839e.png",
+      "https://tesign.com/img/archify-77741a0966.png",
+      "https://tesign.com/img/archify-b4d3bdf664.png",
+      "https://tesign.com/img/archify-3b219ff225.png"
+    ],
+    "alt": "Archify README 히어로. 슬로건 옆 브라우저 창에 인증·프런트엔드·백엔드·DB·클라우드 구성도가 다크·라이트 테마로 보입니다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:26.628Z",
+    "source_created_at": "2026-04-15T05:27:37.000Z",
+    "discovery_hours": 3626.2637855555554,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.478Z",
+    "first_published_at": "2026-09-13T11:32:21.801Z",
+    "updated_at": "2026-09-15T04:36:56.799Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

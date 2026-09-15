@@ -1,0 +1,204 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "gitfut",
+  "url": "https://tesign.com/item/gitfut/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/gitfut/",
+      "json": "https://tesign.com/item/gitfut/index.json",
+      "markdown": "https://tesign.com/item/gitfut/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/gitfut/",
+      "json": "https://tesign.com/en/item/gitfut/index.json",
+      "markdown": "https://tesign.com/en/item/gitfut/index.md"
+    }
+  },
+  "name": "GitFut",
+  "use_label": "GitHub 프로필 선수 카드",
+  "one_liner": "GitHub 프로필을 99점 만점 FIFA 스타일 선수 카드로 바꿔 README에 라이브 이미지로 심는 서비스",
+  "text": {
+    "why": "여섯 스탯은 GitHub GraphQL API에서 읽은 실제 수치다 — PAC는 지난 1년 커밋, SHO는 스타, PAS는 PR+팔로워, DRI는 언어 다양성, DEF는 리뷰+이슈, PHY는 생애 기여. 원시 스탯은 88에서 캡이 걸리고 90대는 연차와 영향력으로만 열리는 '레거시 게이트'라 한 해 몰아쳐도 아이콘이 되지 않는다. 카드 URL은 스탯이 바뀌면 스스로 다시 채점되며, 홈페이지 카운터는 약 125만 장(2026-09-15 조회)을 표시한다.",
+    "take": "지표를 게임 카드로 바꾸는 장난이지만, 연간 상을 로그 스케일로 판정해 커밋 스팸이 통하지 않게 한 설계는 진지하다.",
+    "build": [
+      "README나 포트폴리오에 `gitfut.com/<username>.png`를 넣는 것이 기본 용도. 연간 상(발롱도르) 판정 공식(yearScore = 4·log(commits) + 3·log(PRs) + …)이 공개돼 있어 팀 내부 랭킹 카드 같은 변형의 참고가 된다."
+    ],
+    "who": [
+      {
+        "role": "GitHub 프로필을 꾸미는 개발자",
+        "situation": "README 상단 라이브 카드"
+      },
+      {
+        "role": "개발자 커뮤니티 운영자",
+        "situation": "이벤트용 카드·트로피 공유"
+      },
+      {
+        "role": "지표 설계에 관심 있는 사람",
+        "situation": "공개된 채점 규칙 참고"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "[![My GitFut card](https://gitfut.com/YOUR_USERNAME.png)](https://gitfut.com/YOUR_USERNAME)"
+      },
+      {
+        "command": false,
+        "text": "gitfut.com/<username>.png — 카드 라이브 이미지"
+      },
+      {
+        "command": false,
+        "text": "gitfut.com/<username> — 전체 스카우트 리포트"
+      },
+      {
+        "command": false,
+        "text": "?country=XX — 국기 변경(예: ?country=DZ)"
+      }
+    ],
+    "caveat": [
+      "MIT(소스). 실제 서비스는 gitfut.com(Next.js·TypeScript·Tailwind·Redis)이고 README에 자체 호스팅 절차나 실행 명령은 없다 [확인 필요]. 홈페이지에서는 사용자명만 입력해 조회한다. 규칙이 2026 월드컵에 맞춰져 있어 GitHub 위치가 스페인인 프로필에는 'World Cup Trophy'가 자동 부여된다. 마지막 푸시 2026-08-05."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://gitfut.com/"
+  },
+  "ready": "browser",
+  "categories": [
+    "social"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "github",
+    "profile-card",
+    "readme",
+    "fifa",
+    "nextjs"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://gitfut.com/",
+    "github": "https://github.com/younesfdj/gitfut",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/younesfdj/gitfut",
+        "posted_at": "2026-07-03T23:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 2591,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:39.900Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "social",
+        "label": "소셜",
+        "rank": 17
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-08-05T23:28:19.000Z",
+    "owner_type": "User",
+    "open_issues": 50,
+    "contributors": 9,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:34:39.900Z",
+    "core_checked_at": "2026-09-15T19:34:39.900Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "과거 기록",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/gitfut-623cd926ed.png",
+    "cover": "https://tesign.com/img/gitfut-623cd926ed.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/gitfut-623cd926ed.png",
+      "https://tesign.com/img/gitfut-f67e5d57c6.png",
+      "https://tesign.com/img/gitfut-f7d0b248a2.png",
+      "https://tesign.com/img/gitfut-4e40f42f03.png"
+    ],
+    "alt": "GitFut 선수 카드 — 종합 점수와 PAC·SHO·PAS·DRI·DEF·PHY 여섯 스탯이 적힌 FIFA 스타일 카드",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:37:00.390Z",
+    "source_created_at": "2026-06-24T01:17:51.000Z",
+    "discovery_hours": 1951.319275,
+    "launch_signal_at": "2026-07-03T23:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.502Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.873Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

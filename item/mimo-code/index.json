@@ -1,0 +1,197 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "mimo-code",
+  "url": "https://tesign.com/item/mimo-code/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/mimo-code/",
+      "json": "https://tesign.com/item/mimo-code/index.json",
+      "markdown": "https://tesign.com/item/mimo-code/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/mimo-code/",
+      "json": "https://tesign.com/en/item/mimo-code/index.json",
+      "markdown": "https://tesign.com/en/item/mimo-code/index.md"
+    }
+  },
+  "name": "MiMo Code",
+  "use_label": "기억하는 터미널 코딩 에이전트",
+  "one_liner": "샤오미의 터미널 코딩 에이전트 — 세션을 넘어 기억하는 프로젝트 메모리, 서브에이전트, 음성 입력",
+  "text": {
+    "why": "OpenCode 포크 위에 SQLite FTS5 기반 영속 메모리(MEMORY.md·checkpoint.md·notes.md·tasks/)를 얹어, 컨텍스트가 한계에 가까워지면 최신 체크포인트에서 재구성하고 세션을 재개하면 자동으로 주입한다. 로그인은 샤오미 MiMo OAuth, Codex(ChatGPT) OAuth, Claude Code 인증 가져오기, API 키나 OpenAI 호환 커스텀 엔드포인트 중 고른다. `/goal`은 별도 판정 모델이 종료 조건을 검사해 낙관적 조기 종료를 막고, `/voice`는 TenVAD와 MiMo ASR로 말을 스트리밍 입력한다.",
+    "take": "다른 코딩 에이전트의 인증을 그대로 가져와 바로 쓰게 한 것이 진입 전략이고, 메모리·체크포인트가 남기려는 차별점이다.",
+    "build": [
+      "compose·deep-research·fact-check·research-experiment 4개 내장 워크플로를 본떠 `.mimocode/workflows/`에 JS로 자기 팀의 결정적 다단계 파이프라인을 쓸 수 있다."
+    ],
+    "who": [
+      {
+        "role": "터미널 코딩 에이전트 사용자",
+        "situation": "Claude Code/Codex 인증 그대로 갈아타 보기"
+      },
+      {
+        "role": "긴 작업을 돌리는 개발자",
+        "situation": "체크포인트·메모리로 세션 재개"
+      },
+      {
+        "role": "연구자",
+        "situation": "deep-research·fact-check 워크플로와 arXiv 스킬"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "curl -fsSL https://mimo.xiaomi.com/install | bash                          # macOS / Linux"
+      },
+      {
+        "command": false,
+        "text": "powershell -ep Bypass -c \"irm https://mimo.xiaomi.com/install.ps1 | iex\"   # Windows PowerShell"
+      },
+      {
+        "command": false,
+        "text": "npm install -g @mimo-ai/cli                                                # or via npm (all platforms)"
+      },
+      {
+        "command": false,
+        "text": "mimo"
+      }
+    ],
+    "caveat": [
+      "소스는 MIT이지만 별도 USE_RESTRICTIONS.md(군사 목적, 사람 감독 없는 고위험 자동 실행 등 금지)가 함께 적용되고, 샤오미 호스팅 서비스는 MiMo 이용약관을 따른다. 모델 비용은 선택한 경로(샤오미 플랫폼·Codex 구독·API 키) 기준 본인 부담. macOS 기본 Terminal.app은 미지원(iTerm2나 VS Code 터미널 권장). 음성 입력은 기본적으로 MiMo 로그인 사용자용이고(OpenRouter·자체 릴레이 경로는 별도 설정) sox가 필요하다. Windows·macOS·Linux."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://mimo.xiaomi.com/mimocode"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "coding-agent",
+    "cli",
+    "terminal",
+    "xiaomi",
+    "opencode-fork",
+    "ai"
+  ],
+  "platform": [
+    "cli",
+    "macos",
+    "windows",
+    "linux"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://mimo.xiaomi.com/mimocode",
+    "github": "https://github.com/xiaomimimo/mimo-code",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/xiaomimimo/mimo-code",
+        "posted_at": "2026-06-13T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 13128,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:29.158Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 6,
+    "star_delta_30d": 8,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4,
+      2,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:08:50.000Z",
+    "owner_type": "Organization",
+    "open_issues": 1001,
+    "contributors": 20,
+    "releases_count": 14,
+    "latest_release": {
+      "tag": "v0.1.14",
+      "published_at": "2026-09-02T08:53:47.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:29.158Z",
+    "core_checked_at": "2026-09-15T19:34:29.158Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "과거 기록",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/mimo-code-321db9ebd5.jpg",
+    "cover": "https://tesign.com/img/mimo-code-321db9ebd5.jpg",
+    "cover_width": 1220,
+    "cover_height": 799,
+    "gallery": [
+      "https://tesign.com/img/mimo-code-321db9ebd5.jpg",
+      "https://tesign.com/img/mimo-code-96c2b548d7.jpg",
+      "https://tesign.com/img/mimo-code-1d9967b941.jpg"
+    ],
+    "alt": "README 캡처 — MiMoCode를 엔진으로 쓰는 별도 베타 앱 MiMo Desktop의 영어 화면(터미널 UI 아님)",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:16:21.287Z",
+    "source_created_at": "2026-06-10T11:52:41.000Z",
+    "discovery_hours": 2276.3945241666665,
+    "launch_signal_at": "2026-06-13T00:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.509Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.908Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

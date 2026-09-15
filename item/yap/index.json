@@ -1,0 +1,192 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "yap",
+  "url": "https://tesign.com/item/yap/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/yap/",
+      "json": "https://tesign.com/item/yap/index.json",
+      "markdown": "https://tesign.com/item/yap/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/yap/",
+      "json": "https://tesign.com/en/item/yap/index.json",
+      "markdown": "https://tesign.com/en/item/yap/index.md"
+    }
+  },
+  "name": "Yap",
+  "use_label": "맥 사용자용 기기 내 받아쓰기",
+  "one_liner": "단축키를 누르고 말하면 어느 입력창에나 글이 들어가는 macOS 받아쓰기 앱. 기기 내 처리, 계정·키 없음.",
+  "text": {
+    "why": "macOS 26이 추가한 SpeechAnalyzer·SpeechTranscriber API는 OS가 관리하는 모델로 기기 안에서 스트리밍 음성 인식을 합니다. Yap은 그 경로만 쓰기 때문에 모델을 내려받지 않고, 앱 크기는 4 MB, 유휴 메모리는 약 60 MB이며 네트워크 코드 자체가 없습니다. README가 인용한 벤치마크(LibriSpeech 5,559개 클립)에서 Apple 모델은 깨끗한 음성 기준 단어 오류율 2.12%로 Whisper Small(3.74%)보다 낮았고 약 3배 빨랐습니다.",
+    "take": "OS에 이미 들어온 음성 인식을 그대로 쓰는 것이, 모델을 내려받는 도구보다 가볍고 사적이라는 사례입니다.",
+    "build": [
+      "약 3천 줄의 Swift라서 읽고 고치기 쉽습니다. `RecordingCoordinator` 상태 기계를 그대로 두고 언어 선택기나 특정 앱용 붙여넣기 방식을 덧붙이는 식으로 자기만의 받아쓰기 앱을 만들 수 있습니다."
+    ],
+    "who": [
+      {
+        "role": "코딩 에이전트에 프롬프트를 자주 쓰는 개발자",
+        "situation": "터미널·에디터에 말로 입력, 미리보기 후 삽입"
+      },
+      {
+        "role": "이메일·슬랙을 많이 쓰는 직장인",
+        "situation": "타자보다 빠른 문장 입력"
+      },
+      {
+        "role": "음성이 외부로 나가는 것을 원치 않는 사용자",
+        "situation": "네트워크 호출 0의 받아쓰기"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "brew install --cask frigadehq/tap/yap"
+      },
+      {
+        "command": false,
+        "text": "brew upgrade --cask yap   # 업데이트"
+      },
+      {
+        "command": false,
+        "text": "# 또는 https://frigade.com/yap 에서 .dmg 내려받아 Applications로 드래그"
+      },
+      {
+        "command": false,
+        "text": "소스 빌드(Xcode 26): git clone https://github.com/FrigadeHQ/yap.git && cd yap && ./install.sh"
+      }
+    ],
+    "caveat": [
+      "라이선스 MIT. macOS 26 Tahoe 이상 + Apple Silicon 전용이며 Intel Mac은 지원하지 않습니다(Intel용 0.1.4 이하 구버전은 Apple 서버로 음성을 보냅니다). 마이크·음성 인식·손쉬운 사용·자동화 4가지 권한이 필요하고 손쉬운 사용은 시스템 설정에서 직접 켜야 합니다. 언어는 시스템 로케일을 따르며 언어 선택기는 아직 없습니다. 비용 없음."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://frigade.com/yap"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "dictation",
+    "speech-to-text",
+    "macos",
+    "on-device",
+    "swift",
+    "menu-bar"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://frigade.com/yap",
+    "github": "https://github.com/frigadehq/yap",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/FrigadeHQ/yap",
+        "posted_at": "2026-07-27T18:36:02.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49073834"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 392,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:30.662Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 104,
+    "hn_points_observed_at": "2026-09-13T14:52:26.821Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T00:08:43.000Z",
+    "owner_type": "Organization",
+    "open_issues": 7,
+    "contributors": 6,
+    "releases_count": 13,
+    "latest_release": {
+      "tag": "v0.1.12",
+      "published_at": "2026-09-15T00:08:43.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:30.662Z",
+    "core_checked_at": "2026-09-15T19:35:30.662Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "과거 기록",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/yap-6c42099287.png",
+    "cover": "https://tesign.com/img/yap-6c42099287.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/yap-6c42099287.png"
+    ],
+    "alt": "화면 하단에 뜬 Yap 받아쓰기 창: 실시간 파형과 지금까지 말한 내용의 미리보기",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T14:52:26.821Z",
+    "source_created_at": "2026-07-27T18:36:02.000Z",
+    "discovery_hours": 1148.273561388889,
+    "launch_signal_at": "2026-07-27T18:36:02.000Z",
+    "kept_at": "2026-09-14T19:27:43.572Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:57.060Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

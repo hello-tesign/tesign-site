@@ -1,0 +1,196 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "ko",
+  "slug": "oauthcli",
+  "url": "https://tesign.com/item/oauthcli/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/oauthcli/",
+      "json": "https://tesign.com/item/oauthcli/index.json",
+      "markdown": "https://tesign.com/item/oauthcli/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/oauthcli/",
+      "json": "https://tesign.com/en/item/oauthcli/index.json",
+      "markdown": "https://tesign.com/en/item/oauthcli/index.md"
+    }
+  },
+  "name": "oauthcli",
+  "use_label": "개발자용 OAuth 서버 점검",
+  "one_liner": "OAuth·OIDC 서버가 무엇을 지원하는지 확인하고 RFC 기준으로 검사합니다.",
+  "text": {
+    "why": "OAuth 서버를 붙일 때는 문서와 실제 동작이 다른 지점을 토큰을 손으로 주고받으며 찾게 됩니다. oauthcli는 인가 서버가 공개한 메타데이터를 읽고 RFC별 적합성을 판정하며, 모든 grant로 토큰을 받아 해독·검증하고 브라우저·디바이스 플로우와 동적 클라이언트 등록까지 명령 하나씩으로 돌립니다. 모든 명령에 --format json이 있고 종료 코드가 판정을 담아 에이전트도 같은 도구를 씁니다. Go로 설치하며 명세 원문이 바이너리에 들어 있고, README에 라이선스는 표기돼 있지 않습니다.",
+    "take": "'우리 서버가 표준을 지키나'를 RFC 조항 단위 판정으로 바꿔 줍니다.",
+    "build": [
+      "배포 전에 인가 서버 적합성을 검사하는 CI 단계",
+      "신규 IdP 도입 검토용 RFC 지원 현황 보고서",
+      "에이전트가 토큰을 받아 API를 시험하는 자동화 스킬"
+    ],
+    "who": [
+      {
+        "role": "백엔드 개발자",
+        "situation": "인가 서버 연동에서 어디가 어긋나는지 찾을 때"
+      },
+      {
+        "role": "보안 담당자",
+        "situation": "사내 IdP의 RFC 적합성을 점검할 때"
+      },
+      {
+        "role": "에이전트 개발자",
+        "situation": "에이전트에 토큰 발급을 맡길 때"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "go install github.com/Southclaws/oauthcli@latest"
+      },
+      {
+        "command": true,
+        "text": "oauthcli discover https://accounts.google.com     # what does this issuer publish and support?"
+      },
+      {
+        "command": true,
+        "text": "oauthcli check https://accounts.google.com        # is it conformant? one verdict per RFC"
+      },
+      {
+        "command": false,
+        "text": "Go 툴체인 필요 · 실행 파일 이름은 oauthcli"
+      }
+    ],
+    "caveat": [
+      "README에 라이선스가 표기돼 있지 않습니다",
+      "Go 툴체인으로 설치합니다(바이너리 배포는 README에 없음)",
+      "--register 같은 상태를 만드는 검사는 opt-in입니다"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://github.com/Southclaws/oauthcli"
+  },
+  "ready": "install",
+  "categories": [
+    "security",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "oauth",
+    "oidc",
+    "cli",
+    "security"
+  ],
+  "platform": [
+    "windows",
+    "macos",
+    "linux",
+    "cli"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
+    "url": "https://github.com/southclaws/oauthcli?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "Go",
+  "source_urls": {
+    "canonical": "https://github.com/Southclaws/oauthcli",
+    "github": "https://github.com/southclaws/oauthcli",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/Southclaws/oauthcli",
+        "posted_at": "2026-09-13T11:53:35.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49682969"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:32.202Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 5,
+    "hn_points_observed_at": "2026-09-15T09:23:00.452Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-13T12:43:49.000Z",
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 1,
+    "releases_count": 1,
+    "latest_release": {
+      "tag": "v1.0.0",
+      "published_at": "2026-09-12T21:02:05.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:32.202Z",
+    "core_checked_at": "2026-09-15T19:34:32.202Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 1h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/og/oauthcli.png",
+    "cover": "https://tesign.com/img/oauthcli-b34b7298a3.png",
+    "cover_width": 1200,
+    "cover_height": 600,
+    "gallery": [
+      "https://tesign.com/img/oauthcli-b34b7298a3.png"
+    ],
+    "alt": "Southclaws/oauthcli 저장소의 GitHub 소셜 카드. 왼쪽에 이름과 한 줄 설명, 오른쪽에 프로필 사진.",
+    "tier": 4
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T12:59:26.645Z",
+    "source_created_at": "2026-09-13T11:53:35.000Z",
+    "discovery_hours": 1.0976791666666668,
+    "launch_signal_at": "2026-09-13T11:53:35.000Z",
+    "kept_at": "2026-09-14T02:41:59.171Z",
+    "first_published_at": null,
+    "updated_at": "2026-09-15T04:36:56.918Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}
