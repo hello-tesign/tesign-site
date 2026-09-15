@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/vercel-labs-fx/
 - JSON: https://tesign.com/en/item/vercel-labs-fx/index.json
 - Korean Markdown: https://tesign.com/item/vercel-labs-fx/index.md
-- Generated: 2026-09-15 19:35 UTC
+- Generated: 2026-09-15 20:32 UTC
 
 ## Numbers
 
@@ -77,7 +77,7 @@ A coding agent from Vercel Labs with a different shape: one 6.17 MiB native bina
 - AT SOURCE: 2026-08-11 08:57 UTC
 - KEPT: 2026-09-14 19:27 UTC
 - Published on TESIGN: 2026-09-14 19:27 UTC
-- Text last updated: 2026-09-15 04:36 UTC
+- Text last updated: 2026-09-15 20:14 UTC
 - ◌ BACK CATALOG: Reconstructed from archive data, not a live discovery.
 
 ## How to read this
@@ -88,4 +88,4 @@ A coding agent from Vercel Labs with a different shape: one 6.17 MiB native bina
 - Reconstructed from archive data, not a live discovery.
 - A summary, not legal advice.
 
-[Image] https://tesign.com/img/og/vercel-labs-fx.en.png
+[Image] https://tesign.com/img/vercel-labs-fx-ed809f35cb.png

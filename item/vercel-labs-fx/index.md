@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/vercel-labs-fx/
 - JSON: https://tesign.com/item/vercel-labs-fx/index.json
 - 영어 마크다운: https://tesign.com/en/item/vercel-labs-fx/index.md
-- 생성 시각: 2026-09-15 19:35 UTC
+- 생성 시각: 2026-09-15 20:32 UTC
 
 ## 숫자
 
@@ -77,7 +77,7 @@ Vercel Labs가 만든 코딩 에이전트인데 접근이 다릅니다. Zig로 �
 - 출처 등록: 2026-08-11 08:57 UTC
 - 선정: 2026-09-14 19:27 UTC
 - TESIGN 게재: 2026-09-14 19:27 UTC
-- 소개 글 마지막 수정: 2026-09-15 04:36 UTC
+- 소개 글 마지막 수정: 2026-09-15 20:14 UTC
 - ◌ 과거 기록: 과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.
 
 ## 읽는 법
@@ -88,4 +88,4 @@ Vercel Labs가 만든 코딩 에이전트인데 접근이 다릅니다. Zig로 �
 - 과거 데이터를 되짚어 채운 항목입니다. 라이브 발견이 아닙니다.
 - 요약이며 법적 조언이 아닙니다.
 
-[대표 이미지] https://tesign.com/img/og/vercel-labs-fx.png
+[대표 이미지] https://tesign.com/img/vercel-labs-fx-ed809f35cb.png

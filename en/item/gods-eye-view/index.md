@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/gods-eye-view/
 - JSON: https://tesign.com/en/item/gods-eye-view/index.json
 - Korean Markdown: https://tesign.com/item/gods-eye-view/index.md
-- Generated: 2026-09-15 19:35 UTC
+- Generated: 2026-09-15 20:32 UTC
 
 ## RANKS
 

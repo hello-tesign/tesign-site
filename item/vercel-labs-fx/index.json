@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T19:35:46.385Z",
+  "generated_at": "2026-09-15T20:32:51.926Z",
   "lang": "ko",
   "slug": "vercel-labs-fx",
   "url": "https://tesign.com/item/vercel-labs-fx/",
@@ -168,15 +168,15 @@
     }
   ],
   "images": {
-    "og": "https://tesign.com/img/og/vercel-labs-fx.png",
-    "cover": "https://tesign.com/img/vercel-labs-fx-1094dc8ea8.png",
-    "cover_width": 1200,
-    "cover_height": 630,
+    "og": "https://tesign.com/img/vercel-labs-fx-ed809f35cb.png",
+    "cover": "https://tesign.com/img/vercel-labs-fx-ed809f35cb.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
     "gallery": [
-      "https://tesign.com/img/vercel-labs-fx-1094dc8ea8.png"
+      "https://tesign.com/img/vercel-labs-fx-ed809f35cb.png"
     ],
-    "alt": "fx.sh 첫 화면: 한 줄 설치 명령과 Zig 코딩 에이전트 소개 문구",
-    "tier": 3
+    "alt": "fx.sh 첫 화면. 'Tiny, open, native coding agent.' 문구와 한 줄 설치 명령(curl -fsSL https://fx.sh/setup.sh | bash), 버전 줄(v0.0.10 · 6.17mib · status: experimental) 아래에 페이지에서 바로 돌아가는 fx 터미널 창(WebAssembly판)이 있고, 창에는 'fx v0.0.10 · Run /help for commands' 안내와 입력 커서, 'auto · kimi-k3' 표시줄이 보입니다.",
+    "tier": 1
   },
   "dates": {
     "first_seen_at": "2026-09-13T09:42:52.615Z",
@@ -185,7 +185,7 @@
     "launch_signal_at": "2026-09-05T03:00:00.000Z",
     "kept_at": "2026-09-14T19:27:43.694Z",
     "first_published_at": "2026-09-14T19:27:43.752Z",
-    "updated_at": "2026-09-15T04:36:57.042Z",
+    "updated_at": "2026-09-15T20:14:13.611Z",
     "ingestion_mode": "backfill"
   },
   "notes": [

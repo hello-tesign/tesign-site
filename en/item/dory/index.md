@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/dory/
 - JSON: https://tesign.com/en/item/dory/index.json
 - Korean Markdown: https://tesign.com/item/dory/index.md
-- Generated: 2026-09-15 19:35 UTC
+- Generated: 2026-09-15 20:32 UTC
 
 ## Numbers
 

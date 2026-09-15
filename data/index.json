@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-15T19:35:46.385Z",
+  "generated_at": "2026-09-15T20:32:51.926Z",
   "site": "https://tesign.com",
   "count": 114,
   "convention": {
@@ -275,7 +275,7 @@
         "dev-tools",
         "ai"
       ],
-      "updated": "2026-09-15T04:36:57.042Z",
+      "updated": "2026-09-15T20:14:13.611Z",
       "kept_at": "2026-09-14T19:27:43.694Z",
       "html": {
         "ko": "https://tesign.com/item/vercel-labs-fx/",

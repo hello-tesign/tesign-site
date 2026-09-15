@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/diagram-design/
 - JSON: https://tesign.com/en/item/diagram-design/index.json
 - Korean Markdown: https://tesign.com/item/diagram-design/index.md
-- Generated: 2026-09-15 19:35 UTC
+- Generated: 2026-09-15 20:32 UTC
 
 ## RANKS
 

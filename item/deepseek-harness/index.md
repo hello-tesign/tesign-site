@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/deepseek-harness/
 - JSON: https://tesign.com/item/deepseek-harness/index.json
 - 영어 마크다운: https://tesign.com/en/item/deepseek-harness/index.md
-- 생성 시각: 2026-09-15 19:35 UTC
+- 생성 시각: 2026-09-15 20:32 UTC
 
 ## 순위
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T19:35:46.385Z",
+  "generated_at": "2026-09-15T20:32:51.926Z",
   "lang": "en",
   "slug": "vercel-labs-fx",
   "url": "https://tesign.com/en/item/vercel-labs-fx/",
@@ -168,15 +168,15 @@
     }
   ],
   "images": {
-    "og": "https://tesign.com/img/og/vercel-labs-fx.en.png",
-    "cover": "https://tesign.com/img/vercel-labs-fx-1094dc8ea8.png",
-    "cover_width": 1200,
-    "cover_height": 630,
+    "og": "https://tesign.com/img/vercel-labs-fx-ed809f35cb.png",
+    "cover": "https://tesign.com/img/vercel-labs-fx-ed809f35cb.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
     "gallery": [
-      "https://tesign.com/img/vercel-labs-fx-1094dc8ea8.png"
+      "https://tesign.com/img/vercel-labs-fx-ed809f35cb.png"
     ],
-    "alt": "fx.sh landing page with the one-line install command and the description of the Zig coding agent",
-    "tier": 3
+    "alt": "The fx.sh landing page: the line 'Tiny, open, native coding agent.', the one-line install command (curl -fsSL https://fx.sh/setup.sh | bash) and the version line (v0.0.10 · 6.17mib · status: experimental), above the fx terminal that runs on the page (WebAssembly build), showing 'fx v0.0.10 · Run /help for commands', an input cursor and the 'auto · kimi-k3' status line.",
+    "tier": 1
   },
   "dates": {
     "first_seen_at": "2026-09-13T09:42:52.615Z",
@@ -185,7 +185,7 @@
     "launch_signal_at": "2026-09-05T03:00:00.000Z",
     "kept_at": "2026-09-14T19:27:43.694Z",
     "first_published_at": "2026-09-14T19:27:43.752Z",
-    "updated_at": "2026-09-15T04:36:57.042Z",
+    "updated_at": "2026-09-15T20:14:13.611Z",
     "ingestion_mode": "backfill"
   },
   "notes": [

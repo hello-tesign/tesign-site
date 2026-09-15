@@ -45,7 +45,7 @@
 
 ## Numbers
 
-- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2067 ranking-eligible repositories, 114 published items, 146953 candidate products, 16831 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-15T19:35:46.385Z, history clock 2026-09-15T15:00:00.000Z)
+- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2067 ranking-eligible repositories, 114 published items, 146953 candidate products, 16831 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-15T20:32:51.926Z, history clock 2026-09-15T15:00:00.000Z)
 
 ## Compare
 
@@ -78,7 +78,7 @@
 
 Every published item has a sibling index.json and index.md next to its page: /item/<slug>/index.json and /item/<slug>/index.md in Korean, /en/item/<slug>/index.json and /en/item/<slug>/index.md in English. Keys name the unit (stars, star_delta_7d, hf_likes); every figure sits next to its reference time (as_of, *_at); null means not observed, never zero. Counts are stored observations, not scores. These files are not in the sitemap.
 
-- [Index of every published item (JSON)](https://tesign.com/data/index.json): 114 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-15T19:35:46.385Z); not for search indexes (robots.txt), not in the sitemap
+- [Index of every published item (JSON)](https://tesign.com/data/index.json): 114 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-15T20:32:51.926Z); not for search indexes (robots.txt), not in the sitemap
 - [Example: Spec Kit as JSON](https://tesign.com/en/item/spec-kit/index.json): name, use label, one-liner, why / build / who / start / caveat, licence and scope, platform, categories, numbers with as_of, ranks, activity, images, source URLs, generated_at
 - [Example: Spec Kit as Markdown](https://tesign.com/en/item/spec-kit/index.md): the same fields as headed Markdown; Korean at the path without /en
 
