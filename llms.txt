@@ -39,7 +39,7 @@
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 27 observed events in the last 30 days (9 star-threshold crossings, 17 new repositories, 1 rising leaders), as of 2026-09-14T03:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 27 observed events in the last 30 days (9 star-threshold crossings, 17 new repositories, 1 rising leaders), as of 2026-09-14T19:00:00.000Z; method at /en/about/#ranks
 
 ## Repository cards
 
