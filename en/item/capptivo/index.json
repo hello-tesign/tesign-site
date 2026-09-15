@@ -1,0 +1,202 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "capptivo",
+  "url": "https://tesign.com/en/item/capptivo/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/capptivo/",
+      "json": "https://tesign.com/item/capptivo/index.json",
+      "markdown": "https://tesign.com/item/capptivo/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/capptivo/",
+      "json": "https://tesign.com/en/item/capptivo/index.json",
+      "markdown": "https://tesign.com/en/item/capptivo/index.md"
+    }
+  },
+  "name": "Capptivo",
+  "use_label": "Screen recording for product demos",
+  "one_liner": "Free screen recorder with follow-cursor zoom and on-device captions for product demos",
+  "text": {
+    "why": "Pitched as a Screen Studio and Cursorful alternative, it makes follow-cursor zoom demo videos without the \"$29/month\" the README says such software costs. While recording it stores a 60 Hz cursor and click track (cursor.json), and when you open a fresh recording it suggests zoom fragments from your clicks. Captions are generated on-device with whisper.cpp, and the UI ships in 11 languages including Korean (v1.0.3, released 2026-08-05).",
+    "take": "You trade the subscription for some legwork: unsigned macOS builds and a whisper-cli you install yourself, in exchange for the same kind of demo video made locally.",
+    "build": [
+      "Under MIT you can ship a customised in-house demo recorder with your own presets and backgrounds, or lift the Rust capture and encoding modules (recorder/, cursor/), which do not depend on Tauri, into your own recording app."
+    ],
+    "who": [
+      {
+        "role": "Solo developers making product demos and tutorials",
+        "situation": "click-based auto zoom cuts editing time"
+      },
+      {
+        "role": "Teams needing a UI in Korean or one of 10 other languages",
+        "situation": "captions stay on-device"
+      },
+      {
+        "role": "Rust/Tauri developers building a recorder",
+        "situation": "capture → encoding pipeline to study"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. Download an installer from GitHub Releases (macOS .dmg / Windows .msi or *-setup.exe / Linux .deb, .AppImage, .rpm)"
+      },
+      {
+        "command": false,
+        "text": "# To run from source (needs Rust, Node, pnpm):"
+      },
+      {
+        "command": false,
+        "text": "pnpm install"
+      },
+      {
+        "command": false,
+        "text": "pnpm tauri dev"
+      },
+      {
+        "command": false,
+        "text": "# Open the recorder with ⌥⇧R (Alt+Shift+R on Windows/Linux) or the tray icon"
+      }
+    ],
+    "caveat": [
+      "MIT — but the FFmpeg sidecars it downloads are GPL, so redistributing builds carries their own terms (see THIRD_PARTY_NOTICES.md)",
+      "macOS 13+, Windows 10 build 1903+, Linux with PipeWire 1.0+; macOS builds are currently unsigned (right-click → Open on first launch, then grant Screen Recording)",
+      "Captions need a system whisper.cpp whisper-cli binary; area selection is not yet available on Linux"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://capptivo.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "screen-recording",
+    "tauri",
+    "rust",
+    "whisper",
+    "demo-video",
+    "cursor-zoom"
+  ],
+  "platform": [
+    "macos",
+    "windows",
+    "linux"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://capptivo.com/",
+    "github": "https://github.com/sechak-ag/capptivo",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/sechak-ag/capptivo",
+        "posted_at": "2026-08-07T16:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 995,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:49.322Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 2,
+    "star_delta_30d": 2,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-08-24T15:41:31.000Z",
+    "owner_type": "Organization",
+    "open_issues": 32,
+    "contributors": 6,
+    "releases_count": 4,
+    "latest_release": {
+      "tag": "v1.0.3",
+      "published_at": "2026-08-05T05:24:49.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:49.322Z",
+    "core_checked_at": "2026-09-15T19:34:49.322Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/capptivo-e2f0abf7aa.webp",
+    "cover": "https://tesign.com/img/capptivo-e2f0abf7aa.webp",
+    "cover_width": 3226,
+    "cover_height": 2160,
+    "gallery": [
+      "https://tesign.com/img/capptivo-e2f0abf7aa.webp",
+      "https://tesign.com/img/capptivo-fdc9c52d5e.webp",
+      "https://tesign.com/img/capptivo-c3f921abfe.png",
+      "https://tesign.com/img/capptivo-20dd21435e.png"
+    ],
+    "alt": "The Capptivo editor: a recording placed on a gradient background with zoom fragments marked on the timeline below",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:14:28.249Z",
+    "source_created_at": "2026-07-28T18:27:52.000Z",
+    "discovery_hours": 1118.7767358333333,
+    "launch_signal_at": "2026-08-07T16:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.588Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:56.815Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

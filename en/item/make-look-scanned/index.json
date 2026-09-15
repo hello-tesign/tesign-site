@@ -1,0 +1,207 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "make-look-scanned",
+  "url": "https://tesign.com/en/item/make-look-scanned/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/make-look-scanned/",
+      "json": "https://tesign.com/item/make-look-scanned/index.json",
+      "markdown": "https://tesign.com/item/make-look-scanned/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/make-look-scanned/",
+      "json": "https://tesign.com/en/item/make-look-scanned/index.json",
+      "markdown": "https://tesign.com/en/item/make-look-scanned/index.md"
+    }
+  },
+  "name": "make-look-scanned",
+  "use_label": "Make a PDF look like a paper scan",
+  "one_liner": "Makes a PDF look like a physical scan (skew, paper tone, grain); Go CLI or in-browser WASM",
+  "text": {
+    "why": "Each page is rasterized, run through the effect pipeline and reassembled into an image-only PDF; the original selectable text is gone, which is exactly what a basic scanner does. The seed is derived from the input file's content, so the same file always yields a byte-identical PDF, and `--seed N` gives a different but reproducible look. The browser build rasterizes with PDF.js and hands the pixels to the same Go effects code compiled to WASM; nothing is uploaded.",
+    "take": "It makes 'looks scanned' reproducible: same input, same bytes out.",
+    "build": [
+      "Define a house 'scan look' as a TOML preset, or build the ~8 MB single-file HTML with `task build:web` and hand it out as an offline internal tool."
+    ],
+    "who": [
+      {
+        "role": "People who need a scan-style document for a submission",
+        "situation": "convert the PDF without printing"
+      },
+      {
+        "role": "OCR and document-pipeline developers",
+        "situation": "generate scan-quality test data"
+      },
+      {
+        "role": "Designers",
+        "situation": "paper-document texture for mockups"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "go build -o make-look-scanned ."
+      },
+      {
+        "command": false,
+        "text": "make-look-scanned in.pdf                 # -> in.scanned.pdf"
+      },
+      {
+        "command": false,
+        "text": "make-look-scanned in.pdf --noise 0.4 --skew 2.5 --jpeg-quality 30"
+      },
+      {
+        "command": false,
+        "text": "make-look-scanned --preset medium in.pdf"
+      },
+      {
+        "command": false,
+        "text": "Browser version: https://overflowy.github.io/make-look-scanned/"
+      }
+    ],
+    "caveat": [
+      "AGPL-3.0 — the CLI statically links MuPDF (via go-fitz), so distributing the binary requires offering the source. The browser build has no MuPDF and uses PDF.js (Apache-2.0). Building needs Go and a C toolchain (cgo). Output is an image-only PDF, so text cannot be searched or selected. CLI and browser output are visually equivalent but not byte-identical. Last push 2026-06-21."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://overflowy.github.io/make-look-scanned"
+  },
+  "ready": "browser",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "pdf",
+    "go",
+    "wasm",
+    "cli",
+    "document",
+    "scan"
+  ],
+  "platform": [
+    "cli",
+    "web"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Release source if you redistribute or host it as a service.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Go",
+  "source_urls": {
+    "canonical": "https://overflowy.github.io/make-look-scanned",
+    "github": "https://github.com/overflowy/make-look-scanned",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/overflowy/make-look-scanned",
+        "posted_at": "2026-06-20T18:17:58.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=48611513"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/overflowy/make-look-scanned",
+        "posted_at": "2026-06-20T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 807,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:35.192Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 155,
+    "hn_points_observed_at": "2026-09-13T15:54:57.318Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-06-21T10:39:21.000Z",
+    "owner_type": "User",
+    "open_issues": 1,
+    "contributors": 1,
+    "releases_count": 2,
+    "latest_release": {
+      "tag": "v1.1.0",
+      "published_at": "2026-06-21T10:43:31.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:35.192Z",
+    "core_checked_at": "2026-09-15T19:34:35.192Z"
+  },
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "Show HN + GitHub"
+    },
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/make-look-scanned-bf573df87d.jpg",
+    "cover": "https://tesign.com/img/make-look-scanned-bf573df87d.jpg",
+    "cover_width": 1990,
+    "cover_height": 1252,
+    "gallery": [
+      "https://tesign.com/img/make-look-scanned-bf573df87d.jpg"
+    ],
+    "alt": "README example — the original page on the left and, on the right, the same page rendered as if scanned: slight skew, grayscale, warm paper tone and edge shadow",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:24:39.265Z",
+    "source_created_at": "2026-06-20T18:17:58.000Z",
+    "discovery_hours": 2030.1114625,
+    "launch_signal_at": "2026-06-20T18:17:58.000Z",
+    "kept_at": "2026-09-14T19:27:43.493Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.904Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

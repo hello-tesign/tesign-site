@@ -1,0 +1,3410 @@
+{
+  "schema": "tesign-radar/index/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "site": "https://tesign.com",
+  "count": 114,
+  "convention": {
+    "item_json": "https://tesign.com/item/<slug>/index.json",
+    "item_markdown": "https://tesign.com/item/<slug>/index.md",
+    "languages": [
+      "ko",
+      "en"
+    ],
+    "note": "Every published item has a sibling index.json and index.md next to its page: /item/<slug>/index.json and /item/<slug>/index.md in Korean, /en/item/<slug>/index.json and /en/item/<slug>/index.md in English. Keys name the unit (stars, star_delta_7d, hf_likes); every figure sits next to its reference time (as_of, *_at); null means not observed, never zero. Counts are stored observations, not scores. These files are not in the sitemap."
+  },
+  "links": {
+    "numbers": "https://tesign.com/en/numbers/",
+    "rising": "https://tesign.com/en/rising/",
+    "all_time": "https://tesign.com/en/top/",
+    "store": "https://tesign.com/en/store/",
+    "milestones": "https://tesign.com/en/milestones/",
+    "llms": "https://tesign.com/llms.txt",
+    "contact": "mailto:hello@tesign.com"
+  },
+  "numbers_as_of": "2026-09-15T15:00:00.000Z",
+  "items": [
+    {
+      "slug": "spec-kit",
+      "name": {
+        "ko": "Spec Kit",
+        "en": "Spec Kit"
+      },
+      "use_label": {
+        "ko": "에이전트 사용자용 개발 절차",
+        "en": "Spec-first process for coding agents"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-15T14:07:35.380Z",
+      "kept_at": "2026-09-15T14:07:35.319Z",
+      "html": {
+        "ko": "https://tesign.com/item/spec-kit/",
+        "en": "https://tesign.com/en/item/spec-kit/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/spec-kit/index.json",
+        "en": "https://tesign.com/en/item/spec-kit/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/spec-kit/index.md",
+        "en": "https://tesign.com/en/item/spec-kit/index.md"
+      }
+    },
+    {
+      "slug": "words-of-hanoi",
+      "name": {
+        "ko": "Words of Hanoi",
+        "en": "Words of Hanoi"
+      },
+      "use_label": {
+        "ko": "낱말 퍼즐 팬용 일일 게임",
+        "en": "Daily word puzzle for puzzle fans"
+      },
+      "category": "games",
+      "categories": [
+        "games"
+      ],
+      "updated": "2026-09-15T14:07:35.372Z",
+      "kept_at": "2026-09-15T14:07:35.277Z",
+      "html": {
+        "ko": "https://tesign.com/item/words-of-hanoi/",
+        "en": "https://tesign.com/en/item/words-of-hanoi/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/words-of-hanoi/index.json",
+        "en": "https://tesign.com/en/item/words-of-hanoi/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/words-of-hanoi/index.md",
+        "en": "https://tesign.com/en/item/words-of-hanoi/index.md"
+      }
+    },
+    {
+      "slug": "hindsight",
+      "name": {
+        "ko": "Hindsight",
+        "en": "Hindsight"
+      },
+      "use_label": {
+        "ko": "유튜브 시청자용 발언 지도",
+        "en": "Narrative map for YouTube viewers"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "media"
+      ],
+      "updated": "2026-09-15T14:07:35.342Z",
+      "kept_at": "2026-09-15T14:07:35.259Z",
+      "html": {
+        "ko": "https://tesign.com/item/hindsight/",
+        "en": "https://tesign.com/en/item/hindsight/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/hindsight/index.json",
+        "en": "https://tesign.com/en/item/hindsight/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/hindsight/index.md",
+        "en": "https://tesign.com/en/item/hindsight/index.md"
+      }
+    },
+    {
+      "slug": "subsweep",
+      "name": {
+        "ko": "SubSweep",
+        "en": "SubSweep"
+      },
+      "use_label": {
+        "ko": "호주 거주자용 구독료 점검",
+        "en": "Subscription audit for Australians"
+      },
+      "category": "finance",
+      "categories": [
+        "finance",
+        "productivity"
+      ],
+      "updated": "2026-09-15T14:07:35.378Z",
+      "kept_at": "2026-09-15T14:07:35.255Z",
+      "html": {
+        "ko": "https://tesign.com/item/subsweep/",
+        "en": "https://tesign.com/en/item/subsweep/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/subsweep/index.json",
+        "en": "https://tesign.com/en/item/subsweep/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/subsweep/index.md",
+        "en": "https://tesign.com/en/item/subsweep/index.md"
+      }
+    },
+    {
+      "slug": "qwen2-5-program-slicing-security-auditor",
+      "name": {
+        "ko": "Qwen2.5 Program Slicing Security Auditor",
+        "en": "Qwen2.5 Program Slicing Security Auditor"
+      },
+      "use_label": {
+        "ko": "웹 개발자용 JS 보안 점검",
+        "en": "JavaScript security audit for web devs"
+      },
+      "category": "security",
+      "categories": [
+        "security",
+        "ai"
+      ],
+      "updated": "2026-09-15T14:07:35.375Z",
+      "kept_at": "2026-09-15T14:07:35.249Z",
+      "html": {
+        "ko": "https://tesign.com/item/qwen2-5-program-slicing-security-auditor/",
+        "en": "https://tesign.com/en/item/qwen2-5-program-slicing-security-auditor/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/qwen2-5-program-slicing-security-auditor/index.json",
+        "en": "https://tesign.com/en/item/qwen2-5-program-slicing-security-auditor/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/qwen2-5-program-slicing-security-auditor/index.md",
+        "en": "https://tesign.com/en/item/qwen2-5-program-slicing-security-auditor/index.md"
+      }
+    },
+    {
+      "slug": "forma",
+      "name": {
+        "ko": "Forma",
+        "en": "Forma"
+      },
+      "use_label": {
+        "ko": "ML 개발자용 ONNX 편집",
+        "en": "ONNX graph editor for ML engineers"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-15T14:07:35.369Z",
+      "kept_at": "2026-09-15T14:07:35.244Z",
+      "html": {
+        "ko": "https://tesign.com/item/forma/",
+        "en": "https://tesign.com/en/item/forma/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/forma/index.json",
+        "en": "https://tesign.com/en/item/forma/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/forma/index.md",
+        "en": "https://tesign.com/en/item/forma/index.md"
+      }
+    },
+    {
+      "slug": "strata",
+      "name": {
+        "ko": "Strata",
+        "en": "Strata"
+      },
+      "use_label": {
+        "ko": "리눅스용 키보드 파일 관리자",
+        "en": "Keyboard-first Linux file manager"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:57.022Z",
+      "kept_at": "2026-09-14T19:27:43.701Z",
+      "html": {
+        "ko": "https://tesign.com/item/strata/",
+        "en": "https://tesign.com/en/item/strata/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/strata/index.json",
+        "en": "https://tesign.com/en/item/strata/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/strata/index.md",
+        "en": "https://tesign.com/en/item/strata/index.md"
+      }
+    },
+    {
+      "slug": "dsh-desktop",
+      "name": {
+        "ko": "DSH Desktop",
+        "en": "DSH Desktop"
+      },
+      "use_label": {
+        "ko": "DSH 사용자용 데스크톱 앱",
+        "en": "Desktop app for DeepSeek Harness users"
+      },
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.852Z",
+      "kept_at": "2026-09-14T19:27:43.697Z",
+      "html": {
+        "ko": "https://tesign.com/item/dsh-desktop/",
+        "en": "https://tesign.com/en/item/dsh-desktop/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/dsh-desktop/index.json",
+        "en": "https://tesign.com/en/item/dsh-desktop/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/dsh-desktop/index.md",
+        "en": "https://tesign.com/en/item/dsh-desktop/index.md"
+      }
+    },
+    {
+      "slug": "vercel-labs-fx",
+      "name": {
+        "ko": "fx",
+        "en": "fx"
+      },
+      "use_label": {
+        "ko": "셸처럼 쓰는 코딩 에이전트",
+        "en": "Shell-like coding agent, one binary"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:57.042Z",
+      "kept_at": "2026-09-14T19:27:43.694Z",
+      "html": {
+        "ko": "https://tesign.com/item/vercel-labs-fx/",
+        "en": "https://tesign.com/en/item/vercel-labs-fx/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/vercel-labs-fx/index.json",
+        "en": "https://tesign.com/en/item/vercel-labs-fx/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/vercel-labs-fx/index.md",
+        "en": "https://tesign.com/en/item/vercel-labs-fx/index.md"
+      }
+    },
+    {
+      "slug": "openanalytics",
+      "name": {
+        "ko": "OpenAnalytics",
+        "en": "OpenAnalytics"
+      },
+      "use_label": {
+        "ko": "운영자용 쿠키 없는 웹 분석",
+        "en": "Cookieless analytics for site owners"
+      },
+      "category": "data",
+      "categories": [
+        "data"
+      ],
+      "updated": "2026-09-15T04:36:56.924Z",
+      "kept_at": "2026-09-14T19:27:43.690Z",
+      "html": {
+        "ko": "https://tesign.com/item/openanalytics/",
+        "en": "https://tesign.com/en/item/openanalytics/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openanalytics/index.json",
+        "en": "https://tesign.com/en/item/openanalytics/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openanalytics/index.md",
+        "en": "https://tesign.com/en/item/openanalytics/index.md"
+      }
+    },
+    {
+      "slug": "hydra-download-manager",
+      "name": {
+        "ko": "Hydra Download Manager",
+        "en": "Hydra Download Manager"
+      },
+      "use_label": {
+        "ko": "다중 연결 다운로드 가속기",
+        "en": "Multi-source download accelerator"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.889Z",
+      "kept_at": "2026-09-14T19:27:43.686Z",
+      "html": {
+        "ko": "https://tesign.com/item/hydra-download-manager/",
+        "en": "https://tesign.com/en/item/hydra-download-manager/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/hydra-download-manager/index.json",
+        "en": "https://tesign.com/en/item/hydra-download-manager/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/hydra-download-manager/index.md",
+        "en": "https://tesign.com/en/item/hydra-download-manager/index.md"
+      }
+    },
+    {
+      "slug": "lertaro",
+      "name": {
+        "ko": "Lertaro",
+        "en": "Lertaro"
+      },
+      "use_label": {
+        "ko": "윈도우용 즉시 파일 검색",
+        "en": "Instant file search for Windows users"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.897Z",
+      "kept_at": "2026-09-14T19:27:43.682Z",
+      "html": {
+        "ko": "https://tesign.com/item/lertaro/",
+        "en": "https://tesign.com/en/item/lertaro/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/lertaro/index.json",
+        "en": "https://tesign.com/en/item/lertaro/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/lertaro/index.md",
+        "en": "https://tesign.com/en/item/lertaro/index.md"
+      }
+    },
+    {
+      "slug": "anydoc",
+      "name": {
+        "ko": "anydoc",
+        "en": "anydoc"
+      },
+      "use_label": {
+        "ko": "LLM에 넣을 사무 문서 변환",
+        "en": "Office docs to Markdown for LLM input"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.796Z",
+      "kept_at": "2026-09-14T19:27:43.678Z",
+      "html": {
+        "ko": "https://tesign.com/item/anydoc/",
+        "en": "https://tesign.com/en/item/anydoc/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/anydoc/index.json",
+        "en": "https://tesign.com/en/item/anydoc/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/anydoc/index.md",
+        "en": "https://tesign.com/en/item/anydoc/index.md"
+      }
+    },
+    {
+      "slug": "sonora",
+      "name": {
+        "ko": "Sonora",
+        "en": "Sonora"
+      },
+      "use_label": {
+        "ko": "여러 음악 서비스를 한 앱에서",
+        "en": "Several music services in one player"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:57.012Z",
+      "kept_at": "2026-09-14T19:27:43.674Z",
+      "html": {
+        "ko": "https://tesign.com/item/sonora/",
+        "en": "https://tesign.com/en/item/sonora/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/sonora/index.json",
+        "en": "https://tesign.com/en/item/sonora/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/sonora/index.md",
+        "en": "https://tesign.com/en/item/sonora/index.md"
+      }
+    },
+    {
+      "slug": "pomodoist",
+      "name": {
+        "ko": "Pomodoist",
+        "en": "Pomodoist"
+      },
+      "use_label": {
+        "ko": "할 일과 뽀모도로를 한 앱에",
+        "en": "Tasks and Pomodoro focus in one app"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.975Z",
+      "kept_at": "2026-09-14T19:27:43.671Z",
+      "html": {
+        "ko": "https://tesign.com/item/pomodoist/",
+        "en": "https://tesign.com/en/item/pomodoist/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/pomodoist/index.json",
+        "en": "https://tesign.com/en/item/pomodoist/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/pomodoist/index.md",
+        "en": "https://tesign.com/en/item/pomodoist/index.md"
+      }
+    },
+    {
+      "slug": "openclip",
+      "name": {
+        "ko": "OpenClip",
+        "en": "OpenClip"
+      },
+      "use_label": {
+        "ko": "맥 사용자용 텍스트 선택 액션",
+        "en": "Text-selection actions for Mac users"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.927Z",
+      "kept_at": "2026-09-14T19:27:43.667Z",
+      "html": {
+        "ko": "https://tesign.com/item/openclip/",
+        "en": "https://tesign.com/en/item/openclip/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openclip/index.json",
+        "en": "https://tesign.com/en/item/openclip/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openclip/index.md",
+        "en": "https://tesign.com/en/item/openclip/index.md"
+      }
+    },
+    {
+      "slug": "rakazo",
+      "name": {
+        "ko": "Rakazo",
+        "en": "Rakazo"
+      },
+      "use_label": {
+        "ko": "팀용 상주 AI 팀원 플랫폼",
+        "en": "Persistent AI teammates for teams"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.985Z",
+      "kept_at": "2026-09-14T19:27:43.662Z",
+      "html": {
+        "ko": "https://tesign.com/item/rakazo/",
+        "en": "https://tesign.com/en/item/rakazo/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/rakazo/index.json",
+        "en": "https://tesign.com/en/item/rakazo/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/rakazo/index.md",
+        "en": "https://tesign.com/en/item/rakazo/index.md"
+      }
+    },
+    {
+      "slug": "monocode",
+      "name": {
+        "ko": "MonoCode",
+        "en": "MonoCode"
+      },
+      "use_label": {
+        "ko": "여러 코딩 에이전트를 한 창에",
+        "en": "One window for all your coding agents"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.910Z",
+      "kept_at": "2026-09-14T19:27:43.657Z",
+      "html": {
+        "ko": "https://tesign.com/item/monocode/",
+        "en": "https://tesign.com/en/item/monocode/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/monocode/index.json",
+        "en": "https://tesign.com/en/item/monocode/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/monocode/index.md",
+        "en": "https://tesign.com/en/item/monocode/index.md"
+      }
+    },
+    {
+      "slug": "slotstream",
+      "name": {
+        "ko": "Slotstream",
+        "en": "Slotstream"
+      },
+      "use_label": {
+        "ko": "맥에서 대형 모델 로컬 실행",
+        "en": "Run a 105 GB model on a 48 GB Mac"
+      },
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.999Z",
+      "kept_at": "2026-09-14T19:27:43.653Z",
+      "html": {
+        "ko": "https://tesign.com/item/slotstream/",
+        "en": "https://tesign.com/en/item/slotstream/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/slotstream/index.json",
+        "en": "https://tesign.com/en/item/slotstream/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/slotstream/index.md",
+        "en": "https://tesign.com/en/item/slotstream/index.md"
+      }
+    },
+    {
+      "slug": "easel",
+      "name": {
+        "ko": "Easel",
+        "en": "Easel"
+      },
+      "use_label": {
+        "ko": "SNS 창작자용 콘텐츠 작업대",
+        "en": "Content workbench for social creators"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "social"
+      ],
+      "updated": "2026-09-15T04:36:56.857Z",
+      "kept_at": "2026-09-14T19:27:43.649Z",
+      "html": {
+        "ko": "https://tesign.com/item/easel/",
+        "en": "https://tesign.com/en/item/easel/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/easel/index.json",
+        "en": "https://tesign.com/en/item/easel/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/easel/index.md",
+        "en": "https://tesign.com/en/item/easel/index.md"
+      }
+    },
+    {
+      "slug": "partmode",
+      "name": {
+        "ko": "PartMode",
+        "en": "PartMode"
+      },
+      "use_label": {
+        "ko": "설치 없는 브라우저 CAD",
+        "en": "Mechanical CAD in the browser"
+      },
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "updated": "2026-09-15T04:36:56.954Z",
+      "kept_at": "2026-09-14T19:27:43.646Z",
+      "html": {
+        "ko": "https://tesign.com/item/partmode/",
+        "en": "https://tesign.com/en/item/partmode/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/partmode/index.json",
+        "en": "https://tesign.com/en/item/partmode/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/partmode/index.md",
+        "en": "https://tesign.com/en/item/partmode/index.md"
+      }
+    },
+    {
+      "slug": "mangodisk",
+      "name": {
+        "ko": "MangoDisk",
+        "en": "MangoDisk"
+      },
+      "use_label": {
+        "ko": "맥·윈도우용 디스크 정리",
+        "en": "Disk cleanup for Mac and Windows"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.906Z",
+      "kept_at": "2026-09-14T19:27:43.641Z",
+      "html": {
+        "ko": "https://tesign.com/item/mangodisk/",
+        "en": "https://tesign.com/en/item/mangodisk/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/mangodisk/index.json",
+        "en": "https://tesign.com/en/item/mangodisk/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/mangodisk/index.md",
+        "en": "https://tesign.com/en/item/mangodisk/index.md"
+      }
+    },
+    {
+      "slug": "breakscale",
+      "name": {
+        "ko": "Breakscale",
+        "en": "Breakscale"
+      },
+      "use_label": {
+        "ko": "학습자용 시스템 설계 실험",
+        "en": "System-design simulator for learners"
+      },
+      "category": "education",
+      "categories": [
+        "education",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.813Z",
+      "kept_at": "2026-09-14T19:27:43.638Z",
+      "html": {
+        "ko": "https://tesign.com/item/breakscale/",
+        "en": "https://tesign.com/en/item/breakscale/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/breakscale/index.json",
+        "en": "https://tesign.com/en/item/breakscale/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/breakscale/index.md",
+        "en": "https://tesign.com/en/item/breakscale/index.md"
+      }
+    },
+    {
+      "slug": "spotifast",
+      "name": {
+        "ko": "Spotifast (formerly Fastpotify)",
+        "en": "Spotifast (formerly Fastpotify)"
+      },
+      "use_label": {
+        "ko": "메모리 적은 Spotify 앱",
+        "en": "Lightweight Spotify client (Premium)"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:57.015Z",
+      "kept_at": "2026-09-14T19:27:43.634Z",
+      "html": {
+        "ko": "https://tesign.com/item/spotifast/",
+        "en": "https://tesign.com/en/item/spotifast/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/spotifast/index.json",
+        "en": "https://tesign.com/en/item/spotifast/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/spotifast/index.md",
+        "en": "https://tesign.com/en/item/spotifast/index.md"
+      }
+    },
+    {
+      "slug": "openmausbot",
+      "name": {
+        "ko": "OpenMausBot",
+        "en": "OpenMausBot"
+      },
+      "use_label": {
+        "ko": "내 에이전트를 채팅 연락처로",
+        "en": "Your local agents as chat contacts"
+      },
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.936Z",
+      "kept_at": "2026-09-14T19:27:43.631Z",
+      "html": {
+        "ko": "https://tesign.com/item/openmausbot/",
+        "en": "https://tesign.com/en/item/openmausbot/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openmausbot/index.json",
+        "en": "https://tesign.com/en/item/openmausbot/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openmausbot/index.md",
+        "en": "https://tesign.com/en/item/openmausbot/index.md"
+      }
+    },
+    {
+      "slug": "halcyon-video",
+      "name": {
+        "ko": "Halcyon Video",
+        "en": "Halcyon Video"
+      },
+      "use_label": {
+        "ko": "미디어 서버용 3D 대여점",
+        "en": "3D video store for your media server"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:56.877Z",
+      "kept_at": "2026-09-14T19:27:43.628Z",
+      "html": {
+        "ko": "https://tesign.com/item/halcyon-video/",
+        "en": "https://tesign.com/en/item/halcyon-video/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/halcyon-video/index.json",
+        "en": "https://tesign.com/en/item/halcyon-video/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/halcyon-video/index.md",
+        "en": "https://tesign.com/en/item/halcyon-video/index.md"
+      }
+    },
+    {
+      "slug": "ferrumpix",
+      "name": {
+        "ko": "FerrumPix",
+        "en": "FerrumPix"
+      },
+      "use_label": {
+        "ko": "사진가용 정리·RAW 편집",
+        "en": "Photo library and RAW editing"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:56.866Z",
+      "kept_at": "2026-09-14T19:27:43.624Z",
+      "html": {
+        "ko": "https://tesign.com/item/ferrumpix/",
+        "en": "https://tesign.com/en/item/ferrumpix/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/ferrumpix/index.json",
+        "en": "https://tesign.com/en/item/ferrumpix/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/ferrumpix/index.md",
+        "en": "https://tesign.com/en/item/ferrumpix/index.md"
+      }
+    },
+    {
+      "slug": "lets-seal",
+      "name": {
+        "ko": "Let's Seal",
+        "en": "Let's Seal"
+      },
+      "use_label": {
+        "ko": "누구나 검증하는 파일 봉인",
+        "en": "Prove a file is unaltered and dated"
+      },
+      "category": "security",
+      "categories": [
+        "security"
+      ],
+      "updated": "2026-09-15T04:36:56.899Z",
+      "kept_at": "2026-09-14T19:27:43.620Z",
+      "html": {
+        "ko": "https://tesign.com/item/lets-seal/",
+        "en": "https://tesign.com/en/item/lets-seal/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/lets-seal/index.json",
+        "en": "https://tesign.com/en/item/lets-seal/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/lets-seal/index.md",
+        "en": "https://tesign.com/en/item/lets-seal/index.md"
+      }
+    },
+    {
+      "slug": "terminal-browser",
+      "name": {
+        "ko": "terminal-browser",
+        "en": "terminal-browser"
+      },
+      "use_label": {
+        "ko": "터미널 안에서 여는 브라우저",
+        "en": "A browser inside your terminal"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:57.031Z",
+      "kept_at": "2026-09-14T19:27:43.614Z",
+      "html": {
+        "ko": "https://tesign.com/item/terminal-browser/",
+        "en": "https://tesign.com/en/item/terminal-browser/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/terminal-browser/index.json",
+        "en": "https://tesign.com/en/item/terminal-browser/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/terminal-browser/index.md",
+        "en": "https://tesign.com/en/item/terminal-browser/index.md"
+      }
+    },
+    {
+      "slug": "aipoch-open-science",
+      "name": {
+        "ko": "AIPOCH Open-Science",
+        "en": "AIPOCH Open-Science"
+      },
+      "use_label": {
+        "ko": "연구자용 AI 워크벤치",
+        "en": "AI research workbench for scientists"
+      },
+      "category": "science",
+      "categories": [
+        "science",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.790Z",
+      "kept_at": "2026-09-14T19:27:43.611Z",
+      "html": {
+        "ko": "https://tesign.com/item/aipoch-open-science/",
+        "en": "https://tesign.com/en/item/aipoch-open-science/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/aipoch-open-science/index.json",
+        "en": "https://tesign.com/en/item/aipoch-open-science/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/aipoch-open-science/index.md",
+        "en": "https://tesign.com/en/item/aipoch-open-science/index.md"
+      }
+    },
+    {
+      "slug": "edge-drop",
+      "name": {
+        "ko": "Edge-Drop",
+        "en": "Edge-Drop"
+      },
+      "use_label": {
+        "ko": "윈도우용 끌어 놓는 클립보드",
+        "en": "Drag-out clipboard shelf for Windows"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T07:17:01.046Z",
+      "kept_at": "2026-09-14T19:27:43.607Z",
+      "html": {
+        "ko": "https://tesign.com/item/edge-drop/",
+        "en": "https://tesign.com/en/item/edge-drop/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/edge-drop/index.json",
+        "en": "https://tesign.com/en/item/edge-drop/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/edge-drop/index.md",
+        "en": "https://tesign.com/en/item/edge-drop/index.md"
+      }
+    },
+    {
+      "slug": "zenconverter",
+      "name": {
+        "ko": "ZenConverter",
+        "en": "ZenConverter"
+      },
+      "use_label": {
+        "ko": "안드로이드 기기 내 파일 변환",
+        "en": "On-phone file conversion for Android"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:57.065Z",
+      "kept_at": "2026-09-14T19:27:43.603Z",
+      "html": {
+        "ko": "https://tesign.com/item/zenconverter/",
+        "en": "https://tesign.com/en/item/zenconverter/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/zenconverter/index.json",
+        "en": "https://tesign.com/en/item/zenconverter/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/zenconverter/index.md",
+        "en": "https://tesign.com/en/item/zenconverter/index.md"
+      }
+    },
+    {
+      "slug": "openmouse",
+      "name": {
+        "ko": "OpenMouse",
+        "en": "OpenMouse"
+      },
+      "use_label": {
+        "ko": "게이머용 브라우저 마우스 설정",
+        "en": "Gaming-mouse settings in the browser"
+      },
+      "category": "hardware",
+      "categories": [
+        "hardware",
+        "games"
+      ],
+      "updated": "2026-09-15T04:36:56.942Z",
+      "kept_at": "2026-09-14T19:27:43.599Z",
+      "html": {
+        "ko": "https://tesign.com/item/openmouse/",
+        "en": "https://tesign.com/en/item/openmouse/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openmouse/index.json",
+        "en": "https://tesign.com/en/item/openmouse/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openmouse/index.md",
+        "en": "https://tesign.com/en/item/openmouse/index.md"
+      }
+    },
+    {
+      "slug": "esp-kvm",
+      "name": {
+        "ko": "ESP-KVM",
+        "en": "ESP-KVM"
+      },
+      "use_label": {
+        "ko": "직접 만드는 원격 KVM",
+        "en": "Build-your-own remote KVM"
+      },
+      "category": "hardware",
+      "categories": [
+        "hardware",
+        "infra"
+      ],
+      "updated": "2026-09-15T04:36:56.864Z",
+      "kept_at": "2026-09-14T19:27:43.595Z",
+      "html": {
+        "ko": "https://tesign.com/item/esp-kvm/",
+        "en": "https://tesign.com/en/item/esp-kvm/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/esp-kvm/index.json",
+        "en": "https://tesign.com/en/item/esp-kvm/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/esp-kvm/index.md",
+        "en": "https://tesign.com/en/item/esp-kvm/index.md"
+      }
+    },
+    {
+      "slug": "cutwire-drift",
+      "name": {
+        "ko": "Drift",
+        "en": "Drift"
+      },
+      "use_label": {
+        "ko": "쇼츠·게임 클립 편집",
+        "en": "Video editing for Shorts and game clips"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:56.832Z",
+      "kept_at": "2026-09-14T19:27:43.591Z",
+      "html": {
+        "ko": "https://tesign.com/item/cutwire-drift/",
+        "en": "https://tesign.com/en/item/cutwire-drift/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/cutwire-drift/index.json",
+        "en": "https://tesign.com/en/item/cutwire-drift/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/cutwire-drift/index.md",
+        "en": "https://tesign.com/en/item/cutwire-drift/index.md"
+      }
+    },
+    {
+      "slug": "capptivo",
+      "name": {
+        "ko": "Capptivo",
+        "en": "Capptivo"
+      },
+      "use_label": {
+        "ko": "제품 데모용 화면 녹화",
+        "en": "Screen recording for product demos"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:56.815Z",
+      "kept_at": "2026-09-14T19:27:43.588Z",
+      "html": {
+        "ko": "https://tesign.com/item/capptivo/",
+        "en": "https://tesign.com/en/item/capptivo/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/capptivo/index.json",
+        "en": "https://tesign.com/en/item/capptivo/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/capptivo/index.md",
+        "en": "https://tesign.com/en/item/capptivo/index.md"
+      }
+    },
+    {
+      "slug": "trycompai-crm",
+      "name": {
+        "ko": "Comp AI CRM",
+        "en": "Comp AI CRM"
+      },
+      "use_label": {
+        "ko": "에이전트가 기록하는 CRM",
+        "en": "CRM where the agent keeps the notes"
+      },
+      "category": "commerce",
+      "categories": [
+        "commerce",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:57.040Z",
+      "kept_at": "2026-09-14T19:27:43.584Z",
+      "html": {
+        "ko": "https://tesign.com/item/trycompai-crm/",
+        "en": "https://tesign.com/en/item/trycompai-crm/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/trycompai-crm/index.json",
+        "en": "https://tesign.com/en/item/trycompai-crm/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/trycompai-crm/index.md",
+        "en": "https://tesign.com/en/item/trycompai-crm/index.md"
+      }
+    },
+    {
+      "slug": "talivia",
+      "name": {
+        "ko": "Talivia",
+        "en": "Talivia"
+      },
+      "use_label": {
+        "ko": "창업자용 매출 연결 웹 분석",
+        "en": "Revenue-linked analytics for founders"
+      },
+      "category": "data",
+      "categories": [
+        "data",
+        "commerce"
+      ],
+      "updated": "2026-09-15T04:36:57.024Z",
+      "kept_at": "2026-09-14T19:27:43.580Z",
+      "html": {
+        "ko": "https://tesign.com/item/talivia/",
+        "en": "https://tesign.com/en/item/talivia/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/talivia/index.json",
+        "en": "https://tesign.com/en/item/talivia/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/talivia/index.md",
+        "en": "https://tesign.com/en/item/talivia/index.md"
+      }
+    },
+    {
+      "slug": "openreply",
+      "name": {
+        "ko": "OpenReply",
+        "en": "OpenReply"
+      },
+      "use_label": {
+        "ko": "인스타그램 댓글 DM 자동화",
+        "en": "Instagram comment-to-DM automation"
+      },
+      "category": "commerce",
+      "categories": [
+        "commerce",
+        "social"
+      ],
+      "updated": "2026-09-15T04:36:56.944Z",
+      "kept_at": "2026-09-14T19:27:43.576Z",
+      "html": {
+        "ko": "https://tesign.com/item/openreply/",
+        "en": "https://tesign.com/en/item/openreply/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openreply/index.json",
+        "en": "https://tesign.com/en/item/openreply/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openreply/index.md",
+        "en": "https://tesign.com/en/item/openreply/index.md"
+      }
+    },
+    {
+      "slug": "yap",
+      "name": {
+        "ko": "Yap",
+        "en": "Yap"
+      },
+      "use_label": {
+        "ko": "맥 사용자용 기기 내 받아쓰기",
+        "en": "On-device dictation for Mac users"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:57.060Z",
+      "kept_at": "2026-09-14T19:27:43.572Z",
+      "html": {
+        "ko": "https://tesign.com/item/yap/",
+        "en": "https://tesign.com/en/item/yap/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/yap/index.json",
+        "en": "https://tesign.com/en/item/yap/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/yap/index.md",
+        "en": "https://tesign.com/en/item/yap/index.md"
+      }
+    },
+    {
+      "slug": "crisp",
+      "name": {
+        "ko": "Crisp",
+        "en": "Crisp"
+      },
+      "use_label": {
+        "ko": "맥 외장 모니터 설정",
+        "en": "Controls for Mac external monitors"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T07:17:01.038Z",
+      "kept_at": "2026-09-14T19:27:43.568Z",
+      "html": {
+        "ko": "https://tesign.com/item/crisp/",
+        "en": "https://tesign.com/en/item/crisp/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/crisp/index.json",
+        "en": "https://tesign.com/en/item/crisp/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/crisp/index.md",
+        "en": "https://tesign.com/en/item/crisp/index.md"
+      }
+    },
+    {
+      "slug": "fluxdown",
+      "name": {
+        "ko": "FluxDown",
+        "en": "FluxDown"
+      },
+      "use_label": {
+        "ko": "IDM 대체 다운로드 관리",
+        "en": "Download manager, free IDM alternative"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:56.868Z",
+      "kept_at": "2026-09-14T19:27:43.564Z",
+      "html": {
+        "ko": "https://tesign.com/item/fluxdown/",
+        "en": "https://tesign.com/en/item/fluxdown/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/fluxdown/index.json",
+        "en": "https://tesign.com/en/item/fluxdown/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/fluxdown/index.md",
+        "en": "https://tesign.com/en/item/fluxdown/index.md"
+      }
+    },
+    {
+      "slug": "nurb",
+      "name": {
+        "ko": "nurb",
+        "en": "nurb"
+      },
+      "use_label": {
+        "ko": "3D 프린터용 대화형 CAD",
+        "en": "Describe-it CAD for 3D printing"
+      },
+      "category": "hardware",
+      "categories": [
+        "hardware",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.916Z",
+      "kept_at": "2026-09-14T19:27:43.560Z",
+      "html": {
+        "ko": "https://tesign.com/item/nurb/",
+        "en": "https://tesign.com/en/item/nurb/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/nurb/index.json",
+        "en": "https://tesign.com/en/item/nurb/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/nurb/index.md",
+        "en": "https://tesign.com/en/item/nurb/index.md"
+      }
+    },
+    {
+      "slug": "bento",
+      "name": {
+        "ko": "Bento",
+        "en": "Bento"
+      },
+      "use_label": {
+        "ko": "발표자용 파일 하나 슬라이드",
+        "en": "One-file slides for presenters"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.803Z",
+      "kept_at": "2026-09-14T19:27:43.556Z",
+      "html": {
+        "ko": "https://tesign.com/item/bento/",
+        "en": "https://tesign.com/en/item/bento/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/bento/index.json",
+        "en": "https://tesign.com/en/item/bento/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/bento/index.md",
+        "en": "https://tesign.com/en/item/bento/index.md"
+      }
+    },
+    {
+      "slug": "openworker",
+      "name": {
+        "ko": "OpenWorker",
+        "en": "OpenWorker"
+      },
+      "use_label": {
+        "ko": "업무용 데스크톱 AI 동료",
+        "en": "Desktop AI coworker for daily tasks"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.949Z",
+      "kept_at": "2026-09-14T19:27:43.551Z",
+      "html": {
+        "ko": "https://tesign.com/item/openworker/",
+        "en": "https://tesign.com/en/item/openworker/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openworker/index.json",
+        "en": "https://tesign.com/en/item/openworker/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openworker/index.md",
+        "en": "https://tesign.com/en/item/openworker/index.md"
+      }
+    },
+    {
+      "slug": "genoffice",
+      "name": {
+        "ko": "GenOffice",
+        "en": "GenOffice"
+      },
+      "use_label": {
+        "ko": "MS 오피스 대체 AI 오피스",
+        "en": "AI office suite, MS Office alternative"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.871Z",
+      "kept_at": "2026-09-14T19:27:43.548Z",
+      "html": {
+        "ko": "https://tesign.com/item/genoffice/",
+        "en": "https://tesign.com/en/item/genoffice/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/genoffice/index.json",
+        "en": "https://tesign.com/en/item/genoffice/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/genoffice/index.md",
+        "en": "https://tesign.com/en/item/genoffice/index.md"
+      }
+    },
+    {
+      "slug": "decimen-optical-transfer",
+      "name": {
+        "ko": "Decimen Optical Transfer",
+        "en": "Decimen Optical Transfer"
+      },
+      "use_label": {
+        "ko": "네트워크 없는 파일 전송",
+        "en": "File transfer with no network"
+      },
+      "category": "experiment",
+      "categories": [
+        "experiment",
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:56.834Z",
+      "kept_at": "2026-09-14T19:27:43.543Z",
+      "html": {
+        "ko": "https://tesign.com/item/decimen-optical-transfer/",
+        "en": "https://tesign.com/en/item/decimen-optical-transfer/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/decimen-optical-transfer/index.json",
+        "en": "https://tesign.com/en/item/decimen-optical-transfer/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/decimen-optical-transfer/index.md",
+        "en": "https://tesign.com/en/item/decimen-optical-transfer/index.md"
+      }
+    },
+    {
+      "slug": "adrafinil",
+      "name": {
+        "ko": "Adrafinil",
+        "en": "Adrafinil"
+      },
+      "use_label": {
+        "ko": "에이전트 쓸 때 맥 안 잠들게",
+        "en": "Mac wake-lock for agent users"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "productivity"
+      ],
+      "updated": "2026-09-15T07:17:01.025Z",
+      "kept_at": "2026-09-14T19:27:43.539Z",
+      "html": {
+        "ko": "https://tesign.com/item/adrafinil/",
+        "en": "https://tesign.com/en/item/adrafinil/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/adrafinil/index.json",
+        "en": "https://tesign.com/en/item/adrafinil/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/adrafinil/index.md",
+        "en": "https://tesign.com/en/item/adrafinil/index.md"
+      }
+    },
+    {
+      "slug": "poketokenbar",
+      "name": {
+        "ko": "PokeTokenBar",
+        "en": "PokeTokenBar"
+      },
+      "use_label": {
+        "ko": "코딩 토큰으로 키우는 포켓몬",
+        "en": "Pokemon raised on your coding tokens"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "games"
+      ],
+      "updated": "2026-09-15T04:36:56.972Z",
+      "kept_at": "2026-09-14T19:27:43.534Z",
+      "html": {
+        "ko": "https://tesign.com/item/poketokenbar/",
+        "en": "https://tesign.com/en/item/poketokenbar/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/poketokenbar/index.json",
+        "en": "https://tesign.com/en/item/poketokenbar/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/poketokenbar/index.md",
+        "en": "https://tesign.com/en/item/poketokenbar/index.md"
+      }
+    },
+    {
+      "slug": "peerd",
+      "name": {
+        "ko": "peerd",
+        "en": "peerd"
+      },
+      "use_label": {
+        "ko": "브라우저 안에서 도는 에이전트",
+        "en": "Agent that runs inside your browser"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "experiment"
+      ],
+      "updated": "2026-09-15T04:36:56.966Z",
+      "kept_at": "2026-09-14T19:27:43.528Z",
+      "html": {
+        "ko": "https://tesign.com/item/peerd/",
+        "en": "https://tesign.com/en/item/peerd/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/peerd/index.json",
+        "en": "https://tesign.com/en/item/peerd/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/peerd/index.md",
+        "en": "https://tesign.com/en/item/peerd/index.md"
+      }
+    },
+    {
+      "slug": "nodeterm",
+      "name": {
+        "ko": "nodeterm",
+        "en": "nodeterm"
+      },
+      "use_label": {
+        "ko": "여러 에이전트를 캔버스에 배치",
+        "en": "Terminals and agents on one canvas"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.913Z",
+      "kept_at": "2026-09-14T19:27:43.524Z",
+      "html": {
+        "ko": "https://tesign.com/item/nodeterm/",
+        "en": "https://tesign.com/en/item/nodeterm/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/nodeterm/index.json",
+        "en": "https://tesign.com/en/item/nodeterm/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/nodeterm/index.md",
+        "en": "https://tesign.com/en/item/nodeterm/index.md"
+      }
+    },
+    {
+      "slug": "llm-space",
+      "name": {
+        "ko": "LLM Space",
+        "en": "LLM Space"
+      },
+      "use_label": {
+        "ko": "에이전트 개발자용 실행 추적",
+        "en": "Run tracing for agent builders"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.901Z",
+      "kept_at": "2026-09-14T19:27:43.520Z",
+      "html": {
+        "ko": "https://tesign.com/item/llm-space/",
+        "en": "https://tesign.com/en/item/llm-space/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/llm-space/index.json",
+        "en": "https://tesign.com/en/item/llm-space/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/llm-space/index.md",
+        "en": "https://tesign.com/en/item/llm-space/index.md"
+      }
+    },
+    {
+      "slug": "omnigent",
+      "name": {
+        "ko": "Omnigent",
+        "en": "Omnigent"
+      },
+      "use_label": {
+        "ko": "코딩 에이전트 통합 제어층",
+        "en": "One control layer for coding agents"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.920Z",
+      "kept_at": "2026-09-14T19:27:43.513Z",
+      "html": {
+        "ko": "https://tesign.com/item/omnigent/",
+        "en": "https://tesign.com/en/item/omnigent/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/omnigent/index.json",
+        "en": "https://tesign.com/en/item/omnigent/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/omnigent/index.md",
+        "en": "https://tesign.com/en/item/omnigent/index.md"
+      }
+    },
+    {
+      "slug": "mimo-code",
+      "name": {
+        "ko": "MiMo Code",
+        "en": "MiMo Code"
+      },
+      "use_label": {
+        "ko": "기억하는 터미널 코딩 에이전트",
+        "en": "Terminal coding agent with memory"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.908Z",
+      "kept_at": "2026-09-14T19:27:43.509Z",
+      "html": {
+        "ko": "https://tesign.com/item/mimo-code/",
+        "en": "https://tesign.com/en/item/mimo-code/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/mimo-code/index.json",
+        "en": "https://tesign.com/en/item/mimo-code/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/mimo-code/index.md",
+        "en": "https://tesign.com/en/item/mimo-code/index.md"
+      }
+    },
+    {
+      "slug": "gitfut",
+      "name": {
+        "ko": "GitFut",
+        "en": "GitFut"
+      },
+      "use_label": {
+        "ko": "GitHub 프로필 선수 카드",
+        "en": "Player card for your GitHub profile"
+      },
+      "category": "social",
+      "categories": [
+        "social"
+      ],
+      "updated": "2026-09-15T04:36:56.873Z",
+      "kept_at": "2026-09-14T19:27:43.502Z",
+      "html": {
+        "ko": "https://tesign.com/item/gitfut/",
+        "en": "https://tesign.com/en/item/gitfut/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/gitfut/index.json",
+        "en": "https://tesign.com/en/item/gitfut/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/gitfut/index.md",
+        "en": "https://tesign.com/en/item/gitfut/index.md"
+      }
+    },
+    {
+      "slug": "sql-to-er-diagram",
+      "name": {
+        "ko": "SQL to ER Diagram",
+        "en": "SQL to ER Diagram"
+      },
+      "use_label": {
+        "ko": "SQL 스키마를 ER 도표로",
+        "en": "SQL schema to ER diagram, in-browser"
+      },
+      "category": "data",
+      "categories": [
+        "data",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:57.018Z",
+      "kept_at": "2026-09-14T19:27:43.498Z",
+      "html": {
+        "ko": "https://tesign.com/item/sql-to-er-diagram/",
+        "en": "https://tesign.com/en/item/sql-to-er-diagram/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/sql-to-er-diagram/index.json",
+        "en": "https://tesign.com/en/item/sql-to-er-diagram/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/sql-to-er-diagram/index.md",
+        "en": "https://tesign.com/en/item/sql-to-er-diagram/index.md"
+      }
+    },
+    {
+      "slug": "make-look-scanned",
+      "name": {
+        "ko": "make-look-scanned",
+        "en": "make-look-scanned"
+      },
+      "use_label": {
+        "ko": "PDF를 스캔본처럼 만들기",
+        "en": "Make a PDF look like a paper scan"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.904Z",
+      "kept_at": "2026-09-14T19:27:43.493Z",
+      "html": {
+        "ko": "https://tesign.com/item/make-look-scanned/",
+        "en": "https://tesign.com/en/item/make-look-scanned/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/make-look-scanned/index.json",
+        "en": "https://tesign.com/en/item/make-look-scanned/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/make-look-scanned/index.md",
+        "en": "https://tesign.com/en/item/make-look-scanned/index.md"
+      }
+    },
+    {
+      "slug": "pdfx",
+      "name": {
+        "ko": "PDFx",
+        "en": "PDFx"
+      },
+      "use_label": {
+        "ko": "여러 PDF를 한 파일로 묶기",
+        "en": "Bundle many PDFs into one valid PDF"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.963Z",
+      "kept_at": "2026-09-14T19:27:43.489Z",
+      "html": {
+        "ko": "https://tesign.com/item/pdfx/",
+        "en": "https://tesign.com/en/item/pdfx/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/pdfx/index.json",
+        "en": "https://tesign.com/en/item/pdfx/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/pdfx/index.md",
+        "en": "https://tesign.com/en/item/pdfx/index.md"
+      }
+    },
+    {
+      "slug": "conduit",
+      "name": {
+        "ko": "Conduit",
+        "en": "Conduit"
+      },
+      "use_label": {
+        "ko": "폰에서 서버 접속하는 터미널",
+        "en": "Phone terminal for reaching servers"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.826Z",
+      "kept_at": "2026-09-14T19:27:43.481Z",
+      "html": {
+        "ko": "https://tesign.com/item/conduit/",
+        "en": "https://tesign.com/en/item/conduit/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/conduit/index.json",
+        "en": "https://tesign.com/en/item/conduit/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/conduit/index.md",
+        "en": "https://tesign.com/en/item/conduit/index.md"
+      }
+    },
+    {
+      "slug": "tinycast",
+      "name": {
+        "ko": "Tinycast",
+        "en": "Tinycast"
+      },
+      "use_label": {
+        "ko": "맥 사용자용 가벼운 런처",
+        "en": "Lightweight launcher for Mac users"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:57.034Z",
+      "kept_at": "2026-09-14T19:27:43.473Z",
+      "html": {
+        "ko": "https://tesign.com/item/tinycast/",
+        "en": "https://tesign.com/en/item/tinycast/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/tinycast/index.json",
+        "en": "https://tesign.com/en/item/tinycast/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/tinycast/index.md",
+        "en": "https://tesign.com/en/item/tinycast/index.md"
+      }
+    },
+    {
+      "slug": "dory",
+      "name": {
+        "ko": "Dory",
+        "en": "Dory"
+      },
+      "use_label": {
+        "ko": "맥 개발자용 Docker 환경",
+        "en": "Docker environment for Mac developers"
+      },
+      "category": "infra",
+      "categories": [
+        "infra",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.850Z",
+      "kept_at": "2026-09-14T19:27:43.468Z",
+      "html": {
+        "ko": "https://tesign.com/item/dory/",
+        "en": "https://tesign.com/en/item/dory/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/dory/index.json",
+        "en": "https://tesign.com/en/item/dory/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/dory/index.md",
+        "en": "https://tesign.com/en/item/dory/index.md"
+      }
+    },
+    {
+      "slug": "solar-wanderer",
+      "name": {
+        "ko": "Solar Wanderer",
+        "en": "Solar Wanderer"
+      },
+      "use_label": {
+        "ko": "브라우저 1:1 실시간 태양계",
+        "en": "Real-time 1:1 solar system, no install"
+      },
+      "category": "education",
+      "categories": [
+        "education",
+        "science"
+      ],
+      "updated": "2026-09-15T04:36:57.007Z",
+      "kept_at": "2026-09-14T19:27:43.464Z",
+      "html": {
+        "ko": "https://tesign.com/item/solar-wanderer/",
+        "en": "https://tesign.com/en/item/solar-wanderer/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/solar-wanderer/index.json",
+        "en": "https://tesign.com/en/item/solar-wanderer/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/solar-wanderer/index.md",
+        "en": "https://tesign.com/en/item/solar-wanderer/index.md"
+      }
+    },
+    {
+      "slug": "hypomux",
+      "name": {
+        "ko": "HypoMux",
+        "en": "HypoMux"
+      },
+      "use_label": {
+        "ko": "윈도우용 여러 회선 합쳐 받기",
+        "en": "Combine network links on Windows"
+      },
+      "category": "infra",
+      "categories": [
+        "infra"
+      ],
+      "updated": "2026-09-15T04:36:56.891Z",
+      "kept_at": "2026-09-14T19:27:43.459Z",
+      "html": {
+        "ko": "https://tesign.com/item/hypomux/",
+        "en": "https://tesign.com/en/item/hypomux/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/hypomux/index.json",
+        "en": "https://tesign.com/en/item/hypomux/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/hypomux/index.md",
+        "en": "https://tesign.com/en/item/hypomux/index.md"
+      }
+    },
+    {
+      "slug": "openknowledge",
+      "name": {
+        "ko": "OpenKnowledge",
+        "en": "OpenKnowledge"
+      },
+      "use_label": {
+        "ko": "노트·위키용 AI 편집기",
+        "en": "Markdown editor for notes and wikis"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.933Z",
+      "kept_at": "2026-09-14T19:27:43.451Z",
+      "html": {
+        "ko": "https://tesign.com/item/openknowledge/",
+        "en": "https://tesign.com/en/item/openknowledge/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openknowledge/index.json",
+        "en": "https://tesign.com/en/item/openknowledge/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openknowledge/index.md",
+        "en": "https://tesign.com/en/item/openknowledge/index.md"
+      }
+    },
+    {
+      "slug": "deskbox",
+      "name": {
+        "ko": "DeskBox",
+        "en": "DeskBox"
+      },
+      "use_label": {
+        "ko": "윈도우 사용자용 바탕화면 정리",
+        "en": "Desktop organizer for Windows users"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.841Z",
+      "kept_at": "2026-09-14T19:27:43.444Z",
+      "html": {
+        "ko": "https://tesign.com/item/deskbox/",
+        "en": "https://tesign.com/en/item/deskbox/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/deskbox/index.json",
+        "en": "https://tesign.com/en/item/deskbox/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/deskbox/index.md",
+        "en": "https://tesign.com/en/item/deskbox/index.md"
+      }
+    },
+    {
+      "slug": "kage",
+      "name": {
+        "ko": "kage",
+        "en": "kage"
+      },
+      "use_label": {
+        "ko": "웹사이트 오프라인 보관 사본",
+        "en": "Offline, script-free copies of websites"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.895Z",
+      "kept_at": "2026-09-14T19:27:43.437Z",
+      "html": {
+        "ko": "https://tesign.com/item/kage/",
+        "en": "https://tesign.com/en/item/kage/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/kage/index.json",
+        "en": "https://tesign.com/en/item/kage/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/kage/index.md",
+        "en": "https://tesign.com/en/item/kage/index.md"
+      }
+    },
+    {
+      "slug": "bramble",
+      "name": {
+        "ko": "Bramble",
+        "en": "Bramble"
+      },
+      "use_label": {
+        "ko": "개인용 P2P 비밀번호 관리",
+        "en": "Personal password vault, no account"
+      },
+      "category": "security",
+      "categories": [
+        "security"
+      ],
+      "updated": "2026-09-15T04:36:56.810Z",
+      "kept_at": "2026-09-14T19:27:43.429Z",
+      "html": {
+        "ko": "https://tesign.com/item/bramble/",
+        "en": "https://tesign.com/en/item/bramble/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/bramble/index.json",
+        "en": "https://tesign.com/en/item/bramble/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/bramble/index.md",
+        "en": "https://tesign.com/en/item/bramble/index.md"
+      }
+    },
+    {
+      "slug": "vorssaint",
+      "name": {
+        "ko": "Vorssaint",
+        "en": "Vorssaint"
+      },
+      "use_label": {
+        "ko": "맥 사용자용 유틸리티 모음",
+        "en": "Utility bundle for Mac users"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:57.051Z",
+      "kept_at": "2026-09-14T19:27:43.408Z",
+      "html": {
+        "ko": "https://tesign.com/item/vorssaint/",
+        "en": "https://tesign.com/en/item/vorssaint/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/vorssaint/index.json",
+        "en": "https://tesign.com/en/item/vorssaint/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/vorssaint/index.md",
+        "en": "https://tesign.com/en/item/vorssaint/index.md"
+      }
+    },
+    {
+      "slug": "oauthcli",
+      "name": {
+        "ko": "oauthcli",
+        "en": "oauthcli"
+      },
+      "use_label": {
+        "ko": "개발자용 OAuth 서버 점검",
+        "en": "OAuth server audit for developers"
+      },
+      "category": "security",
+      "categories": [
+        "security",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.918Z",
+      "kept_at": "2026-09-14T02:41:59.171Z",
+      "html": {
+        "ko": "https://tesign.com/item/oauthcli/",
+        "en": "https://tesign.com/en/item/oauthcli/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/oauthcli/index.json",
+        "en": "https://tesign.com/en/item/oauthcli/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/oauthcli/index.md",
+        "en": "https://tesign.com/en/item/oauthcli/index.md"
+      }
+    },
+    {
+      "slug": "proton-cli",
+      "name": {
+        "ko": "proton-cli",
+        "en": "proton-cli"
+      },
+      "use_label": {
+        "ko": "터미널에서 쓰는 Proton",
+        "en": "Proton services from the terminal"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T07:17:01.050Z",
+      "kept_at": "2026-09-14T02:41:59.155Z",
+      "html": {
+        "ko": "https://tesign.com/item/proton-cli/",
+        "en": "https://tesign.com/en/item/proton-cli/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/proton-cli/index.json",
+        "en": "https://tesign.com/en/item/proton-cli/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/proton-cli/index.md",
+        "en": "https://tesign.com/en/item/proton-cli/index.md"
+      }
+    },
+    {
+      "slug": "birdview",
+      "name": {
+        "ko": "Birdview",
+        "en": "Birdview"
+      },
+      "use_label": {
+        "ko": "AI 코딩 팀용 영향 지도",
+        "en": "Change maps for AI-coding teams"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.806Z",
+      "kept_at": "2026-09-14T02:41:59.141Z",
+      "html": {
+        "ko": "https://tesign.com/item/birdview/",
+        "en": "https://tesign.com/en/item/birdview/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/birdview/index.json",
+        "en": "https://tesign.com/en/item/birdview/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/birdview/index.md",
+        "en": "https://tesign.com/en/item/birdview/index.md"
+      }
+    },
+    {
+      "slug": "design-studio-ai",
+      "name": {
+        "ko": "Design Studio AI",
+        "en": "Design Studio AI"
+      },
+      "use_label": {
+        "ko": "에이전트와 함께 디자인 편집",
+        "en": "Design workspace for people and agents"
+      },
+      "category": "design",
+      "categories": [
+        "design",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.839Z",
+      "kept_at": "2026-09-14T02:41:59.126Z",
+      "html": {
+        "ko": "https://tesign.com/item/design-studio-ai/",
+        "en": "https://tesign.com/en/item/design-studio-ai/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/design-studio-ai/index.json",
+        "en": "https://tesign.com/en/item/design-studio-ai/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/design-studio-ai/index.md",
+        "en": "https://tesign.com/en/item/design-studio-ai/index.md"
+      }
+    },
+    {
+      "slug": "pdf-pocket-tools",
+      "name": {
+        "ko": "PDF Pocket Tools",
+        "en": "PDF Pocket Tools"
+      },
+      "use_label": {
+        "ko": "생산성",
+        "en": "PRODUCTIVITY"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.957Z",
+      "kept_at": "2026-09-14T02:41:59.112Z",
+      "html": {
+        "ko": "https://tesign.com/item/pdf-pocket-tools/",
+        "en": "https://tesign.com/en/item/pdf-pocket-tools/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/pdf-pocket-tools/index.json",
+        "en": "https://tesign.com/en/item/pdf-pocket-tools/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/pdf-pocket-tools/index.md",
+        "en": "https://tesign.com/en/item/pdf-pocket-tools/index.md"
+      }
+    },
+    {
+      "slug": "museum-of-source-code",
+      "name": {
+        "ko": "Programming Museum",
+        "en": "Programming Museum"
+      },
+      "use_label": {
+        "ko": "교육",
+        "en": "EDUCATION"
+      },
+      "category": "education",
+      "categories": [
+        "education",
+        "experiment"
+      ],
+      "updated": "2026-09-15T04:36:56.911Z",
+      "kept_at": "2026-09-14T02:41:59.098Z",
+      "html": {
+        "ko": "https://tesign.com/item/museum-of-source-code/",
+        "en": "https://tesign.com/en/item/museum-of-source-code/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/museum-of-source-code/index.json",
+        "en": "https://tesign.com/en/item/museum-of-source-code/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/museum-of-source-code/index.md",
+        "en": "https://tesign.com/en/item/museum-of-source-code/index.md"
+      }
+    },
+    {
+      "slug": "roamux",
+      "name": {
+        "ko": "roamux",
+        "en": "roamux"
+      },
+      "use_label": {
+        "ko": "에이전트를 폰에서 원격 조종",
+        "en": "Steer your coding agents from a phone"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.992Z",
+      "kept_at": "2026-09-14T02:41:59.083Z",
+      "html": {
+        "ko": "https://tesign.com/item/roamux/",
+        "en": "https://tesign.com/en/item/roamux/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/roamux/index.json",
+        "en": "https://tesign.com/en/item/roamux/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/roamux/index.md",
+        "en": "https://tesign.com/en/item/roamux/index.md"
+      }
+    },
+    {
+      "slug": "pdfcn",
+      "name": {
+        "ko": "pdfcn",
+        "en": "pdfcn"
+      },
+      "use_label": {
+        "ko": "React용 PDF 컴포넌트",
+        "en": "PDF components for React developers"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "library"
+      ],
+      "updated": "2026-09-15T04:36:56.960Z",
+      "kept_at": "2026-09-14T02:41:59.069Z",
+      "html": {
+        "ko": "https://tesign.com/item/pdfcn/",
+        "en": "https://tesign.com/en/item/pdfcn/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/pdfcn/index.json",
+        "en": "https://tesign.com/en/item/pdfcn/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/pdfcn/index.md",
+        "en": "https://tesign.com/en/item/pdfcn/index.md"
+      }
+    },
+    {
+      "slug": "dlss5-swapper",
+      "name": {
+        "ko": "DLSS 5 Swapper",
+        "en": "DLSS 5 Swapper"
+      },
+      "use_label": {
+        "ko": "게이머용 DLSS 5 설치",
+        "en": "DLSS 5 installer for gamers"
+      },
+      "category": "games",
+      "categories": [
+        "games"
+      ],
+      "updated": "2026-09-15T04:36:56.847Z",
+      "kept_at": "2026-09-14T02:41:59.054Z",
+      "html": {
+        "ko": "https://tesign.com/item/dlss5-swapper/",
+        "en": "https://tesign.com/en/item/dlss5-swapper/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/dlss5-swapper/index.json",
+        "en": "https://tesign.com/en/item/dlss5-swapper/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/dlss5-swapper/index.md",
+        "en": "https://tesign.com/en/item/dlss5-swapper/index.md"
+      }
+    },
+    {
+      "slug": "amagine3d",
+      "name": {
+        "ko": "Amagine3D",
+        "en": "Amagine3D"
+      },
+      "use_label": {
+        "ko": "하드웨어 제작자용 외장 설계",
+        "en": "Enclosure design for hardware makers"
+      },
+      "category": "hardware",
+      "categories": [
+        "hardware",
+        "design"
+      ],
+      "updated": "2026-09-15T04:36:56.793Z",
+      "kept_at": "2026-09-14T02:41:59.037Z",
+      "html": {
+        "ko": "https://tesign.com/item/amagine3d/",
+        "en": "https://tesign.com/en/item/amagine3d/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/amagine3d/index.json",
+        "en": "https://tesign.com/en/item/amagine3d/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/amagine3d/index.md",
+        "en": "https://tesign.com/en/item/amagine3d/index.md"
+      }
+    },
+    {
+      "slug": "viserys-agent",
+      "name": {
+        "ko": "Viserys",
+        "en": "Viserys"
+      },
+      "use_label": {
+        "ko": "에이전트용 개발 절차 스킬",
+        "en": "Workflow skills for coding agents"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:57.046Z",
+      "kept_at": "2026-09-14T02:41:59.023Z",
+      "html": {
+        "ko": "https://tesign.com/item/viserys-agent/",
+        "en": "https://tesign.com/en/item/viserys-agent/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/viserys-agent/index.json",
+        "en": "https://tesign.com/en/item/viserys-agent/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/viserys-agent/index.md",
+        "en": "https://tesign.com/en/item/viserys-agent/index.md"
+      }
+    },
+    {
+      "slug": "bongocat",
+      "name": {
+        "ko": "BongoCat",
+        "en": "BongoCat"
+      },
+      "use_label": {
+        "ko": "미디어",
+        "en": "MEDIA"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:56.808Z",
+      "kept_at": "2026-09-14T02:41:59.009Z",
+      "html": {
+        "ko": "https://tesign.com/item/bongocat/",
+        "en": "https://tesign.com/en/item/bongocat/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/bongocat/index.json",
+        "en": "https://tesign.com/en/item/bongocat/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/bongocat/index.md",
+        "en": "https://tesign.com/en/item/bongocat/index.md"
+      }
+    },
+    {
+      "slug": "duofold-android",
+      "name": {
+        "ko": "DuoFold for Android",
+        "en": "DuoFold for Android"
+      },
+      "use_label": {
+        "ko": "안드로이드 폰용 접힘 효과",
+        "en": "Fold illusion for Android phones"
+      },
+      "category": "media",
+      "categories": [
+        "media",
+        "experiment"
+      ],
+      "updated": "2026-09-15T04:36:56.854Z",
+      "kept_at": "2026-09-14T02:41:58.993Z",
+      "html": {
+        "ko": "https://tesign.com/item/duofold-android/",
+        "en": "https://tesign.com/en/item/duofold-android/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/duofold-android/index.json",
+        "en": "https://tesign.com/en/item/duofold-android/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/duofold-android/index.md",
+        "en": "https://tesign.com/en/item/duofold-android/index.md"
+      }
+    },
+    {
+      "slug": "highball",
+      "name": {
+        "ko": "Highball",
+        "en": "Highball"
+      },
+      "use_label": {
+        "ko": "맥 게이머용 윈도우 게임 실행",
+        "en": "Windows games for Mac gamers"
+      },
+      "category": "games",
+      "categories": [
+        "games"
+      ],
+      "updated": "2026-09-15T04:36:56.884Z",
+      "kept_at": "2026-09-14T02:41:58.979Z",
+      "html": {
+        "ko": "https://tesign.com/item/highball/",
+        "en": "https://tesign.com/en/item/highball/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/highball/index.json",
+        "en": "https://tesign.com/en/item/highball/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/highball/index.md",
+        "en": "https://tesign.com/en/item/highball/index.md"
+      }
+    },
+    {
+      "slug": "wutw-public",
+      "name": {
+        "ko": "Worlds Upon The Wind",
+        "en": "Worlds Upon The Wind"
+      },
+      "use_label": {
+        "ko": "Steam 덱빌더 소스 공개",
+        "en": "Steam deckbuilder source, public domain"
+      },
+      "category": "games",
+      "categories": [
+        "games",
+        "education"
+      ],
+      "updated": "2026-09-15T04:36:57.056Z",
+      "kept_at": "2026-09-14T02:41:58.963Z",
+      "html": {
+        "ko": "https://tesign.com/item/wutw-public/",
+        "en": "https://tesign.com/en/item/wutw-public/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/wutw-public/index.json",
+        "en": "https://tesign.com/en/item/wutw-public/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/wutw-public/index.md",
+        "en": "https://tesign.com/en/item/wutw-public/index.md"
+      }
+    },
+    {
+      "slug": "agent-memory",
+      "name": {
+        "ko": "agent-memory",
+        "en": "agent-memory"
+      },
+      "use_label": {
+        "ko": "에이전트 사용자용 장기 기억",
+        "en": "Long-term memory for agent users"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.786Z",
+      "kept_at": "2026-09-14T02:41:58.947Z",
+      "html": {
+        "ko": "https://tesign.com/item/agent-memory/",
+        "en": "https://tesign.com/en/item/agent-memory/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/agent-memory/index.json",
+        "en": "https://tesign.com/en/item/agent-memory/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/agent-memory/index.md",
+        "en": "https://tesign.com/en/item/agent-memory/index.md"
+      }
+    },
+    {
+      "slug": "agency",
+      "name": {
+        "ko": "Agency",
+        "en": "Agency"
+      },
+      "use_label": {
+        "ko": "1인용 에이전트 할 일 카드",
+        "en": "Agent to-do cards for one person"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.783Z",
+      "kept_at": "2026-09-14T02:41:58.930Z",
+      "html": {
+        "ko": "https://tesign.com/item/agency/",
+        "en": "https://tesign.com/en/item/agency/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/agency/index.json",
+        "en": "https://tesign.com/en/item/agency/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/agency/index.md",
+        "en": "https://tesign.com/en/item/agency/index.md"
+      }
+    },
+    {
+      "slug": "chat-on-steroids",
+      "name": {
+        "ko": "Chat On Steroids",
+        "en": "Chat On Steroids"
+      },
+      "use_label": {
+        "ko": "ChatGPT로 내 파일 작업",
+        "en": "ChatGPT that edits your local files"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.819Z",
+      "kept_at": "2026-09-14T02:41:58.906Z",
+      "html": {
+        "ko": "https://tesign.com/item/chat-on-steroids/",
+        "en": "https://tesign.com/en/item/chat-on-steroids/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/chat-on-steroids/index.json",
+        "en": "https://tesign.com/en/item/chat-on-steroids/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/chat-on-steroids/index.md",
+        "en": "https://tesign.com/en/item/chat-on-steroids/index.md"
+      }
+    },
+    {
+      "slug": "artemis",
+      "name": {
+        "ko": "ARTEMIS",
+        "en": "ARTEMIS"
+      },
+      "use_label": {
+        "ko": "안드로이드 앱 테스트 자동화",
+        "en": "Android app test automation"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.801Z",
+      "kept_at": "2026-09-14T02:41:58.890Z",
+      "html": {
+        "ko": "https://tesign.com/item/artemis/",
+        "en": "https://tesign.com/en/item/artemis/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/artemis/index.json",
+        "en": "https://tesign.com/en/item/artemis/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/artemis/index.md",
+        "en": "https://tesign.com/en/item/artemis/index.md"
+      }
+    },
+    {
+      "slug": "codex-astra-luna-orchestrator",
+      "name": {
+        "ko": "Codex Astra Orchestrator + Luna Subagents",
+        "en": "Codex Astra Orchestrator + Luna Subagents"
+      },
+      "use_label": {
+        "ko": "Codex 사용자용 역할 구성",
+        "en": "Orchestrator setup for Codex users"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.822Z",
+      "kept_at": "2026-09-14T02:41:58.819Z",
+      "html": {
+        "ko": "https://tesign.com/item/codex-astra-luna-orchestrator/",
+        "en": "https://tesign.com/en/item/codex-astra-luna-orchestrator/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/codex-astra-luna-orchestrator/index.json",
+        "en": "https://tesign.com/en/item/codex-astra-luna-orchestrator/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/codex-astra-luna-orchestrator/index.md",
+        "en": "https://tesign.com/en/item/codex-astra-luna-orchestrator/index.md"
+      }
+    },
+    {
+      "slug": "humanizer",
+      "name": {
+        "ko": "humanizer",
+        "en": "humanizer"
+      },
+      "use_label": {
+        "ko": "AI 글을 사람 글처럼 고치기",
+        "en": "Make AI drafts read like a person"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.887Z",
+      "kept_at": "2026-09-13T11:32:21.760Z",
+      "html": {
+        "ko": "https://tesign.com/item/humanizer/",
+        "en": "https://tesign.com/en/item/humanizer/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/humanizer/index.json",
+        "en": "https://tesign.com/en/item/humanizer/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/humanizer/index.md",
+        "en": "https://tesign.com/en/item/humanizer/index.md"
+      }
+    },
+    {
+      "slug": "caveman",
+      "name": {
+        "ko": "caveman",
+        "en": "caveman"
+      },
+      "use_label": {
+        "ko": "에이전트 사용자용 토큰 절약",
+        "en": "Token savings for agent users"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.817Z",
+      "kept_at": "2026-09-13T11:32:21.747Z",
+      "html": {
+        "ko": "https://tesign.com/item/caveman/",
+        "en": "https://tesign.com/en/item/caveman/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/caveman/index.json",
+        "en": "https://tesign.com/en/item/caveman/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/caveman/index.md",
+        "en": "https://tesign.com/en/item/caveman/index.md"
+      }
+    },
+    {
+      "slug": "pi-desktop",
+      "name": {
+        "ko": "pi-desktop",
+        "en": "pi-desktop"
+      },
+      "use_label": {
+        "ko": "코딩 에이전트 데스크톱 앱",
+        "en": "Desktop workspace for coding agents"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.969Z",
+      "kept_at": "2026-09-13T11:32:21.733Z",
+      "html": {
+        "ko": "https://tesign.com/item/pi-desktop/",
+        "en": "https://tesign.com/en/item/pi-desktop/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/pi-desktop/index.json",
+        "en": "https://tesign.com/en/item/pi-desktop/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/pi-desktop/index.md",
+        "en": "https://tesign.com/en/item/pi-desktop/index.md"
+      }
+    },
+    {
+      "slug": "deskcommcrm",
+      "name": {
+        "ko": "DeskComm CRM",
+        "en": "DeskComm CRM"
+      },
+      "use_label": {
+        "ko": "채팅 판매 사업자용 CRM",
+        "en": "CRM for businesses that sell by chat"
+      },
+      "category": "commerce",
+      "categories": [
+        "commerce",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.843Z",
+      "kept_at": "2026-09-13T11:32:21.721Z",
+      "html": {
+        "ko": "https://tesign.com/item/deskcommcrm/",
+        "en": "https://tesign.com/en/item/deskcommcrm/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/deskcommcrm/index.json",
+        "en": "https://tesign.com/en/item/deskcommcrm/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/deskcommcrm/index.md",
+        "en": "https://tesign.com/en/item/deskcommcrm/index.md"
+      }
+    },
+    {
+      "slug": "opendisplay",
+      "name": {
+        "ko": "OpenDisplay",
+        "en": "OpenDisplay"
+      },
+      "use_label": {
+        "ko": "아이패드를 맥 보조 모니터로",
+        "en": "iPad or iPhone as a Mac second monitor"
+      },
+      "category": "hardware",
+      "categories": [
+        "hardware",
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.930Z",
+      "kept_at": "2026-09-13T11:32:21.707Z",
+      "html": {
+        "ko": "https://tesign.com/item/opendisplay/",
+        "en": "https://tesign.com/en/item/opendisplay/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/opendisplay/index.json",
+        "en": "https://tesign.com/en/item/opendisplay/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/opendisplay/index.md",
+        "en": "https://tesign.com/en/item/opendisplay/index.md"
+      }
+    },
+    {
+      "slug": "sol-pi",
+      "name": {
+        "ko": "SoL-Pi",
+        "en": "SoL-Pi"
+      },
+      "use_label": {
+        "ko": "Pi 에이전트 토큰 절약 확장",
+        "en": "Spend-less extension for Pi users"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T07:17:01.055Z",
+      "kept_at": "2026-09-13T11:32:21.694Z",
+      "html": {
+        "ko": "https://tesign.com/item/sol-pi/",
+        "en": "https://tesign.com/en/item/sol-pi/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/sol-pi/index.json",
+        "en": "https://tesign.com/en/item/sol-pi/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/sol-pi/index.md",
+        "en": "https://tesign.com/en/item/sol-pi/index.md"
+      }
+    },
+    {
+      "slug": "yue",
+      "name": {
+        "ko": "YuE2",
+        "en": "YuE2"
+      },
+      "use_label": {
+        "ko": "가사·스타일로 노래 생성",
+        "en": "Songs from lyrics and a style prompt"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:57.062Z",
+      "kept_at": "2026-09-13T11:32:21.681Z",
+      "html": {
+        "ko": "https://tesign.com/item/yue/",
+        "en": "https://tesign.com/en/item/yue/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/yue/index.json",
+        "en": "https://tesign.com/en/item/yue/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/yue/index.md",
+        "en": "https://tesign.com/en/item/yue/index.md"
+      }
+    },
+    {
+      "slug": "quickgui",
+      "name": {
+        "ko": "quickgui",
+        "en": "quickgui"
+      },
+      "use_label": {
+        "ko": "Go·Rust 네이티브 GUI",
+        "en": "Native GUI for Go, TS and Rust"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "experiment"
+      ],
+      "updated": "2026-09-15T04:36:56.983Z",
+      "kept_at": "2026-09-13T11:32:21.668Z",
+      "html": {
+        "ko": "https://tesign.com/item/quickgui/",
+        "en": "https://tesign.com/en/item/quickgui/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/quickgui/index.json",
+        "en": "https://tesign.com/en/item/quickgui/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/quickgui/index.md",
+        "en": "https://tesign.com/en/item/quickgui/index.md"
+      }
+    },
+    {
+      "slug": "taste-skill",
+      "name": {
+        "ko": "Taste-Skill",
+        "en": "Taste-Skill"
+      },
+      "use_label": {
+        "ko": "에이전트의 화면 디자인 감각",
+        "en": "Frontend taste for AI agents"
+      },
+      "category": "design",
+      "categories": [
+        "design",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:57.029Z",
+      "kept_at": "2026-09-13T11:32:21.655Z",
+      "html": {
+        "ko": "https://tesign.com/item/taste-skill/",
+        "en": "https://tesign.com/en/item/taste-skill/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/taste-skill/index.json",
+        "en": "https://tesign.com/en/item/taste-skill/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/taste-skill/index.md",
+        "en": "https://tesign.com/en/item/taste-skill/index.md"
+      }
+    },
+    {
+      "slug": "diagram-design",
+      "name": {
+        "ko": "diagram-design",
+        "en": "diagram-design"
+      },
+      "use_label": {
+        "ko": "에이전트로 그리는 편집 도식",
+        "en": "Editorial diagrams drawn by your agent"
+      },
+      "category": "design",
+      "categories": [
+        "design",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.845Z",
+      "kept_at": "2026-09-13T11:32:21.641Z",
+      "html": {
+        "ko": "https://tesign.com/item/diagram-design/",
+        "en": "https://tesign.com/en/item/diagram-design/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/diagram-design/index.json",
+        "en": "https://tesign.com/en/item/diagram-design/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/diagram-design/index.md",
+        "en": "https://tesign.com/en/item/diagram-design/index.md"
+      }
+    },
+    {
+      "slug": "headroom",
+      "name": {
+        "ko": "Headroom",
+        "en": "Headroom"
+      },
+      "use_label": {
+        "ko": "에이전트가 읽는 것 압축",
+        "en": "Compress what your agent reads"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "library"
+      ],
+      "updated": "2026-09-15T04:36:56.880Z",
+      "kept_at": "2026-09-13T11:32:21.628Z",
+      "html": {
+        "ko": "https://tesign.com/item/headroom/",
+        "en": "https://tesign.com/en/item/headroom/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/headroom/index.json",
+        "en": "https://tesign.com/en/item/headroom/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/headroom/index.md",
+        "en": "https://tesign.com/en/item/headroom/index.md"
+      }
+    },
+    {
+      "slug": "openresearch",
+      "name": {
+        "ko": "OpenResearch",
+        "en": "OpenResearch"
+      },
+      "use_label": {
+        "ko": "연구자용 병렬 조사 에이전트",
+        "en": "Research agents for researchers"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "science"
+      ],
+      "updated": "2026-09-15T04:36:56.947Z",
+      "kept_at": "2026-09-13T11:32:21.615Z",
+      "html": {
+        "ko": "https://tesign.com/item/openresearch/",
+        "en": "https://tesign.com/en/item/openresearch/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openresearch/index.json",
+        "en": "https://tesign.com/en/item/openresearch/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openresearch/index.md",
+        "en": "https://tesign.com/en/item/openresearch/index.md"
+      }
+    },
+    {
+      "slug": "open-code-review",
+      "name": {
+        "ko": "open-code-review",
+        "en": "open-code-review"
+      },
+      "use_label": {
+        "ko": "개발자용 AI 코드 리뷰",
+        "en": "AI code review for developers"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "security"
+      ],
+      "updated": "2026-09-15T04:36:56.922Z",
+      "kept_at": "2026-09-13T11:32:21.601Z",
+      "html": {
+        "ko": "https://tesign.com/item/open-code-review/",
+        "en": "https://tesign.com/en/item/open-code-review/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/open-code-review/index.json",
+        "en": "https://tesign.com/en/item/open-code-review/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/open-code-review/index.md",
+        "en": "https://tesign.com/en/item/open-code-review/index.md"
+      }
+    },
+    {
+      "slug": "ecc",
+      "name": {
+        "ko": "ecc",
+        "en": "ecc"
+      },
+      "use_label": {
+        "ko": "에이전트 스킬·기억·보안 묶음",
+        "en": "Skills, memory and security for agents"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T07:17:01.042Z",
+      "kept_at": "2026-09-13T11:32:21.588Z",
+      "html": {
+        "ko": "https://tesign.com/item/ecc/",
+        "en": "https://tesign.com/en/item/ecc/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/ecc/index.json",
+        "en": "https://tesign.com/en/item/ecc/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/ecc/index.md",
+        "en": "https://tesign.com/en/item/ecc/index.md"
+      }
+    },
+    {
+      "slug": "hermes-agent",
+      "name": {
+        "ko": "Hermes Agent",
+        "en": "Hermes Agent"
+      },
+      "use_label": {
+        "ko": "개인용 스스로 자라는 에이전트",
+        "en": "Self-improving personal agent"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.882Z",
+      "kept_at": "2026-09-13T11:32:21.574Z",
+      "html": {
+        "ko": "https://tesign.com/item/hermes-agent/",
+        "en": "https://tesign.com/en/item/hermes-agent/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/hermes-agent/index.json",
+        "en": "https://tesign.com/en/item/hermes-agent/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/hermes-agent/index.md",
+        "en": "https://tesign.com/en/item/hermes-agent/index.md"
+      }
+    },
+    {
+      "slug": "openmontage",
+      "name": {
+        "ko": "OpenMontage",
+        "en": "OpenMontage"
+      },
+      "use_label": {
+        "ko": "코딩 에이전트로 영상 제작",
+        "en": "Video production via your coding agent"
+      },
+      "category": "media",
+      "categories": [
+        "media",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.939Z",
+      "kept_at": "2026-09-13T11:32:21.561Z",
+      "html": {
+        "ko": "https://tesign.com/item/openmontage/",
+        "en": "https://tesign.com/en/item/openmontage/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openmontage/index.json",
+        "en": "https://tesign.com/en/item/openmontage/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openmontage/index.md",
+        "en": "https://tesign.com/en/item/openmontage/index.md"
+      }
+    },
+    {
+      "slug": "worktrunk",
+      "name": {
+        "ko": "Worktrunk",
+        "en": "Worktrunk"
+      },
+      "use_label": {
+        "ko": "병렬 에이전트 작업 폴더",
+        "en": "Git worktrees for parallel agents"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:57.053Z",
+      "kept_at": "2026-09-13T11:32:21.548Z",
+      "html": {
+        "ko": "https://tesign.com/item/worktrunk/",
+        "en": "https://tesign.com/en/item/worktrunk/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/worktrunk/index.json",
+        "en": "https://tesign.com/en/item/worktrunk/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/worktrunk/index.md",
+        "en": "https://tesign.com/en/item/worktrunk/index.md"
+      }
+    },
+    {
+      "slug": "ponytail",
+      "name": {
+        "ko": "ponytail",
+        "en": "ponytail"
+      },
+      "use_label": {
+        "ko": "에이전트가 코드를 덜 쓰게",
+        "en": "Make your agent write less code"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T04:36:56.977Z",
+      "kept_at": "2026-09-13T11:32:21.533Z",
+      "html": {
+        "ko": "https://tesign.com/item/ponytail/",
+        "en": "https://tesign.com/en/item/ponytail/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/ponytail/index.json",
+        "en": "https://tesign.com/en/item/ponytail/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/ponytail/index.md",
+        "en": "https://tesign.com/en/item/ponytail/index.md"
+      }
+    },
+    {
+      "slug": "deepseek-harness",
+      "name": {
+        "ko": "DeepSeek Harness",
+        "en": "DeepSeek Harness"
+      },
+      "use_label": {
+        "ko": "개발자용 플러그인 하네스",
+        "en": "Plugin agent harness for developers"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-15T07:17:17.519Z",
+      "kept_at": "2026-09-13T11:32:21.520Z",
+      "html": {
+        "ko": "https://tesign.com/item/deepseek-harness/",
+        "en": "https://tesign.com/en/item/deepseek-harness/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/deepseek-harness/index.json",
+        "en": "https://tesign.com/en/item/deepseek-harness/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/deepseek-harness/index.md",
+        "en": "https://tesign.com/en/item/deepseek-harness/index.md"
+      }
+    },
+    {
+      "slug": "tokentab",
+      "name": {
+        "ko": "tokentab",
+        "en": "tokentab"
+      },
+      "use_label": {
+        "ko": "에이전트 사용자용 비용 계산",
+        "en": "Cost breakdown for agent CLI users"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:57.037Z",
+      "kept_at": "2026-09-13T11:32:21.507Z",
+      "html": {
+        "ko": "https://tesign.com/item/tokentab/",
+        "en": "https://tesign.com/en/item/tokentab/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/tokentab/index.json",
+        "en": "https://tesign.com/en/item/tokentab/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/tokentab/index.md",
+        "en": "https://tesign.com/en/item/tokentab/index.md"
+      }
+    },
+    {
+      "slug": "colibri",
+      "name": {
+        "ko": "colibri",
+        "en": "colibri"
+      },
+      "use_label": {
+        "ko": "내 컴퓨터에서 큰 모델 실행",
+        "en": "Run huge MoE models on your own PC"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "infra"
+      ],
+      "updated": "2026-09-15T04:36:56.824Z",
+      "kept_at": "2026-09-13T11:32:21.493Z",
+      "html": {
+        "ko": "https://tesign.com/item/colibri/",
+        "en": "https://tesign.com/en/item/colibri/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/colibri/index.json",
+        "en": "https://tesign.com/en/item/colibri/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/colibri/index.md",
+        "en": "https://tesign.com/en/item/colibri/index.md"
+      }
+    },
+    {
+      "slug": "archify",
+      "name": {
+        "ko": "archify",
+        "en": "archify"
+      },
+      "use_label": {
+        "ko": "에이전트 사용자용 구조도 생성",
+        "en": "System diagrams for coding-agent users"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "design"
+      ],
+      "updated": "2026-09-15T04:36:56.799Z",
+      "kept_at": "2026-09-13T11:32:21.478Z",
+      "html": {
+        "ko": "https://tesign.com/item/archify/",
+        "en": "https://tesign.com/en/item/archify/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/archify/index.json",
+        "en": "https://tesign.com/en/item/archify/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/archify/index.md",
+        "en": "https://tesign.com/en/item/archify/index.md"
+      }
+    },
+    {
+      "slug": "orca",
+      "name": {
+        "ko": "Orca",
+        "en": "Orca"
+      },
+      "use_label": {
+        "ko": "에이전트 여러 개 나란히 실행",
+        "en": "Run coding agents side by side"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-15T04:36:56.951Z",
+      "kept_at": "2026-09-13T11:32:21.464Z",
+      "html": {
+        "ko": "https://tesign.com/item/orca/",
+        "en": "https://tesign.com/en/item/orca/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/orca/index.json",
+        "en": "https://tesign.com/en/item/orca/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/orca/index.md",
+        "en": "https://tesign.com/en/item/orca/index.md"
+      }
+    },
+    {
+      "slug": "recordly",
+      "name": {
+        "ko": "Recordly",
+        "en": "Recordly"
+      },
+      "use_label": {
+        "ko": "데모 영상용 녹화·편집",
+        "en": "Record and polish demo videos"
+      },
+      "category": "media",
+      "categories": [
+        "media",
+        "productivity"
+      ],
+      "updated": "2026-09-15T04:36:56.988Z",
+      "kept_at": "2026-09-13T11:32:21.449Z",
+      "html": {
+        "ko": "https://tesign.com/item/recordly/",
+        "en": "https://tesign.com/en/item/recordly/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/recordly/index.json",
+        "en": "https://tesign.com/en/item/recordly/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/recordly/index.md",
+        "en": "https://tesign.com/en/item/recordly/index.md"
+      }
+    },
+    {
+      "slug": "gods-eye-view",
+      "name": {
+        "ko": "gods-eye-view",
+        "en": "gods-eye-view"
+      },
+      "use_label": {
+        "ko": "브라우저용 실시간 위성 지구본",
+        "en": "Live satellite globe in your browser"
+      },
+      "category": "data",
+      "categories": [
+        "data",
+        "science"
+      ],
+      "updated": "2026-09-15T07:17:17.530Z",
+      "kept_at": "2026-09-13T11:32:21.432Z",
+      "html": {
+        "ko": "https://tesign.com/item/gods-eye-view/",
+        "en": "https://tesign.com/en/item/gods-eye-view/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/gods-eye-view/index.json",
+        "en": "https://tesign.com/en/item/gods-eye-view/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/gods-eye-view/index.md",
+        "en": "https://tesign.com/en/item/gods-eye-view/index.md"
+      }
+    },
+    {
+      "slug": "voicestudio",
+      "name": {
+        "ko": "VoiceStudio",
+        "en": "VoiceStudio"
+      },
+      "use_label": {
+        "ko": "내 PC에서 목소리 복제·더빙",
+        "en": "Voice cloning and dubbing on your PC"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "media"
+      ],
+      "updated": "2026-09-15T04:36:57.048Z",
+      "kept_at": "2026-09-13T11:32:21.382Z",
+      "html": {
+        "ko": "https://tesign.com/item/voicestudio/",
+        "en": "https://tesign.com/en/item/voicestudio/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/voicestudio/index.json",
+        "en": "https://tesign.com/en/item/voicestudio/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/voicestudio/index.md",
+        "en": "https://tesign.com/en/item/voicestudio/index.md"
+      }
+    }
+  ]
+}

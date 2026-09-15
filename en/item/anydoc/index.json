@@ -1,0 +1,203 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "anydoc",
+  "url": "https://tesign.com/en/item/anydoc/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/anydoc/",
+      "json": "https://tesign.com/item/anydoc/index.json",
+      "markdown": "https://tesign.com/item/anydoc/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/anydoc/",
+      "json": "https://tesign.com/en/item/anydoc/index.json",
+      "markdown": "https://tesign.com/en/item/anydoc/index.md"
+    }
+  },
+  "name": "anydoc",
+  "use_label": "Office docs to Markdown for LLM input",
+  "one_liner": "Converts Word, PowerPoint, Excel, PDF and EPUB to Markdown; run via npx or in the browser",
+  "text": {
+    "why": "anydoc parses .doc/.docx, .ppt/.pptx, .xls/.xlsx, OpenDocument, RTF, EPUB, CSV and PDF into one document model and renders through one GFM serializer, so tables, footnotes and equations (as LaTeX) behave the same whatever the input. On its 100-document benchmark it converted in a median 4.4 ms per document and, per the README, was the only tool covering all fourteen formats (quality judged by an LLM). The browser demo runs as WebAssembly, so files never leave the machine.",
+    "take": "It is a library at heart, but the one-line npx CLI and the browser demo make it usable without code; just remember that a scanned PDF leaves for Firecrawl's servers only when you opt in with --ocr hosted.",
+    "build": [
+      "Turn supplier quotes and product sheets (xlsx, docx, pdf) into Markdown with one npx line for a searchable archive or LLM input, or use the WASM package to build a browser-only upload converter with no server."
+    ],
+    "who": [
+      {
+        "role": "People feeding office files to an LLM",
+        "situation": "docx, pptx, xlsx to clean Markdown"
+      },
+      {
+        "role": "RAG and agent developers",
+        "situation": "Node, Python, Rust and WASM bindings plus an Agent Skill"
+      },
+      {
+        "role": "Privacy-conscious users",
+        "situation": "convert in the browser demo without uploading anything"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "npx @firecrawl/anydoc report.docx               # Markdown to stdout"
+      },
+      {
+        "command": false,
+        "text": "npx @firecrawl/anydoc slides.pptx -o slides.md  # or to a file"
+      },
+      {
+        "command": false,
+        "text": "npm install -g @firecrawl/anydoc"
+      },
+      {
+        "command": false,
+        "text": "pip install firecrawl-anydoc"
+      }
+    ],
+    "caveat": [
+      "MIT. Text-based PDFs convert locally, but scanned or image-only PDFs fail with NeedsOcr since there is no built-in OCR; opting into --ocr hosted sends the whole document to Firecrawl Parse (no signup needed, a key raises limits).",
+      "Images appear only as alt text in the Markdown, with the raw bytes kept on the document model.",
+      "The benchmark corpus is not redistributable and is not in the repo."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://firecrawl.github.io/anydoc"
+  },
+  "ready": "browser",
+  "categories": [
+    "productivity",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "markdown",
+    "document-conversion",
+    "rust",
+    "wasm",
+    "cli",
+    "docx"
+  ],
+  "platform": [
+    "cli",
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://firecrawl.github.io/anydoc",
+    "github": "https://github.com/firecrawl/anydoc",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/firecrawl/anydoc",
+        "posted_at": "2026-09-12T23:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 21533,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:20.509Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 36,
+    "star_delta_30d": 118,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      19,
+      27,
+      27,
+      5,
+      null,
+      null,
+      2,
+      14,
+      6,
+      12,
+      2,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "productivity",
+        "label": "PRODUCTIVITY",
+        "rank": 19
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-08-28T02:13:16.000Z",
+    "owner_type": "Organization",
+    "open_issues": 93,
+    "contributors": 5,
+    "releases_count": 14,
+    "latest_release": {
+      "tag": "v0.2.4",
+      "published_at": "2026-08-27T19:14:19.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:20.509Z",
+    "core_checked_at": "2026-09-15T19:34:20.509Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/anydoc-272a346a4a.png",
+    "cover": "https://tesign.com/img/anydoc-272a346a4a.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/anydoc-272a346a4a.png"
+    ],
+    "alt": "anydoc browser demo with the document drop area, the converted Markdown output and Copy / Download .md buttons",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:42.354Z",
+    "source_created_at": "2026-08-03T16:36:14.000Z",
+    "discovery_hours": 975.1245427777778,
+    "launch_signal_at": "2026-09-12T23:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.678Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.796Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

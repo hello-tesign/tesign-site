@@ -1,0 +1,187 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "agent-memory",
+  "url": "https://tesign.com/en/item/agent-memory/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/agent-memory/",
+      "json": "https://tesign.com/item/agent-memory/index.json",
+      "markdown": "https://tesign.com/item/agent-memory/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/agent-memory/",
+      "json": "https://tesign.com/en/item/agent-memory/index.json",
+      "markdown": "https://tesign.com/en/item/agent-memory/index.md"
+    }
+  },
+  "name": "agent-memory",
+  "use_label": "Long-term memory for agent users",
+  "one_liner": "Keeps what an agent learned as Markdown files it can search and reread.",
+  "text": {
+    "why": "Close a session and the agent forgets everything it learned there. agent-memory stores memories as Markdown files, ranks them with a SQLite index beside them, and answers with file paths rather than pasted text so the agent reads only as deep as needed. Writes fire at conversation boundaries, a separate sleep-time pass consolidates, and none of it needs an API key. Claude Code and Codex CLI share one store under MIT; no PyPI release yet, so it installs from a checkout.",
+    "take": "It refuses to choose between a retrieval engine and a plain filesystem, and layers both on one store.",
+    "build": [
+      "A shared memory store where the agent finds last week's decisions again",
+      "A setup where Claude Code and Codex draw on the same context",
+      "A weekly routine that turns stale memories into proposals to confirm"
+    ],
+    "who": [
+      {
+        "role": "Daily agent user",
+        "situation": "tired of re-explaining the same context each session"
+      },
+      {
+        "role": "Two-CLI user",
+        "situation": "wants Claude Code and Codex to share one memory"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "git clone https://github.com/tigerless-labs/agent-memory.git"
+      },
+      {
+        "command": true,
+        "text": "cd agent-memory"
+      },
+      {
+        "command": true,
+        "text": "uv sync --all-packages"
+      },
+      {
+        "command": true,
+        "text": "mem init"
+      },
+      {
+        "command": true,
+        "text": "mem setup --host claude-code   # or: --host codex"
+      },
+      {
+        "command": false,
+        "text": "Needs Python 3.12+ and uv · put .venv/bin on PATH or the hook records nothing"
+      }
+    ],
+    "caveat": [
+      "No PyPI release yet; install from a checkout",
+      "Version 0.1.0; the MCP surface is narrower than the CLI",
+      "Judgement is borrowed from the host CLI, so a host agent is required"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://github.com/tigerless-labs/agent-memory"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "agent-memory",
+    "markdown",
+    "local-first",
+    "mcp"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://github.com/tigerless-labs/agent-memory",
+    "github": "https://github.com/tigerless-labs/agent-memory",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/tigerless-labs/agent-memory",
+        "posted_at": "2026-09-13T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1457,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:00.819Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 112,
+    "star_delta_30d": 260,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      74,
+      59,
+      11,
+      4,
+      3,
+      2,
+      42,
+      37,
+      28,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T08:32:53.000Z",
+    "owner_type": "Organization",
+    "open_issues": 19,
+    "contributors": 2,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:34:00.819Z",
+    "core_checked_at": "2026-09-15T19:34:00.819Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/og/agent-memory.en.png",
+    "cover": "https://tesign.com/img/agent-memory-f80a30a156.png",
+    "cover_width": 1200,
+    "cover_height": 600,
+    "gallery": [
+      "https://tesign.com/img/agent-memory-f80a30a156.png"
+    ],
+    "alt": "GitHub social card for tigerless-labs/agent-memory: name and description left, purple logo right.",
+    "tier": 4
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:30.193Z",
+    "source_created_at": "2026-09-01T21:52:29.000Z",
+    "discovery_hours": 273.8503313888889,
+    "launch_signal_at": "2026-09-13T00:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:58.947Z",
+    "first_published_at": null,
+    "updated_at": "2026-09-15T04:36:56.786Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

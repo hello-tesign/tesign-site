@@ -1,0 +1,191 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "worktrunk",
+  "url": "https://tesign.com/en/item/worktrunk/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/worktrunk/",
+      "json": "https://tesign.com/item/worktrunk/index.json",
+      "markdown": "https://tesign.com/item/worktrunk/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/worktrunk/",
+      "json": "https://tesign.com/en/item/worktrunk/index.json",
+      "markdown": "https://tesign.com/en/item/worktrunk/index.md"
+    }
+  },
+  "name": "Worktrunk",
+  "use_label": "Git worktrees for parallel agents",
+  "one_liner": "Manages Git worktrees for running several coding agents in parallel.",
+  "text": {
+    "why": "Attach several agents at once and branches and working folders begin to overwrite each other. worktrunk reduces creating, switching and removing Git worktrees to single commands, assuming a flow where every agent gets its own isolated folder. It is a CLI written in Rust; no license is declared in the repository, so check that before adopting it.",
+    "take": "Addressing worktrees by branch name removes the actual friction in running agents in parallel.",
+    "build": [
+      "An internal flow that gives every agent its own working folder",
+      "An end-of-day script that clears finished parallel work"
+    ],
+    "who": [
+      {
+        "role": "Solo developer",
+        "situation": "gives each agent its own working folder"
+      },
+      {
+        "role": "Team developer",
+        "situation": "opens a PR branch straight into a worktree"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "macOS and Linux (Homebrew):"
+      },
+      {
+        "command": true,
+        "text": "brew install worktrunk && wt config shell install"
+      },
+      {
+        "command": false,
+        "text": "Windows (winget; the command is git-wt):"
+      },
+      {
+        "command": true,
+        "text": "winget install max-sixty.worktrunk"
+      },
+      {
+        "command": true,
+        "text": "git-wt config shell install"
+      },
+      {
+        "command": true,
+        "text": "wt switch --create feature-auth"
+      }
+    ],
+    "caveat": [
+      "GitHub metadata shows no license; the README badge says MIT OR Apache-2.0",
+      "Shell integration (wt config shell install) is required to change directories",
+      "On Windows wt clashes with Windows Terminal, so it installs as git-wt"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://worktrunk.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "git",
+    "worktrees",
+    "agents"
+  ],
+  "platform": [
+    "macos",
+    "linux",
+    "windows",
+    "cli"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/max-sixty/worktrunk?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://worktrunk.dev/",
+    "github": "https://github.com/max-sixty/worktrunk",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/max-sixty/worktrunk",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 7762,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:02.690Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 2,
+    "star_delta_7d": 89,
+    "star_delta_30d": 91,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      13,
+      34,
+      40,
+      2,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:32:55.000Z",
+    "owner_type": "User",
+    "open_issues": 55,
+    "contributors": 73,
+    "releases_count": 149,
+    "latest_release": {
+      "tag": "v0.77.0",
+      "published_at": "2026-09-08T22:12:09.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:02.690Z",
+    "core_checked_at": "2026-09-15T19:34:02.690Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/worktrunk-47fd19d15d.png",
+    "cover": "https://tesign.com/img/worktrunk-47fd19d15d.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/worktrunk-47fd19d15d.png"
+    ],
+    "alt": "The worktrunk.dev docs home: a command list (wt switch, list, merge) on the left and a terminal demo showing wt list output.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:30.193Z",
+    "source_created_at": "2025-10-17T22:13:14.000Z",
+    "discovery_hours": 7929.504498055556,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.548Z",
+    "first_published_at": "2026-09-13T11:32:21.830Z",
+    "updated_at": "2026-09-15T04:36:57.053Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

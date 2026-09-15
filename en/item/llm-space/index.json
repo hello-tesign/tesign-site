@@ -1,0 +1,195 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "llm-space",
+  "url": "https://tesign.com/en/item/llm-space/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/llm-space/",
+      "json": "https://tesign.com/item/llm-space/index.json",
+      "markdown": "https://tesign.com/item/llm-space/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/llm-space/",
+      "json": "https://tesign.com/en/item/llm-space/index.json",
+      "markdown": "https://tesign.com/en/item/llm-space/index.md"
+    }
+  },
+  "name": "LLM Space",
+  "use_label": "Run tracing for agent builders",
+  "one_liner": "Mac app for agent builders: trace every model call, replay a failed run step by step.",
+  "text": {
+    "why": "Building an agent means asking 'where did this step go wrong', and LLM Space records every model call and tool run, then replays a past run so you can step through it. It is the sister project of DeerFlow; the README says every DeerFlow version is built and debugged with it, and the project has been going since March 2023, now at its fourth major version. Threads and API keys stay as files on your own machine.",
+    "take": "It turns agent debugging from digging through logs into replaying the run, and the reason to trust it is that it has been developed since March 2023 and the DeerFlow team debugs every release with it.",
+    "build": [
+      "Use it as a bench for versioning prompts, tools and model settings while iterating on agent ideas, then export a finished thread as a runnable LangGraph agent. The bundled atlas-plugin example shows how to add skills, MCP servers and model providers as plugins."
+    ],
+    "who": [
+      {
+        "role": "Agent developers",
+        "situation": "trace model calls and tool runs step by step and replay failures"
+      },
+      {
+        "role": "Prompt engineers",
+        "situation": "version prompts, system messages and tools; compare performance across runs"
+      },
+      {
+        "role": "DeerFlow and LangGraph users",
+        "situation": "turn a thread into a runnable LangGraph agent"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. Download the DMG from the latest release (macOS, Apple Silicon and Intel): https://github.com/deer-flow/llm-space/releases/latest"
+      },
+      {
+        "command": false,
+        "text": "2. To build from source, install Bun and mise first, then from the repo root:"
+      },
+      {
+        "command": false,
+        "text": "bun install"
+      },
+      {
+        "command": false,
+        "text": "mise run dev"
+      }
+    ],
+    "caveat": [
+      "MIT licence. Binaries are macOS DMGs only (two editions: system WebView ~27 MB, own rendering engine ~130 MB); no Windows or Linux build in the README.",
+      "Collects anonymous usage data; TELEMETRY.md lists what is collected and how to opt out. Model API costs are yours.",
+      "Only DeerFlow core team PRs are merged (others via issues). The README carries sponsor banners and a recommended model plan."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://deer-flow.github.io/llm-space"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "agent-debugging",
+    "llm-tracing",
+    "desktop-app",
+    "macos",
+    "deerflow",
+    "langgraph"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://deer-flow.github.io/llm-space",
+    "github": "https://github.com/deer-flow/llm-space",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/deer-flow/llm-space",
+        "posted_at": "2026-07-16T12:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1890,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:41.992Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 2,
+    "star_delta_7d": 2,
+    "star_delta_30d": 2,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-13T08:39:55.000Z",
+    "owner_type": "Organization",
+    "open_issues": 21,
+    "contributors": 25,
+    "releases_count": 44,
+    "latest_release": {
+      "tag": "v4.18.1",
+      "published_at": "2026-09-07T02:38:16.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:41.992Z",
+    "core_checked_at": "2026-09-15T19:34:41.992Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/llm-space-5c2ca93df9.png",
+    "cover": "https://tesign.com/img/llm-space-5c2ca93df9.png",
+    "cover_width": 2928,
+    "cover_height": 1920,
+    "gallery": [
+      "https://tesign.com/img/llm-space-5c2ca93df9.png",
+      "https://tesign.com/img/llm-space-81dc68a70b.png"
+    ],
+    "alt": "LLM Space desktop app: model, tools, variables and system prompt on the left; on the right an agent thread with the user messages and the assistant's skill tool call and its response",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:47:33.443Z",
+    "source_created_at": "2026-06-28T03:39:34.000Z",
+    "discovery_hours": 1853.1331786111111,
+    "launch_signal_at": "2026-07-16T12:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.520Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.901Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "spotifast",
+  "url": "https://tesign.com/en/item/spotifast/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/spotifast/",
+      "json": "https://tesign.com/item/spotifast/index.json",
+      "markdown": "https://tesign.com/item/spotifast/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/spotifast/",
+      "json": "https://tesign.com/en/item/spotifast/index.json",
+      "markdown": "https://tesign.com/en/item/spotifast/index.md"
+    }
+  },
+  "name": "Spotifast (formerly Fastpotify)",
+  "use_label": "Lightweight Spotify client (Premium)",
+  "one_liner": "Native Rust Spotify client, 100-250 MB RAM, Linux/macOS/Windows; playback needs Premium",
+  "text": {
+    "why": "Where Spotify's own desktop app often uses 600 MB to over 1 GB of RAM, Spotifast typically runs the same library, search and playback in 100-250 MB and starts in well under a second. It plays through librespot and appears as a Spotify Connect device, so you can pick this computer from your phone or control a speaker from the desktop. It was renamed from Fastpotify to Spotifast at 0.8.0, and the repository now redirects to crmne/spotifast.",
+    "take": "A third-party client that puts a number on 'it could be lighter'; just note that without Premium you can browse but not listen.",
+    "build": [
+      "Read playback state through subcommands like fastpotify now-playing --raw on macOS and Windows or MPRIS on Linux to build Stream Deck, Raycast, hotkey or status-bar integrations, and ship JSON palettes in the themes folder beside settings.json."
+    ],
+    "who": [
+      {
+        "role": "Spotify Premium listeners, Linux users especially",
+        "situation": "a native player that uses less memory"
+      },
+      {
+        "role": "Keyboard and launcher fans",
+        "situation": "control playback with shortcuts and CLI subcommands"
+      },
+      {
+        "role": "The Winamp generation",
+        "situation": "a .wsz-skin mini player and the MilkDrop visualiser"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "# Windows installer / macOS DMG / Linux deb, rpm, Flatpak: https://spotifast.rocks/download/"
+      },
+      {
+        "command": false,
+        "text": "yay -S spotifast-bin      # Arch Linux (AUR)"
+      },
+      {
+        "command": false,
+        "text": "brew install --cask crmne/tap/spotifast   # macOS (Homebrew)"
+      },
+      {
+        "command": false,
+        "text": "cargo install --path . --locked           # elsewhere: Rust 1.95 or newer, inside a clone"
+      },
+      {
+        "command": false,
+        "text": "# Without MilkDrop: cargo install --path . --locked --no-default-features"
+      }
+    ],
+    "caveat": [
+      "Licence MIT. Playback requires Spotify Premium; free accounts can only browse and search. It is unaffiliated with Spotify, and the author only says they are 'not aware' of account suspensions, which is not a guarantee.",
+      "Renamed from Fastpotify to Spotifast at 0.8.0; the repository and site moved to crmne/spotifast and spotifast.rocks, and the command is spotifast (fastpotify still works).",
+      "Windows installers, a macOS DMG and Linux deb/rpm/Flatpak ship on GitHub Releases and spotifast.rocks/download; elsewhere build from source with Rust 1.95 or newer. The MilkDrop build needs CMake, a C++ compiler and libclang, and opening MilkDrop for the first time downloads about 26 MB of presets."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://fastpotify.rocks/"
+  },
+  "ready": "install",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "spotify",
+    "rust",
+    "egui",
+    "librespot",
+    "music-player",
+    "spotify-connect"
+  ],
+  "platform": [
+    "linux",
+    "macos",
+    "windows",
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://fastpotify.rocks/",
+    "github": "https://github.com/crmne/fastpotify",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/crmne/fastpotify",
+        "posted_at": "2026-08-28T14:50:32.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49479389"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/crmne/fastpotify",
+        "posted_at": "2026-09-03T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 4145,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:53.105Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 13,
+    "star_delta_30d": 200,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      10,
+      74,
+      62,
+      39,
+      null,
+      null,
+      null,
+      4,
+      6,
+      3,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 1,
+    "hn_points_observed_at": "2026-09-13T14:04:05.981Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": 91
+    },
+    "categories": [
+      {
+        "category": "media",
+        "label": "MEDIA",
+        "rank": 19
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T18:40:13.000Z",
+    "owner_type": "User",
+    "open_issues": 55,
+    "contributors": 37,
+    "releases_count": 20,
+    "latest_release": {
+      "tag": "v0.8.0",
+      "published_at": "2026-09-14T14:23:27.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:53.105Z",
+    "core_checked_at": "2026-09-15T19:34:53.105Z"
+  },
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "Show HN + GitHub"
+    },
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/spotifast-092eb69cd9.png",
+    "cover": "https://tesign.com/img/spotifast-092eb69cd9.png",
+    "cover_width": 2018,
+    "cover_height": 1198,
+    "gallery": [
+      "https://tesign.com/img/spotifast-092eb69cd9.png",
+      "https://tesign.com/img/spotifast-2098683c04.png"
+    ],
+    "alt": "The Spotifast Home page: playlists in the left Library, 'Good afternoon' shortcuts with Made for you and Recently played shelves in the middle, a Queue panel with Now playing and Next up on the right, and the player bar below",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:37:19.391Z",
+    "source_created_at": "2026-08-28T14:50:32.000Z",
+    "discovery_hours": 378.77983083333334,
+    "launch_signal_at": "2026-08-28T14:50:32.000Z",
+    "kept_at": "2026-09-14T19:27:43.634Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:57.015Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

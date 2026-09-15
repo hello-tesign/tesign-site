@@ -1,0 +1,201 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "headroom",
+  "url": "https://tesign.com/en/item/headroom/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/headroom/",
+      "json": "https://tesign.com/item/headroom/index.json",
+      "markdown": "https://tesign.com/item/headroom/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/headroom/",
+      "json": "https://tesign.com/en/item/headroom/index.json",
+      "markdown": "https://tesign.com/en/item/headroom/index.md"
+    }
+  },
+  "name": "Headroom",
+  "use_label": "Compress what your agent reads",
+  "one_liner": "Compresses tool output, logs and files before they reach the model.",
+  "text": {
+    "why": "Tool output and logs usually reach the model untouched, pushing the context that matters out of the window. headroom sits in front of that path and compresses tool output, logs, files and RAG chunks before they are sent. It attaches as a library, a proxy or an MCP server and is published under Apache-2.0. The repository claims 20% fewer tokens for coding agents and 60-95% for JSON; those figures are its own.",
+    "take": "It drops in as a proxy without touching agent code, so you can measure savings on your own traffic first.",
+    "build": [
+      "A proxy in front of the agent that shrinks long logs on the way through",
+      "An internal RAG preprocessing step that lowers token cost"
+    ],
+    "who": [
+      {
+        "role": "Developer",
+        "situation": "long logs and tool output keep crowding the context"
+      },
+      {
+        "role": "Infra owner",
+        "situation": "cuts team-wide token cost at the proxy layer"
+      },
+      {
+        "role": "RAG developer",
+        "situation": "shrinks retrieved chunks before they reach the model"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "pip install \"headroom-ai[all]\""
+      },
+      {
+        "command": true,
+        "text": "headroom wrap claude"
+      },
+      {
+        "command": true,
+        "text": "headroom doctor"
+      },
+      {
+        "command": false,
+        "text": "Proxy mode with no code changes:"
+      },
+      {
+        "command": true,
+        "text": "headroom proxy --port 8787"
+      }
+    ],
+    "caveat": [
+      "headroom wrap also installs Serena at user scope (skip with --code-memory none)",
+      "Intel Macs have no native wheel; the README points to the Docker install",
+      "Savings are the repository's own benchmark and grow with repetitive data"
+    ]
+  },
+  "cta": {
+    "type": "use_package",
+    "label": "USE PACKAGE",
+    "url": "https://docs.headroomlabs.ai/docs"
+  },
+  "ready": "developer",
+  "categories": [
+    "ai",
+    "library"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "context",
+    "tokens",
+    "mcp"
+  ],
+  "platform": [
+    "windows",
+    "macos",
+    "linux",
+    "cli"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://docs.headroomlabs.ai/docs",
+    "github": "https://github.com/headroomlabs-ai/headroom",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/headroomlabs-ai/headroom",
+        "posted_at": "2026-09-13T01:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 72317,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:21.488Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 34,
+    "star_delta_7d": 180,
+    "star_delta_30d": 308,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      36,
+      35,
+      33,
+      24,
+      null,
+      9,
+      17,
+      60,
+      42,
+      18,
+      11,
+      23
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": 77,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": 57
+    },
+    "categories": []
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T04:39:29.000Z",
+    "owner_type": "Organization",
+    "open_issues": 654,
+    "contributors": 265,
+    "releases_count": 169,
+    "latest_release": {
+      "tag": "v0.37.0",
+      "published_at": "2026-08-27T21:18:26.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:21.488Z",
+    "core_checked_at": "2026-09-15T19:34:21.488Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/headroom-9b4b13570c.png",
+    "cover": "https://tesign.com/img/headroom-9b4b13570c.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/headroom-9b4b13570c.png"
+    ],
+    "alt": "Headroom docs introduction page: a table of contents at left, intro text and a TypeScript code preview calling compress.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:42.354Z",
+    "source_created_at": "2026-01-07T19:58:51.000Z",
+    "discovery_hours": 5963.747598333333,
+    "launch_signal_at": "2026-09-13T01:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.628Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T04:36:56.880Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "sol-pi",
+  "url": "https://tesign.com/en/item/sol-pi/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/sol-pi/",
+      "json": "https://tesign.com/item/sol-pi/index.json",
+      "markdown": "https://tesign.com/item/sol-pi/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/sol-pi/",
+      "json": "https://tesign.com/en/item/sol-pi/index.json",
+      "markdown": "https://tesign.com/en/item/sol-pi/index.md"
+    }
+  },
+  "name": "SoL-Pi",
+  "use_label": "Spend-less extension for Pi users",
+  "one_liner": "Scales automated research loops that tune agent harnesses.",
+  "text": {
+    "why": "Agent setups are still mostly tuned by hand, one prompt and one tool at a time. SoL-Pi addresses running that tuning as an automated research loop and is published under the NVlabs account. It is written in TypeScript under the MIT license and has its own project page. The work is research-shaped, so it reads more like a method to borrow than a product to install.",
+    "take": "Four efficiency mechanisms found by auto-research, packaged as a Pi extension; if you use Pi, try it.",
+    "build": [
+      "An internal experiment loop that compares harness settings automatically",
+      "A review note porting the method into your current setup"
+    ],
+    "who": [
+      {
+        "role": "Pi user",
+        "situation": "cuts tokens lost to repeated turns and re-read logs"
+      },
+      {
+        "role": "Agent researcher",
+        "situation": "studies the output of harness-efficiency experiments"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Needs Node.js 22.19+ and npm"
+      },
+      {
+        "command": true,
+        "text": "npm install --global @earendil-works/pi-coding-agent@0.84.2"
+      },
+      {
+        "command": true,
+        "text": "pi install git:github.com/NVlabs/SoL-Pi"
+      },
+      {
+        "command": false,
+        "text": "Everything is off by default; enable it in ~/.pi/agent/sol-pi.json"
+      }
+    ],
+    "caveat": [
+      "An extension for Pi 0.84.2 and not an official Pi distribution",
+      "Everything is opt-in; without a config file nothing is enabled",
+      "The reducer may send logs to a remote model; read SECURITY.md first"
+    ]
+  },
+  "cta": {
+    "type": "view_api",
+    "label": "VIEW API",
+    "url": "https://nvlabs.github.io/SoL-Pi"
+  },
+  "ready": "developer",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "research",
+    "agents",
+    "harness"
+  ],
+  "platform": [],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://nvlabs.github.io/SoL-Pi",
+    "github": "https://github.com/nvlabs/sol-pi",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/nvlabs/sol-pi",
+        "posted_at": "2026-09-13T01:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 2028,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:22.504Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 12,
+    "star_delta_7d": 432,
+    "star_delta_30d": 432,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      57,
+      232,
+      99,
+      32,
+      null,
+      12
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": 11,
+      "30d": 33
+    },
+    "categories": []
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T19:24:14.000Z",
+    "owner_type": "Organization",
+    "open_issues": 54,
+    "contributors": 4,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:34:22.504Z",
+    "core_checked_at": "2026-09-15T19:34:22.504Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/sol-pi-5dc2867ceb.png",
+    "cover": "https://tesign.com/img/sol-pi-5dc2867ceb.png",
+    "cover_width": 1920,
+    "cover_height": 960,
+    "gallery": [
+      "https://tesign.com/img/sol-pi-5dc2867ceb.png",
+      "https://tesign.com/img/sol-pi-e53536a8b2.png"
+    ],
+    "alt": "SoL-Pi README banner: logo and 'Scaling auto-research loops' on white, a collage of code-snippet sheets and a red looping line.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:42.354Z",
+    "source_created_at": "2026-09-02T14:48:47.000Z",
+    "discovery_hours": 256.91537611111113,
+    "launch_signal_at": "2026-09-13T01:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.694Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T07:17:01.055Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

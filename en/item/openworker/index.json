@@ -1,0 +1,200 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "openworker",
+  "url": "https://tesign.com/en/item/openworker/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/openworker/",
+      "json": "https://tesign.com/item/openworker/index.json",
+      "markdown": "https://tesign.com/item/openworker/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/openworker/",
+      "json": "https://tesign.com/en/item/openworker/index.json",
+      "markdown": "https://tesign.com/en/item/openworker/index.md"
+    }
+  },
+  "name": "OpenWorker",
+  "use_label": "Desktop AI coworker for daily tasks",
+  "one_liner": "Desktop AI coworker on your key or local Ollama; 25+ integrations, asks before acting.",
+  "text": {
+    "why": "An open-source AI coworker for the desktop that aims to hand back finished work rather than answers — a code review with vulnerability fixes ready, a document, a Slack reply with the numbers, a triaged inbox — shipping specialist Security coworkers first. It runs on your own key for OpenAI, Anthropic, Google and others or fully local via Ollama, and connects 25+ tools such as GitHub, Slack, Jira, Notion, Gmail and Google Calendar plus anything over MCP. Sending a message, changing a calendar or running a command is approval-gated by default, a set of 'hard floor' operations stays human-only even in auto-approve mode, and every tool call is logged with its approval provenance.",
+    "take": "The weight of this project is not model choice but a governance design where the agent cannot grant itself new permissions, and the whole of it can be read in the repo; it is still open beta, already past 17k stars.",
+    "build": [
+      "Run scheduled automations — a morning brief, a weekly report, a standing watch over a channel — with full transcripts, or a team workflow where mentioning @OpenWorker in Slack opens a session on your desktop and returns the answer as a thread reply. The engine sits on aisuite (Python), so it also serves as a reference implementation for building your own agent harness."
+    ],
+    "who": [
+      {
+        "role": "Developers automating code and dependency security checks",
+        "situation": "reviews that combine scanners such as semgrep with model reasoning, fixes re-scanned before approval"
+      },
+      {
+        "role": "Knowledge workers juggling tools",
+        "situation": "prep a customer call from CRM and inbox, handle calendar and Slack threads"
+      },
+      {
+        "role": "Teams designing agent governance",
+        "situation": "a reference for approval ladders, hard floors and audit trails"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. Download for macOS (Apple Silicon, macOS 12+) at https://download.openworker.com/mac or Windows 10/11 x64 at https://download.openworker.com/windows, open the app, add a model key (or point it at Ollama), and ask for a task"
+      },
+      {
+        "command": false,
+        "text": "2. From source (Python 3.10+, Node 20+, Rust toolchain; see the README for the server and UI steps that follow):"
+      },
+      {
+        "command": false,
+        "text": "git clone https://github.com/andrewyng/openworker"
+      },
+      {
+        "command": false,
+        "text": "cd openworker"
+      },
+      {
+        "command": false,
+        "text": "bash packaging/setup_dev_env.sh"
+      }
+    ],
+    "caveat": [
+      "MIT licence. Open beta per the README — usable, still being polished.",
+      "The macOS build is Apple Silicon only (macOS 12+, signed and notarized, auto-updates); the Windows x64 build is not yet code-signed so SmartScreen warns, and the homepage still lists Windows as 'coming soon'. No Linux build in the README.",
+      "Model costs are on your own key (or local Ollama). The only cloud component is a small OAuth-brokering service for connectors; the app also works without sign-in using API keys. PRs outside the roadmap may not be approved."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "http://openworker.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai-coworker",
+    "desktop-app",
+    "byok",
+    "ollama",
+    "security-review",
+    "mcp"
+  ],
+  "platform": [
+    "macos",
+    "windows"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "http://openworker.com/",
+    "github": "https://github.com/andrewyng/openworker",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/andrewyng/openworker",
+        "posted_at": "2026-07-25T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 17820,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:42.923Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 10,
+    "star_delta_7d": 22,
+    "star_delta_30d": 40,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      5,
+      6,
+      5,
+      2,
+      null,
+      null,
+      null,
+      2,
+      4,
+      6,
+      2,
+      8
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-03T04:12:29.000Z",
+    "owner_type": "User",
+    "open_issues": 506,
+    "contributors": 23,
+    "releases_count": 6,
+    "latest_release": {
+      "tag": "v0.2.1",
+      "published_at": "2026-08-25T17:07:49.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:42.923Z",
+    "core_checked_at": "2026-09-15T19:34:42.923Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/openworker-5775ed8369.png",
+    "cover": "https://tesign.com/img/openworker-5775ed8369.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/openworker-5775ed8369.png",
+      "https://tesign.com/img/openworker-c856650418.png"
+    ],
+    "alt": "The scripted demo panel on the openworker.com landing page (not a capture of the app itself): a Security coworker summarising '4 of 25 findings are real — fix branch ready', a diff pinning GitHub Actions to commit SHAs, and an approval prompt 'Open PR security/pin-actions? · Leaves this Mac → GitHub'",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:56:59.811Z",
+    "source_created_at": "2026-07-20T01:52:32.000Z",
+    "discovery_hours": 1327.0743919444444,
+    "launch_signal_at": "2026-07-25T22:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.551Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:56.949Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

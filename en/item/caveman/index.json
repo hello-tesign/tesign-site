@@ -1,0 +1,201 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "caveman",
+  "url": "https://tesign.com/en/item/caveman/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/caveman/",
+      "json": "https://tesign.com/item/caveman/index.json",
+      "markdown": "https://tesign.com/item/caveman/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/caveman/",
+      "json": "https://tesign.com/en/item/caveman/index.json",
+      "markdown": "https://tesign.com/en/item/caveman/index.md"
+    }
+  },
+  "name": "caveman",
+  "use_label": "Token savings for agent users",
+  "one_liner": "Cuts an agent's token use by stripping prompts down to bare words.",
+  "text": {
+    "why": "The longer an agent's replies, the more tokens and cost go with them. caveman is a Claude Code skill that strips the agent's replies down to bare words, so the same content comes back in far less text. The repository claims a 65% token reduction, but that figure is its own. Written in Go; the skill is MIT and the bundled proxy engine BSL-1.1.",
+    "take": "A skill for output and a proxy for input; admitting that savings vary by case is what makes it credible.",
+    "build": [
+      "A setting that trims output tokens on repeat jobs with long replies",
+      "A cost experiment that measures the saving on the team's own tasks"
+    ],
+    "who": [
+      {
+        "role": "Solo developer",
+        "situation": "sees tokens leaking into long agent replies"
+      },
+      {
+        "role": "Team manager",
+        "situation": "measures, then trims, token cost on repeat jobs"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Skill (MIT):"
+      },
+      {
+        "command": true,
+        "text": "npx skills add JuliusBrussee/caveman"
+      },
+      {
+        "command": false,
+        "text": "Proxy (Node.js 22.13+):"
+      },
+      {
+        "command": true,
+        "text": "npm install -g @caveman-ai/cli && caveman setup --install"
+      },
+      {
+        "command": true,
+        "text": "caveman claude"
+      }
+    ],
+    "caveat": [
+      "The skill only shortens output, and its rules cost 1 to 1.5k input tokens per turn",
+      "On already-terse work it can cost more, as the README says",
+      "The skill is MIT; the proxy engine is BSL-1.1 (hosting for others needs a licence)"
+    ]
+  },
+  "cta": {
+    "type": "use_package",
+    "label": "USE PACKAGE",
+    "url": "https://docs.caveman.so/docs/quickstart"
+  },
+  "ready": "developer",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "tokens",
+    "prompting",
+    "agent-skills"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/juliusbrussee/caveman?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "Go",
+  "source_urls": {
+    "canonical": "https://docs.caveman.so/docs/quickstart",
+    "github": "https://github.com/juliusbrussee/caveman",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/juliusbrussee/caveman",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 105760,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:06.531Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 11,
+    "star_delta_7d": 189,
+    "star_delta_30d": 508,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      6,
+      140,
+      97,
+      65,
+      6,
+      2,
+      2,
+      10,
+      86,
+      58,
+      22,
+      4,
+      7
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": 32,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": 28
+    },
+    "categories": [
+      {
+        "category": "dev-tools",
+        "label": "DEV TOOLS",
+        "rank": 6
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T17:02:54.000Z",
+    "owner_type": "User",
+    "open_issues": 119,
+    "contributors": 56,
+    "releases_count": 35,
+    "latest_release": {
+      "tag": "v2.7.0",
+      "published_at": "2026-09-15T04:01:16.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:06.531Z",
+    "core_checked_at": "2026-09-15T19:34:06.531Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/caveman-ade8e8e709.png",
+    "cover": "https://tesign.com/img/caveman-ade8e8e709.png",
+    "cover_width": 1254,
+    "cover_height": 806,
+    "gallery": [
+      "https://tesign.com/img/caveman-ade8e8e709.png",
+      "https://tesign.com/img/caveman-185d066ee3.png"
+    ],
+    "alt": "The 'Caveman Learn' report screen: saved-token figures and bars, a list of token sinks and a session-context-depth bar chart.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:34.171Z",
+    "source_created_at": "2026-04-04T10:03:00.000Z",
+    "discovery_hours": 3885.676158611111,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.747Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T04:36:56.817Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

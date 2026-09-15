@@ -1,0 +1,201 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "omnigent",
+  "url": "https://tesign.com/en/item/omnigent/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/omnigent/",
+      "json": "https://tesign.com/item/omnigent/index.json",
+      "markdown": "https://tesign.com/item/omnigent/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/omnigent/",
+      "json": "https://tesign.com/en/item/omnigent/index.json",
+      "markdown": "https://tesign.com/en/item/omnigent/index.md"
+    }
+  },
+  "name": "Omnigent",
+  "use_label": "One control layer for coding agents",
+  "one_liner": "One control layer over Claude Code, Codex, Cursor and more, reachable from any device",
+  "text": {
+    "why": "Sessions follow the person: a conversation started in the terminal continues in the browser (localhost:6767) or on a phone on the same network, with messages, sub-agents, terminals and files in sync. An agent is one YAML file (prompt, tools, sub-agents), and policies — ask before shell commands, cap tool calls per session, a dollar spend cap such as max_cost_usd 5.00 — stack across server, agent and session. The example agent Polly splits work across coding sub-agents and routes each diff to a reviewer from a different vendor.",
+    "take": "Instead of one more agent, it puts a swap-and-supervise layer over the agents you already run — read it together with the alpha label.",
+    "build": [
+      "A Polly-style pipeline where a different vendor reviews each diff, or a shared team agent server (docker compose) with spend caps and invite-only signup."
+    ],
+    "who": [
+      {
+        "role": "Developers running several coding agents",
+        "situation": "mix Claude Code and Codex in one session"
+      },
+      {
+        "role": "Team leads",
+        "situation": "a shared agent server with spend caps and approval policies"
+      },
+      {
+        "role": "People on the move",
+        "situation": "follow an agent running on the laptop from a phone"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "curl -fsSL https://raw.githubusercontent.com/omnigent-ai/omnigent/main/scripts/install_oss.sh | sh   # option A (installer)"
+      },
+      {
+        "command": false,
+        "text": "uv tool install omnigent        # or: manual (pip install \"omnigent\" also works)"
+      },
+      {
+        "command": false,
+        "text": "brew install omnigent-ai/tap/omnigent   # or: Homebrew"
+      },
+      {
+        "command": false,
+        "text": "omnigent"
+      },
+      {
+        "command": false,
+        "text": "omnigent claude                      # Claude Code, in a session your team can join"
+      }
+    ],
+    "caveat": [
+      "Apache-2.0. Both the README badge and the homepage mark the status alpha. Anonymized usage telemetry is on by default; opting out is documented separately. Needs Python 3.12+, Node.js 22+ and tmux; bubblewrap is mandatory on Linux. Windows runs in a 'degraded mode' (no tmux terminal wrappers, no filesystem or network sandboxing). A macOS desktop app is offered. Model costs follow your own keys or subscriptions."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://omnigent.ai/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai-agents",
+    "orchestration",
+    "claude-code",
+    "codex",
+    "multi-agent",
+    "python"
+  ],
+  "platform": [
+    "cli",
+    "macos",
+    "linux",
+    "windows",
+    "web"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://omnigent.ai/",
+    "github": "https://github.com/omnigent-ai/omnigent",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/omnigent-ai/omnigent",
+        "posted_at": "2026-06-13T19:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 9969,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:30.211Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 4,
+    "star_delta_30d": 18,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      4,
+      6,
+      4,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:23:28.000Z",
+    "owner_type": "Organization",
+    "open_issues": 1368,
+    "contributors": 253,
+    "releases_count": 16,
+    "latest_release": {
+      "tag": "v0.14.0",
+      "published_at": "2026-09-15T13:06:10.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:30.211Z",
+    "core_checked_at": "2026-09-15T19:34:30.211Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/omnigent-7e2847f0a5.png",
+    "cover": "https://tesign.com/img/omnigent-7e2847f0a5.png",
+    "cover_width": 2834,
+    "cover_height": 1884,
+    "gallery": [
+      "https://tesign.com/img/omnigent-7e2847f0a5.png",
+      "https://tesign.com/img/omnigent-87718a7590.png"
+    ],
+    "alt": "The Omnigent desktop app starting a new session, with pinned and project-grouped sessions in the sidebar",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:16:59.696Z",
+    "source_created_at": "2026-06-11T12:18:13.000Z",
+    "discovery_hours": 2251.979637777778,
+    "launch_signal_at": "2026-06-13T19:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.513Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.920Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

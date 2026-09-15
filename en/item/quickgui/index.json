@@ -1,0 +1,173 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "quickgui",
+  "url": "https://tesign.com/en/item/quickgui/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/quickgui/",
+      "json": "https://tesign.com/item/quickgui/index.json",
+      "markdown": "https://tesign.com/item/quickgui/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/quickgui/",
+      "json": "https://tesign.com/en/item/quickgui/index.json",
+      "markdown": "https://tesign.com/en/item/quickgui/index.md"
+    }
+  },
+  "name": "quickgui",
+  "use_label": "Native GUI for Go, TS and Rust",
+  "one_liner": "Renders desktop interfaces on the GPU without a webview.",
+  "text": {
+    "why": "Wrapping a desktop app in a webview is easy to build and heavy to run. quickgui is an experiment in the other direction: a GUI framework that renders on the GPU with no webview at all. It is written in Rust and has its own homepage. The repository calls itself experimental (the README states MIT OR Apache-2.0), so for now it is closer to something to look at than to build on.",
+    "take": "The repo itself says not to use it for anything serious; for now it is something to watch, not build on.",
+    "build": [
+      "A desktop interface prototype running without a webview",
+      "A performance comparison between rendering approaches"
+    ],
+    "who": [
+      {
+        "role": "Desktop developer",
+        "situation": "keeps an eye on GUI frameworks without a webview"
+      },
+      {
+        "role": "Go/Rust developer",
+        "situation": "wants a native window from the language they use"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Needs Bun 1.4+ (Go 1.23+ for Go apps, a Rust toolchain for Rust, Xcode CLT on macOS)"
+      },
+      {
+        "command": true,
+        "text": "bunx @quickgui/cli init my-app"
+      }
+    ],
+    "caveat": [
+      "The README says it is very experimental and not for anything serious",
+      "Polish is macOS-first; Windows and Linux compile but are still rough",
+      "GitHub metadata shows no license, but the README states MIT OR Apache-2.0"
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://quickgui.dev/"
+  },
+  "ready": null,
+  "categories": [
+    "dev-tools",
+    "experiment"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "gui",
+    "rust",
+    "desktop"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/egoist/quickgui?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://quickgui.dev/",
+    "github": "https://github.com/egoist/quickgui",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/egoist/quickgui",
+        "posted_at": "2026-09-13T01:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 424,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:17.093Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 58,
+    "star_delta_30d": 58,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      58,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T18:53:06.000Z",
+    "owner_type": "User",
+    "open_issues": 1,
+    "contributors": 2,
+    "releases_count": 4,
+    "latest_release": {
+      "tag": "v0.1.5",
+      "published_at": "2026-09-15T18:56:41.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:17.093Z",
+    "core_checked_at": "2026-09-15T19:34:17.093Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/quickgui-a9b5469d25.png",
+    "cover": "https://tesign.com/img/quickgui-a9b5469d25.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/quickgui-a9b5469d25.png"
+    ],
+    "alt": "quickgui.dev landing: a PRE-ALPHA badge, the headline 'Build native desktop apps', Go/TS/Rust doc buttons and the init command.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:38.190Z",
+    "source_created_at": "2026-08-24T07:04:59.000Z",
+    "discovery_hours": 480.64421944444445,
+    "launch_signal_at": "2026-09-13T01:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.668Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T04:36:56.983Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

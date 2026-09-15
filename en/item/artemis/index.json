@@ -1,0 +1,190 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "artemis",
+  "url": "https://tesign.com/en/item/artemis/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/artemis/",
+      "json": "https://tesign.com/item/artemis/index.json",
+      "markdown": "https://tesign.com/item/artemis/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/artemis/",
+      "json": "https://tesign.com/en/item/artemis/index.json",
+      "markdown": "https://tesign.com/en/item/artemis/index.md"
+    }
+  },
+  "name": "ARTEMIS",
+  "use_label": "Android app test automation",
+  "one_liner": "Turns written instructions into automation on real Android phones.",
+  "text": {
+    "why": "Android app tests wire a script to every screen element, and it breaks as soon as the screen changes. ARTEMIS takes instructions in plain language and drives a real device or emulator itself; over MCP, Antigravity, Claude Code and Windsurf can call the phone and collect Logcat output and screenshots. One start script installs ADB, scrcpy and FFmpeg and opens a browser console (Apache-2.0). The first task installs a small accessibility helper on the phone.",
+    "take": "Hand it a sentence instead of a test script, and get back what a real phone actually did.",
+    "build": [
+      "A pre-release regression run of login and checkout on a real device",
+      "A QA report that reproduces a bug and attaches logs and screenshots",
+      "A nightly long-running exploration test for app stability"
+    ],
+    "who": [
+      {
+        "role": "Mobile QA",
+        "situation": "scripts keep breaking as screens change"
+      },
+      {
+        "role": "App developer",
+        "situation": "wants device logs and screenshots inside the IDE"
+      },
+      {
+        "role": "Solo app maker",
+        "situation": "needs a pre-release check without a QA team"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "git clone https://github.com/google/artemis.git && cd artemis"
+      },
+      {
+        "command": true,
+        "text": "./start.sh"
+      },
+      {
+        "command": false,
+        "text": "Connect an Android device with USB debugging on, or an emulator, first"
+      },
+      {
+        "command": false,
+        "text": "Windows PowerShell: .\\start.bat · opens localhost:8000 in the browser"
+      }
+    ],
+    "caveat": [
+      "The first task installs an accessibility helper on the phone (removable)",
+      "iOS is on the roadmap, not supported yet",
+      "Python 3.12+ and uv; the start script auto-installs system tools"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://github.com/google/artemis"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "android",
+    "test-automation",
+    "mcp",
+    "agents"
+  ],
+  "platform": [
+    "macos",
+    "linux",
+    "windows",
+    "android",
+    "cli"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://github.com/google/artemis",
+    "github": "https://github.com/google/artemis",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/google/artemis",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 5829,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:43.620Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 64,
+    "star_delta_7d": 862,
+    "star_delta_30d": 864,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      4,
+      67,
+      233,
+      288,
+      203,
+      20,
+      47
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-12T03:00:58.000Z",
+    "owner_type": "Organization",
+    "open_issues": 76,
+    "contributors": 8,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:33:43.620Z",
+    "core_checked_at": "2026-09-15T19:33:43.620Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/artemis-b49e23ea8d.png",
+    "cover": "https://tesign.com/img/artemis-b49e23ea8d.png",
+    "cover_width": 1788,
+    "cover_height": 917,
+    "gallery": [
+      "https://tesign.com/img/artemis-b49e23ea8d.png",
+      "https://tesign.com/img/artemis-4925803860.png",
+      "https://tesign.com/img/artemis-e39d3f63a9.png",
+      "https://tesign.com/img/artemis-ea7a59b80a.png"
+    ],
+    "alt": "ARTEMIS in use: mirrored Pixel home screen left, an IDE /plan prompt right asking to play YouTube and log CPU and memory.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:22.965Z",
+    "source_created_at": "2026-08-13T17:59:37.000Z",
+    "discovery_hours": 733.7294347222222,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:58.890Z",
+    "first_published_at": "2026-09-14T02:41:59.484Z",
+    "updated_at": "2026-09-15T04:36:56.801Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "diagram-design",
+  "url": "https://tesign.com/en/item/diagram-design/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/diagram-design/",
+      "json": "https://tesign.com/item/diagram-design/index.json",
+      "markdown": "https://tesign.com/item/diagram-design/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/diagram-design/",
+      "json": "https://tesign.com/en/item/diagram-design/index.json",
+      "markdown": "https://tesign.com/en/item/diagram-design/index.md"
+    }
+  },
+  "name": "diagram-design",
+  "use_label": "Editorial diagrams drawn by your agent",
+  "one_liner": "Draws 38 editorial diagram types as self-contained HTML and SVG.",
+  "text": {
+    "why": "Ask an agent for a diagram and what comes back usually looks like every other default diagram. diagram-design packages 38 diagram types organised from an editorial point of view, selectable from Claude Code, Codex and Pi. The output is dependency-free HTML and SVG that drops straight into a document. Published under MIT.",
+    "take": "A practical fix for samey agent diagrams: 39 named types plus editorial design rules.",
+    "build": [
+      "A diagram set that drops straight into a report",
+      "A diagram style standard for product documentation",
+      "A bundle of SVG figures for a presentation"
+    ],
+    "who": [
+      {
+        "role": "Planner",
+        "situation": "needs diagrams for a report or proposal"
+      },
+      {
+        "role": "Docs writer",
+        "situation": "wants one diagram style across product docs"
+      },
+      {
+        "role": "Marketer",
+        "situation": "needs SVG figures for a presentation"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "In the Claude Code prompt:"
+      },
+      {
+        "command": false,
+        "text": "/plugin marketplace add cathrynlavery/diagram-design"
+      },
+      {
+        "command": false,
+        "text": "/plugin install diagram-design@diagram-design"
+      },
+      {
+        "command": false,
+        "text": "Codex:"
+      },
+      {
+        "command": true,
+        "text": "codex plugin marketplace add cathrynlavery/diagram-design"
+      },
+      {
+        "command": true,
+        "text": "codex plugin add diagram-design@diagram-design"
+      }
+    ],
+    "caveat": [
+      "Claude Code leaves auto-update off by default for third-party marketplaces",
+      "You generate diagrams by asking the agent; it is not a Figma-style editor"
+    ]
+  },
+  "cta": {
+    "type": "use_package",
+    "label": "USE PACKAGE",
+    "url": "https://cathrynlavery.github.io/diagram-design"
+  },
+  "ready": "developer",
+  "categories": [
+    "design",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "diagrams",
+    "agent-skills",
+    "svg"
+  ],
+  "platform": [],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "HTML",
+  "source_urls": {
+    "canonical": "https://cathrynlavery.github.io/diagram-design",
+    "github": "https://github.com/cathrynlavery/diagram-design",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 40163,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:55.630Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 44,
+    "star_delta_7d": 574,
+    "star_delta_30d": 1436,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      2,
+      170,
+      311,
+      286,
+      67,
+      25,
+      67,
+      103,
+      199,
+      90,
+      54,
+      12,
+      34
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": 161,
+    "rising": {
+      "24h": null,
+      "7d": 8,
+      "30d": 8
+    },
+    "categories": [
+      {
+        "category": "design",
+        "label": "DESIGN",
+        "rank": 7
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T14:50:05.000Z",
+    "owner_type": "User",
+    "open_issues": 46,
+    "contributors": 39,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:33:55.630Z",
+    "core_checked_at": "2026-09-15T19:33:55.630Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/diagram-design-e6998b0281.webp",
+    "cover": "https://tesign.com/img/diagram-design-e6998b0281.webp",
+    "cover_width": 1400,
+    "cover_height": 673,
+    "gallery": [
+      "https://tesign.com/img/diagram-design-e6998b0281.webp",
+      "https://tesign.com/img/diagram-design-aba208a9c5.webp",
+      "https://tesign.com/img/diagram-design-ba6e271da6.webp",
+      "https://tesign.com/img/diagram-design-d209b1e288.png"
+    ],
+    "alt": "Sample architecture diagram by the skill: browser to Cloudflare to Astro origin to content, as boxes and arrows with a legend.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:26.628Z",
+    "source_created_at": "2026-04-16T18:01:16.000Z",
+    "discovery_hours": 3589.7029522222224,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.641Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T04:36:56.845Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "bento",
+  "url": "https://tesign.com/en/item/bento/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/bento/",
+      "json": "https://tesign.com/item/bento/index.json",
+      "markdown": "https://tesign.com/item/bento/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/bento/",
+      "json": "https://tesign.com/en/item/bento/index.json",
+      "markdown": "https://tesign.com/en/item/bento/index.md"
+    }
+  },
+  "name": "Bento",
+  "use_label": "One-file slides for presenters",
+  "one_liner": "A PowerPoint alternative in one HTML file; edit, present and share with only a browser.",
+  "text": {
+    "why": "While office documents have moved behind cloud logins, Bento takes the other path. The deck, fonts, images, charts and the full editor travel in one .bento.html file, and on save the file rewrites its own data block (File System Access API, with a download fallback). The document sits as readable JSON near the top of the file, so an AI agent or any other tool can edit it in place.",
+    "take": "The point is that the file is the software; anything with a browser opens it.",
+    "build": [
+      "Ship a company template as a .bento.html file that colleagues can edit and present with nothing installed, or write a script that generates decks from data because the document is plain JSON."
+    ],
+    "who": [
+      {
+        "role": "Small teams that trade decks often",
+        "situation": "share slides the other side can open without installing anything"
+      },
+      {
+        "role": "Developers driving documents with AI agents",
+        "situation": "generate slides by editing the JSON block"
+      },
+      {
+        "role": "Individuals avoiding cloud subscriptions",
+        "situation": "presentations that stay as a local file"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. Open https://bento.page/slides in a browser (the whole app, running on a starter deck)"
+      },
+      {
+        "command": false,
+        "text": "2. Or download the file: https://bento.page/releases/slides/Bento_Slides.bento.html (~560 KB per the README, ~710 KB per the site; no account, no installer)"
+      },
+      {
+        "command": false,
+        "text": "Build from source (Node 20+):"
+      },
+      {
+        "command": false,
+        "text": "cd slides"
+      },
+      {
+        "command": false,
+        "text": "npm install"
+      },
+      {
+        "command": false,
+        "text": "npm run build:single   # → dist-single/Bento_Slides.bento.html (the product)"
+      }
+    ],
+    "caveat": [
+      "MIT licence (bundled reveal.js, Moveable and Selecto are MIT; typefaces OFL). Editing is desktop-first; phones are for viewing and presenting, per the README. Known trade-off: undo during live collaboration is snapshot-based and can revert a collaborator's concurrent edit to the same property; the sync relay is optional. Free."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://bento.page/"
+  },
+  "ready": "browser",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "presentation",
+    "single-file",
+    "local-first",
+    "office",
+    "html",
+    "e2ee"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://bento.page/",
+    "github": "https://github.com/nyblnet/bento",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/nyblnet/bento",
+        "posted_at": "2026-09-05T05:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 5059,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:10.242Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 4,
+    "star_delta_7d": 6,
+    "star_delta_30d": 59,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      34,
+      19,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      4
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T10:59:51.000Z",
+    "owner_type": "User",
+    "open_issues": 35,
+    "contributors": 16,
+    "releases_count": 15,
+    "latest_release": {
+      "tag": "v1.1.0",
+      "published_at": "2026-09-14T01:35:30.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:10.242Z",
+    "core_checked_at": "2026-09-15T19:35:10.242Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/bento-3e4e146afc.png",
+    "cover": "https://tesign.com/img/bento-3e4e146afc.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/bento-3e4e146afc.png",
+      "https://tesign.com/img/bento-7e4a9cc29c.webp"
+    ],
+    "alt": "The Bento slides editor running in a browser on the starter deck at bento.page/slides [layout to be confirmed]",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:41:27.672Z",
+    "source_created_at": "2026-07-17T16:55:09.000Z",
+    "discovery_hours": 1384.7718533333334,
+    "launch_signal_at": "2026-09-05T05:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.556Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:56.803Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

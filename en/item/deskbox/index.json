@@ -1,0 +1,198 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "deskbox",
+  "url": "https://tesign.com/en/item/deskbox/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/deskbox/",
+      "json": "https://tesign.com/item/deskbox/index.json",
+      "markdown": "https://tesign.com/item/deskbox/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/deskbox/",
+      "json": "https://tesign.com/en/item/deskbox/index.json",
+      "markdown": "https://tesign.com/en/item/deskbox/index.md"
+    }
+  },
+  "name": "DeskBox",
+  "use_label": "Desktop organizer for Windows users",
+  "one_liner": "Free Windows desktop organizer with folder-backed widgets; open-source Fences alternative",
+  "text": {
+    "why": "It organizes desktop files with widgets backed by real folders, laid over the desktop without replacing Explorer or changing how files work. The README positions it as an open-source alternative to tools such as Stardock Fences and treats the todo, quick-note, search, weather and music widgets as extras. The current 1.5.1 x64 and ARM64 installers are .NET 10 Native AOT builds bundling Windows App Runtime 2.4, so they install offline.",
+    "take": "The core promise is that files stay ordinary files and folders in Explorer; the widgets only sit on top.",
+    "build": [
+      "The C#, WinUI 3 and .NET 10 Native AOT code with a Rust native Shell layer is a reference for desktop-layer widgets and Native AOT packaging. External pull requests are not being merged, so treat it as something to read or fork rather than contribute to."
+    ],
+    "who": [
+      {
+        "role": "Windows users with a cluttered desktop",
+        "situation": "folder-backed widgets, collapsible capsules"
+      },
+      {
+        "role": "Paying Fences users",
+        "situation": "try a free GPL alternative"
+      },
+      {
+        "role": "WinUI 3 developers",
+        "situation": ".NET 10 Native AOT plus a Rust Shell layer as reference"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. Download DeskBox_Setup_1.5.1_x64.exe (Intel/AMD) or DeskBox_Setup_1.5.1_arm64.exe (Snapdragon and other Windows on ARM) from GitHub Releases"
+      },
+      {
+        "command": false,
+        "text": "2. Verify the hash with the matching .sha256 sidecar (installers are currently unsigned)"
+      },
+      {
+        "command": false,
+        "text": "3. Run the installer — per-user by default, starts silently in the tray"
+      },
+      {
+        "command": false,
+        "text": "4. Install Everything separately if you want file results in the search widget"
+      }
+    ],
+    "caveat": [
+      "Licence GPL-3.0-only (earlier MIT releases stay MIT). Free, no account or cloud.",
+      "Windows 10 21H2 (build 19044) or later; Windows 11 22H2+ for the full visuals. Installers are unsigned, so verify the .sha256 hash. Weather and update checks use the network.",
+      "Solo developer, external PRs not accepted. File search needs Everything installed separately."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://deskbox.fun/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "windows",
+    "desktop-organizer",
+    "winui3",
+    "widgets",
+    "dotnet",
+    "fences-alternative"
+  ],
+  "platform": [
+    "windows"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "C#",
+  "source_urls": {
+    "canonical": "https://deskbox.fun/",
+    "github": "https://github.com/tianyu199509/deskbox",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/tianyu199509/deskbox",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 4545,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:23.474Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 92,
+    "star_delta_30d": 233,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      37,
+      60,
+      34,
+      10,
+      null,
+      5,
+      null,
+      12,
+      55,
+      18,
+      2,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": 74
+    },
+    "categories": []
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T17:09:12.000Z",
+    "owner_type": "User",
+    "open_issues": 81,
+    "contributors": 1,
+    "releases_count": 51,
+    "latest_release": {
+      "tag": "v1.5.2",
+      "published_at": "2026-09-15T01:32:57.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:23.474Z",
+    "core_checked_at": "2026-09-15T19:34:23.474Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/deskbox-bc09bda34f.webp",
+    "cover": "https://tesign.com/img/deskbox-bc09bda34f.webp",
+    "cover_width": 1600,
+    "cover_height": 840,
+    "gallery": [
+      "https://tesign.com/img/deskbox-bc09bda34f.webp",
+      "https://tesign.com/img/deskbox-7b2c8bf686.webp",
+      "https://tesign.com/img/deskbox-c81fb7e14f.webp",
+      "https://tesign.com/img/deskbox-4cf8125d9a.png"
+    ],
+    "alt": "DeskBox desktop in the Mica material: a search launcher in the centre and music, weather, todo, file and quick-capture widgets on the right (Windows 11, some Chinese file names)",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:42.354Z",
+    "source_created_at": "2026-06-11T10:55:22.000Z",
+    "discovery_hours": 2252.805653888889,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.444Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.841Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

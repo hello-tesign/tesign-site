@@ -1,0 +1,213 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "openclip",
+  "url": "https://tesign.com/en/item/openclip/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/openclip/",
+      "json": "https://tesign.com/item/openclip/index.json",
+      "markdown": "https://tesign.com/item/openclip/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/openclip/",
+      "json": "https://tesign.com/en/item/openclip/index.json",
+      "markdown": "https://tesign.com/en/item/openclip/index.md"
+    }
+  },
+  "name": "OpenClip",
+  "use_label": "Text-selection actions for Mac users",
+  "one_liner": "Select text in any Mac app; a floating bar offers copy, transform, math and AI actions",
+  "text": {
+    "why": "OpenClip reads the selected text through macOS Accessibility (not the clipboard) on macOS 14+ and shows a bar of actions that fit it. Pressing ⌥⌘C turns the bar into a fuzzy-search palette over the whole action catalog, and extensions are JavaScript, AppleScript, shell or URL-template files dropped into ~/.openclip/extensions with an openclip.json manifest, no compile step. AI actions can run on Apple Intelligence, a local Ollama model, or OpenAI/Claude.",
+    "take": "It is plainly an open-source PopClip alternative with a simpler extension format; the trade-off is an app that cannot work without Accessibility permission.",
+    "build": [
+      "One openclip.json with a URL template becomes a search action for your internal wiki or order lookup; a shell-script extension can send a selected product code to an inventory API and surface the result as a status message or notification."
+    ],
+    "who": [
+      {
+        "role": "Mac users who handle a lot of text",
+        "situation": "case changes, summaries, translations on selection"
+      },
+      {
+        "role": "Developers",
+        "situation": "register shell or JS scripts as text-selection actions"
+      },
+      {
+        "role": "Ollama users",
+        "situation": "inline AI writing on a local model, no cloud"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "brew install --cask ganeshmshetty/tap/openclip"
+      },
+      {
+        "command": false,
+        "text": "# launch OpenClip and grant Accessibility permission:"
+      },
+      {
+        "command": false,
+        "text": "System Settings → Privacy & Security → Accessibility → enable OpenClip"
+      },
+      {
+        "command": false,
+        "text": "# select text in any app, or press ⌥⌘C"
+      }
+    ],
+    "caveat": [
+      "MIT. macOS 14+ only and Accessibility permission is mandatory.",
+      "Cloud AI (OpenAI, Claude) uses your own API key and budget; choosing Apple Intelligence or a local Ollama model needs no cloud key.",
+      "The README states it is independent of and unaffiliated with PopClip."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://getopenclip.app/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "macos",
+    "menubar",
+    "text-actions",
+    "popclip-alternative",
+    "extensions",
+    "ollama"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://getopenclip.app/",
+    "github": "https://github.com/ganeshmshetty/openclip",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/ganeshmshetty/openclip",
+        "posted_at": "2026-09-02T13:11:44.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49535678"
+      },
+      {
+        "source": "showhn",
+        "url": "https://github.com/ganeshmshetty/openclip",
+        "posted_at": "2026-09-03T12:25:17.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49549079"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/ganeshmshetty/openclip",
+        "posted_at": "2026-09-05T12:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 365,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:13.137Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": 52,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      18,
+      34,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 5,
+    "hn_points_observed_at": "2026-09-13T13:55:39.144Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T16:12:37.000Z",
+    "owner_type": "User",
+    "open_issues": 12,
+    "contributors": 10,
+    "releases_count": 11,
+    "latest_release": {
+      "tag": "v1.6.0",
+      "published_at": "2026-09-14T15:49:22.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:13.137Z",
+    "core_checked_at": "2026-09-15T19:35:13.137Z"
+  },
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "Show HN + GitHub"
+    },
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/openclip-bde794c307.webp",
+    "cover": "https://tesign.com/img/openclip-bde794c307.webp",
+    "cover_width": 1600,
+    "cover_height": 1200,
+    "gallery": [
+      "https://tesign.com/img/openclip-bde794c307.webp",
+      "https://tesign.com/img/openclip-96e8f854ba.webp",
+      "https://tesign.com/img/openclip-16c0a6a439.webp",
+      "https://tesign.com/img/openclip-ab328b1c5e.webp"
+    ],
+    "alt": "OpenClip floating action bar above selected text, and the action-search palette opened with ⌥⌘C",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:42:35.114Z",
+    "source_created_at": "2026-09-03T12:25:17.000Z",
+    "discovery_hours": 237.288365,
+    "launch_signal_at": "2026-09-02T13:11:44.000Z",
+    "kept_at": "2026-09-14T19:27:43.667Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.927Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "hydra-download-manager",
+  "url": "https://tesign.com/en/item/hydra-download-manager/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/hydra-download-manager/",
+      "json": "https://tesign.com/item/hydra-download-manager/index.json",
+      "markdown": "https://tesign.com/item/hydra-download-manager/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/hydra-download-manager/",
+      "json": "https://tesign.com/en/item/hydra-download-manager/index.json",
+      "markdown": "https://tesign.com/en/item/hydra-download-manager/index.md"
+    }
+  },
+  "name": "Hydra Download Manager",
+  "use_label": "Multi-source download accelerator",
+  "one_liner": "Multi-connection download manager: desktop GUI, browser add-ons, wget/curl-compatible CLI",
+  "text": {
+    "why": "The Rust engine splits a download across multiple connections and independent mirrors and re-assigns ranges from slow peers to fast ones (range stealing). The same engine ships as a wget/curl-compatible CLI (a static musl build that runs on any Linux distribution) and as a desktop app for Windows, macOS and Linux, with Chrome Web Store, Firefox Add-ons and Safari extensions handing downloads over. It reads Metalink 3/4 documents to pick up mirror lists, sizes and hashes, and installs via one-line install.sh/install.ps1 scripts, Homebrew, PPA, COPR, AUR or AppImage.",
+    "take": "An open-source IDM-style download manager on three OSes, with the licence split so the engine alone can be embedded elsewhere.",
+    "build": [
+      "Because hydra-core and libhydra (the C ABI) are dual-licensed MIT/Apache-2.0, you can embed the download engine in Android, iOS, Go or Flutter apps; in server scripts it drops in where wget or curl was."
+    ],
+    "who": [
+      {
+        "role": "People who often download large files (ISOs, datasets)",
+        "situation": "GUI plus browser extensions that hand over downloads"
+      },
+      {
+        "role": "Server and CLI users",
+        "situation": "wget/curl-compatible commands, static build, Metalink mirror merging"
+      },
+      {
+        "role": "App developers",
+        "situation": "embed the engine via libhydra (MIT/Apache-2.0)"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "curl -fsSL https://raw.githubusercontent.com/ja7ad/hydra/main/install.sh | bash   # macOS / Linux (GUI bundle; append -s -- --cli for CLI only)"
+      },
+      {
+        "command": false,
+        "text": "irm https://raw.githubusercontent.com/ja7ad/hydra/main/install.ps1 | iex   # Windows PowerShell"
+      },
+      {
+        "command": false,
+        "text": "brew install ja7ad/tap/hydra"
+      },
+      {
+        "command": false,
+        "text": "hydra https://example.com/archive.tar.gz"
+      },
+      {
+        "command": false,
+        "text": "hydra -x 8 https://example.com/largefile.iso"
+      }
+    ],
+    "caveat": [
+      "Licence: the CLI binary is GPL-3.0-or-later; the hydra-core, hya-net and hya-ffi libraries are MIT OR Apache-2.0 (repository shows GPL-3.0). The macOS app is not notarized yet, so Gatekeeper may block it; Linux desktop builds need glibc 2.35+ (Ubuntu 22.04, Debian 12, RHEL 9 and newer). On Ubuntu, apt install hydra gives THC-Hydra, a different program — install hydra-download-manager instead. Free."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://hydra.javad.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "download-manager",
+    "rust",
+    "cli",
+    "browser-extension",
+    "cross-platform",
+    "metalink"
+  ],
+  "platform": [
+    "windows",
+    "macos",
+    "linux",
+    "cli"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://hydra.javad.dev/",
+    "github": "https://github.com/ja7ad/hydra",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/ja7ad/hydra",
+        "posted_at": "2026-09-06T03:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 502,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:22.043Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 3,
+    "star_delta_30d": 13,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      2,
+      6,
+      2,
+      null,
+      null,
+      null,
+      3,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T07:37:26.000Z",
+    "owner_type": "User",
+    "open_issues": 19,
+    "contributors": 9,
+    "releases_count": 26,
+    "latest_release": {
+      "tag": "v0.5.1-rc",
+      "published_at": "2026-09-15T06:37:37.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-09-15T19:35:22.043Z",
+    "core_checked_at": "2026-09-15T19:35:22.043Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/hydra-download-manager-a160e15181.jpg",
+    "cover": "https://tesign.com/img/hydra-download-manager-a160e15181.jpg",
+    "cover_width": 2022,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/hydra-download-manager-a160e15181.jpg",
+      "https://tesign.com/img/hydra-download-manager-218fbe39fa.png",
+      "https://tesign.com/img/hydra-download-manager-e6c7621212.png"
+    ],
+    "alt": "Hydra Download Manager desktop window: a category tree (Compressed, Documents, Music, Programs, Video) on the left, a download list with one paused and one completed item, and Scheduler / Start Queue toolbar buttons",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:47:20.612Z",
+    "source_created_at": "2026-08-15T14:20:36.000Z",
+    "discovery_hours": 691.4457255555556,
+    "launch_signal_at": "2026-09-06T03:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.686Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.889Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

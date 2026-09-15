@@ -1,0 +1,197 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "mimo-code",
+  "url": "https://tesign.com/en/item/mimo-code/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/mimo-code/",
+      "json": "https://tesign.com/item/mimo-code/index.json",
+      "markdown": "https://tesign.com/item/mimo-code/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/mimo-code/",
+      "json": "https://tesign.com/en/item/mimo-code/index.json",
+      "markdown": "https://tesign.com/en/item/mimo-code/index.md"
+    }
+  },
+  "name": "MiMo Code",
+  "use_label": "Terminal coding agent with memory",
+  "one_liner": "Xiaomi's terminal coding agent with cross-session memory, subagents and voice input",
+  "text": {
+    "why": "On top of an OpenCode fork it adds persistent memory backed by SQLite FTS5 (MEMORY.md, checkpoint.md, notes.md, tasks/): when context nears the limit it rebuilds from the latest checkpoint, and memory is injected automatically on resume. Sign-in is Xiaomi MiMo OAuth, Codex (ChatGPT) OAuth, an import of existing Claude Code auth, or an API key / OpenAI-compatible custom endpoint. `/goal` has a separate judge model check the stop condition to prevent optimistic stops, and `/voice` streams speech via TenVAD and MiMo ASR.",
+    "take": "Importing another coding agent's auth so you can start at once is the entry strategy; memory and checkpoints are the difference it wants to keep.",
+    "build": [
+      "Model your own deterministic multi-phase pipeline on the four built-in workflows (compose, deep-research, fact-check, research-experiment) as a JS file in `.mimocode/workflows/`."
+    ],
+    "who": [
+      {
+        "role": "Terminal coding-agent users",
+        "situation": "try it with your existing Claude Code / Codex auth"
+      },
+      {
+        "role": "Developers running long tasks",
+        "situation": "resume sessions from checkpoints and memory"
+      },
+      {
+        "role": "Researchers",
+        "situation": "deep-research and fact-check workflows, the arXiv skill"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "curl -fsSL https://mimo.xiaomi.com/install | bash                          # macOS / Linux"
+      },
+      {
+        "command": false,
+        "text": "powershell -ep Bypass -c \"irm https://mimo.xiaomi.com/install.ps1 | iex\"   # Windows PowerShell"
+      },
+      {
+        "command": false,
+        "text": "npm install -g @mimo-ai/cli                                                # or via npm (all platforms)"
+      },
+      {
+        "command": false,
+        "text": "mimo"
+      }
+    ],
+    "caveat": [
+      "The source is MIT, but a separate USE_RESTRICTIONS.md applies (no military use, no high-risk autonomous actions without human oversight, among others), and Xiaomi-hosted services fall under the MiMo Terms of Service. Model costs follow whichever route you pick (Xiaomi platform, Codex subscription, API key). The built-in macOS Terminal.app is not supported (iTerm2 or the VS Code terminal recommended). Voice input is for MiMo logged-in users by default (OpenRouter or a self-hosted relay can be configured separately) and needs sox. Windows, macOS, Linux."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://mimo.xiaomi.com/mimocode"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "coding-agent",
+    "cli",
+    "terminal",
+    "xiaomi",
+    "opencode-fork",
+    "ai"
+  ],
+  "platform": [
+    "cli",
+    "macos",
+    "windows",
+    "linux"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://mimo.xiaomi.com/mimocode",
+    "github": "https://github.com/xiaomimimo/mimo-code",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/xiaomimimo/mimo-code",
+        "posted_at": "2026-06-13T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 13128,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:29.158Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 6,
+    "star_delta_30d": 8,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4,
+      2,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:08:50.000Z",
+    "owner_type": "Organization",
+    "open_issues": 1001,
+    "contributors": 20,
+    "releases_count": 14,
+    "latest_release": {
+      "tag": "v0.1.14",
+      "published_at": "2026-09-02T08:53:47.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:29.158Z",
+    "core_checked_at": "2026-09-15T19:34:29.158Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/mimo-code-321db9ebd5.jpg",
+    "cover": "https://tesign.com/img/mimo-code-321db9ebd5.jpg",
+    "cover_width": 1220,
+    "cover_height": 799,
+    "gallery": [
+      "https://tesign.com/img/mimo-code-321db9ebd5.jpg",
+      "https://tesign.com/img/mimo-code-96c2b548d7.jpg",
+      "https://tesign.com/img/mimo-code-1d9967b941.jpg"
+    ],
+    "alt": "README capture — the English interface of MiMo Desktop, a separate beta app that uses MiMoCode as its engine (not the terminal UI)",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:16:21.287Z",
+    "source_created_at": "2026-06-10T11:52:41.000Z",
+    "discovery_hours": 2276.3945241666665,
+    "launch_signal_at": "2026-06-13T00:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.509Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.908Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

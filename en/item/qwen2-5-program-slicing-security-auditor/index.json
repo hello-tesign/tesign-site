@@ -1,0 +1,184 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "qwen2-5-program-slicing-security-auditor",
+  "url": "https://tesign.com/en/item/qwen2-5-program-slicing-security-auditor/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/qwen2-5-program-slicing-security-auditor/",
+      "json": "https://tesign.com/item/qwen2-5-program-slicing-security-auditor/index.json",
+      "markdown": "https://tesign.com/item/qwen2-5-program-slicing-security-auditor/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/qwen2-5-program-slicing-security-auditor/",
+      "json": "https://tesign.com/en/item/qwen2-5-program-slicing-security-auditor/index.json",
+      "markdown": "https://tesign.com/en/item/qwen2-5-program-slicing-security-auditor/index.md"
+    }
+  },
+  "name": "Qwen2.5 Program Slicing Security Auditor",
+  "use_label": "JavaScript security audit for web devs",
+  "one_liner": "Paste JS or HTML; a fine-tuned 7B model traces each risky sink to an exploit and verdict.",
+  "text": {
+    "why": "Feeding a whole minified bundle to a model is expensive and scatters the context. This Space first beautifies the code, walks the syntax tree for dangerous sinks such as innerHTML, eval, sendFile and fetch, cuts a roughly 50-line slice around each, and hands the slices one by one to a Qwen2.5-Coder 7B model fine-tuned for security reasoning, which writes a dataflow trace → proof-of-concept → verdict. Snippets of 70 lines or fewer are audited whole, and you can upload .js, .html, .ts, .php or .json files instead of pasting.",
+    "take": "Narrowing the scope with parsing before the model speaks keeps each finding small enough to check yourself.",
+    "build": [
+      "A second opinion on a frontend bundle or an Express route before release",
+      "A teaching aid: the three built-in examples contrast a vulnerable path-traversal route, a DOM XSS snippet and a hardened version",
+      "A draft 'why this is dangerous' note to attach to a code review"
+    ],
+    "who": [
+      {
+        "role": "Web developer",
+        "situation": "skims JavaScript or Node.js code for XSS and path traversal before shipping"
+      },
+      {
+        "role": "Security beginner",
+        "situation": "learns from the vulnerable-versus-hardened examples"
+      },
+      {
+        "role": "Bug-bounty hunter",
+        "situation": "picks the spots worth reading in a large bundle"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Open https://huggingface.co/spaces/face00/cybersecurity"
+      },
+      {
+        "command": false,
+        "text": "Paste code in the 'Paste Code / 50k-Line Bundle' tab, or drop a .js, .html, .ts, .php or .json file in 'Upload File'"
+      },
+      {
+        "command": false,
+        "text": "Press '⚡ Run 4-Step Security Audit'; findings appear on the right and pipeline diagnostics below"
+      },
+      {
+        "command": false,
+        "text": "Or click one of the three 'Quick Verification Scenarios' examples to try it at once"
+      }
+    ],
+    "caveat": [
+      "Apache-2.0 for both the Space and the model (face00/qwen2.5-7b-security-cot, fine-tuned from Qwen2.5-Coder-7B-Instruct)",
+      "Runs on Hugging Face ZeroGPU — free, but queued and time-limited; each model call (one per slice) gets 35 s of GPU, and at most 4 slices are analysed per request",
+      "A new Space published 2026-09-13; findings are model output and can miss or invent issues, so verify before acting on them",
+      "The README is only the Space config; the only usage guidance is the app screen and app.py"
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://huggingface.co/spaces/face00/cybersecurity"
+  },
+  "ready": "browser",
+  "categories": [
+    "security",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "security-audit",
+    "javascript",
+    "xss",
+    "program-slicing",
+    "gradio",
+    "zerogpu"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": null,
+    "note": null,
+    "open_source": null
+  },
+  "language": null,
+  "source_urls": {
+    "canonical": "https://huggingface.co/spaces/face00/cybersecurity",
+    "github": null,
+    "huggingface": "https://huggingface.co/spaces/face00/cybersecurity",
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "hf",
+        "url": "https://huggingface.co/spaces/face00/cybersecurity",
+        "posted_at": "2026-09-13T06:35:03.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": null,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": null,
+    "stars_observed_since_check": null,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": 1,
+    "hf_likes_observed_at": "2026-09-13T09:30:21.734Z",
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": null,
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "1h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/qwen2-5-program-slicing-security-auditor-74b2ede37b.png",
+    "cover": "https://tesign.com/img/qwen2-5-program-slicing-security-auditor-74b2ede37b.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/qwen2-5-program-slicing-security-auditor-74b2ede37b.png",
+      "https://tesign.com/img/qwen2-5-program-slicing-security-auditor-3e1a242f21.png"
+    ],
+    "alt": "The auditor's dark UI: a four-step pipeline diagram at the top, a code editor with the 'Run 4-Step Security Audit' button on the left, and the findings panel on the right.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:20.081Z",
+    "source_created_at": "2026-09-13T06:35:03.000Z",
+    "discovery_hours": 1.1380780555555556,
+    "launch_signal_at": "2026-09-13T06:35:03.000Z",
+    "kept_at": "2026-09-15T14:07:35.249Z",
+    "first_published_at": "2026-09-15T14:07:35.397Z",
+    "updated_at": "2026-09-15T14:07:35.375Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -28,7 +28,7 @@
 - [Top 20 · PRODUCTIVITY](https://tesign.com/en/top/productivity/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · DATA](https://tesign.com/en/top/data/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · INFRA](https://tesign.com/en/top/infra/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 10 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 11 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · COMMERCE](https://tesign.com/en/top/commerce/): 7 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · MEDIA](https://tesign.com/en/top/media/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · EDUCATION](https://tesign.com/en/top/education/): 6 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
@@ -41,11 +41,19 @@
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 32 observed events in the last 30 days (9 star-threshold crossings, 22 new repositories, 1 rising leaders), as of 2026-09-15T14:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 31 observed events in the last 30 days (8 star-threshold crossings, 22 new repositories, 1 rising leaders), as of 2026-09-15T15:00:00.000Z; method at /en/about/#ranks
+
+## Numbers
+
+- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2067 ranking-eligible repositories, 114 published items, 146953 candidate products, 16831 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-15T19:35:46.385Z, history clock 2026-09-15T15:00:00.000Z)
+
+## Compare
+
+- [200 side-by-side comparisons](https://tesign.com/en/compare/): one /en/compare/<a>-vs-<b>/ page per pair of published items from the same category, both with a GitHub star total — stars with their check time, 7- and 30-day gains, licence, platform, last commit, contributors, how to start and the who-lines of each entry; taken category by category by combined stars, at most 200, star totals as of 2026-09-15T15:00:00.000Z
 
 ## Repository cards
 
-- [367 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
+- [369 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
 
 ## Store hits
 
@@ -65,6 +73,18 @@
 - [Today](https://tesign.com/feed.xml)
 - [Rising 7d](https://tesign.com/feed/rising.xml)
 - [Milestones](https://tesign.com/feed/milestones.xml)
+
+## Machine-readable
+
+Every published item has a sibling index.json and index.md next to its page: /item/<slug>/index.json and /item/<slug>/index.md in Korean, /en/item/<slug>/index.json and /en/item/<slug>/index.md in English. Keys name the unit (stars, star_delta_7d, hf_likes); every figure sits next to its reference time (as_of, *_at); null means not observed, never zero. Counts are stored observations, not scores. These files are not in the sitemap.
+
+- [Index of every published item (JSON)](https://tesign.com/data/index.json): 114 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-15T19:35:46.385Z); not for search indexes (robots.txt), not in the sitemap
+- [Example: Spec Kit as JSON](https://tesign.com/en/item/spec-kit/index.json): name, use label, one-liner, why / build / who / start / caveat, licence and scope, platform, categories, numbers with as_of, ranks, activity, images, source URLs, generated_at
+- [Example: Spec Kit as Markdown](https://tesign.com/en/item/spec-kit/index.md): the same fields as headed Markdown; Korean at the path without /en
+
+## Contact
+
+- [hello@tesign.com](mailto:hello@tesign.com): corrections, a wrong licence or fact, a repository you maintain — by mail; there are no accounts, forms or paid placements
 
 ## Products (English)
 

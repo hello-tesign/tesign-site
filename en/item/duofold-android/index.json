@@ -1,0 +1,187 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "duofold-android",
+  "url": "https://tesign.com/en/item/duofold-android/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/duofold-android/",
+      "json": "https://tesign.com/item/duofold-android/index.json",
+      "markdown": "https://tesign.com/item/duofold-android/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/duofold-android/",
+      "json": "https://tesign.com/en/item/duofold-android/index.json",
+      "markdown": "https://tesign.com/en/item/duofold-android/index.md"
+    }
+  },
+  "name": "DuoFold for Android",
+  "use_label": "Fold illusion for Android phones",
+  "one_liner": "Makes a regular Android screen fold and shift as you tilt the phone.",
+  "text": {
+    "why": "A screen that folds with the phone's motion used to belong to one device. DuoFold takes the current display through Shizuku and reprojects it with OpenGL ES, so tilting the phone moves perspective, blur and lighting in real time. No root is required, the app has no Internet permission and neither stores nor uploads screen images, and it is MIT. A standard build covers Android 14 and newer, a compatibility build 10 to 13; real-device testing so far is on a Xiaomi 15.",
+    "take": "An experiment that repaints the whole system screen without root; the implementation is the show.",
+    "build": [
+      "An eye-catching screen effect on a shop demo phone",
+      "A study piece on wiring motion sensors to GPU reprojection on Android"
+    ],
+    "who": [
+      {
+        "role": "Android developer",
+        "situation": "wants to see screen capture plus GPU reprojection done"
+      },
+      {
+        "role": "Phone tinkerer",
+        "situation": "already runs Shizuku and wants a new effect"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "From the Latest Release, get the standard APK (Android 14+) or the compat APK (10–13)"
+      },
+      {
+        "command": false,
+        "text": "Install Shizuku and start its service via wireless debugging or ADB"
+      },
+      {
+        "command": false,
+        "text": "In the app: 01 authorize Shizuku → 02 accessibility service → 03 try 10 s → 04 global effect"
+      }
+    ],
+    "caveat": [
+      "Shizuku must be installed and running (no root needed)",
+      "Tested only on a Xiaomi 15 / Android 16; vendor limits may differ",
+      "Extended use raises GPU load and battery drain"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://github.com/jcx396905-gif/duofold-android"
+  },
+  "ready": "install",
+  "categories": [
+    "media",
+    "experiment"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "android",
+    "shizuku",
+    "opengl",
+    "ui-effect"
+  ],
+  "platform": [
+    "android"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Java",
+  "source_urls": {
+    "canonical": "https://github.com/jcx396905-gif/duofold-android",
+    "github": "https://github.com/jcx396905-gif/duofold-android",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/jcx396905-gif/duofold-android",
+        "posted_at": "2026-09-13T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 133,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:09.370Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 14,
+    "star_delta_30d": 14,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      14,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-13T03:13:29.000Z",
+    "owner_type": "User",
+    "open_issues": 1,
+    "contributors": 1,
+    "releases_count": 3,
+    "latest_release": {
+      "tag": "v0.6.0",
+      "published_at": "2026-09-13T03:13:29.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:09.370Z",
+    "core_checked_at": "2026-09-15T19:34:09.370Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "23h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/duofold-android-11ccdb6642.jpg",
+    "cover": "https://tesign.com/img/duofold-android-11ccdb6642.jpg",
+    "cover_width": 720,
+    "cover_height": 1280,
+    "gallery": [
+      "https://tesign.com/img/duofold-android-11ccdb6642.jpg",
+      "https://tesign.com/img/duofold-android-f6871b50bb.jpg",
+      "https://tesign.com/img/duofold-android-5d45fb7841.jpg",
+      "https://tesign.com/img/duofold-android-3b96ad0468.png"
+    ],
+    "alt": "Cover frame of a DuoFold real-device demo: a hand-held phone on a desk, its home screen tilted and blurred by the effect.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:34.171Z",
+    "source_created_at": "2026-09-12T08:33:04.000Z",
+    "discovery_hours": 23.1750475,
+    "launch_signal_at": "2026-09-13T00:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:58.993Z",
+    "first_published_at": "2026-09-14T02:41:59.484Z",
+    "updated_at": "2026-09-15T04:36:56.854Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "nodeterm",
+  "url": "https://tesign.com/en/item/nodeterm/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/nodeterm/",
+      "json": "https://tesign.com/item/nodeterm/index.json",
+      "markdown": "https://tesign.com/item/nodeterm/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/nodeterm/",
+      "json": "https://tesign.com/en/item/nodeterm/index.json",
+      "markdown": "https://tesign.com/en/item/nodeterm/index.md"
+    }
+  },
+  "name": "nodeterm",
+  "use_label": "Terminals and agents on one canvas",
+  "one_liner": "Terminals and agents as canvas nodes; tmux sessions survive app quits, restore on reboot.",
+  "text": {
+    "why": "Running several coding agents at once, you lose track of which tab is doing what; nodeterm lays terminals and agents out on a pan/zoom canvas so you see them like a map. Each node runs in a persistent tmux session, so quitting the app or rebooting the machine brings scrollback and running agents back (the macOS app ships its own tmux), and hook-driven RUNNING / NEEDS YOU badges let you answer a permission prompt inside the node. Flip the same project to a kanban board and the cards are the live sessions.",
+    "take": "The real point is not the canvas but the decision to keep every session alive in tmux, with hook-driven agent status making it usable day to day. Note the licence is BUSL-1.1, source-available rather than OSI open source.",
+    "build": [
+      "Set up a group bound to a git worktree with one agent per branch, teams of agents fed context through sticky notes, or context links between nodes so agents read each other's transcripts. Run the Server Edition on a Linux box to use the same canvas from a browser, and pick sessions up on the iOS app."
+    ],
+    "who": [
+      {
+        "role": "Developers running several agents in parallel",
+        "situation": "place sessions spatially and answer NEEDS YOU prompts inside the node"
+      },
+      {
+        "role": "People who lose track of tabs (the README names ADHD explicitly)",
+        "situation": "a map-like workspace instead of hidden tabs"
+      },
+      {
+        "role": "Developers running agents on a remote host",
+        "situation": "reach the same sessions from the browser Server Edition and the iOS app"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "macOS via Homebrew (all three lines are required):"
+      },
+      {
+        "command": false,
+        "text": "brew tap nodeterm/tap"
+      },
+      {
+        "command": false,
+        "text": "brew trust nodeterm/tap"
+      },
+      {
+        "command": false,
+        "text": "brew install --cask nodeterm"
+      },
+      {
+        "command": false,
+        "text": "Or download the .dmg / AppImage / .deb / .rpm / Windows beta installer from https://nodeterm.dev"
+      }
+    ],
+    "caveat": [
+      "Licence BUSL-1.1 (verified in the repo's LICENSE file; GitHub does not auto-detect it): use, modify, redistribute and production use allowed, but not offering it as a competing product or service; each release becomes MIT four years after publication.",
+      "macOS (arm64, x64) and Linux (x64) are supported; Windows x64 is beta (unsigned installer, manual updates, session restore after restart still landing). The iOS app is a separate App Store install.",
+      "v0.3.5 'early access' per the homepage. The app polls a self-hosted feed for updates and announcements."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://nodeterm.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "terminal",
+    "tmux",
+    "claude-code",
+    "agent-orchestration",
+    "kanban",
+    "canvas"
+  ],
+  "platform": [
+    "macos",
+    "linux",
+    "windows",
+    "ios",
+    "web"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/eneskirca/nodeterm?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://nodeterm.dev/",
+    "github": "https://github.com/eneskirca/nodeterm",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/eneskirca/nodeterm",
+        "posted_at": "2026-09-05T02:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1853,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:14.142Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 2,
+    "star_delta_30d": 10,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      2,
+      6,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T16:25:18.000Z",
+    "owner_type": "User",
+    "open_issues": 76,
+    "contributors": 39,
+    "releases_count": 53,
+    "latest_release": {
+      "tag": "v0.3.6",
+      "published_at": "2026-09-14T20:34:54.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:14.142Z",
+    "core_checked_at": "2026-09-15T19:35:14.142Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/nodeterm-4d11a6b933.png",
+    "cover": "https://tesign.com/img/nodeterm-4d11a6b933.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/nodeterm-4d11a6b933.png",
+      "https://tesign.com/img/nodeterm-bad3e99afd.webp",
+      "https://tesign.com/img/nodeterm-8f2b759adc.webp",
+      "https://tesign.com/img/nodeterm-0171c8507e.webp"
+    ],
+    "alt": "The nodeterm canvas: an 'api server' terminal, a Claude agent node with a RUNNING badge, a sticky note linked to that agent by a line, and editor and diff nodes laid out like a map",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:42:43.668Z",
+    "source_created_at": "2026-06-15T21:25:13.000Z",
+    "discovery_hours": 2148.291852222222,
+    "launch_signal_at": "2026-09-05T02:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.524Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.913Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

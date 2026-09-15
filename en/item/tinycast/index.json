@@ -1,0 +1,210 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "tinycast",
+  "url": "https://tesign.com/en/item/tinycast/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/tinycast/",
+      "json": "https://tesign.com/item/tinycast/index.json",
+      "markdown": "https://tesign.com/item/tinycast/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/tinycast/",
+      "json": "https://tesign.com/en/item/tinycast/index.json",
+      "markdown": "https://tesign.com/en/item/tinycast/index.md"
+    }
+  },
+  "name": "Tinycast",
+  "use_label": "Lightweight launcher for Mac users",
+  "one_liner": "Native macOS launcher under 100 MB of RAM that also runs Raycast extensions",
+  "text": {
+    "why": "The README leads with three numbers: zero third-party dependencies, zero telemetry, under 100 MB of RAM. It is SwiftUI and AppKit only, not Electron. It runs the Raycast extensions you already have, rendered as native SwiftUI, and imports shortcuts, clipboard history, snippets and quicklinks from a Raycast export (.rayconfig), so switching costs little. 34 window-management actions, clipboard history, currency and crypto conversion, and one-key meeting join all live in the same palette.",
+    "take": "Because it takes your Raycast extensions and settings as they are, this is a free native launcher with almost no switching cost.",
+    "build": [
+      "Quicklinks, snippets and custom shell commands let you assemble a palette for your own work — internal URLs, deploy scripts or templates bound to a single global hotkey."
+    ],
+    "who": [
+      {
+        "role": "Raycast users",
+        "situation": "bring extensions and settings into a native app"
+      },
+      {
+        "role": "Memory-conscious Mac users",
+        "situation": "a palette under 100 MB instead of an Electron launcher"
+      },
+      {
+        "role": "Keyboard-first workers",
+        "situation": "per-app hotkeys, 34 window actions, snippet expansion"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "brew trust --tap abue-ammar/tinycast   # required for third-party taps"
+      },
+      {
+        "command": false,
+        "text": "brew tap abue-ammar/tinycast"
+      },
+      {
+        "command": false,
+        "text": "brew install --cask tinycast            # Apple silicon, macOS 26 or newer"
+      },
+      {
+        "command": false,
+        "text": "brew install --cask tinycast-universal  # Intel, macOS 26"
+      },
+      {
+        "command": false,
+        "text": "Then open Settings → General, record a global shortcut, and press it anywhere to summon the palette."
+      }
+    ],
+    "caveat": [
+      "Licence AGPL-3.0 (from the README badge and LICENSE file; not set in GitHub metadata). macOS 26 or newer, Apple silicon and Intel. The macOS 15 Sequoia cask is no longer maintained. The app is self-signed, so a DMG download needs one quarantine-clearing command. Pasting and snippet expansion need the Accessibility permission. Free; tipping via Polar is optional."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://abue-ammar.github.io/tinycast"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "macos",
+    "launcher",
+    "swiftui",
+    "raycast",
+    "clipboard",
+    "hotkeys"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/abue-ammar/tinycast?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://abue-ammar.github.io/tinycast",
+    "github": "https://github.com/abue-ammar/tinycast",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/abue-ammar/tinycast",
+        "posted_at": "2026-09-04T17:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 4433,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:05.467Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 130,
+    "star_delta_7d": 169,
+    "star_delta_30d": 232,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      16,
+      8,
+      30,
+      9,
+      null,
+      2,
+      17,
+      14,
+      4,
+      2,
+      22,
+      108
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": 75
+    },
+    "categories": []
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T19:22:05.000Z",
+    "owner_type": "User",
+    "open_issues": 23,
+    "contributors": 39,
+    "releases_count": 93,
+    "latest_release": {
+      "tag": "v0.11.0-beta.95",
+      "published_at": "2026-09-14T20:42:19.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-09-15T19:35:05.467Z",
+    "core_checked_at": "2026-09-15T19:35:05.467Z"
+  },
+  "signals": [
+    {
+      "kind": "rising",
+      "label": "RISING",
+      "value": "+130 ★ / 24h"
+    },
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/tinycast-8c67ac65bb.png",
+    "cover": "https://tesign.com/img/tinycast-8c67ac65bb.png",
+    "cover_width": 2222,
+    "cover_height": 1249,
+    "gallery": [
+      "https://tesign.com/img/tinycast-8c67ac65bb.png",
+      "https://tesign.com/img/tinycast-7935c392cc.png"
+    ],
+    "alt": "The Tinycast command palette floating over macOS, with a search field and a list of apps",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:39:32.403Z",
+    "source_created_at": "2026-06-29T15:18:26.000Z",
+    "discovery_hours": 1818.351778611111,
+    "launch_signal_at": "2026-09-04T17:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.473Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:57.034Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

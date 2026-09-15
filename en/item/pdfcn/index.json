@@ -1,0 +1,161 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "pdfcn",
+  "url": "https://tesign.com/en/item/pdfcn/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/pdfcn/",
+      "json": "https://tesign.com/item/pdfcn/index.json",
+      "markdown": "https://tesign.com/item/pdfcn/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/pdfcn/",
+      "json": "https://tesign.com/en/item/pdfcn/index.json",
+      "markdown": "https://tesign.com/en/item/pdfcn/index.md"
+    }
+  },
+  "name": "pdfcn",
+  "use_label": "PDF components for React developers",
+  "one_liner": "Builds invoice and report PDFs from React components you paste in.",
+  "text": {
+    "why": "Generating a PDF from a web app means choosing a renderer and laying out the document from scratch. pdfcn copies PDF components and blocks into your project through the same registry format and CLI flow as shadcn/ui, rendering through either Takumi or Forme. The code lands inside your project, so changing it is yours to do. Published under MIT, with every component previewed on the docs site, where the install command also lives rather than in the README.",
+    "take": "The shadcn model applied to PDFs: the components become your code, not a dependency.",
+    "build": [
+      "Order confirmations and invoices generated inside the app",
+      "A monthly report that moves dashboard numbers into tables and charts",
+      "An internal document template set sharing one brand theme"
+    ],
+    "who": [
+      {
+        "role": "React developer",
+        "situation": "needs invoice and report PDFs in the app"
+      },
+      {
+        "role": "shadcn/ui user",
+        "situation": "wants PDFs handled in the same workflow"
+      }
+    ],
+    "start": [],
+    "caveat": [
+      "No install command in the README; see the docs site",
+      "Depends on the Takumi or Forme renderer"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://pdfcn.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools",
+    "library"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "react",
+    "pdf",
+    "shadcn",
+    "components"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://pdfcn.dev/",
+    "github": "https://github.com/shadcn-labs/pdfcn",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/shadcn-labs/pdfcn",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1783,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:25.336Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 30,
+    "star_delta_30d": 105,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      9,
+      38,
+      20,
+      8,
+      null,
+      null,
+      null,
+      10,
+      11,
+      9,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T10:24:39.000Z",
+    "owner_type": "Organization",
+    "open_issues": 25,
+    "contributors": 3,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:34:25.336Z",
+    "core_checked_at": "2026-09-15T19:34:25.336Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/pdfcn-fe0ed112f9.png",
+    "cover": "https://tesign.com/img/pdfcn-fe0ed112f9.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/pdfcn-fe0ed112f9.png"
+    ],
+    "alt": "pdfcn docs landing page: 'Beautiful PDFs, made simple' above a pnpm install command box and a Get Started button.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:06:10.416Z",
+    "source_created_at": "2026-08-11T11:55:41.000Z",
+    "discovery_hours": 788.1748377777777,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:59.069Z",
+    "first_published_at": null,
+    "updated_at": "2026-09-15T04:36:56.960Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

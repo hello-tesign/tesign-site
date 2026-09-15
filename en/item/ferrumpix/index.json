@@ -1,0 +1,202 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "ferrumpix",
+  "url": "https://tesign.com/en/item/ferrumpix/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/ferrumpix/",
+      "json": "https://tesign.com/item/ferrumpix/index.json",
+      "markdown": "https://tesign.com/item/ferrumpix/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/ferrumpix/",
+      "json": "https://tesign.com/en/item/ferrumpix/index.json",
+      "markdown": "https://tesign.com/en/item/ferrumpix/index.md"
+    }
+  },
+  "name": "FerrumPix",
+  "use_label": "Photo library and RAW editing",
+  "one_liner": "Photo manager, RAW developer and pixel editor in one app; connects to Immich and Nextcloud",
+  "text": {
+    "why": "It folds the library app, the RAW converter, the pixel editor and the server's web page into one application that runs entirely on your own machine. Lens distortion, colour fringing and vignetting are corrected from Lensfun measurements covering more than 1500 lenses on over 1000 camera bodies, and ratings and keywords written by Lightroom, darktable or digiKam sidecars are read in. It is written, unusually, in VB.NET on Avalonia UI and .NET 10 by a single developer.",
+    "take": "One developer's answer to juggling four photo programs: one app, with the server and the models both kept under your own control.",
+    "build": [
+      "Set up a batch flow that resizes, watermarks and converts product photos and exports them straight to Immich, or fork it under GPL-3.0 into your own photo tool (derivatives stay open under the same licence)."
+    ],
+    "who": [
+      {
+        "role": "Hobby photographers",
+        "situation": "browse folders, rate, develop RAW and edit in one app"
+      },
+      {
+        "role": "Immich or Nextcloud self-hosters",
+        "situation": "open server photos on the desktop, edit, upload and sync metadata"
+      },
+      {
+        "role": "Online shop owners",
+        "situation": "batch-resize, watermark and convert product photos"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "# Linux: download FerrumPix-x86_64.AppImage / .flatpak / -amd64.deb / -x86_64.rpm from GitHub Releases (Arch: AUR ferrumpix-bin)"
+      },
+      {
+        "command": false,
+        "text": "# Windows: Microsoft Store or FerrumPix-win-x64-Setup.exe"
+      },
+      {
+        "command": false,
+        "text": "# Build from source (.NET SDK 10 or newer)"
+      },
+      {
+        "command": false,
+        "text": "dotnet build FerrumPix.sln"
+      },
+      {
+        "command": false,
+        "text": "dotnet run --project FerrumPix.vbproj"
+      }
+    ],
+    "caveat": [
+      "Licence GPL-3.0-only. Linux and Windows x64 are the supported builds; ARM64 and macOS builds are untested and experimental, and the macOS app is unsigned, so you must clear the quarantine flag from the terminal.",
+      "libmpv (video) and libraw (RAW) are required, and eight features such as object selection and people search only appear after downloading model files from Settings; the face-comparison weights (InsightFace) are limited to non-commercial research.",
+      "Korean is not among the 16 UI languages the README names (it says 21 are built in; the other five are [확인 필요]). Actively developed, with stability and performance work still in progress."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://ferrumpix.app/"
+  },
+  "ready": "install",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "photo-editor",
+    "raw",
+    "immich",
+    "nextcloud",
+    "avalonia",
+    "dotnet"
+  ],
+  "platform": [
+    "linux",
+    "windows",
+    "macos"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Visual Basic .NET",
+  "source_urls": {
+    "canonical": "https://ferrumpix.app/",
+    "github": "https://github.com/bitpainter75/ferrumpix",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/Bitpainter75/FerrumPix",
+        "posted_at": "2026-08-19T22:22:47.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49367952"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 593,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:27.095Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-13T14:16:17.081Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T17:12:02.000Z",
+    "owner_type": "User",
+    "open_issues": 11,
+    "contributors": 3,
+    "releases_count": 43,
+    "latest_release": {
+      "tag": "0.9.44",
+      "published_at": "2026-09-13T21:44:25.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:27.095Z",
+    "core_checked_at": "2026-09-15T19:35:27.095Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/ferrumpix-e40c0c84b0.webp",
+    "cover": "https://tesign.com/img/ferrumpix-e40c0c84b0.webp",
+    "cover_width": 1600,
+    "cover_height": 958,
+    "gallery": [
+      "https://tesign.com/img/ferrumpix-e40c0c84b0.webp",
+      "https://tesign.com/img/ferrumpix-f169f38c5a.webp",
+      "https://tesign.com/img/ferrumpix-7f57cb61a7.webp",
+      "https://tesign.com/img/ferrumpix-b89a3354eb.webp"
+    ],
+    "alt": "The FerrumPix gallery (German UI): folder tree on the left, a grid of photos with star ratings and EXIF badges in the middle, and a right panel with shot data, rating, keywords and locally detected AI keywords",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T14:16:17.081Z",
+    "source_created_at": "2026-08-19T22:22:47.000Z",
+    "discovery_hours": 591.8916891666667,
+    "launch_signal_at": "2026-08-19T22:22:47.000Z",
+    "kept_at": "2026-09-14T19:27:43.624Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:56.866Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "openmausbot",
+  "url": "https://tesign.com/en/item/openmausbot/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/openmausbot/",
+      "json": "https://tesign.com/item/openmausbot/index.json",
+      "markdown": "https://tesign.com/item/openmausbot/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/openmausbot/",
+      "json": "https://tesign.com/en/item/openmausbot/index.json",
+      "markdown": "https://tesign.com/en/item/openmausbot/index.md"
+    }
+  },
+  "name": "OpenMausBot",
+  "use_label": "Your local agents as chat contacts",
+  "one_liner": "Chat app where every contact is an AI agent running on your own claude, codex or grok CLI",
+  "text": {
+    "why": "It takes Grok Bot's idea that several agents belong in a messaging app rather than one assistant box, and rebuilds it open and local-first on the CLIs you already have. Each bot keeps its own personality, model, computer and connected apps, and each channel its own working folder; shell commands and file edits appear as Allow/Deny cards in the chat, and transcripts and keys stay in ~/.openmausbot. Releases ship a signed and notarized macOS .dmg, a Windows x64 installer and an Ubuntu 24.04 .deb.",
+    "take": "It treats several agents as a team chat rather than one assistant, and does it on your own machine without a new cloud account.",
+    "build": [
+      "Add an engine with one file in server/drivers/, plug in any ACP-speaking CLI or OpenAI-compatible endpoint through config alone, or drive the bot team from Claude Desktop or Cursor through the bundled MCP server."
+    ],
+    "who": [
+      {
+        "role": "Subscribers to coding agents",
+        "situation": "run several bots with different models and personalities from one chat window"
+      },
+      {
+        "role": "Solo business owners",
+        "situation": "connect Gmail, Slack or Notion through Composio and hand off routine tasks (optional third-party service)"
+      },
+      {
+        "role": "Developers",
+        "situation": "add engines through the driver SPI and control the team over MCP"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "git clone https://github.com/milind-soni/OpenMausBot && cd OpenMausBot"
+      },
+      {
+        "command": false,
+        "text": "pnpm install"
+      },
+      {
+        "command": false,
+        "text": "pnpm dev:server    # harness server → 127.0.0.1:8799"
+      },
+      {
+        "command": false,
+        "text": "pnpm dev           # app → http://127.0.0.1:5199"
+      },
+      {
+        "command": false,
+        "text": "# Packaged: .dmg / OpenMausBot-setup.exe / .deb from GitHub Releases, or npm install -g openmausbot then openmausbot"
+      }
+    ],
+    "caveat": [
+      "Licence Apache-2.0, except the enterprise/ folder, which is source-available under its own licence (delete it for the pure open-source edition). The app is free, but bots use the claude, codex or grok CLI subscriptions you are already signed into; running from source needs Node 24+ and pnpm.",
+      "macOS (Apple silicon and Intel) ships a signed and notarized .dmg, the Windows x64 installer is not yet code-signed so SmartScreen warns, and Ubuntu 24.04 is beta (bot control of the local computer is disabled on Wayland).",
+      "Cloud computers (Box, paid after trial), connected apps (Composio) and voice (ElevenLabs) are optional third-party services; the README calls the project 'early but real'."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://openmausbot.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai-agents",
+    "electron",
+    "claude-code",
+    "codex",
+    "local-first",
+    "mcp"
+  ],
+  "platform": [
+    "macos",
+    "windows",
+    "linux",
+    "cli"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://openmausbot.com/",
+    "github": "https://github.com/milind-soni/openmausbot",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/milind-soni/openmausbot",
+        "posted_at": "2026-09-04T02:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 2814,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:02.445Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 10,
+    "star_delta_7d": 26,
+    "star_delta_30d": 72,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      6,
+      21,
+      17,
+      2,
+      null,
+      null,
+      2,
+      6,
+      5,
+      3,
+      null,
+      10
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T18:40:56.000Z",
+    "owner_type": "User",
+    "open_issues": 230,
+    "contributors": 81,
+    "releases_count": 38,
+    "latest_release": {
+      "tag": "v0.1.80",
+      "published_at": "2026-09-15T10:22:20.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:02.445Z",
+    "core_checked_at": "2026-09-15T19:35:02.445Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/openmausbot-eec86b9ec3.png",
+    "cover": "https://tesign.com/img/openmausbot-eec86b9ec3.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/openmausbot-eec86b9ec3.png",
+      "https://tesign.com/img/openmausbot-fba1a5e4c0.png",
+      "https://tesign.com/img/openmausbot-53214a01a6.png",
+      "https://tesign.com/img/openmausbot-db35e7e972.png"
+    ],
+    "alt": "OpenMausBot in dark theme: a left sidebar listing bots such as Brody, GitScout and Emaily, and on the right a long chat reply from the bot Brody reporting on a dataset, with a model picker in the header",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:39:23.874Z",
+    "source_created_at": "2026-08-11T18:58:55.000Z",
+    "discovery_hours": 782.6746872222222,
+    "launch_signal_at": "2026-09-04T02:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.631Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.936Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

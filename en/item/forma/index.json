@@ -1,0 +1,223 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "forma",
+  "url": "https://tesign.com/en/item/forma/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/forma/",
+      "json": "https://tesign.com/item/forma/index.json",
+      "markdown": "https://tesign.com/item/forma/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/forma/",
+      "json": "https://tesign.com/en/item/forma/index.json",
+      "markdown": "https://tesign.com/en/item/forma/index.md"
+    }
+  },
+  "name": "Forma",
+  "use_label": "ONNX graph editor for ML engineers",
+  "one_liner": "Drop an .onnx file in the browser, see the graph, edit a node and export — no Python.",
+  "text": {
+    "why": "Most ONNX tooling stops at looking: you can read the graph, but changing one attribute sends you back to Python scripts. Forma renders the full computation graph when you drop an .onnx or .tflite file on the canvas, lets you click a node to edit attributes or rewire connections, and exports the result as a valid ONNX file. Everything runs in the browser via WebAssembly, so the model never leaves your machine; only the edit sequence is shared, as a link carrying the original file's SHA-256 fingerprint.",
+    "take": "The point is that graph editing and validation finish in the browser without your model ever being uploaded.",
+    "build": [
+      "Pre-deployment surgery: turn a fixed batch size into a symbolic `batch` dimension or rename tensors",
+      "A validation run that feeds the original and edited model identical inputs and compares outputs",
+      "A minimal-repro ONNX file cut from just the nodes that misbehave (Extract Repro)",
+      "A side-by-side text report comparing two model files' structure, attributes and latency"
+    ],
+    "who": [
+      {
+        "role": "ML engineer",
+        "situation": "fixes ONNX inputs, outputs and attributes right before deployment, without Python"
+      },
+      {
+        "role": "Developer converting models",
+        "situation": "compares two files' structure before and after conversion"
+      },
+      {
+        "role": "Deep-learning learner",
+        "situation": "clicks through a public model's layers and parameter counts"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. Open forma-ml.vercel.app"
+      },
+      {
+        "command": false,
+        "text": "2. Drag any .onnx model file onto the canvas"
+      },
+      {
+        "command": false,
+        "text": "3. Click any node to inspect it in the Layer Inspector panel"
+      },
+      {
+        "command": false,
+        "text": "4. Make an edit and choose Share Edits to copy a verified edit link"
+      },
+      {
+        "command": false,
+        "text": "Run locally (Node.js 18+):"
+      },
+      {
+        "command": true,
+        "text": "git clone https://github.com/Hussain004/Forma.git"
+      },
+      {
+        "command": true,
+        "text": "cd Forma"
+      },
+      {
+        "command": true,
+        "text": "npm install"
+      },
+      {
+        "command": true,
+        "text": "npm run dev"
+      },
+      {
+        "command": false,
+        "text": "→ open http://localhost:5173"
+      }
+    ],
+    "caveat": [
+      "License unconfirmed — the README badge and the Show HN post say MIT, but the repository has no LICENSE file and GitHub metadata shows none",
+      "ONNX and TFLite only; TFLite is read-only (no attribute editing, benchmark or Export Modified); convert .pt or .safetensors to ONNX first",
+      "Desktop-first — a gate appears below 900px screen width",
+      "Share links never contain the model, so the recipient needs the exact original file; INT8 sizes are analytical estimates",
+      "No pricing stated; the web app opens without payment and the README links a donation page · shown on HN 2026-09-13 · the README lists releases up to v2.5.0 and 406 tests"
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://forma-ml.vercel.app/"
+  },
+  "ready": "browser",
+  "categories": [
+    "dev-tools",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "onnx",
+    "tflite",
+    "model-visualization",
+    "webassembly",
+    "graph-editor"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/hussain004/forma?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://forma-ml.vercel.app/",
+    "github": "https://github.com/hussain004/forma",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/Hussain004/forma",
+        "posted_at": "2026-09-13T05:49:46.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49680437"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 3,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:36.989Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-15T11:21:52.761Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-02T15:22:49.000Z",
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 1,
+    "releases_count": 28,
+    "latest_release": {
+      "tag": "v2.5.0",
+      "published_at": "2026-09-02T00:01:52.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:33:36.989Z",
+    "core_checked_at": "2026-09-15T19:33:36.989Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "1h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/forma-6622496fbc.png",
+    "cover": "https://tesign.com/img/forma-6622496fbc.png",
+    "cover_width": 1600,
+    "cover_height": 1000,
+    "gallery": [
+      "https://tesign.com/img/forma-6622496fbc.png",
+      "https://tesign.com/img/forma-9269f4a8ea.png",
+      "https://tesign.com/img/forma-a406768b75.png"
+    ],
+    "alt": "Forma editor: a sample ONNX graph on the canvas with the Conv node selected and its editable attributes, tensor shapes and parameter count in the Layer Inspector.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:20.294Z",
+    "source_created_at": "2026-09-13T05:49:46.000Z",
+    "discovery_hours": 1.8928594444444444,
+    "launch_signal_at": "2026-09-13T05:49:46.000Z",
+    "kept_at": "2026-09-15T14:07:35.244Z",
+    "first_published_at": "2026-09-15T14:07:35.397Z",
+    "updated_at": "2026-09-15T14:07:35.369Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

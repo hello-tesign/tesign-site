@@ -1,0 +1,199 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "birdview",
+  "url": "https://tesign.com/en/item/birdview/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/birdview/",
+      "json": "https://tesign.com/item/birdview/index.json",
+      "markdown": "https://tesign.com/item/birdview/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/birdview/",
+      "json": "https://tesign.com/en/item/birdview/index.json",
+      "markdown": "https://tesign.com/en/item/birdview/index.md"
+    }
+  },
+  "name": "Birdview",
+  "use_label": "Change maps for AI-coding teams",
+  "one_liner": "Maps which modules an agent will touch before it edits a line.",
+  "text": {
+    "why": "Agent coding logs say what happened; diffs say which lines changed. Birdview inserts a structural check before either: build the project's architecture map first, mark the modules and evidence the agent plans to touch, then let it edit. The output is a standalone HTML file with no server, and maps and activity records are validated against JSON schemas. Published under MIT, with one honest limit: activity is declared by the agent, not observed automatically.",
+    "take": "The core is a rule forced on the agent: draw where you are going to touch before you touch it.",
+    "build": [
+      "A team review step that checks scope before the agent starts",
+      "An evidence-linked architecture map kept for onboarding",
+      "A before/after structure comparison attached to release notes"
+    ],
+    "who": [
+      {
+        "role": "Developer on agents",
+        "situation": "has seen a change sprawl beyond what was asked"
+      },
+      {
+        "role": "Tech lead",
+        "situation": "wants affected modules visible before review"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "npm ci"
+      },
+      {
+        "command": true,
+        "text": "npm run validate:examples"
+      },
+      {
+        "command": true,
+        "text": "npm test"
+      },
+      {
+        "command": true,
+        "text": "npm run build:demo"
+      },
+      {
+        "command": false,
+        "text": "Node.js 18+ · then open examples/harness-activity.html in a browser"
+      },
+      {
+        "command": false,
+        "text": "For use inside an agent, follow docs/installation.md"
+      }
+    ],
+    "caveat": [
+      "Activity is agent-declared; edits are not observed automatically",
+      "Updates mean regenerating the HTML and refreshing the browser",
+      "Marked private and not published to npm (v0.1)"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://qiuner.github.io/birdview"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "architecture",
+    "code-visualization",
+    "agents",
+    "diagram-as-code"
+  ],
+  "platform": [
+    "cli",
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://qiuner.github.io/birdview",
+    "github": "https://github.com/qiuner/birdview",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/qiuner/birdview",
+        "posted_at": "2026-09-12T11:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 285,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:28.259Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 2,
+    "star_delta_7d": 21,
+    "star_delta_30d": 21,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4,
+      15,
+      2,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T03:32:52.000Z",
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 1,
+    "releases_count": 3,
+    "latest_release": {
+      "tag": "v0.2.0",
+      "published_at": "2026-09-15T03:32:56.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:28.259Z",
+    "core_checked_at": "2026-09-15T19:34:28.259Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "27h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/birdview-ae29760b36.png",
+    "cover": "https://tesign.com/img/birdview-ae29760b36.png",
+    "cover_width": 1440,
+    "cover_height": 900,
+    "gallery": [
+      "https://tesign.com/img/birdview-ae29760b36.png",
+      "https://tesign.com/img/birdview-2ad6f2ce0b.png"
+    ],
+    "alt": "Birdview activity view: module boxes in three groups on a dark canvas, with Task scheduler and Agent loop highlighted.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T10:29:59.976Z",
+    "source_created_at": "2026-09-12T06:59:27.000Z",
+    "discovery_hours": 27.50916,
+    "launch_signal_at": "2026-09-12T11:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:59.141Z",
+    "first_published_at": "2026-09-14T02:41:59.484Z",
+    "updated_at": "2026-09-15T04:36:56.806Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

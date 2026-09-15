@@ -1,0 +1,198 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "vorssaint",
+  "url": "https://tesign.com/en/item/vorssaint/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/vorssaint/",
+      "json": "https://tesign.com/item/vorssaint/index.json",
+      "markdown": "https://tesign.com/item/vorssaint/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/vorssaint/",
+      "json": "https://tesign.com/en/item/vorssaint/index.json",
+      "markdown": "https://tesign.com/en/item/vorssaint/index.md"
+    }
+  },
+  "name": "Vorssaint",
+  "use_label": "Utility bundle for Mac users",
+  "one_liner": "Free macOS menu bar app: per-app volume, window snapping, clipboard history, uninstaller",
+  "text": {
+    "why": "It gathers the utilities Mac users usually buy one by one (per-app volume, system monitor, app switcher, window snapping, clipboard history, uninstaller) behind a single menu bar icon, with no account, telemetry or subscription. The Features page installs and uninstalls whole features; what you remove stops loading and spends no CPU or memory. First committed in June 2026, it reached the front of GitHub trending in three days per the README and sits at 18,627 stars.",
+    "take": "The point is not the feature count but that unused features stop loading entirely.",
+    "build": [
+      "The GPL Swift source is a reference for building your own take on a single feature, such as per-app audio routing or window snapping. The name, icon and look are covered separately by TRADEMARKS.md, so a fork needs its own identity."
+    ],
+    "who": [
+      {
+        "role": "Mac users",
+        "situation": "per-app volume, window snapping and clipboard history in one app"
+      },
+      {
+        "role": "People paying for several utilities",
+        "situation": "a no-subscription replacement"
+      },
+      {
+        "role": "Swift developers",
+        "situation": "a reference for a modular menu bar app"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "brew install --cask vorssaint"
+      },
+      {
+        "command": false,
+        "text": "# or download the disk image from the releases page and drag Vorssaint into Applications"
+      },
+      {
+        "command": false,
+        "text": "# remove: brew uninstall --cask vorssaint"
+      },
+      {
+        "command": false,
+        "text": "# remove completely, including settings and permissions: ./Tools/uninstall.sh"
+      }
+    ],
+    "caveat": [
+      "Licence GPL-3.0 (README: GPL-3.0-or-later); the name, logo and look are covered separately by TRADEMARKS.md.",
+      "Apple Silicon Macs on macOS 14 Sonoma or newer only. Features need macOS permissions such as Accessibility and Screen Recording, each optional.",
+      "Free, no account or analytics. Latest release v3.3.5 as of 2026-09-15."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://vorssaint.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "macos",
+    "menu-bar",
+    "window-management",
+    "clipboard",
+    "swift",
+    "utilities"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://vorssaint.com/",
+    "github": "https://github.com/vorssaint/vorssaint-utils",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/vorssaint/vorssaint-utils",
+        "posted_at": "2026-09-13T03:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 19211,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:24.397Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 15,
+    "star_delta_7d": 188,
+    "star_delta_30d": 591,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      21,
+      102,
+      229,
+      46,
+      2,
+      12,
+      19,
+      73,
+      45,
+      24,
+      6,
+      9
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": 23
+    },
+    "categories": []
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T18:08:03.000Z",
+    "owner_type": "User",
+    "open_issues": 467,
+    "contributors": 82,
+    "releases_count": 77,
+    "latest_release": {
+      "tag": "v3.4.0-beta.1",
+      "published_at": "2026-09-15T11:36:48.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-09-15T19:34:24.397Z",
+    "core_checked_at": "2026-09-15T19:34:24.397Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/vorssaint-7c7da88ea9.png",
+    "cover": "https://tesign.com/img/vorssaint-7c7da88ea9.png",
+    "cover_width": 1600,
+    "cover_height": 1058,
+    "gallery": [
+      "https://tesign.com/img/vorssaint-7c7da88ea9.png",
+      "https://tesign.com/img/vorssaint-70645cadf6.png",
+      "https://tesign.com/img/vorssaint-ec50f23a52.png",
+      "https://tesign.com/img/vorssaint-8878bea451.png"
+    ],
+    "alt": "Vorssaint Settings, Features page: 37 of 37 features installed, with Essentials, Windows and Battery and quiet bundle cards and a per-feature Uninstall button",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:06:10.416Z",
+    "source_created_at": "2026-06-12T15:25:43.000Z",
+    "discovery_hours": 2224.6742822222222,
+    "launch_signal_at": "2026-09-13T03:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.408Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:57.051Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

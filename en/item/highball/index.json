@@ -1,0 +1,196 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "highball",
+  "url": "https://tesign.com/en/item/highball/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/highball/",
+      "json": "https://tesign.com/item/highball/index.json",
+      "markdown": "https://tesign.com/item/highball/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/highball/",
+      "json": "https://tesign.com/en/item/highball/index.json",
+      "markdown": "https://tesign.com/en/item/highball/index.md"
+    }
+  },
+  "name": "Highball",
+  "use_label": "Windows games for Mac gamers",
+  "one_liner": "Runs Windows games on Apple Silicon and tells you if yours will work.",
+  "text": {
+    "why": "Tools that run Windows games on a Mac make you pick a Wine build yourself, and you only learn whether a game works after installing it. Highball sets up Wine, DXMT, D3DMetal and DXVK, connects a Steam or Epic library, and pulls per-game renderer verdicts and the anti-cheat blocklist from an open CC0 database before you download anything. App and CLI are GPL-3.0, the data is CC0, and the README rules out a paid tier. Apple Silicon and macOS 14 or newer only, and still in beta.",
+    "take": "The real product is the CC0 compatibility database behind the app.",
+    "build": [
+      "A personal check of Mac compatibility before buying a game",
+      "A runtime for a Windows-only program on an office Mac",
+      "Your own lookup page built on the CC0 compatibility data"
+    ],
+    "who": [
+      {
+        "role": "Mac gamer",
+        "situation": "wants to know a Windows-only game will run before buying"
+      },
+      {
+        "role": "Former Whisky user",
+        "situation": "looking for a replacement"
+      },
+      {
+        "role": "Mac user",
+        "situation": "one Windows-only work program left to run"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "brew install --cask gauthierpiarrette/highball/highball"
+      },
+      {
+        "command": false,
+        "text": "Or drag Highball.dmg from Releases into Applications and press Get started"
+      },
+      {
+        "command": false,
+        "text": "Apple Silicon · macOS 14+ · the first run downloads the engine and takes a while"
+      }
+    ],
+    "caveat": [
+      "Apple Silicon and macOS 14 or newer only",
+      "Beta; the first run can take 15 to 25 minutes",
+      "D3DMetal requires accepting Apple's separate license"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://gauthierpiarrette.github.io/highball"
+  },
+  "ready": "install",
+  "categories": [
+    "games"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "macos",
+    "wine",
+    "gaming",
+    "apple-silicon"
+  ],
+  "platform": [
+    "macos",
+    "cli"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://gauthierpiarrette.github.io/highball",
+    "github": "https://github.com/gauthierpiarrette/highball",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/gauthierpiarrette/highball",
+        "posted_at": "2026-08-26T15:16:51.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49450662"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/gauthierpiarrette/highball",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 719,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:03.689Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 5,
+    "star_delta_7d": 43,
+    "star_delta_30d": 58,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      10,
+      5,
+      null,
+      null,
+      null,
+      null,
+      null,
+      6,
+      32,
+      2,
+      3
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 5,
+    "hn_points_observed_at": "2026-09-13T14:07:39.952Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T18:18:38.000Z",
+    "owner_type": "User",
+    "open_issues": 35,
+    "contributors": 3,
+    "releases_count": 75,
+    "latest_release": {
+      "tag": "v0.9.21",
+      "published_at": "2026-09-15T17:57:07.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-09-15T19:34:03.689Z",
+    "core_checked_at": "2026-09-15T19:34:03.689Z"
+  },
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "Show HN + GitHub"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/highball-e55160646d.webp",
+    "cover": "https://tesign.com/img/highball-e55160646d.webp",
+    "cover_width": 1600,
+    "cover_height": 1088,
+    "gallery": [
+      "https://tesign.com/img/highball-e55160646d.webp",
+      "https://tesign.com/img/highball-06bc1ec1fa.png"
+    ],
+    "alt": "Highball library: All, Steam and Epic filters at the top, twelve game covers below, each marked Verified.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:34.171Z",
+    "source_created_at": "2026-08-23T20:35:56.000Z",
+    "discovery_hours": 491.1272697222222,
+    "launch_signal_at": "2026-08-26T15:16:51.000Z",
+    "kept_at": "2026-09-14T02:41:58.979Z",
+    "first_published_at": "2026-09-14T02:41:59.484Z",
+    "updated_at": "2026-09-15T04:36:56.884Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

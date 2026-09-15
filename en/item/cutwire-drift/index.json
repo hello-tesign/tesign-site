@@ -1,0 +1,199 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "cutwire-drift",
+  "url": "https://tesign.com/en/item/cutwire-drift/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/cutwire-drift/",
+      "json": "https://tesign.com/item/cutwire-drift/index.json",
+      "markdown": "https://tesign.com/item/cutwire-drift/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/cutwire-drift/",
+      "json": "https://tesign.com/en/item/cutwire-drift/index.json",
+      "markdown": "https://tesign.com/en/item/cutwire-drift/index.md"
+    }
+  },
+  "name": "Drift",
+  "use_label": "Video editing for Shorts and game clips",
+  "one_liner": "Multi-track video editor for Shorts and game clips, with no subscription or watermark",
+  "text": {
+    "why": "Built on Qt 6 and FFmpeg, it puts a multi-track timeline (trim, split, snap, ripple), GPU effects and transitions, auto captions you can edit line by line, click-to-cut-out subjects, masks, green screen and multicam in one window. A built-in local MCP server (off by default) lets Cursor or Claude Code place clips and export from the open project. It ships on Flathub, Windows, macOS (Apple Silicon) and as Android APKs; the latest release is v0.6.0 (2026-09-13).",
+    "take": "A GPLv3 editor that flatly refuses the usual ending of a free editor — a watermark or a login wall — with the caveat that it is still in 0.x releases.",
+    "build": [
+      "Because the MCP server lets an agent import media, place clips and export, you could wire up a semi-automatic pipeline that cuts one long recording into several Shorts. GPL-3.0 means derivatives must publish their source."
+    ],
+    "who": [
+      {
+        "role": "Creators cutting Shorts and Reels",
+        "situation": "generate captions, then fix each line"
+      },
+      {
+        "role": "Game-clip and school-project editors",
+        "situation": "MP4 and GIF export without a watermark"
+      },
+      {
+        "role": "Developers automating edits with an AI agent",
+        "situation": "local MCP server, off until enabled"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "flatpak install flathub org.cutwire.Drift"
+      },
+      {
+        "command": false,
+        "text": "flatpak run org.cutwire.Drift"
+      },
+      {
+        "command": false,
+        "text": "# Windows (.exe / portable zip), macOS (.dmg, Apple Silicon) and Android (APK) builds are on the latest GitHub release"
+      },
+      {
+        "command": false,
+        "text": "adb install Drift-*-arm64-v8a.apk   # on a phone"
+      }
+    ],
+    "caveat": [
+      "GPL-3.0 — modified or redistributed builds must publish source",
+      "macOS build is Apple Silicon only; Android is a sideloaded APK, not on the Play Store",
+      "Latest release v0.6.0 (2026-09-13), still 0.x; fonts, stickers, extra effects and speech models download separately inside the Addon Manager"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://cutwire.org/drift"
+  },
+  "ready": "install",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "video-editor",
+    "qt6",
+    "ffmpeg",
+    "auto-captions",
+    "mcp",
+    "flathub"
+  ],
+  "platform": [
+    "linux",
+    "windows",
+    "macos",
+    "android"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "C++",
+  "source_urls": {
+    "canonical": "https://cutwire.org/drift",
+    "github": "https://github.com/cutwire-studios/drift",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/cutwire-studios/drift",
+        "posted_at": "2026-09-05T04:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 725,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:15.159Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 4,
+    "star_delta_30d": 19,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      9,
+      6,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T17:12:22.000Z",
+    "owner_type": "Organization",
+    "open_issues": 39,
+    "contributors": 15,
+    "releases_count": 10,
+    "latest_release": {
+      "tag": "v0.6.0",
+      "published_at": "2026-09-13T00:15:09.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:15.159Z",
+    "core_checked_at": "2026-09-15T19:35:15.159Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/cutwire-drift-729304548b.png",
+    "cover": "https://tesign.com/img/cutwire-drift-729304548b.png",
+    "cover_width": 1866,
+    "cover_height": 1134,
+    "gallery": [
+      "https://tesign.com/img/cutwire-drift-729304548b.png",
+      "https://tesign.com/img/cutwire-drift-b726248b91.png",
+      "https://tesign.com/img/cutwire-drift-a88ef14c2b.png",
+      "https://tesign.com/img/cutwire-drift-f07a977143.png"
+    ],
+    "alt": "The Drift editor main window: media bin on the left, video preview in the centre, clip inspector on the right, multi-track timeline below",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:42:43.668Z",
+    "source_created_at": "2026-07-07T11:08:57.000Z",
+    "discovery_hours": 1630.5629633333333,
+    "launch_signal_at": "2026-09-05T04:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.591Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:56.832Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

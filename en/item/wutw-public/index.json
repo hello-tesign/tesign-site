@@ -1,0 +1,191 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "wutw-public",
+  "url": "https://tesign.com/en/item/wutw-public/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/wutw-public/",
+      "json": "https://tesign.com/item/wutw-public/index.json",
+      "markdown": "https://tesign.com/item/wutw-public/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/wutw-public/",
+      "json": "https://tesign.com/en/item/wutw-public/index.json",
+      "markdown": "https://tesign.com/en/item/wutw-public/index.md"
+    }
+  },
+  "name": "Worlds Upon The Wind",
+  "use_label": "Steam deckbuilder source, public domain",
+  "one_liner": "Releases a Steam deckbuilder's full source and art as public domain.",
+  "text": {
+    "why": "Commercial game code is rarely visible, so indie developers seldom see how a finished game is built. Worlds Upon The Wind, a peaceful roguelite deckbuilder sold on Steam, releases its whole Godot project under CC0: GDScript source, PSD and SVG art, and the Steam build and publish scripts. The art is based on public-domain Japanese ukiyo-e prints and picture scrolls. Music and sound effects are excluded for licensing reasons, so a build from the repository runs silent.",
+    "take": "Unlike a tutorial, this is a finished, selling game you can take apart in full.",
+    "build": [
+      "A structural reference for your own Godot 4 game",
+      "A card-game UI mock-up built on public-domain woodblock prints",
+      "A sample of scripts that automate multi-platform Steam releases"
+    ],
+    "who": [
+      {
+        "role": "Indie developer",
+        "situation": "building a first commercial-scale Godot project"
+      },
+      {
+        "role": "Game art student",
+        "situation": "wants to see source PSDs and print-based art in use"
+      },
+      {
+        "role": "Language-app maker",
+        "situation": "studying the vocabulary minigame structure"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "git clone https://github.com/max99x/wutw-public"
+      },
+      {
+        "command": false,
+        "text": "Install Godot 4.7, then Import wutw/project.godot from the Project Manager"
+      },
+      {
+        "command": false,
+        "text": "If console errors appear, wait for the import to finish and reopen"
+      },
+      {
+        "command": false,
+        "text": "Press F5 to run · music and SFX are excluded, so only cutscene voice plays"
+      }
+    ],
+    "caveat": [
+      "Music and sound effects excluded; a repo build runs silent",
+      "A read-only mirror: pull requests are not merged",
+      "Dictionary and sentence data carry separate CC-BY-SA-style licenses"
+    ]
+  },
+  "cta": {
+    "type": "run",
+    "label": "RUN",
+    "url": "https://github.com/max99x/wutw-public"
+  },
+  "ready": "install",
+  "categories": [
+    "games",
+    "education"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "godot",
+    "game-source",
+    "deckbuilder",
+    "public-domain"
+  ],
+  "platform": [
+    "windows",
+    "linux",
+    "macos"
+  ],
+  "license": {
+    "spdx": "CC0-1.0",
+    "scope": "permissive",
+    "scope_text": "Public domain. Use, change, redistribute; no notice needed.",
+    "url": "https://spdx.org/licenses/CC0-1.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "GDScript",
+  "source_urls": {
+    "canonical": "https://github.com/max99x/wutw-public",
+    "github": "https://github.com/max99x/wutw-public",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/max99x/wutw-public",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 188,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:01.716Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 18,
+    "star_delta_30d": 18,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      8,
+      10,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-14T15:56:09.000Z",
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 1,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:34:01.716Z",
+    "core_checked_at": "2026-09-15T19:34:01.716Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "17h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/wutw-public-1a587118b7.webp",
+    "cover": "https://tesign.com/img/wutw-public-1a587118b7.webp",
+    "cover_width": 1600,
+    "cover_height": 900,
+    "gallery": [
+      "https://tesign.com/img/wutw-public-1a587118b7.webp"
+    ],
+    "alt": "Worlds Upon The Wind gameplay: a woodblock-style map, six kanji cards along the bottom, a settlements list on the right.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:30.193Z",
+    "source_created_at": "2026-09-12T14:29:54.000Z",
+    "discovery_hours": 17.226720277777776,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:58.963Z",
+    "first_published_at": "2026-09-14T02:41:59.484Z",
+    "updated_at": "2026-09-15T04:36:57.056Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

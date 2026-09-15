@@ -1,0 +1,187 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "agency",
+  "url": "https://tesign.com/en/item/agency/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/agency/",
+      "json": "https://tesign.com/item/agency/index.json",
+      "markdown": "https://tesign.com/item/agency/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/agency/",
+      "json": "https://tesign.com/en/item/agency/index.json",
+      "markdown": "https://tesign.com/en/item/agency/index.md"
+    }
+  },
+  "name": "Agency",
+  "use_label": "Agent to-do cards for one person",
+  "one_liner": "Turns work a coding agent finds into cards you decide with one click.",
+  "text": {
+    "why": "Putting an agent to work usually starts with you finding and writing down what to do. Agency reverses that: the agent looks through repositories, support tickets and messages for useful work, prepares fixes, replies and ideas as cards, and you only decide to send, apply or merge. It runs locally on Node.js as a single-user app; its routes are unauthenticated, so the README insists it stays on localhost. No license is stated in the README.",
+    "take": "An attempt to take 'what should I ask it to do' off your plate, leaving only the decision.",
+    "build": [
+      "An internal queue that turns support tickets into ready PRs and replies",
+      "A review desk where outreach drafts arrive as cards for a yes or no",
+      "An approval policy file rewritten to your team's rules"
+    ],
+    "who": [
+      {
+        "role": "Solo founder",
+        "situation": "running support, dev and outreach alone"
+      },
+      {
+        "role": "Dev lead",
+        "situation": "too many small fixes to hand out one by one"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "git clone https://github.com/browser-use/agency.git"
+      },
+      {
+        "command": true,
+        "text": "cd agency"
+      },
+      {
+        "command": true,
+        "text": "npm ci"
+      },
+      {
+        "command": true,
+        "text": "npm run dev -- --hostname localhost --port 3100"
+      },
+      {
+        "command": false,
+        "text": "Needs Node.js 22.13+ · open http://localhost:3100 in the browser"
+      },
+      {
+        "command": false,
+        "text": "Unauthenticated single-user app: never expose via 0.0.0.0 or a tunnel"
+      }
+    ],
+    "caveat": [
+      "No license stated in the README",
+      "Unauthenticated routes: never expose it beyond localhost",
+      "The hero card is a fictional example, as the README notes"
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://github.com/browser-use/agency"
+  },
+  "ready": "self-host",
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "agents",
+    "workflow",
+    "local-first",
+    "browser-use"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/browser-use/agency?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://github.com/browser-use/agency",
+    "github": "https://github.com/browser-use/agency",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/browser-use/agency",
+        "posted_at": "2026-09-12T23:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 382,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:59.784Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 38,
+    "star_delta_30d": 38,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      10,
+      28,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-11T23:08:14.000Z",
+    "owner_type": "Organization",
+    "open_issues": 6,
+    "contributors": 1,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:33:59.784Z",
+    "core_checked_at": "2026-09-15T19:33:59.784Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/agency-e0363ae7b5.jpg",
+    "cover": "https://tesign.com/img/agency-e0363ae7b5.jpg",
+    "cover_width": 1774,
+    "cover_height": 887,
+    "gallery": [
+      "https://tesign.com/img/agency-e0363ae7b5.jpg"
+    ],
+    "alt": "An Agency card: 'I fixed one customer issue.', a download-button before/after, and a 'Merge PR and message customer' button.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:30.193Z",
+    "source_created_at": "2026-09-03T19:05:23.000Z",
+    "discovery_hours": 228.6353313888889,
+    "launch_signal_at": "2026-09-12T23:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:58.930Z",
+    "first_published_at": null,
+    "updated_at": "2026-09-15T04:36:56.783Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

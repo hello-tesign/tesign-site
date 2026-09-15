@@ -1,0 +1,193 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "poketokenbar",
+  "url": "https://tesign.com/en/item/poketokenbar/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/poketokenbar/",
+      "json": "https://tesign.com/item/poketokenbar/index.json",
+      "markdown": "https://tesign.com/item/poketokenbar/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/poketokenbar/",
+      "json": "https://tesign.com/en/item/poketokenbar/index.json",
+      "markdown": "https://tesign.com/en/item/poketokenbar/index.md"
+    }
+  },
+  "name": "PokeTokenBar",
+  "use_label": "Pokemon raised on your coding tokens",
+  "one_liner": "Mac menu bar app: your AI coding tokens hatch and evolve a Pokemon; tracks usage limits.",
+  "text": {
+    "why": "Token dashboards exist, but few people want to open them; PokeTokenBar reads the local logs of 13 tools (Claude Code, Codex, Gemini CLI, Cursor and more) and hatches and evolves a Pokemon as you spend. Species come from PokeAPI's Gen 1–5 evolution lines (329 possible starts), weighted by official capture rate, with a legendary a 1-in-129 hatch. Underneath sits a real usage tracker: today's tokens and cost, official 5-hour and weekly limits for Claude, Codex and Antigravity, reset countdowns and a burn-rate forecast.",
+    "take": "It shows that gamifying was the way to make people check their usage every day; just remember it is an unofficial fan project for personal, non-commercial use only.",
+    "build": [
+      "Tools that keep logs elsewhere can be attached through extra scan folders in Settings, and adding a new tool is one provider implementation plus registration (CONTRIBUTING.md), so wiring up your own tool is a feasible contribution. The floating desktop pet also works as a small always-visible usage widget."
+    ],
+    "who": [
+      {
+        "role": "Mac developers using AI coding tools daily",
+        "situation": "today's tokens, cost and 5-hour/weekly limits from the menu bar"
+      },
+      {
+        "role": "People mixing several tools",
+        "situation": "per-tool tabs with a combined daily total"
+      },
+      {
+        "role": "Users who keep hitting limits",
+        "situation": "reset countdowns, a burn-rate forecast and threshold alerts"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Requirements: macOS 14+ (Apple Silicon or Intel)"
+      },
+      {
+        "command": false,
+        "text": "brew install --cask chattymin/tap/poke-token-bar"
+      },
+      {
+        "command": false,
+        "text": "Or download PokeTokenBar.zip from the latest release, drag it into /Applications, and clear the Gatekeeper warning once via right-click → Open (or xattr -dr com.apple.quarantine /Applications/PokeTokenBar.app)"
+      }
+    ],
+    "caveat": [
+      "MIT covers only the project's original source code; Pokemon trademarks, artwork and data belong to their owners, and the app is an unofficial, non-commercial fan project for personal, non-commercial use only (not affiliated with Nintendo or The Pokemon Company).",
+      "macOS 14+ only. The app is ad-hoc self-signed (not notarized): the first launch warns on a manual zip install, while the Homebrew cask clears quarantine for you.",
+      "Not fully offline: it talks to twelve hosts (PokeAPI, GitHub sprites, api.anthropic.com, claude.ai, cursor.com, Google, status pages) but states it never sends usage logs, prompts or paths. Claude limits come via an unofficial endpoint; Codex via the local codex app-server."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://chattymin.github.io/PokeTokenBar"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "games"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "menu-bar",
+    "token-usage",
+    "claude-code",
+    "codex",
+    "pokemon",
+    "macos"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://chattymin.github.io/PokeTokenBar",
+    "github": "https://github.com/chattymin/poketokenbar",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/chattymin/PokeTokenBar",
+        "posted_at": "2026-07-16T15:48:35.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=48936171"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 433,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:34.741Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-13T15:10:46.579Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-14T03:23:45.000Z",
+    "owner_type": "User",
+    "open_issues": 42,
+    "contributors": 35,
+    "releases_count": 30,
+    "latest_release": {
+      "tag": "v2.5.4",
+      "published_at": "2026-09-12T14:23:56.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:34.741Z",
+    "core_checked_at": "2026-09-15T19:35:34.741Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/poketokenbar-962701a111.png",
+    "cover": "https://tesign.com/img/poketokenbar-962701a111.png",
+    "cover_width": 720,
+    "cover_height": 1134,
+    "gallery": [
+      "https://tesign.com/img/poketokenbar-962701a111.png",
+      "https://tesign.com/img/poketokenbar-5244a68f64.png",
+      "https://tesign.com/img/poketokenbar-ee24addeb8.png",
+      "https://tesign.com/img/poketokenbar-10e8fa410e.png"
+    ],
+    "alt": "PokeTokenBar popover home: the companion Pokemon sprite, today's token total, and official 5-hour and weekly limit percentages with reset countdowns",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T15:10:46.579Z",
+    "source_created_at": "2026-07-16T15:48:35.000Z",
+    "discovery_hours": 1415.3698830555556,
+    "launch_signal_at": "2026-07-16T15:48:35.000Z",
+    "kept_at": "2026-09-14T19:27:43.534Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.972Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

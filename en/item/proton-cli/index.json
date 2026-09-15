@@ -1,0 +1,203 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "proton-cli",
+  "url": "https://tesign.com/en/item/proton-cli/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/proton-cli/",
+      "json": "https://tesign.com/item/proton-cli/index.json",
+      "markdown": "https://tesign.com/item/proton-cli/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/proton-cli/",
+      "json": "https://tesign.com/en/item/proton-cli/index.json",
+      "markdown": "https://tesign.com/en/item/proton-cli/index.md"
+    }
+  },
+  "name": "proton-cli",
+  "use_label": "Proton services from the terminal",
+  "one_liner": "Runs Proton Mail, Drive, Calendar, Pass and Contacts from the terminal.",
+  "text": {
+    "why": "A Proton account can only be used through the browser or the apps, which keeps it out of scripts and cron. proton-cli puts Mail, Drive, Calendar, Pass and Contacts behind one binary, handling SRP login and PGP encryption on your machine with Proton's own libraries. Every listing comes out as JSON or YAML, and anything that changes state takes --dry-run. Linux, macOS and Windows under MIT; a community project unaffiliated with Proton AG, so mind Proton's terms yourself.",
+    "take": "No bridge, no proxy: the encryption happens on your machine, and that is the whole pitch.",
+    "build": [
+      "A cron job that pulls unread mail each morning for a summary",
+      "A release script that uploads reports to a Drive folder",
+      "An agent hooked to mail and calendar via proton skill"
+    ],
+    "who": [
+      {
+        "role": "Proton user",
+        "situation": "wants mail and files automated by script"
+      },
+      {
+        "role": "Terminal person",
+        "situation": "prefers the account without a browser"
+      },
+      {
+        "role": "Agent user",
+        "situation": "letting an agent read mail and calendar"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "curl -fsSL https://raw.githubusercontent.com/roman-16/proton-cli/main/scripts/install.sh | sh"
+      },
+      {
+        "command": true,
+        "text": "irm https://raw.githubusercontent.com/roman-16/proton-cli/main/scripts/install.ps1 | iex"
+      },
+      {
+        "command": false,
+        "text": "Also on Homebrew, winget, APT, AUR, Nix, npm and as signed binaries"
+      },
+      {
+        "command": true,
+        "text": "proton account login"
+      },
+      {
+        "command": true,
+        "text": "proton mail messages list --unread"
+      },
+      {
+        "command": false,
+        "text": "Every command reads proton <app> <collection> <verb> · proton-cli works too"
+      }
+    ],
+    "caveat": [
+      "Community project unaffiliated with Proton AG; mind Proton's terms",
+      "It handles your password and keys; read the Security doc first"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://proton-cli.lerchster.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "proton",
+    "cli",
+    "email",
+    "encryption"
+  ],
+  "platform": [
+    "linux",
+    "macos",
+    "windows",
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Go",
+  "source_urls": {
+    "canonical": "https://proton-cli.lerchster.dev/",
+    "github": "https://github.com/roman-16/proton-cli",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/roman-16/proton-cli",
+        "posted_at": "2026-09-13T12:42:42.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49683369"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 70,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:31.235Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 3,
+    "hn_points_observed_at": "2026-09-15T09:23:00.458Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T18:21:47.000Z",
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 1,
+    "releases_count": 57,
+    "latest_release": {
+      "tag": "v4.0.0",
+      "published_at": "2026-09-15T18:24:39.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:31.235Z",
+    "core_checked_at": "2026-09-15T19:34:31.235Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "0h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/proton-cli-b7a9bc1524.png",
+    "cover": "https://tesign.com/img/proton-cli-b7a9bc1524.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/proton-cli-b7a9bc1524.png"
+    ],
+    "alt": "GitHub social card for roman-16/proton-cli: name and 'Your CLI for Proton Mail…' description left, avatar right.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T12:59:26.645Z",
+    "source_created_at": "2026-09-13T12:42:42.000Z",
+    "discovery_hours": 0.2790680555555556,
+    "launch_signal_at": "2026-09-13T12:42:42.000Z",
+    "kept_at": "2026-09-14T02:41:59.155Z",
+    "first_published_at": null,
+    "updated_at": "2026-09-15T07:17:01.050Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

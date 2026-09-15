@@ -1,0 +1,200 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "bramble",
+  "url": "https://tesign.com/en/item/bramble/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/bramble/",
+      "json": "https://tesign.com/item/bramble/index.json",
+      "markdown": "https://tesign.com/item/bramble/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/bramble/",
+      "json": "https://tesign.com/en/item/bramble/index.json",
+      "markdown": "https://tesign.com/en/item/bramble/index.md"
+    }
+  },
+  "name": "Bramble",
+  "use_label": "Personal password vault, no account",
+  "one_liner": "Password manager with no account: devices sync peer-to-peer; extension, desktop, mobile",
+  "text": {
+    "why": "Cloud password managers keep everyone's vault on one server; Bramble keeps the vault on your own devices and syncs it directly between them, peer-to-peer and end-to-end encrypted. A single Rust core does all cryptography, compiled to WebAssembly in the browser and to a native library on iOS and Android, using Argon2id and AES-256-GCM. Passkeys are stored as ordinary vault entries, so they sync along with everything else.",
+    "take": "A password manager that says up front there is no forgot-password button; the recovery code and a second synced device are the safety net.",
+    "build": [
+      "You can point it at an S3-compatible bucket or your own WebDAV server for scheduled ciphertext-only backups, or import a KeePass KDBX4 database and get browser and mobile autofill on top. Modified redistributions must stay GPL-3.0."
+    ],
+    "who": [
+      {
+        "role": "People wary of cloud vaults",
+        "situation": "keep the vault on your devices and sync peer-to-peer"
+      },
+      {
+        "role": "KeePass users",
+        "situation": "import KDBX4 and gain browser and mobile autofill"
+      },
+      {
+        "role": "Self-hosters",
+        "situation": "scheduled encrypted backups to S3-compatible or WebDAV storage"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "# Browser: install Bramble from the Chrome Web Store or Firefox Add-ons"
+      },
+      {
+        "command": false,
+        "text": "brew install --cask bramble   # macOS desktop app (Linux: APT repository, AppImage, .deb/.rpm or Nix flake)"
+      },
+      {
+        "command": false,
+        "text": "# iOS: App Store / Android: APK from GitHub Releases"
+      },
+      {
+        "command": false,
+        "text": "# Store the recovery code shown at vault setup somewhere offline"
+      }
+    ],
+    "caveat": [
+      "Licence GPL-3.0. Free, no account, subscription or telemetry (donations only).",
+      "The Windows desktop app is unreleased pending code signing (the extension works on Windows). The desktop app lacks Touch ID, passkeys, KeePass export, auto-type into native apps and an SSH agent for now.",
+      "Lose the password, security key and recovery code and the vault is gone. Latest desktop release 0.8.0 as of 2026-09-15; 383 stars."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://bramble.sh/"
+  },
+  "ready": "install",
+  "categories": [
+    "security"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "password-manager",
+    "peer-to-peer",
+    "passkeys",
+    "local-first",
+    "browser-extension",
+    "rust"
+  ],
+  "platform": [
+    "web",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://bramble.sh/",
+    "github": "https://github.com/flythenimbus/bramble",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/flythenimbus/bramble",
+        "posted_at": "2026-07-02T19:29:58.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=48766242"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 387,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:35.782Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 153,
+    "hn_points_observed_at": "2026-09-13T15:33:24.151Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-12T03:24:52.000Z",
+    "owner_type": "User",
+    "open_issues": 19,
+    "contributors": 4,
+    "releases_count": 111,
+    "latest_release": {
+      "tag": "1.28.0-chromium",
+      "published_at": "2026-09-10T01:05:10.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:35.782Z",
+    "core_checked_at": "2026-09-15T19:35:35.782Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/bramble-10602fdc45.png",
+    "cover": "https://tesign.com/img/bramble-10602fdc45.png",
+    "cover_width": 1006,
+    "cover_height": 1102,
+    "gallery": [
+      "https://tesign.com/img/bramble-10602fdc45.png",
+      "https://tesign.com/img/bramble-0ee9e4ae33.png",
+      "https://tesign.com/img/bramble-b4135b7ac9.png",
+      "https://tesign.com/img/bramble-bdc910087d.png"
+    ],
+    "alt": "Bramble extension's Personal Vault list: 1,100 items with filters and search, showing GitHub and 1Password Business entries",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T15:33:24.151Z",
+    "source_created_at": "2026-07-02T19:29:58.000Z",
+    "discovery_hours": 1748.0572641666668,
+    "launch_signal_at": "2026-07-02T19:29:58.000Z",
+    "kept_at": "2026-09-14T19:27:43.429Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.810Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

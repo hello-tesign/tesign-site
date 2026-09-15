@@ -19,7 +19,37 @@ function bindSave(b,after){var s=attr(b,'data-save');function paint(){var on=sav
 paint();b.addEventListener('click',function(){var i=saved.indexOf(s);if(i>=0){saved.splice(i,1);track('unsave_item',{slug:s});}else{saved.push(s);track('save_item',{slug:s});}store(saved);paint();paintCounts();if(after)after();});}
 [].forEach.call(d.querySelectorAll('[data-save]'),function(b){bindSave(b);});paintCounts();
 async function copyText(b,text){var label=b.textContent;await navigator.clipboard.writeText(text);b.textContent=b.getAttribute('data-copied');setTimeout(function(){b.textContent=label;},1500);}
-[].forEach.call(d.querySelectorAll('[data-share]'),function(b){if(!navigator.share)b.textContent=b.getAttribute('data-copy-label');b.addEventListener('click',async function(){var url=b.getAttribute('data-url'),title=b.getAttribute('data-title'),slug=attr(b,'data-slug');try{if(navigator.share){await navigator.share({title:title,url:url});track('share_item',{slug:slug,method:'share'});}else{await copyText(b,url);track('share_item',{slug:slug,method:'copy'});}}catch(e){}});});
+/* §4-F: a share button carrying data-game reports game_share (method only) instead of share_item, and its copy fallback copies data-copy-text (the streak line + URL) when set */
+[].forEach.call(d.querySelectorAll('[data-share]'),function(b){if(!navigator.share)b.textContent=b.getAttribute('data-copy-label');b.addEventListener('click',async function(){var url=b.getAttribute('data-url'),title=b.getAttribute('data-title'),slug=attr(b,'data-slug'),game=attr(b,'data-game')==='1';function done(method){if(game)track('game_share',{method:method});else track('share_item',{slug:slug,method:method});}
+try{if(navigator.share){await navigator.share({title:title,url:url});done('share');}else{await copyText(b,attr(b,'data-copy-text')||url);done('copy');}}catch(e){}});});
+/* §4-F /game/ "어느 쪽 별이 더 많을까?": two random items from the JSON the build embedded (public items with a stored star total), one click reveals both totals
+   with their GitHub check time (+ the GH Archive part of the total when there is one), the streak / best / played counts live in localStorage tesign.game only; game_answer carries {correct} and nothing else.
+   UX-1: after a pick the verdict + next button scroll into view and take focus; a round that follows the next button scrolls the board to the top so both options show on a phone */
+var gm=d.querySelector('[data-game]');
+if(gm){var GAME_KEY='tesign.game',gpool=[];try{var gd=d.getElementById('game-data');gpool=JSON.parse((gd&&gd.textContent)||'[]');}catch(e){gpool=[];}
+gpool=(Array.isArray(gpool)?gpool:[]).filter(function(x){return x&&typeof x.slug==='string'&&typeof x.name==='string'&&typeof x.stars==='number';});
+function gload(){try{var v=JSON.parse(localStorage.getItem(GAME_KEY)||'{}')||{};return {streak:Number(v.streak)||0,best:Number(v.best)||0,played:Number(v.played)||0,correct:Number(v.correct)||0};}catch(e){return {streak:0,best:0,played:0,correct:0};}}
+function gstore(s){try{localStorage.setItem(GAME_KEY,JSON.stringify(s));}catch(e){}}
+function gtext(key,vars){var t=attr(gm,'data-'+key);for(var k in vars)t=t.split('{'+k+'}').join(String(vars[k]));return t;}
+function gfmt(n){return Number(n).toLocaleString('en-US');}
+function gtime(iso){return iso?iso.slice(5,10)+' '+iso.slice(11,16)+' UTC':'';}
+var gs=gload(),gcards=[].slice.call(gm.querySelectorAll('[data-game-card]')),gresult=gm.querySelector('[data-game-result]'),gnext=gm.querySelector('[data-game-next]'),gempty=gm.querySelector('[data-game-empty]'),gboard=gm.querySelector('[data-game-board]'),gshare=gm.querySelector('[data-share][data-game]'),gpair=null,ganswered=false;
+function gcounts(){var el;el=gm.querySelector('[data-game-streak]');if(el)el.textContent=gtext('streak',{n:gfmt(gs.streak)});el=gm.querySelector('[data-game-best]');if(el)el.textContent=gtext('best',{n:gfmt(gs.best)});el=gm.querySelector('[data-game-played]');if(el)el.textContent=gtext('played',{m:gfmt(gs.played),c:gfmt(gs.correct)});
+if(gshare){var line=gtext('share-text',{n:gfmt(gs.streak)});gshare.setAttribute('data-title',line);gshare.setAttribute('data-copy-text',line+' '+attr(gshare,'data-url'));}}
+function gpick(){if(gpool.length<2)return null;var a=gpool[Math.floor(Math.random()*gpool.length)],b=a,t=0;while((b===a||(b.stars===a.stars&&t<20))&&t<60){b=gpool[Math.floor(Math.random()*gpool.length)];t++;}return b===a?null:[a,b];}
+function gcard(i){return gcards[i]||null;}
+function gset(card,sel,text){var el=card.querySelector(sel);if(el)el.textContent=text;return el;}
+function ground(ev){gpair=gpick();ganswered=false;if(gresult){gresult.textContent='';gresult.className='game__result';}
+if(!gpair){if(gempty)gempty.hidden=false;if(gboard)gboard.hidden=true;if(gnext)gnext.hidden=true;return;}
+if(gempty)gempty.hidden=true;if(gboard)gboard.hidden=false;if(gnext)gnext.hidden=true;
+gpair.forEach(function(it,i){var card=gcard(i);if(!card)return;card.className='game__card';gset(card,'[data-game-name]',it.name);gset(card,'[data-game-cat]',it.category||'');var s=card.querySelector('[data-game-stars]');if(s){s.textContent='';s.hidden=true;}var c=card.querySelector('[data-game-checked]');if(c){c.textContent='';c.hidden=true;}var l=card.querySelector('[data-game-link]');if(l){l.setAttribute('href',it.href||'#');l.hidden=true;}var p=card.querySelector('[data-game-pick]');if(p){p.hidden=false;p.disabled=false;}});/* UX-1: a round that follows 다음 문제 starts with both options in view (the board to the top, focus on the first pick) — never on page load */if(ev&&gboard&&gboard.scrollIntoView)gboard.scrollIntoView({block:'start'});if(ev){var fp=gcards[0]&&gcards[0].querySelector('[data-game-pick]');if(fp&&fp.focus)fp.focus({preventScroll:true});}}
+function ganswer(i){if(ganswered||!gpair)return;ganswered=true;var a=gpair[0].stars,b=gpair[1].stars,win=a>b?0:b>a?1:-1,ok=win===-1||win===i;
+gs.played++;if(ok){gs.streak++;gs.correct++;if(gs.streak>gs.best)gs.best=gs.streak;}else gs.streak=0;gstore(gs);track('game_answer',{correct:ok});
+gpair.forEach(function(it,j){var card=gcard(j);if(!card)return;card.className='game__card '+(win===-1||win===j?'game__card--win':'game__card--lose');var s=card.querySelector('[data-game-stars]');if(s){s.textContent='★ '+gfmt(it.stars);s.hidden=false;}var c=card.querySelector('[data-game-checked]');if(c){c.textContent=(it.checkedAt?gtext('checked',{time:gtime(it.checkedAt)}):attr(gm,'data-unchecked'))+(it.checkedAt&&it.since>0?' · '+gtext('since',{n:gfmt(it.since)}):'');c.hidden=false;}var l=card.querySelector('[data-game-link]');if(l)l.hidden=false;var p=card.querySelector('[data-game-pick]');if(p){p.hidden=true;p.disabled=true;}});
+if(gresult){gresult.textContent=win===-1?attr(gm,'data-tie'):ok?attr(gm,'data-correct'):attr(gm,'data-wrong');gresult.className='game__result '+(ok?'game__result--ok':'game__result--no');}
+if(gnext){gnext.hidden=false;if(gnext.scrollIntoView)gnext.scrollIntoView({block:'nearest'});if(gnext.focus)gnext.focus({preventScroll:true});}gcounts();}
+gcards.forEach(function(card,i){var p=card.querySelector('[data-game-pick]');if(p)p.addEventListener('click',function(){ganswer(i);});});
+if(gnext)gnext.addEventListener('click',ground);gcounts();ground();}
 /* /saved/: the list is drawn here from the browser's saved slugs and the small per-language index the build writes (no server, no account) */
 var sv=d.querySelector('[data-saved-list]');
 if(sv){var svEmpty=d.querySelector('[data-saved-empty]'),svError=d.querySelector('[data-saved-error]'),svIndex;

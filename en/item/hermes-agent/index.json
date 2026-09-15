@@ -1,0 +1,217 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "hermes-agent",
+  "url": "https://tesign.com/en/item/hermes-agent/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/hermes-agent/",
+      "json": "https://tesign.com/item/hermes-agent/index.json",
+      "markdown": "https://tesign.com/item/hermes-agent/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/hermes-agent/",
+      "json": "https://tesign.com/en/item/hermes-agent/index.json",
+      "markdown": "https://tesign.com/en/item/hermes-agent/index.md"
+    }
+  },
+  "name": "Hermes Agent",
+  "use_label": "Self-improving personal agent",
+  "one_liner": "Runs an agent meant to grow with the person using it.",
+  "text": {
+    "why": "Every switch to another agent means rebuilding settings and context from scratch. hermes-agent is published under the Nous Research account around the idea of an agent that grows with the person using it. It is written in Python under the MIT license and has its own documentation site. The repository description is a single line, so the actual behaviour has to be read from the docs.",
+    "take": "What sets it apart: one agent in both terminal and messenger, with memory that carries across sessions.",
+    "build": [
+      "An always-on personal agent for everyday work",
+      "An agent skeleton taken under MIT and reshaped for your own use"
+    ],
+    "who": [
+      {
+        "role": "Solo business",
+        "situation": "sends instructions from Telegram while a server works"
+      },
+      {
+        "role": "Developer",
+        "situation": "keeps an always-on agent that builds its own skills"
+      },
+      {
+        "role": "Automation owner",
+        "situation": "schedules daily reports and backups in plain language"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Linux, macOS, WSL2, Termux:"
+      },
+      {
+        "command": true,
+        "text": "curl -fsSL https://hermes-agent.nousresearch.com/install.sh | bash"
+      },
+      {
+        "command": false,
+        "text": "Windows (PowerShell):"
+      },
+      {
+        "command": true,
+        "text": "iex (irm https://hermes-agent.nousresearch.com/install.ps1)"
+      },
+      {
+        "command": true,
+        "text": "source ~/.bashrc"
+      },
+      {
+        "command": true,
+        "text": "hermes"
+      }
+    ],
+    "caveat": [
+      "Installs via curl | bash; read the script before running it",
+      "You connect a model provider yourself (API key or a Nous Portal subscription)",
+      "The README warns that antivirus on Windows may flag uv.exe as a false positive"
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://hermes-agent.nousresearch.com/"
+  },
+  "ready": null,
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "agents",
+    "assistant",
+    "python"
+  ],
+  "platform": [
+    "linux",
+    "macos",
+    "windows",
+    "android",
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://hermes-agent.nousresearch.com/",
+    "github": "https://github.com/nousresearch/hermes-agent",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/nousresearch/hermes-agent",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 245825,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:05.586Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 27,
+    "star_delta_7d": 323,
+    "star_delta_30d": 1077,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      2,
+      6,
+      198,
+      241,
+      254,
+      35,
+      null,
+      7,
+      19,
+      135,
+      93,
+      40,
+      10,
+      19
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": 2,
+    "rising": {
+      "24h": null,
+      "7d": 18,
+      "30d": 10
+    },
+    "categories": [
+      {
+        "category": "ai",
+        "label": "AI",
+        "rank": 2
+      },
+      {
+        "category": "productivity",
+        "label": "PRODUCTIVITY",
+        "rank": 1
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T19:33:37.000Z",
+    "owner_type": "Organization",
+    "open_issues": 43442,
+    "contributors": 3552,
+    "releases_count": 34,
+    "latest_release": {
+      "tag": "v2026.9.14",
+      "published_at": "2026-09-14T16:04:14.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:05.586Z",
+    "core_checked_at": "2026-09-15T19:34:05.586Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/hermes-agent-7e8d193742.png",
+    "cover": "https://tesign.com/img/hermes-agent-7e8d193742.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/hermes-agent-7e8d193742.png"
+    ],
+    "alt": "Hermes Agent landing: blue background, the headline 'The agent that grows with you' and an engraving-style winged figure.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:34.171Z",
+    "source_created_at": "2025-07-22T22:22:28.000Z",
+    "discovery_hours": 10017.351714166667,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.574Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T04:36:56.882Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

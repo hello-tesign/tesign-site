@@ -1,0 +1,232 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "colibri",
+  "url": "https://tesign.com/en/item/colibri/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/colibri/",
+      "json": "https://tesign.com/item/colibri/index.json",
+      "markdown": "https://tesign.com/item/colibri/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/colibri/",
+      "json": "https://tesign.com/en/item/colibri/index.json",
+      "markdown": "https://tesign.com/en/item/colibri/index.md"
+    }
+  },
+  "name": "colibri",
+  "use_label": "Run huge MoE models on your own PC",
+  "one_liner": "Runs frontier MoE models on hardware you already own.",
+  "text": {
+    "why": "Large MoE models rarely fit in memory, and the usual answer is to buy different hardware. colibri streams expert weights from disk as they are needed, so the model runs on hardware you already own. It is written in pure C with no dependencies and published under Apache-2.0. Which models are supported has to be checked in the repository itself.",
+    "take": "Lets you test on your own hardware whether placing a huge model across disk, RAM and VRAM actually works.",
+    "build": [
+      "An in-house local-model test bench on a single server",
+      "An inference binary built with no dependencies and shipped in a product",
+      "A comparison run before deciding on new hardware"
+    ],
+    "who": [
+      {
+        "role": "ML engineer",
+        "situation": "measures local inference limits before buying hardware"
+      },
+      {
+        "role": "Infra owner",
+        "situation": "trials a large model on one in-house server"
+      },
+      {
+        "role": "Systems developer",
+        "situation": "wants pure-C inference code to read and change"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Get a Linux/macOS/Windows build from Releases (Python 3 needed) or build:"
+      },
+      {
+        "command": true,
+        "text": "git clone https://github.com/JustVugg/colibri && cd colibri/c"
+      },
+      {
+        "command": true,
+        "text": "./setup.sh"
+      },
+      {
+        "command": false,
+        "text": "Download a model (GLM-5.2 int4, about 372 GB) from Hugging Face, then:"
+      },
+      {
+        "command": true,
+        "text": "COLI_MODEL=/nvme/glm52_i4 ./coli chat"
+      },
+      {
+        "command": true,
+        "text": "./coli web  --model /nvme/glm52_i4"
+      }
+    ],
+    "caveat": [
+      "The reference model GLM-5.2 needs 372 GB of disk and 16 GB+ of RAM",
+      "Speed depends on the disk; a slow drive can mean under one token per second",
+      "A research engine that explicitly promises no SLA on speed"
+    ]
+  },
+  "cta": {
+    "type": "run",
+    "label": "RUN",
+    "url": "https://justvugg.github.io/colibri"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "infra"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "local-models",
+    "inference",
+    "c"
+  ],
+  "platform": [
+    "linux",
+    "macos",
+    "windows",
+    "cli"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "C",
+  "source_urls": {
+    "canonical": "https://justvugg.github.io/colibri",
+    "github": "https://github.com/justvugg/colibri",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/JustVugg/colibri",
+        "posted_at": "2026-07-09T08:05:04.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=48842459"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/justvugg/colibri",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 33542,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:45.880Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 180,
+    "star_delta_7d": 696,
+    "star_delta_30d": 743,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      7,
+      7,
+      33,
+      null,
+      null,
+      null,
+      23,
+      63,
+      216,
+      193,
+      67,
+      134
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 937,
+    "hn_points_observed_at": "2026-09-13T15:23:24.971Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": 188,
+    "rising": {
+      "24h": null,
+      "7d": 7,
+      "30d": 15
+    },
+    "categories": [
+      {
+        "category": "infra",
+        "label": "INFRA",
+        "rank": 10
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T19:28:15.000Z",
+    "owner_type": "User",
+    "open_issues": 117,
+    "contributors": 150,
+    "releases_count": 17,
+    "latest_release": {
+      "tag": "v1.11.0",
+      "published_at": "2026-09-13T13:44:10.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:33:45.880Z",
+    "core_checked_at": "2026-09-15T19:33:45.880Z"
+  },
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "Show HN + GitHub"
+    },
+    {
+      "kind": "rising",
+      "label": "RISING",
+      "value": "+180 ★ / 24h"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/colibri-cb1362e93a.png",
+    "cover": "https://tesign.com/img/colibri-cb1362e93a.png",
+    "cover_width": 3200,
+    "cover_height": 1900,
+    "gallery": [
+      "https://tesign.com/img/colibri-cb1362e93a.png",
+      "https://tesign.com/img/colibri-e184ef5302.png",
+      "https://tesign.com/img/colibri-24b20b763b.png",
+      "https://tesign.com/img/colibri-1e4c9472a0.png"
+    ],
+    "alt": "colibrì web dashboard: hardware and VRAM/RAM/disk tiers at left, a chat with a 744B model in the centre, tok/s metrics on top.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:22.965Z",
+    "source_created_at": "2026-07-01T12:27:49.000Z",
+    "discovery_hours": 1771.2594347222223,
+    "launch_signal_at": "2026-07-09T08:05:04.000Z",
+    "kept_at": "2026-09-13T11:32:21.493Z",
+    "first_published_at": "2026-09-13T11:32:21.801Z",
+    "updated_at": "2026-09-15T04:36:56.824Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

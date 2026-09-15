@@ -1,0 +1,191 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "design-studio-ai",
+  "url": "https://tesign.com/en/item/design-studio-ai/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/design-studio-ai/",
+      "json": "https://tesign.com/item/design-studio-ai/index.json",
+      "markdown": "https://tesign.com/item/design-studio-ai/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/design-studio-ai/",
+      "json": "https://tesign.com/en/item/design-studio-ai/index.json",
+      "markdown": "https://tesign.com/en/item/design-studio-ai/index.md"
+    }
+  },
+  "name": "Design Studio AI",
+  "use_label": "Design workspace for people and agents",
+  "one_liner": "Lets people and agents edit the same web, slide, 3D and video designs.",
+  "text": {
+    "why": "Ask an agent for a design and the result stays stuck in the chat, hard for a person to refine. Design Studio AI keeps web layouts, slides, reports, wireframes, 3D scenes and timeline videos in one versioned document that people and agents edit in turn, by chat or a manual editor. Agents connect over REST, MCP and a CLI, exports include HTML, PDF, PowerPoint and GLB, and generation uses outside providers with your own keys. Hosted studio or Docker self-host; MIT.",
+    "take": "It aims at a document people also edit, not a chat output — that is the difference.",
+    "build": [
+      "A proposal-deck flow where the agent drafts and a designer finishes",
+      "An internal workspace tying screen mock-ups to one design system",
+      "A small-studio pipeline keeping video and 3D scenes in the same document"
+    ],
+    "who": [
+      {
+        "role": "Solo designer",
+        "situation": "wants agent drafts they can finish by hand"
+      },
+      {
+        "role": "Agent builder",
+        "situation": "needs an MCP or CLI path in and out of designs"
+      },
+      {
+        "role": "Small team",
+        "situation": "keeping slide, screen and video mock-ups in one place"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Hosted: start right away at studio.agentkit.best (nothing to install)"
+      },
+      {
+        "command": false,
+        "text": "Self-host: set ENCRYPTION_KEY and APP_URL first (Node.js 24+ or Docker)"
+      },
+      {
+        "command": true,
+        "text": "docker compose up --build -d"
+      },
+      {
+        "command": false,
+        "text": "The container binds to 0.0.0.0:8787 · use an HTTPS proxy if internet-facing"
+      }
+    ],
+    "caveat": [
+      "Generation needs your own API keys and provider accounts",
+      "Google Slides export and similar were not live-verified, per the README",
+      "The CLI is not on npm; install from the release tarball"
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://studio.agentkit.best/"
+  },
+  "ready": "browser",
+  "categories": [
+    "design",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "design",
+    "agents",
+    "mcp",
+    "self-host"
+  ],
+  "platform": [
+    "web",
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://studio.agentkit.best/",
+    "github": "https://github.com/bestagentkits/design-studio-ai",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/bestagentkits/design-studio-ai",
+        "posted_at": "2026-09-13T04:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 131,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:27.365Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 18,
+    "star_delta_30d": 18,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      18,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-14T06:52:31.000Z",
+    "owner_type": "Organization",
+    "open_issues": 12,
+    "contributors": 1,
+    "releases_count": 8,
+    "latest_release": {
+      "tag": "v0.4.3",
+      "published_at": "2026-09-12T22:19:09.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:27.365Z",
+    "core_checked_at": "2026-09-15T19:34:27.365Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/design-studio-ai-c602c052ed.webp",
+    "cover": "https://tesign.com/img/design-studio-ai-c602c052ed.webp",
+    "cover_width": 1836,
+    "cover_height": 1135,
+    "gallery": [
+      "https://tesign.com/img/design-studio-ai-c602c052ed.webp",
+      "https://tesign.com/img/design-studio-ai-e16242bcc1.webp",
+      "https://tesign.com/img/design-studio-ai-df399aceeb.webp",
+      "https://tesign.com/img/design-studio-ai-ad5d9810a9.webp"
+    ],
+    "alt": "Design Studio AI workspace: a 'What should we create?' prompt box in the centre, six starter templates below.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T10:29:59.976Z",
+    "source_created_at": "2026-09-07T15:51:21.000Z",
+    "discovery_hours": 138.64416,
+    "launch_signal_at": "2026-09-13T04:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:59.126Z",
+    "first_published_at": "2026-09-14T02:41:59.484Z",
+    "updated_at": "2026-09-15T04:36:56.839Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

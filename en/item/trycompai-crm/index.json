@@ -1,0 +1,214 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "trycompai-crm",
+  "url": "https://tesign.com/en/item/trycompai-crm/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/trycompai-crm/",
+      "json": "https://tesign.com/item/trycompai-crm/index.json",
+      "markdown": "https://tesign.com/item/trycompai-crm/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/trycompai-crm/",
+      "json": "https://tesign.com/en/item/trycompai-crm/index.json",
+      "markdown": "https://tesign.com/en/item/trycompai-crm/index.md"
+    }
+  },
+  "name": "Comp AI CRM",
+  "use_label": "CRM where the agent keeps the notes",
+  "one_liner": "CRM whose agent researches contacts on its own schedule and never writes a guess as fact.",
+  "text": {
+    "why": "Most CRMs are a database with a form in front; the AI ones bolt a chat box onto it. Comp AI CRM inverts that: the agent is its own deployment running its own schedule and work queue (rows leased with `FOR UPDATE SKIP LOCKED`), deciding what to look at next within a research budget and booking its own rechecks. Its 18 tools accept no confidence scores and report only what they observed; strong evidence writes to the record, weak evidence becomes a suggestion a human settles. With no API keys at all it still works by reading your own threads, meetings and signature blocks.",
+    "take": "Few CRMs enforce 'leave it blank if unsure' in the tool design itself; the principle is that a blank beats a confident error.",
+    "build": [
+      "Stand it up as a one-person CRM with Google or Microsoft sign-in and PostgreSQL (`ALLOWED_SIGN_IN` set to your own address), and because tools and skills are files, add research rules for your industry as markdown."
+    ],
+    "who": [
+      {
+        "role": "Small B2B sales teams",
+        "situation": "contact and company records that fill themselves from mail and meetings"
+      },
+      {
+        "role": "Developers building agent products",
+        "situation": "a reference implementation of eve tools, skills, schedules and sandboxes"
+      },
+      {
+        "role": "Operators who care about data accuracy",
+        "situation": "weak evidence separated into suggestions a human settles"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "git clone https://github.com/trycompai/crm.git && cd crm"
+      },
+      {
+        "command": false,
+        "text": "cp .env.example .env          # then fill in BETTER_AUTH_SECRET, ALLOWED_SIGN_IN, Google or Microsoft OAuth"
+      },
+      {
+        "command": false,
+        "text": "bun install && docker compose up -d          # Postgres on :5432"
+      },
+      {
+        "command": false,
+        "text": "bun run db:deploy && bun run db:seed        # apply migrations + optional demo pipeline"
+      },
+      {
+        "command": false,
+        "text": "bun run dev   # app on localhost:3000, API on localhost:3001"
+      }
+    ],
+    "caveat": [
+      "MIT licence. Needs Bun and Docker, and one of Google or Microsoft OAuth (or your own IdP) before anyone can sign in. Production is three deployments — app, API, agent — plus PostgreSQL, and the stack is written around Vercel (AI Gateway, Sandbox, Blob), Neon and Upstash; running elsewhere is [확인 필요]. Company brand data and LinkedIn lookups need a Context key and web research a Perplexity key, all optional. Single-tenant by design; telemetry is switched off with `CRM_TELEMETRY_DISABLED=1`."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://trycrm.ai/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "commerce",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "crm",
+    "ai-agent",
+    "sales",
+    "typescript",
+    "bun",
+    "self-hosted"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://trycrm.ai/",
+    "github": "https://github.com/trycompai/crm",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/trycompai/crm",
+        "posted_at": "2026-08-07T16:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 10450,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:46.136Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 4,
+    "star_delta_7d": 28,
+    "star_delta_30d": 147,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      2,
+      null,
+      36,
+      49,
+      32,
+      null,
+      null,
+      null,
+      null,
+      11,
+      7,
+      6,
+      null,
+      4
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "commerce",
+        "label": "COMMERCE",
+        "rank": 2
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-11T07:06:17.000Z",
+    "owner_type": "Organization",
+    "open_issues": 40,
+    "contributors": 6,
+    "releases_count": 22,
+    "latest_release": {
+      "tag": "v1.15.3",
+      "published_at": "2026-08-21T14:24:51.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:46.136Z",
+    "core_checked_at": "2026-09-15T19:34:46.136Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/trycompai-crm-b7a8054d4e.png",
+    "cover": "https://tesign.com/img/trycompai-crm-b7a8054d4e.png",
+    "cover_width": 2368,
+    "cover_height": 1384,
+    "gallery": [
+      "https://tesign.com/img/trycompai-crm-b7a8054d4e.png",
+      "https://tesign.com/img/trycompai-crm-05c73f48f8.png",
+      "https://tesign.com/img/trycompai-crm-d27bf000d3.png",
+      "https://tesign.com/img/trycompai-crm-d9ad52f1d3.png"
+    ],
+    "alt": "Comp AI CRM: the companies list with an account open on its Agent tab",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:14:17.718Z",
+    "source_created_at": "2026-07-31T21:38:51.000Z",
+    "discovery_hours": 1043.590755,
+    "launch_signal_at": "2026-08-07T16:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.584Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:57.040Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

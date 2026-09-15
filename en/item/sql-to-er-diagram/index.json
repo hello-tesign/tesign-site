@@ -1,0 +1,192 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "sql-to-er-diagram",
+  "url": "https://tesign.com/en/item/sql-to-er-diagram/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/sql-to-er-diagram/",
+      "json": "https://tesign.com/item/sql-to-er-diagram/index.json",
+      "markdown": "https://tesign.com/item/sql-to-er-diagram/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/sql-to-er-diagram/",
+      "json": "https://tesign.com/en/item/sql-to-er-diagram/index.json",
+      "markdown": "https://tesign.com/en/item/sql-to-er-diagram/index.md"
+    }
+  },
+  "name": "SQL to ER Diagram",
+  "use_label": "SQL schema to ER diagram, in-browser",
+  "one_liner": "Paste CREATE TABLE DDL, get an interactive ER diagram drawn entirely in your browser",
+  "text": {
+    "why": "There is no server, so the schema never leaves the machine, and a share link carries the whole project (SQL, layout, camera, dialect) gzip+base64-encoded in the URL hash. The canvas renderer (cached bitmaps plus viewport culling) was benchmarked at ~120 fps zooming 300 tables and 593 FKs, and double-clicking a table or column name on the canvas writes the change back into the SQL text with comments and formatting preserved. Two dependencies, 32 KB gzip bundle.",
+    "take": "The design point: the SQL file stays the source of truth, and the diagram is a two-way editor for it.",
+    "build": [
+      "dist/ is plain static files, so it can sit on an internal wiki or GitHub Pages as the team's schema page; MIT means you can fork it and add your own SQL dialect parser."
+    ],
+    "who": [
+      {
+        "role": "Backend developers",
+        "situation": "paste a migration file and check the relationships"
+      },
+      {
+        "role": "Data analysts",
+        "situation": "visualize CTE dependencies of a BigQuery WITH query"
+      },
+      {
+        "role": "Team leads",
+        "situation": "share a schema review as one link, no accounts"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "npm install"
+      },
+      {
+        "command": false,
+        "text": "npm run dev      # http://localhost:5173"
+      },
+      {
+        "command": false,
+        "text": "npm run build    # outputs static files to dist/"
+      },
+      {
+        "command": false,
+        "text": "npm run preview  # preview the production build locally"
+      },
+      {
+        "command": false,
+        "text": "No install: https://sqltoerdiagram.com"
+      }
+    ],
+    "caveat": [
+      "MIT. Browser-only app. Per the README the parser covers PostgreSQL, MySQL, SQLite, SQL Server and Snowflake plus a BigQuery mode (the live site also lists Oracle, MariaDB, Prisma, DBML and others, which the README does not). Parsing centres on CREATE/ALTER TABLE with PK, FK and UNIQUE constraints; views, indexes and triggers are not in the supported list. Last push 2026-07-17."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://sqltoerdiagram.com./"
+  },
+  "ready": "browser",
+  "categories": [
+    "data",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "erd",
+    "sql",
+    "database",
+    "diagram",
+    "canvas",
+    "static-site"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "HTML",
+  "source_urls": {
+    "canonical": "https://sqltoerdiagram.com./",
+    "github": "https://github.com/royalbhati/sqltoerdiagram",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/royalbhati/sqltoerdiagram",
+        "posted_at": "2026-06-14T06:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 618,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:33.185Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": 2,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-07-17T16:17:09.000Z",
+    "owner_type": "User",
+    "open_issues": 1,
+    "contributors": 2,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:34:33.185Z",
+    "core_checked_at": "2026-09-15T19:34:33.185Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/sql-to-er-diagram-ee5a44a02c.png",
+    "cover": "https://tesign.com/img/sql-to-er-diagram-ee5a44a02c.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/sql-to-er-diagram-ee5a44a02c.png"
+    ],
+    "alt": "The SQL editor panel beside an ER diagram canvas where table boxes are joined by foreign-key lines",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:17:48.734Z",
+    "source_created_at": "2026-06-14T04:12:26.000Z",
+    "discovery_hours": 2188.089648333333,
+    "launch_signal_at": "2026-06-14T06:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.498Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:57.018Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

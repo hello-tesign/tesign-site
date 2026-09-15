@@ -1,0 +1,195 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "ecc",
+  "url": "https://tesign.com/en/item/ecc/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/ecc/",
+      "json": "https://tesign.com/item/ecc/index.json",
+      "markdown": "https://tesign.com/item/ecc/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/ecc/",
+      "json": "https://tesign.com/en/item/ecc/index.json",
+      "markdown": "https://tesign.com/en/item/ecc/index.md"
+    }
+  },
+  "name": "ecc",
+  "use_label": "Skills, memory and security for agents",
+  "one_liner": "Adds skills, memory and security rules to a coding agent harness.",
+  "text": {
+    "why": "Agent configuration tends to accumulate as a few skills here and a few rules there. ecc gathers skills, instincts, memory, security and research-first development into one harness setup and applies it the same way across Claude Code, Codex, Opencode and Cursor. It is written in JavaScript, published under MIT, and has a separate documentation site.",
+    "take": "A large bundle of skills, memory and security rules, so pick a profile rather than switching everything on.",
+    "build": [
+      "One shared baseline agent configuration for the team",
+      "A personal rule set that moves intact when you change tools"
+    ],
+    "who": [
+      {
+        "role": "Team lead",
+        "situation": "gives the whole team one baseline agent setup"
+      },
+      {
+        "role": "Developer",
+        "situation": "wants the same rules across Claude Code and Codex"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Needs Node.js 18+, Git and Claude Code 2.1+"
+      },
+      {
+        "command": true,
+        "text": "npx ecc-universal@2.2.1 setup"
+      },
+      {
+        "command": false,
+        "text": "Or, in the Claude Code prompt:"
+      },
+      {
+        "command": false,
+        "text": "/plugin marketplace add https://github.com/affaan-m/ECC"
+      },
+      {
+        "command": false,
+        "text": "/plugin install ecc@ecc"
+      },
+      {
+        "command": false,
+        "text": "Do not stack two install methods in one harness"
+      }
+    ],
+    "caveat": [
+      "Stacking two install methods in one harness duplicates skills and hooks",
+      "Native Windows is supported with open defects in some optional features",
+      "Hooks inject context each session (8,000 chars by default), raising token use"
+    ]
+  },
+  "cta": {
+    "type": "use_package",
+    "label": "USE PACKAGE",
+    "url": "https://ecc.tools/"
+  },
+  "ready": "developer",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "agents",
+    "harness",
+    "mcp"
+  ],
+  "platform": [
+    "windows",
+    "macos",
+    "linux",
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://ecc.tools/",
+    "github": "https://github.com/affaan-m/ecc",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/affaan-m/ecc",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 259132,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:38.847Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 82,
+    "star_delta_7d": 677,
+    "star_delta_30d": 2465,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      28,
+      406,
+      579,
+      656,
+      110,
+      13,
+      38,
+      55,
+      211,
+      164,
+      116,
+      20,
+      67
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:33:00.000Z",
+    "owner_type": "User",
+    "open_issues": 211,
+    "contributors": 359,
+    "releases_count": 17,
+    "latest_release": {
+      "tag": "v2.2.1",
+      "published_at": "2026-09-08T17:52:08.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:33:38.847Z",
+    "core_checked_at": "2026-09-15T19:33:38.847Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/ecc-9ff6213e45.png",
+    "cover": "https://tesign.com/img/ecc-9ff6213e45.png",
+    "cover_width": 2400,
+    "cover_height": 1350,
+    "gallery": [
+      "https://tesign.com/img/ecc-9ff6213e45.png",
+      "https://tesign.com/img/ecc-bc001553f3.png",
+      "https://tesign.com/img/ecc-c063790e53.png",
+      "https://tesign.com/img/ecc-7d8379daa8.png"
+    ],
+    "alt": "ECC README banner: headline 'The operating system for AI agent harnesses', harness chips, and skill, agent and command lists.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:22.965Z",
+    "source_created_at": "2026-01-18T00:51:51.000Z",
+    "discovery_hours": 5718.858879166667,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.588Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T07:17:01.042Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

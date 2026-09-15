@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /radar/
 Disallow: /404.html
+Disallow: /data/
 Allow: /
 
 User-agent: GPTBot

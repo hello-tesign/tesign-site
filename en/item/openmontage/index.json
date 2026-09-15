@@ -1,0 +1,206 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "openmontage",
+  "url": "https://tesign.com/en/item/openmontage/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/openmontage/",
+      "json": "https://tesign.com/item/openmontage/index.json",
+      "markdown": "https://tesign.com/item/openmontage/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/openmontage/",
+      "json": "https://tesign.com/en/item/openmontage/index.json",
+      "markdown": "https://tesign.com/en/item/openmontage/index.md"
+    }
+  },
+  "name": "OpenMontage",
+  "use_label": "Video production via your coding agent",
+  "one_liner": "Turns a coding assistant into a full video production pipeline.",
+  "text": {
+    "why": "One video pulls in a different tool for planning, subtitles, dubbing and editing. openmontage moves that chain into skills and pipelines a coding assistant can drive from one place. The repository lists 12 production pipelines, over 100 tools and more than 700 skill and production-knowledge files. It is written in Python and published under AGPL-3.0, so the terms depend on how you use it.",
+    "take": "An experiment in handing a whole video pipeline to a coding agent, notable for a free path that needs no keys.",
+    "build": [
+      "An in-house line that drafts product videos automatically",
+      "A multilingual release flow that finishes subtitles and dubbing",
+      "A repeatable production run for social clips"
+    ],
+    "who": [
+      {
+        "role": "Marketer",
+        "situation": "drafts a product explainer video quickly"
+      },
+      {
+        "role": "Solo creator",
+        "situation": "makes script, narration and captions in one pass"
+      },
+      {
+        "role": "Developer",
+        "situation": "experiments with video automation from a coding agent"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Needs Python 3.10+, FFmpeg, Node.js 18+ and an AI coding assistant"
+      },
+      {
+        "command": true,
+        "text": "git clone https://github.com/calesthio/OpenMontage.git"
+      },
+      {
+        "command": true,
+        "text": "cd OpenMontage"
+      },
+      {
+        "command": true,
+        "text": "make setup"
+      },
+      {
+        "command": false,
+        "text": "Open the project in your coding assistant and describe the video"
+      }
+    ],
+    "caveat": [
+      "AGPL-3.0: check the terms before offering a modified version as a service",
+      "Image and video providers add per-video cost (README examples: $0.15 to $3)",
+      "It cannot run without an assistant such as Claude Code, Cursor or Codex"
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://openmontage.video/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "media",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "video",
+    "agents",
+    "self-host"
+  ],
+  "platform": [
+    "macos",
+    "linux",
+    "windows"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Release source if you redistribute or host it as a service.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://openmontage.video/",
+    "github": "https://github.com/calesthio/openmontage",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/calesthio/openmontage",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 59290,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:14.133Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 32,
+    "star_delta_7d": 349,
+    "star_delta_30d": 519,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      2,
+      null,
+      58,
+      37,
+      59,
+      10,
+      null,
+      2,
+      15,
+      80,
+      154,
+      66,
+      9,
+      23
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": 111,
+    "rising": {
+      "24h": null,
+      "7d": 14,
+      "30d": 27
+    },
+    "categories": [
+      {
+        "category": "media",
+        "label": "MEDIA",
+        "rank": 2
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-06T05:02:34.000Z",
+    "owner_type": "User",
+    "open_issues": 322,
+    "contributors": 52,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:34:14.133Z",
+    "core_checked_at": "2026-09-15T19:34:14.133Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/openmontage-cec04edc34.png",
+    "cover": "https://tesign.com/img/openmontage-cec04edc34.png",
+    "cover_width": 1560,
+    "cover_height": 1150,
+    "gallery": [
+      "https://tesign.com/img/openmontage-cec04edc34.png",
+      "https://tesign.com/img/openmontage-4129b76145.png",
+      "https://tesign.com/img/openmontage-9b6b0c1d6f.png",
+      "https://tesign.com/img/openmontage-52112728b9.png"
+    ],
+    "alt": "OpenMontage's Backlot board: a stage progress bar, an approved script page, a decision log and a four-scene storyboard.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:38.190Z",
+    "source_created_at": "2026-03-29T15:23:22.000Z",
+    "discovery_hours": 4024.3378305555557,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.561Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T04:36:56.939Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "deskcommcrm",
+  "url": "https://tesign.com/en/item/deskcommcrm/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/deskcommcrm/",
+      "json": "https://tesign.com/item/deskcommcrm/index.json",
+      "markdown": "https://tesign.com/item/deskcommcrm/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/deskcommcrm/",
+      "json": "https://tesign.com/en/item/deskcommcrm/index.json",
+      "markdown": "https://tesign.com/en/item/deskcommcrm/index.md"
+    }
+  },
+  "name": "DeskComm CRM",
+  "use_label": "CRM for businesses that sell by chat",
+  "one_liner": "Runs a self-hosted CRM with built-in AI agents and WhatsApp chat.",
+  "text": {
+    "why": "Where orders arrive by chat, conversation history and customer records end up split between a messenger and a spreadsheet. deskcommcrm keeps a CRM, native AI agents and WhatsApp in one self-hosted package. It is multi-tenant, MCP-ready, written in TypeScript and published under MIT. The homepage domain and its LGPD note place it in the Brazilian market.",
+    "take": "A CRM for businesses selling by chat; the installer covers domain, database and keys, but you run the server.",
+    "build": [
+      "An internal CRM that takes chat orders and keeps the customer record",
+      "Chat support automation that handles first contact and hands over"
+    ],
+    "who": [
+      {
+        "role": "Online seller",
+        "situation": "logs WhatsApp enquiries and orders in one place"
+      },
+      {
+        "role": "Small sales team",
+        "situation": "lets AI handle first contact and keeps the record"
+      },
+      {
+        "role": "Brazilian business",
+        "situation": "needs a self-hosted CRM built around LGPD"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Prepare a Docker-capable VPS (4 GB RAM advised), a domain, a Supabase account and an LLM key"
+      },
+      {
+        "command": true,
+        "text": "ssh -p PORTA root@SEU_IP"
+      },
+      {
+        "command": true,
+        "text": "git clone https://github.com/melgarafael/DeskcommCRM.git"
+      },
+      {
+        "command": true,
+        "text": "cd DeskcommCRM"
+      },
+      {
+        "command": true,
+        "text": "bash hostgator-setup-kit/install.sh"
+      },
+      {
+        "command": false,
+        "text": "Then open https://<your-domain> and scan the WhatsApp QR code"
+      }
+    ],
+    "caveat": [
+      "Docs and UI are Portuguese-first (English and Spanish READMEs exist)",
+      "You supply the VPS, domain, Supabase project, LLM key and WhatsApp number",
+      "The README leads with an affiliate link to one hosting provider (HostGator)"
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://deskcomm.com.br/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "commerce",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "crm",
+    "chat",
+    "self-host"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://deskcomm.com.br/",
+    "github": "https://github.com/melgarafael/deskcommcrm",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/melgarafael/deskcommcrm",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 2735,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:58.151Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 20,
+    "star_delta_7d": 310,
+    "star_delta_30d": 312,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      14,
+      79,
+      133,
+      64,
+      null,
+      20
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": 20,
+      "30d": 55
+    },
+    "categories": [
+      {
+        "category": "commerce",
+        "label": "COMMERCE",
+        "rank": 3
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T18:48:06.000Z",
+    "owner_type": "User",
+    "open_issues": 134,
+    "contributors": 59,
+    "releases_count": 38,
+    "latest_release": {
+      "tag": "v1.27.2",
+      "published_at": "2026-09-15T17:16:52.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:33:58.151Z",
+    "core_checked_at": "2026-09-15T19:33:58.151Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/deskcommcrm-355ea2b95c.png",
+    "cover": "https://tesign.com/img/deskcommcrm-355ea2b95c.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/deskcommcrm-355ea2b95c.png"
+    ],
+    "alt": "deskcomm.com.br landing: Portuguese headline 'Sua operação comercial numa mesa só', a VPS install button and a 3D illustration.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:26.628Z",
+    "source_created_at": "2026-04-28T20:00:33.000Z",
+    "discovery_hours": 3299.714896666667,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.721Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T04:36:56.843Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

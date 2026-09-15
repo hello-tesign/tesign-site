@@ -1,0 +1,197 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "rakazo",
+  "url": "https://tesign.com/en/item/rakazo/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/rakazo/",
+      "json": "https://tesign.com/item/rakazo/index.json",
+      "markdown": "https://tesign.com/item/rakazo/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/rakazo/",
+      "json": "https://tesign.com/en/item/rakazo/index.json",
+      "markdown": "https://tesign.com/en/item/rakazo/index.md"
+    }
+  },
+  "name": "Rakazo",
+  "use_label": "Persistent AI teammates for teams",
+  "one_liner": "Self-hosted persistent AI teammates with their own memory, routines and computers",
+  "text": {
+    "why": "Rakazo gives each bot its own conversations, memory, routines and history, plus a computer (Docker, E2B, Daytona or Box) with browser, terminal, file and graphical-desktop access. Installation is a single install-images.sh run that needs only Docker Engine with the Compose plugin, curl and OpenSSL — no clone or Node install. Web, Electron desktop and Expo mobile clients share one API, and the UI ships in nine languages including Korean; the latest release (v0.1.6) carries a macOS universal .dmg and a Linux AppImage.",
+    "take": "\"AI teammates\" is a common pitch, but giving each bot a real computer and memory with one-script self-hosting is the difference here; it is beta, and every model bill is yours.",
+    "build": [
+      "Run the same installer on a VPS with SANDBOX_PROVIDER set to e2b, daytona or box and you have an always-on bot server; connect internal tools through Composio, Pipedream, MCP or OpenAPI to build sales or operations assistants."
+    ],
+    "who": [
+      {
+        "role": "Small teams",
+        "situation": "keep always-on assistant bots on your own server"
+      },
+      {
+        "role": "People who want to keep their data",
+        "situation": "pick model and sandbox, run locally"
+      },
+      {
+        "role": "Agent-platform developers",
+        "situation": "reference for a web/Electron/Expo multi-client architecture"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "mkdir -p rakazo && cd rakazo &&"
+      },
+      {
+        "command": false,
+        "text": "curl -fsSLO https://raw.githubusercontent.com/elie222/rakazo/main/infra/compose/install-images.sh &&"
+      },
+      {
+        "command": false,
+        "text": "bash install-images.sh"
+      },
+      {
+        "command": false,
+        "text": "# open http://127.0.0.1:5173, create an account, connect a model"
+      }
+    ],
+    "caveat": [
+      "Apache-2.0. Needs Docker Engine, the Compose plugin, curl and OpenSSL; images are linux/amd64 and arm64. Desktop downloads in v0.1.6 cover macOS and Linux; desktop-release.md says the Windows build is skipped without a signing secret. App-store availability of the mobile client is [확인 필요].",
+      "You pay for the model API (OpenRouter or another provider) and for optional E2B, Daytona, Box or voice keys; Treg tools are usage-metered.",
+      "The README calls it beta."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://rakazo.com/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "ai",
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai-agents",
+    "self-hosted",
+    "docker",
+    "electron",
+    "expo",
+    "sandbox"
+  ],
+  "platform": [
+    "web",
+    "macos",
+    "linux"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://rakazo.com/",
+    "github": "https://github.com/elie222/rakazo",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/elie222/rakazo",
+        "posted_at": "2026-09-04T02:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 2519,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:57.150Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 20,
+    "star_delta_30d": 66,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      10,
+      28,
+      8,
+      null,
+      null,
+      null,
+      null,
+      7,
+      9,
+      4,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T18:50:28.000Z",
+    "owner_type": "User",
+    "open_issues": 18,
+    "contributors": 54,
+    "releases_count": 8,
+    "latest_release": {
+      "tag": "v0.1.6",
+      "published_at": "2026-09-08T05:47:07.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:57.150Z",
+    "core_checked_at": "2026-09-15T19:34:57.150Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/rakazo-8a284024c4.png",
+    "cover": "https://tesign.com/img/rakazo-8a284024c4.png",
+    "cover_width": 1280,
+    "cover_height": 640,
+    "gallery": [
+      "https://tesign.com/img/rakazo-8a284024c4.png",
+      "https://tesign.com/img/rakazo-14758c0743.png"
+    ],
+    "alt": "Rakazo web app showing the list of persistent bots and a conversation with one of them",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:38:04.990Z",
+    "source_created_at": "2026-08-13T06:28:56.000Z",
+    "discovery_hours": 747.1524972222222,
+    "launch_signal_at": "2026-09-04T02:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.662Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.985Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

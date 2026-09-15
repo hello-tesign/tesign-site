@@ -1,0 +1,227 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "openanalytics",
+  "url": "https://tesign.com/en/item/openanalytics/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/openanalytics/",
+      "json": "https://tesign.com/item/openanalytics/index.json",
+      "markdown": "https://tesign.com/item/openanalytics/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/openanalytics/",
+      "json": "https://tesign.com/en/item/openanalytics/index.json",
+      "markdown": "https://tesign.com/en/item/openanalytics/index.md"
+    }
+  },
+  "name": "OpenAnalytics",
+  "use_label": "Cookieless analytics for site owners",
+  "one_liner": "Cookieless, self-hostable web analytics with revenue attribution, an MCP server and a CLI",
+  "text": {
+    "why": "No cookies, fingerprinting or cross-site identifiers: visitors are identified only by a salted hash that rotates daily and raw IPs are never stored. Even so it attributes revenue from your own Stripe account to traffic sources, and funnels, retention, web vitals, public share links, an MCP server and the oa CLI all live in one repository. Self-hosting is a pull of ten published images from ghcr.io with docker compose pull && up -d — no toolchain needed — and the authors run the same code as a hosted service at getopen.so.",
+    "take": "Plausible-style privacy analytics plus revenue attribution and an MCP server, with the choice of running it yourself or paying from $9 a month for the hosted version.",
+    "build": [
+      "Connect the MCP server to an AI assistant and build an internal reporting bot that answers 'which traffic source led to payments this week', or use the OpenAPI document in packages/contracts to build your own dashboards and widgets."
+    ],
+    "who": [
+      {
+        "role": "Owners of personal projects and small sites",
+        "situation": "visitor stats without a cookie banner"
+      },
+      {
+        "role": "SaaS and shops taking payments through Stripe",
+        "situation": "revenue attribution per traffic source and funnels"
+      },
+      {
+        "role": "Developer teams",
+        "situation": "wire stats into AI agents or scripts via the MCP server and CLI"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "git clone https://github.com/OpenLabs-so/openanalytics"
+      },
+      {
+        "command": false,
+        "text": "cd openanalytics"
+      },
+      {
+        "command": false,
+        "text": "git checkout \"$(git tag -l 'v*' --sort=-v:refname | sed '/-/d' | head -1)\"   # newest release, not main"
+      },
+      {
+        "command": false,
+        "text": "cd infra/selfhost"
+      },
+      {
+        "command": false,
+        "text": "./generate-secrets.sh --domain example.com --email you@example.com --with-geoip"
+      },
+      {
+        "command": false,
+        "text": "docker compose pull && docker compose up -d"
+      }
+    ],
+    "caveat": [
+      "Licence AGPL-3.0 — running a modified version as a network service obliges you to offer the modified source to its users. Self-hosting needs a Linux host with Docker, four DNS records (app, api, c, rt), about 4 GB RAM and 25 GB disk; official images are amd64 only (build them yourself on arm64, about ten minutes). Migrations do not go down, so rollback is a snapshot restore. The hosted version (getopen.so) has no free plan: a 7-day trial with a card on file, then Starter from $9/month (50K events, 1 site). The AI assistant is optional and needs OPENAI_API_KEY."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://getopen.so/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "data"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "web-analytics",
+    "privacy",
+    "self-hosted",
+    "clickhouse",
+    "mcp",
+    "agpl"
+  ],
+  "platform": [
+    "web",
+    "linux",
+    "cli"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Release source if you redistribute or host it as a service.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://getopen.so/",
+    "github": "https://github.com/openlabs-so/openanalytics",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://getopen.so",
+        "posted_at": "2026-08-12T17:55:14.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49276245"
+      },
+      {
+        "source": "showhn",
+        "url": "https://getopen.so",
+        "posted_at": "2026-08-13T14:00:09.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49286115"
+      },
+      {
+        "source": "showhn",
+        "url": "https://github.com/OpenLabs-so/openanalytics",
+        "posted_at": "2026-08-14T18:17:42.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49302597"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/openlabs-so/openanalytics",
+        "posted_at": "2026-09-06T05:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 535,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:20.117Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 2,
+    "star_delta_30d": 32,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      30,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 10,
+    "hn_points_observed_at": "2026-09-13T14:24:25.327Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-10T22:38:33.000Z",
+    "owner_type": "Organization",
+    "open_issues": 1,
+    "contributors": 4,
+    "releases_count": 12,
+    "latest_release": {
+      "tag": "v0.6.0",
+      "published_at": "2026-09-05T18:10:33.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:20.117Z",
+    "core_checked_at": "2026-09-15T19:35:20.117Z"
+  },
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "Show HN + GitHub"
+    },
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/openanalytics-54526da961.png",
+    "cover": "https://tesign.com/img/openanalytics-54526da961.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/openanalytics-54526da961.png",
+      "https://tesign.com/img/openanalytics-870a2c8656.png",
+      "https://tesign.com/img/openanalytics-84c1fce652.png",
+      "https://tesign.com/img/openanalytics-0381859e8f.png"
+    ],
+    "alt": "OpenAnalytics Overview screen: cards for 426 visitors, 688 pageviews, 46% bounce rate, 1m 36s average visit and revenue, an hourly visitors chart, and Top pages, Referrers (Direct, X, Product Hunt, GitHub, Google) and Revenue panels below",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T14:25:51.812Z",
+    "source_created_at": "2026-08-13T14:00:09.000Z",
+    "discovery_hours": 744.4285588888889,
+    "launch_signal_at": "2026-08-12T17:55:14.000Z",
+    "kept_at": "2026-09-14T19:27:43.690Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.924Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

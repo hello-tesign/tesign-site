@@ -1,0 +1,201 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "partmode",
+  "url": "https://tesign.com/en/item/partmode/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/partmode/",
+      "json": "https://tesign.com/item/partmode/index.json",
+      "markdown": "https://tesign.com/item/partmode/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/partmode/",
+      "json": "https://tesign.com/en/item/partmode/index.json",
+      "markdown": "https://tesign.com/en/item/partmode/index.md"
+    }
+  },
+  "name": "PartMode",
+  "use_label": "Mechanical CAD in the browser",
+  "one_liner": "Parametric mechanical CAD in the browser: constrained sketches, assemblies, drawings, STEP",
+  "text": {
+    "why": "In PartMode the shaded three.js scene is only a view; the geometry itself is exact B-rep evaluated by OpenCascade WebAssembly. It offers constrained sketches, editable feature history, assembly mates, hidden-line drawings (SVG and PDF), STEP import and export and STL, AMF and 3MF output without a desktop CAD installation. You can model anonymously at partmode.com with projects kept in browser storage, and coding agents work on the same document model through typed operations: in a browser-approved session they commit only changes a person has approved, while unattended work needs a separate, explicitly granted headless key.",
+    "take": "Browser CAD with exact B-rep and STEP exchange, and agent access that defaults to human approval.",
+    "build": [
+      "Keep parts that only change in dimension, such as packaging jigs, brackets or enclosures, as templates and hand STEP files to your machine shop, or connect a coding agent over MCP so it takes dimensions and runs preview → approval → export."
+    ],
+    "who": [
+      {
+        "role": "Small manufacturers and prototypers",
+        "situation": "model parts without an install and send STEP to the machine shop"
+      },
+      {
+        "role": "Makers and 3D-printer owners",
+        "situation": "sketch → solid → STL/3MF export"
+      },
+      {
+        "role": "Agent developers",
+        "situation": "automate typed CAD operations over MCP"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "# No install: https://partmode.com (no account needed)"
+      },
+      {
+        "command": false,
+        "text": "git clone https://github.com/BOMWiki/partmode.git"
+      },
+      {
+        "command": false,
+        "text": "cd partmode"
+      },
+      {
+        "command": false,
+        "text": "npm ci"
+      },
+      {
+        "command": false,
+        "text": "npm run build"
+      },
+      {
+        "command": false,
+        "text": "npm start   # http://127.0.0.1:4401"
+      }
+    ],
+    "caveat": [
+      "Licence AGPL-3.0-only: modify it and offer it as a network service and you must publish your source. partmode.com needs no account, but projects live only in browser storage, so backups are on you.",
+      "Self-hosting requires Node.js 22.13 or newer. Agent (MCP) access needs an account and a revocable key, and the README notes the hosted relay is not end-to-end encrypted.",
+      "No simulation, CAM, native DWG authoring or certified GD&T, and imported STEP does not reconstruct the original feature history. Copyright is held by Sphinx (2026)."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://partmode.com/"
+  },
+  "ready": "browser",
+  "categories": [
+    "design"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "cad",
+    "parametric",
+    "opencascade",
+    "webassembly",
+    "step",
+    "mcp"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Release source if you redistribute or host it as a service.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://partmode.com/",
+    "github": "https://github.com/bomwiki/partmode",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/bomwiki/partmode",
+        "posted_at": "2026-08-07T16:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 526,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:47.162Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-08-17T16:55:51.000Z",
+    "owner_type": "Organization",
+    "open_issues": 11,
+    "contributors": 1,
+    "releases_count": 1,
+    "latest_release": {
+      "tag": "source-snapshot-2026-08-11",
+      "published_at": "2026-08-10T16:36:53.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-09-15T19:34:47.162Z",
+    "core_checked_at": "2026-09-15T19:34:47.162Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/partmode-fbd032813a.png",
+    "cover": "https://tesign.com/img/partmode-fbd032813a.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/partmode-fbd032813a.png"
+    ],
+    "alt": "The PartMode social preview: 'Browser CAD for people + typed agents' with LOCAL-FIRST, EXACT B-REP and STEP badges on the left, and on the right the Studio with a 3D Tools ribbon (Extrude, Cut, Hole Wizard, Thread), a model tree, a plate with a hole in the viewport and an Agent Flight Recorder inspector",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:14:23.726Z",
+    "source_created_at": "2026-08-06T04:51:12.000Z",
+    "discovery_hours": 916.3865905555556,
+    "launch_signal_at": "2026-08-07T16:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.646Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.954Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

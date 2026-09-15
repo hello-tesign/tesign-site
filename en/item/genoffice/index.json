@@ -1,0 +1,206 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "genoffice",
+  "url": "https://tesign.com/en/item/genoffice/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/genoffice/",
+      "json": "https://tesign.com/item/genoffice/index.json",
+      "markdown": "https://tesign.com/item/genoffice/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/genoffice/",
+      "json": "https://tesign.com/en/item/genoffice/index.json",
+      "markdown": "https://tesign.com/en/item/genoffice/index.md"
+    }
+  },
+  "name": "GenOffice",
+  "use_label": "AI office suite, MS Office alternative",
+  "one_liner": "Free desktop office suite for real .docx/.xlsx/.pptx and PDF, with an AI on your own key.",
+  "text": {
+    "why": "Office alternatives are plenty, but 'open, save, formatting breaks' is the usual failure; GenOffice avoids it by rewriting only the blocks you edited and copying everything else byte-for-byte. An AI panel sits beside every document: edits arrive as tracked changes in Docs and as live formulas (SUMIF, for example) in Sheets, and each AI turn is a snapshot you can roll back. PDF to Word/Excel/PowerPoint conversion and OCR of scans (macOS and Windows) run on-device, and the model is either a Genspark sign-in or your own key for Claude, OpenAI, Gemini, DeepSeek and others, local servers included.",
+    "take": "More important than the 'AI office' label are the byte-preserving save and the command line; together they give coding agents a way to produce real Office files instead of Markdown approximations.",
+    "build": [
+      "With the bundled `genoffice` command line and agent skill, Claude Code, Codex, Cursor and others can create and check real .docx/.xlsx/.pptx files without opening a window — monthly reports, quotes, slide drafts. The HTML app proposes a design brief first, then builds a single-file landing page you can export to Word or PDF."
+    ],
+    "who": [
+      {
+        "role": "Individuals and small teams handling .docx/.xlsx/.pptx without Microsoft Office",
+        "situation": "open, edit and save with the original formatting intact"
+      },
+      {
+        "role": "People who want AI to do document work but review it",
+        "situation": "tracked changes, diffs, rollback, answers with cell citations"
+      },
+      {
+        "role": "Developers automating documents with coding agents",
+        "situation": "create, convert and check files headless via the `genoffice` CLI and skill"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. Download from https://github.com/genspark-ai/genoffice/releases/latest — macOS 11+ (.dmg, arm64/x64), Windows 10+ x64 · Windows 11 on Arm ARM64 (.exe), Linux glibc 2.34+ (.deb/.rpm/.AppImage)"
+      },
+      {
+        "command": false,
+        "text": "2. Linux (Debian/Ubuntu): sudo apt install ./genoffice_<version>_amd64.deb"
+      },
+      {
+        "command": false,
+        "text": "3. Check the CLI: genoffice --version"
+      },
+      {
+        "command": false,
+        "text": "4. Skill for coding agents: npx skills add genspark-ai/genoffice"
+      }
+    ],
+    "caveat": [
+      "Apache-2.0 licence (the ee/ directory is under a separate enterprise licence; the GenOffice and Genspark names and logos are Mainfunc trademarks, not covered). The apps are free with no paid tier, but AI features need a network connection and either a Genspark sign-in (the homepage says Genspark credits) or your own API key; model costs are yours.",
+      "macOS 11+, Windows 10+ x64 · Windows 11 on Arm ARM64, Linux x86_64 with glibc 2.34+; macOS and Windows installers are signed.",
+      "Official packaged builds send limited usage analytics by default (never document content, file names or paths); disable under Settings → General. 'In active development' per the README."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://genoffice.ai/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "office-suite",
+    "docx",
+    "xlsx",
+    "pptx",
+    "byok",
+    "desktop-app"
+  ],
+  "platform": [
+    "macos",
+    "windows",
+    "linux",
+    "cli"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://genoffice.ai/",
+    "github": "https://github.com/genspark-ai/genoffice",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/genspark-ai/genoffice",
+        "posted_at": "2026-08-07T16:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 6836,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:48.198Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 3,
+    "star_delta_7d": 43,
+    "star_delta_30d": 338,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      2,
+      82,
+      90,
+      110,
+      11,
+      null,
+      null,
+      null,
+      22,
+      12,
+      6,
+      null,
+      3
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": 51
+    },
+    "categories": []
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T09:38:26.000Z",
+    "owner_type": "Organization",
+    "open_issues": 50,
+    "contributors": 22,
+    "releases_count": 25,
+    "latest_release": {
+      "tag": "v0.10.63",
+      "published_at": "2026-09-13T23:04:09.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:48.198Z",
+    "core_checked_at": "2026-09-15T19:34:48.198Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/genoffice-e358abd2b0.webp",
+    "cover": "https://tesign.com/img/genoffice-e358abd2b0.webp",
+    "cover_width": 2400,
+    "cover_height": 1530,
+    "gallery": [
+      "https://tesign.com/img/genoffice-e358abd2b0.webp"
+    ],
+    "alt": "GenOffice Docs: a company overview with a banner image beside the AI panel, where the AI has tightened the Overview, inserted a new bulleted section, and offers a one-click roll back",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:14:28.249Z",
+    "source_created_at": "2026-07-31T09:40:58.000Z",
+    "discovery_hours": 1055.5584025,
+    "launch_signal_at": "2026-08-07T16:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.548Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:56.871Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

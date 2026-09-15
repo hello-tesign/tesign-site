@@ -1,0 +1,191 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "lertaro",
+  "url": "https://tesign.com/en/item/lertaro/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/lertaro/",
+      "json": "https://tesign.com/item/lertaro/index.json",
+      "markdown": "https://tesign.com/item/lertaro/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/lertaro/",
+      "json": "https://tesign.com/en/item/lertaro/index.json",
+      "markdown": "https://tesign.com/en/item/lertaro/index.md"
+    }
+  },
+  "name": "Lertaro",
+  "use_label": "Instant file search for Windows users",
+  "one_liner": "Windows search launcher reading the NTFS USN Journal and $MFT for near-instant file search",
+  "text": {
+    "why": "It folds what Everything and Listary each did — instant file search and a launcher — into one MIT-licensed open-source tool. Instead of walking directories it reads the NTFS USN Change Journal and $MFT directly, with a background service keeping the index in sync in real time. Native x64 and ARM64 (Windows on ARM) builds ship together, and an inline bar docks into Open/Save dialogs and file managers such as File Explorer and Total Commander.",
+    "take": "What sets it apart for Everything users is the MIT licence, the .NET plugin SDK and the native ARM64 build.",
+    "build": [
+      "With the .NET 10 C# plugin SDK you can add an internal document store or wiki as a search provider and register frequent commands as aliases and actions; it is also compatible with Flow Launcher community plugins."
+    ],
+    "who": [
+      {
+        "role": "Windows power users",
+        "situation": "a file search and launcher replacing Everything/Listary"
+      },
+      {
+        "role": "Windows on ARM (Snapdragon) laptop users",
+        "situation": "the native ARM64 build"
+      },
+      {
+        "role": ".NET developers",
+        "situation": "custom search providers and actions via the plugin SDK"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1. x64: download and run https://github.com/Lertaro/Lertaro/releases/latest/download/Lertaro-Setup.exe (recommended, supports the background service)"
+      },
+      {
+        "command": false,
+        "text": "2. ARM64: https://github.com/Lertaro/Lertaro/releases/latest/download/Lertaro-Setup-arm64.exe"
+      },
+      {
+        "command": false,
+        "text": "3. No install: unzip Lertaro-Portable.zip (ARM64: Lertaro-Portable-arm64.zip) and run"
+      },
+      {
+        "command": false,
+        "text": "4. Build from source on Windows 10/11 with the .NET 10 SDK: build_and_run.bat (x64 and ARM64 Release builds: make.bat)"
+      }
+    ],
+    "caveat": [
+      "Licence MIT. Windows 10/11 only (x64 and ARM64). Low-level indexing covers NTFS/ReFS; FAT32/exFAT is handled by monitoring. The installer runs a SYSTEM-level background service. The project started in August 2026 and its README warns to download only from official sources. Whether a separate .NET runtime install is required: [확인 필요]."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://lertaro.github.io/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "windows",
+    "file-search",
+    "launcher",
+    "ntfs",
+    "dotnet",
+    "wpf"
+  ],
+  "platform": [
+    "windows"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "C#",
+  "source_urls": {
+    "canonical": "https://lertaro.github.io/",
+    "github": "https://github.com/lertaro/lertaro",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/lertaro/lertaro",
+        "posted_at": "2026-09-11T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 553,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:23.619Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 12,
+    "star_delta_30d": 12,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      4,
+      8,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T08:09:12.000Z",
+    "owner_type": "Organization",
+    "open_issues": 2,
+    "contributors": 3,
+    "releases_count": 141,
+    "latest_release": {
+      "tag": "v5.6.7",
+      "published_at": "2026-09-15T08:11:48.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:23.619Z",
+    "core_checked_at": "2026-09-15T19:35:23.619Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/lertaro-9737ff54a1.png",
+    "cover": "https://tesign.com/img/lertaro-9737ff54a1.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/lertaro-9737ff54a1.png"
+    ],
+    "alt": "[확인 필요] No real product UI screenshot exists in the README or on the official site (lertaro.github.io) — the landing page's only image is the logo (logo.png). If a post-install capture of the actual search bar is possible, rewrite this alt to match it; otherwise fall back to a card (tier 4)",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:55:42.011Z",
+    "source_created_at": "2026-08-06T05:00:57.000Z",
+    "discovery_hours": 916.9125030555556,
+    "launch_signal_at": "2026-09-11T22:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.682Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.897Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

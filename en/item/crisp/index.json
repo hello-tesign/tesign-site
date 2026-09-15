@@ -1,0 +1,196 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "crisp",
+  "url": "https://tesign.com/en/item/crisp/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/crisp/",
+      "json": "https://tesign.com/item/crisp/index.json",
+      "markdown": "https://tesign.com/item/crisp/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/crisp/",
+      "json": "https://tesign.com/en/item/crisp/index.json",
+      "markdown": "https://tesign.com/en/item/crisp/index.md"
+    }
+  },
+  "name": "Crisp",
+  "use_label": "Controls for Mac external monitors",
+  "one_liner": "Free macOS menu bar app: HiDPI scaling, DDC brightness and presets for external monitors.",
+  "text": {
+    "why": "macOS renders text blurry or tiny on non-Apple monitors and leaves the brightness keys dead; BetterDisplay and Lunar fill that gap but charge for the core features. Crisp gives HiDPI scaling (automatic on 1440p and larger, always at the panel's full refresh rate), DDC hardware brightness and volume, Extra Brightness from the HDR reserve, presets and virtual displays, all free with no Pro tier. Every release is signed and notarized by Apple, and the `crispctl` command line tool exposes the same controls to scripts and Shortcuts.",
+    "take": "The features that sell BetterDisplay licences are the baseline here.",
+    "build": [
+      "Script a KVM desk where one button runs `crispctl display toggle`, or a Shortcut that switches brightness and HDR by time of day."
+    ],
+    "who": [
+      {
+        "role": "Mac users with external 4K or 1440p monitors",
+        "situation": "sharp HiDPI text instead of blurry"
+      },
+      {
+        "role": "People switching between display setups",
+        "situation": "resolution, brightness and arrangement in one preset"
+      },
+      {
+        "role": "Developers automating their desk",
+        "situation": "script brightness, connection and HDR with crispctl"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "brew install --cask crisp"
+      },
+      {
+        "command": false,
+        "text": "# or download Crisp.dmg and drag Crisp to Applications: https://github.com/didriksg/Crisp/releases/latest/download/Crisp.dmg"
+      },
+      {
+        "command": false,
+        "text": "Build from source:"
+      },
+      {
+        "command": false,
+        "text": "brew install xcodegen"
+      },
+      {
+        "command": false,
+        "text": "xcodegen generate   # generates Crisp.xcodeproj from project.yml"
+      }
+    ],
+    "caveat": [
+      "MIT licence (began as a fork of FreeDisplay, also MIT). macOS 14 Sonoma or later only; disconnecting and reconnecting displays works on Apple Silicon only. Smooth scaling asks for an administrator password once per monitor, and the Brightness Keys feature needs Accessibility permission. Free; the developer accepts sponsorship toward the $99/year Apple Developer Program fee."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://crispmac.app/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "macos",
+    "menu-bar",
+    "external-monitor",
+    "hidpi",
+    "ddc",
+    "swift"
+  ],
+  "platform": [
+    "macos",
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://crispmac.app/",
+    "github": "https://github.com/didriksg/crisp",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/didriksg/Crisp",
+        "posted_at": "2026-07-24T16:05:13.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49037644"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1692,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:33.619Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 2,
+    "star_delta_30d": 2,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 4,
+    "hn_points_observed_at": "2026-09-13T14:56:48.071Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-10T10:52:50.000Z",
+    "owner_type": "User",
+    "open_issues": 6,
+    "contributors": 12,
+    "releases_count": 14,
+    "latest_release": {
+      "tag": "v1.6.0",
+      "published_at": "2026-09-08T14:20:23.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:33.619Z",
+    "core_checked_at": "2026-09-15T19:35:33.619Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/crisp-2d184b1a82.png",
+    "cover": "https://tesign.com/img/crisp-2d184b1a82.png",
+    "cover_width": 708,
+    "cover_height": 966,
+    "gallery": [
+      "https://tesign.com/img/crisp-2d184b1a82.png"
+    ],
+    "alt": "The Crisp menu bar panel adjusting scaling and brightness for an external monitor",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T14:56:48.071Z",
+    "source_created_at": "2026-07-24T16:05:13.000Z",
+    "discovery_hours": 1222.8597419444445,
+    "launch_signal_at": "2026-07-24T16:05:13.000Z",
+    "kept_at": "2026-09-14T19:27:43.568Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T07:17:01.038Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

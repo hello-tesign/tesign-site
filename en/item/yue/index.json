@@ -1,0 +1,209 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "yue",
+  "url": "https://tesign.com/en/item/yue/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/yue/",
+      "json": "https://tesign.com/item/yue/index.json",
+      "markdown": "https://tesign.com/item/yue/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/yue/",
+      "json": "https://tesign.com/en/item/yue/index.json",
+      "markdown": "https://tesign.com/en/item/yue/index.md"
+    }
+  },
+  "name": "YuE2",
+  "use_label": "Songs from lyrics and a style prompt",
+  "one_liner": "Generates music, makes zero-shot covers and edits parts of a track.",
+  "text": {
+    "why": "Music generators are hard to correct once a track exists; changing one part usually means generating the whole thing again. YuE2 plans the structure symbolically before generating and keeps zero-shot covers and agentic editing inside the same flow. It is written in Python, published under Apache-2.0, and has a demo page. You run the model yourself, so the environment is yours to prepare.",
+    "take": "Planning a song as an editable score, then regenerating from the edit, sets it apart from one-shot generators.",
+    "build": [
+      "A production line that makes your own background music for video",
+      "An experiment that re-sings an existing track in another voice"
+    ],
+    "who": [
+      {
+        "role": "Video maker",
+        "situation": "wants original background music (non-commercial only)"
+      },
+      {
+        "role": "Music researcher",
+        "situation": "works with symbolic planning and audio generation"
+      },
+      {
+        "role": "ML engineer",
+        "situation": "runs a music model on a GPU server"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "git clone https://github.com/multimodal-art-projection/YuE.git"
+      },
+      {
+        "command": true,
+        "text": "cd YuE"
+      },
+      {
+        "command": true,
+        "text": "python3.12 -m venv .venv"
+      },
+      {
+        "command": true,
+        "text": "source .venv/bin/activate"
+      },
+      {
+        "command": true,
+        "text": "python -m pip install ."
+      },
+      {
+        "command": true,
+        "text": "python examples/generate.py --output outputs/first-song"
+      }
+    ],
+    "caveat": [
+      "Needs Linux, Python 3.12 and an NVIDIA GPU with 24 GB of VRAM",
+      "Code is Apache-2.0, but the model weights are CC BY-NC 4.0 (non-commercial)",
+      "Model files download from Hugging Face on first use"
+    ]
+  },
+  "cta": {
+    "type": "run",
+    "label": "RUN",
+    "url": "https://map-yue2.github.io/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "music",
+    "audio",
+    "models"
+  ],
+  "platform": [
+    "linux"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://map-yue2.github.io/",
+    "github": "https://github.com/multimodal-art-projection/yue",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/multimodal-art-projection/yue",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 8909,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:46.873Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 75,
+    "star_delta_7d": 312,
+    "star_delta_30d": 312,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      22,
+      80,
+      62,
+      73,
+      13,
+      62
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": 19,
+      "30d": 56
+    },
+    "categories": [
+      {
+        "category": "media",
+        "label": "MEDIA",
+        "rank": 12
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-14T10:31:07.000Z",
+    "owner_type": "Organization",
+    "open_issues": 25,
+    "contributors": 9,
+    "releases_count": 1,
+    "latest_release": {
+      "tag": "yue2-v0.1.6",
+      "published_at": "2026-09-09T19:10:05.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:33:46.873Z",
+    "core_checked_at": "2026-09-15T19:33:46.873Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/yue-9a684df443.png",
+    "cover": "https://tesign.com/img/yue-9a684df443.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/yue-9a684df443.png",
+      "https://tesign.com/img/yue-53526f32ce.png"
+    ],
+    "alt": "YuE2 demo site: the headline 'Frontier quality. Music, with a plan.', a models-and-benchmark box and an audio player bar below.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:26.628Z",
+    "source_created_at": "2025-01-23T06:21:58.000Z",
+    "discovery_hours": 14353.357952222223,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.681Z",
+    "first_published_at": "2026-09-13T11:32:21.881Z",
+    "updated_at": "2026-09-15T04:36:57.062Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

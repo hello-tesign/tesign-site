@@ -1,0 +1,214 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "talivia",
+  "url": "https://tesign.com/en/item/talivia/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/talivia/",
+      "json": "https://tesign.com/item/talivia/index.json",
+      "markdown": "https://tesign.com/item/talivia/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/talivia/",
+      "json": "https://tesign.com/en/item/talivia/index.json",
+      "markdown": "https://tesign.com/en/item/talivia/index.md"
+    }
+  },
+  "name": "Talivia",
+  "use_label": "Revenue-linked analytics for founders",
+  "one_liner": "Self-hosted web analytics with Session Replay that ties each visit to payment revenue.",
+  "text": {
+    "why": "Pageview counters do not tell you which visit made money. Talivia's open-source edition combines core web analytics and Session Replay with customer revenue from Stripe, LemonSqueezy, Polar, Dodo, Yolfi or a Manual Payment API, retaining subscription lifecycle, refunds, disputes and first-/last-touch attribution. Only two settings are required, `DATABASE_URL` and `APP_SECRET`, and it starts with `docker compose up --build -d`.",
+    "take": "The README says up front that the open edition is a subset of the cloud product; within that scope it is a revenue-attribution tool you keep on your own server.",
+    "build": [
+      "Drop the tracking snippet into a storefront and connect the payment webhook to get a revenue-attribution dashboard you own, showing which channel actually produced sales; the Manual Payment API records payments made outside the supported providers."
+    ],
+    "who": [
+      {
+        "role": "Founders selling SaaS or digital products",
+        "situation": "see which channel's visits turned into payments"
+      },
+      {
+        "role": "Operators who prefer self-hosting",
+        "situation": "keep visits, replays and revenue in your own PostgreSQL"
+      },
+      {
+        "role": "Marketers",
+        "situation": "watch Session Replay to find where people drop before checkout"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "cp .env.example .env"
+      },
+      {
+        "command": false,
+        "text": "openssl rand -hex 32          # put the generated value in APP_SECRET"
+      },
+      {
+        "command": false,
+        "text": "docker compose up --build -d"
+      },
+      {
+        "command": false,
+        "text": "docker compose ps"
+      },
+      {
+        "command": false,
+        "text": "# open http://localhost:3000, sign in as admin / admin, change the password immediately under Settings → Account"
+      }
+    ],
+    "caveat": [
+      "MIT licence. The open-source edition is a self-hosted subset of the paid talivia.com product; Google Search Console, Bing, GitHub activity and social-mention integrations are cloud-only. Needs an empty PostgreSQL database with no migration path from a hosted Talivia database. The bootstrap login is admin/admin and must be changed immediately; behind a reverse proxy, forward Host and X-Forwarded-Proto so payment webhook URLs are generated correctly. No software cost, server cost only."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://talivia.com/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "data",
+    "commerce"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "web-analytics",
+    "session-replay",
+    "revenue-attribution",
+    "stripe",
+    "self-hosted",
+    "postgresql"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://talivia.com/",
+    "github": "https://github.com/talivia-group/talivia",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/talivia-group/talivia",
+        "posted_at": "2026-08-07T14:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 2419,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:44.783Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": 2,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "data",
+        "label": "DATA",
+        "rank": 20
+      },
+      {
+        "category": "commerce",
+        "label": "COMMERCE",
+        "rank": 5
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T06:36:42.000Z",
+    "owner_type": "Organization",
+    "open_issues": 0,
+    "contributors": 1,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:34:44.783Z",
+    "core_checked_at": "2026-09-15T19:34:44.783Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/talivia-9aa2dcc6ae.png",
+    "cover": "https://tesign.com/img/talivia-9aa2dcc6ae.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/talivia-9aa2dcc6ae.png",
+      "https://tesign.com/img/talivia-e2cd4833f0.png",
+      "https://tesign.com/img/talivia-1964b6db7f.png"
+    ],
+    "alt": "The Talivia dashboard: overlaid visitor and revenue chart with referrers ranked by visitors [layout to be confirmed]",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:14:08.680Z",
+    "source_created_at": "2026-07-29T07:56:49.000Z",
+    "discovery_hours": 1105.2888,
+    "launch_signal_at": "2026-08-07T14:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.580Z",
+    "first_published_at": "2026-09-14T19:27:43.743Z",
+    "updated_at": "2026-09-15T04:36:57.024Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

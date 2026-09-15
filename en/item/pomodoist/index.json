@@ -1,0 +1,204 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "pomodoist",
+  "url": "https://tesign.com/en/item/pomodoist/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/pomodoist/",
+      "json": "https://tesign.com/item/pomodoist/index.json",
+      "markdown": "https://tesign.com/item/pomodoist/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/pomodoist/",
+      "json": "https://tesign.com/en/item/pomodoist/index.json",
+      "markdown": "https://tesign.com/en/item/pomodoist/index.md"
+    }
+  },
+  "name": "Pomodoist",
+  "use_label": "Tasks and Pomodoro focus in one app",
+  "one_liner": "Self-hosted Todoist alternative with Pomodoro focus sessions and weekly progress reports",
+  "text": {
+    "why": "Pomodoist organizes tasks across inbox, today, upcoming, projects, timeline, kanban and a priority matrix, starts a Pomodoro session from any task and shows weekly focus-time trends in built-in reports. Built in Flutter/Dart, it offers the same workspace on macOS, iOS/iPadOS, Linux, Windows and the web (app.pomodoist.com), with a Docker Compose self-hosting guide covering PostgreSQL, Auth, REST and Realtime. The README lists Android among supported platforms, but the official site shows it as planned for September–October 2026.",
+    "take": "Todo apps with a Pomodoro timer are common; what sets this one apart is that the server is AGPL too and comes up with one Docker Compose run.",
+    "build": [
+      "Point an MCP client at your own instance's endpoint (/functions/v1/pomodoist-mcp) so an AI assistant can read and add your tasks. The repository also includes the Telegram Mini App and Chrome extension code, which you can adapt for your own use."
+    ],
+    "who": [
+      {
+        "role": "People leaving Todoist",
+        "situation": "keep tasks and focus history on your own server"
+      },
+      {
+        "role": "Anyone who wants to measure focus time",
+        "situation": "per-task Pomodoro and weekly reports"
+      },
+      {
+        "role": "Flutter developers",
+        "situation": "one codebase shipped to desktop, mobile and web"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "git clone https://github.com/Kabanya/Pomodoist.git"
+      },
+      {
+        "command": false,
+        "text": "cd Pomodoist"
+      },
+      {
+        "command": false,
+        "text": "make -C server setup"
+      },
+      {
+        "command": false,
+        "text": "make -C server up"
+      },
+      {
+        "command": false,
+        "text": "# open http://localhost:58080"
+      }
+    ],
+    "caveat": [
+      "AGPL-3.0-only (copyright FinchForge LLC): if you modify it and offer it as a service, you must release the source.",
+      "Self-hosting is free but needs Docker Compose v2, make, openssl, curl and a practical minimum of 4 GB RAM and 40 GB disk.",
+      "The hosted Pro subscription and lifetime purchase are paid (prices per the App Store). Android is in the README's supported list but the official site shows it as planned for September–October 2026, and the site FAQ says iOS and iPadOS are under review."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://pomodoist.com/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "todo",
+    "pomodoro",
+    "flutter",
+    "self-hosted",
+    "todoist-alternative",
+    "agpl"
+  ],
+  "platform": [
+    "macos",
+    "ios",
+    "linux",
+    "windows",
+    "web"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Release source if you redistribute or host it as a service.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Dart",
+  "source_urls": {
+    "canonical": "https://pomodoist.com/",
+    "github": "https://github.com/kabanya/pomodoist",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/kabanya/pomodoist",
+        "posted_at": "2026-09-04T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 425,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:59.342Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 20,
+    "star_delta_30d": 37,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      5,
+      3,
+      9,
+      null,
+      null,
+      2,
+      null,
+      7,
+      11,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:25:32.000Z",
+    "owner_type": "User",
+    "open_issues": 36,
+    "contributors": 1,
+    "releases_count": 13,
+    "latest_release": {
+      "tag": "v1.0.5",
+      "published_at": "2026-09-10T16:54:46.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:59.342Z",
+    "core_checked_at": "2026-09-15T19:34:59.342Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/pomodoist-d12c65c935.webp",
+    "cover": "https://tesign.com/img/pomodoist-d12c65c935.webp",
+    "cover_width": 1600,
+    "cover_height": 1000,
+    "gallery": [
+      "https://tesign.com/img/pomodoist-d12c65c935.webp",
+      "https://tesign.com/img/pomodoist-40a1f9669b.webp",
+      "https://tesign.com/img/pomodoist-b7571f2e0e.webp",
+      "https://tesign.com/img/pomodoist-a2a5f401d1.webp"
+    ],
+    "alt": "Pomodoist macOS Upcoming planner in light and dark mode, with tasks listed by date",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:38:38.798Z",
+    "source_created_at": "2026-08-09T12:34:20.000Z",
+    "discovery_hours": 837.0718883333333,
+    "launch_signal_at": "2026-09-04T00:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.671Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.975Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

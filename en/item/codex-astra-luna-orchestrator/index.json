@@ -1,0 +1,190 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "codex-astra-luna-orchestrator",
+  "url": "https://tesign.com/en/item/codex-astra-luna-orchestrator/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/codex-astra-luna-orchestrator/",
+      "json": "https://tesign.com/item/codex-astra-luna-orchestrator/index.json",
+      "markdown": "https://tesign.com/item/codex-astra-luna-orchestrator/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/codex-astra-luna-orchestrator/",
+      "json": "https://tesign.com/en/item/codex-astra-luna-orchestrator/index.json",
+      "markdown": "https://tesign.com/en/item/codex-astra-luna-orchestrator/index.md"
+    }
+  },
+  "name": "Codex Astra Orchestrator + Luna Subagents",
+  "use_label": "Orchestrator setup for Codex users",
+  "one_liner": "Installs a Codex setup where Astra orchestrates and Luna does the work.",
+  "text": {
+    "why": "Once you use subagents in Codex, every role needs a model and a reasoning level chosen by hand. Codex Astra Orchestrator + Luna Subagents copies a ready-made profile into the target repository's .codex and .agents, with orchestrator, explorer, worker, tester and reviewer each pinned to a model. The installer asks whether you are on the Pro or Plus plan and picks the matching profile. Apache-2.0; the README notes that token usage depends on the repository and the task.",
+    "take": "A handful of config files, but it saves you from hand-pinning a model to every Codex role.",
+    "build": [
+      "A default Codex role layout installed the same way in every team repo",
+      "An independent review step pinned to a different model",
+      "A usage check that tallies tokens per role from session logs"
+    ],
+    "who": [
+      {
+        "role": "Codex user",
+        "situation": "splitting roles and models across subagents for the first time"
+      },
+      {
+        "role": "Team lead",
+        "situation": "needs the same agent setup in every repository"
+      }
+    ],
+    "start": [
+      {
+        "command": true,
+        "text": "git clone https://github.com/donvito/codex-astra-luna-orchestrator.git"
+      },
+      {
+        "command": true,
+        "text": "cd codex-astra-luna-orchestrator"
+      },
+      {
+        "command": true,
+        "text": "./setup.sh"
+      },
+      {
+        "command": false,
+        "text": "On Windows, run instead:"
+      },
+      {
+        "command": true,
+        "text": "powershell -ExecutionPolicy Bypass -File .\\setup.ps1"
+      },
+      {
+        "command": false,
+        "text": "The target project must already exist and be a different folder"
+      }
+    ],
+    "caveat": [
+      "A config pack: you need Codex CLI and a Pro or Plus plan",
+      "Named roles are pinned, so changing the default model alone won't move them",
+      "Orchestration costs more tokens, as the README itself says"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://github.com/donvito/codex-astra-luna-orchestrator"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "codex",
+    "agents",
+    "orchestration",
+    "config"
+  ],
+  "platform": [
+    "macos",
+    "linux",
+    "windows",
+    "cli"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "github": "https://github.com/donvito/codex-astra-luna-orchestrator",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1366,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:42.625Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 4,
+    "star_delta_7d": 66,
+    "star_delta_30d": 154,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      17,
+      67,
+      4,
+      null,
+      2,
+      4,
+      4,
+      17,
+      35,
+      4,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-14T07:15:44.000Z",
+    "owner_type": "User",
+    "open_issues": 2,
+    "contributors": 5,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:33:42.625Z",
+    "core_checked_at": "2026-09-15T19:33:42.625Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/og/codex-astra-luna-orchestrator.en.png",
+    "cover": "https://tesign.com/img/codex-astra-luna-orchestrator-3d63125132.png",
+    "cover_width": 1200,
+    "cover_height": 600,
+    "gallery": [
+      "https://tesign.com/img/codex-astra-luna-orchestrator-3d63125132.png"
+    ],
+    "alt": "GitHub social card for donvito/codex-astra-luna-orchestrator: name and description left, avatar right.",
+    "tier": 4
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:22.965Z",
+    "source_created_at": "2026-09-05T16:03:06.000Z",
+    "discovery_hours": 183.67137916666667,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-14T02:41:58.819Z",
+    "first_published_at": null,
+    "updated_at": "2026-09-15T04:36:56.822Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

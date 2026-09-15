@@ -1,0 +1,196 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "slotstream",
+  "url": "https://tesign.com/en/item/slotstream/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/slotstream/",
+      "json": "https://tesign.com/item/slotstream/index.json",
+      "markdown": "https://tesign.com/item/slotstream/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/slotstream/",
+      "json": "https://tesign.com/en/item/slotstream/index.json",
+      "markdown": "https://tesign.com/en/item/slotstream/index.md"
+    }
+  },
+  "name": "Slotstream",
+  "use_label": "Run a 105 GB model on a 48 GB Mac",
+  "one_liner": "Run a 105 GB Qwen model on a 48 GB Mac: experts stream from SSD, Ollama-compatible API",
+  "text": {
+    "why": "Qwen3.8-Flash-Next is a 105 GB mixture-of-experts model (per the README); Slotstream keeps the shared weights in RAM and reads only the experts it needs from SSD into a cache. The developer's 48 GB M5 Pro measured 13.47 tok/s after warm-up (a 0.2.16 pre-release benchmark), while a community report on a 16 GB M2 Mac mini was 1.41 tok/s. After a one-time download it works offline with no Python or cloud account.",
+    "take": "Streaming a model larger than RAM from SSD really works here, but it supports exactly one model and speed varies widely by machine.",
+    "build": [
+      "Point Open WebUI or an agent such as Hermes or fx at its OpenAI/Ollama-compatible API and you have a personal AI server on one Mac that answers questions about files and pictures without an internet connection. A Swift library lets you embed it in a Mac app directly."
+    ],
+    "who": [
+      {
+        "role": "Apple Silicon Mac owners",
+        "situation": "run a large model locally without a cloud account"
+      },
+      {
+        "role": "Privacy-conscious users",
+        "situation": "keep document and image questions on the device"
+      },
+      {
+        "role": "Local-LLM developers",
+        "situation": "study an MLX + Swift expert-streaming implementation"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "curl -fsSL https://raw.githubusercontent.com/carloslfu/slotstream/main/install.sh | sh"
+      },
+      {
+        "command": false,
+        "text": "slotstream doctor"
+      },
+      {
+        "command": false,
+        "text": "slotstream run --prompt \"Why is the sky blue?\""
+      }
+    ],
+    "caveat": [
+      "MIT for the code; model weights carry a separate Qwen community licence.",
+      "Requires an Apple Silicon Mac with 16 GB+ RAM, macOS 14+ and about 110 GB of free SSD; 8 GB Macs refuse to start, and Windows, Linux and Intel Macs are not supported.",
+      "The model download can take hours, long prompts can take minutes before the first token, and only one generation runs at a time."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://sevrahq.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "local-llm",
+    "apple-silicon",
+    "mixture-of-experts",
+    "mlx",
+    "ollama",
+    "swift"
+  ],
+  "platform": [
+    "macos",
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://sevrahq.com/",
+    "github": "https://github.com/carloslfu/slotstream",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/carloslfu/slotstream",
+        "posted_at": "2026-08-31T14:46:54.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49510441"
+      },
+      {
+        "source": "showhn",
+        "url": "https://github.com/carloslfu/slotstream",
+        "posted_at": "2026-09-01T16:42:46.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49524447"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 360,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:25.910Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 240,
+    "hn_points_observed_at": "2026-09-13T13:59:17.691Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T15:01:19.000Z",
+    "owner_type": "User",
+    "open_issues": 7,
+    "contributors": 3,
+    "releases_count": 26,
+    "latest_release": {
+      "tag": "v0.2.18",
+      "published_at": "2026-09-14T23:52:30.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:35:25.910Z",
+    "core_checked_at": "2026-09-15T19:35:25.910Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/og/slotstream.en.png",
+    "cover": "https://tesign.com/img/slotstream-00175a10de.png",
+    "cover_width": 1200,
+    "cover_height": 600,
+    "gallery": [
+      "https://tesign.com/img/slotstream-00175a10de.png"
+    ],
+    "alt": "Terminal running slotstream doctor and slotstream run: the memory-plan check and a model reply",
+    "tier": 4
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T13:59:17.691Z",
+    "source_created_at": "2026-09-01T16:42:46.000Z",
+    "discovery_hours": 285.2754697222222,
+    "launch_signal_at": "2026-08-31T14:46:54.000Z",
+    "kept_at": "2026-09-14T19:27:43.653Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.999Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

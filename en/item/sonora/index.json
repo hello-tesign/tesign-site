@@ -1,0 +1,202 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "sonora",
+  "url": "https://tesign.com/en/item/sonora/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/sonora/",
+      "json": "https://tesign.com/item/sonora/index.json",
+      "markdown": "https://tesign.com/item/sonora/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/sonora/",
+      "json": "https://tesign.com/en/item/sonora/index.json",
+      "markdown": "https://tesign.com/en/item/sonora/index.md"
+    }
+  },
+  "name": "Sonora",
+  "use_label": "Several music services in one player",
+  "one_liner": "Native Rust/GPUI music client for Spotify, YouTube Music, Subsonic and local files",
+  "text": {
+    "why": "Sonora is a native app built on the GPUI rendering stack from the Zed editor and on librespot, playing Spotify, YouTube Music, Subsonic/OpenSubsonic and local files in one window. It offers gapless playback, volume normalization, synced karaoke-style lyrics with romanization, theme/font/icon/transparency customization and Discord Rich Presence. Distribution covers a brew cask on macOS, the AUR on Arch, Flatpak, Nix and a Windows installer; the repository has moved to sonorahq/sonora.",
+    "take": "A native, non-Electron player that unifies three streaming sources is rare; the fact that it is an unofficial Spotify client travels with it.",
+    "build": [
+      "Declare provider and theme through the Nix flake's programs.sonora module to roll the same setup across machines, or attach your own Navidrome server so streaming and a personal library share one player."
+    ],
+    "who": [
+      {
+        "role": "People who use both Spotify and YouTube Music",
+        "situation": "one app, one playback flow"
+      },
+      {
+        "role": "Navidrome/Subsonic server owners",
+        "situation": "a native desktop player for your own library"
+      },
+      {
+        "role": "Rust GUI developers",
+        "situation": "a real desktop app built with GPUI"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "brew install --cask nolight132/tap/sonora"
+      },
+      {
+        "command": false,
+        "text": "xattr -dr com.apple.quarantine /Applications/Sonora.app"
+      },
+      {
+        "command": false,
+        "text": "yay -S sonora-bin"
+      },
+      {
+        "command": false,
+        "text": "flatpak install --user https://sonorahq.github.io/sonora/sonora.flatpakref"
+      },
+      {
+        "command": false,
+        "text": "# Windows: download and run Sonora-Setup.exe from Releases"
+      }
+    ],
+    "caveat": [
+      "GPL-3.0-or-later. macOS, Windows and Linux (FreeBSD \"probably\", in the README's words).",
+      "Unofficial client unaffiliated with Spotify AB; you need your own Spotify or YouTube Music account.",
+      "Releases are not yet code-signed, so macOS needs the quarantine attribute removed with xattr; translations, per the README table, are 100% English and 82–98% for twelve other languages."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://sonorahq.org/"
+  },
+  "ready": "install",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "music-player",
+    "spotify",
+    "youtube-music",
+    "subsonic",
+    "rust",
+    "gpui"
+  ],
+  "platform": [
+    "macos",
+    "windows",
+    "linux"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://sonorahq.org/",
+    "github": "https://github.com/nolight132/sonora",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/nolight132/sonora",
+        "posted_at": "2026-09-03T23:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1192,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:56.036Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": 123,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      2,
+      73,
+      37,
+      11,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T18:06:07.000Z",
+    "owner_type": "Organization",
+    "open_issues": 95,
+    "contributors": 42,
+    "releases_count": 50,
+    "latest_release": {
+      "tag": "v0.36.0",
+      "published_at": "2026-09-15T00:12:20.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:56.036Z",
+    "core_checked_at": "2026-09-15T19:34:56.036Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/sonora-20710e87e8.png",
+    "cover": "https://tesign.com/img/sonora-20710e87e8.png",
+    "cover_width": 1602,
+    "cover_height": 992,
+    "gallery": [
+      "https://tesign.com/img/sonora-20710e87e8.png",
+      "https://tesign.com/img/sonora-d53067f648.png",
+      "https://tesign.com/img/sonora-fa354a3fe7.png",
+      "https://tesign.com/img/sonora-eee55bb467.png"
+    ],
+    "alt": "Sonora desktop window with an adaptive theme, showing the now-playing view and library",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:37:58.336Z",
+    "source_created_at": "2026-08-03T22:27:37.000Z",
+    "discovery_hours": 971.1725933333333,
+    "launch_signal_at": "2026-09-03T23:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.674Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:57.012Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

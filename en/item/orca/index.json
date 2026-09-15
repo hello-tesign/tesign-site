@@ -1,0 +1,201 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "orca",
+  "url": "https://tesign.com/en/item/orca/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/orca/",
+      "json": "https://tesign.com/item/orca/index.json",
+      "markdown": "https://tesign.com/item/orca/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/orca/",
+      "json": "https://tesign.com/en/item/orca/index.json",
+      "markdown": "https://tesign.com/en/item/orca/index.md"
+    }
+  },
+  "name": "Orca",
+  "use_label": "Run coding agents side by side",
+  "one_liner": "Runs a fleet of coding agents in parallel from one place.",
+  "text": {
+    "why": "Once several coding agents run at the same time, terminal windows and working folders start to tangle. Orca gathers them into one agent development environment, where parallel agents can be attached and detached from a single place. Agents run on the subscription you already pay for, and it is available on desktop, mobile and a remote runtime. Published under MIT.",
+    "take": "A workbench worth trying once you run more than one coding agent at a time and the terminal stops scaling.",
+    "build": [
+      "An internal dev environment with several agents attached at once",
+      "A mobile window onto work in progress while away from the desk",
+      "A shared team agent slot on a remote runtime"
+    ],
+    "who": [
+      {
+        "role": "Solo developer",
+        "situation": "runs several agents in separate worktrees"
+      },
+      {
+        "role": "Team lead",
+        "situation": "reviews agent work next to PRs and issues"
+      },
+      {
+        "role": "On-the-go developer",
+        "situation": "checks progress and replies from a phone"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Download the macOS, Windows or Linux build from onOrca.dev"
+      },
+      {
+        "command": false,
+        "text": "macOS (Homebrew):"
+      },
+      {
+        "command": true,
+        "text": "brew install --cask stablyai/orca/orca"
+      },
+      {
+        "command": false,
+        "text": "Arch Linux (AUR):"
+      },
+      {
+        "command": true,
+        "text": "yay -S stably-orca-bin"
+      },
+      {
+        "command": false,
+        "text": "Mobile: iOS App Store, TestFlight or the Android APK, then pair with the desktop"
+      }
+    ],
+    "caveat": [
+      "Bring your own agents (Claude Code, Codex, etc.) and their subscriptions",
+      "Anonymous usage telemetry is collected; the docs explain how to opt out",
+      "Ships daily, so features and screens change often"
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://onorca.dev/"
+  },
+  "ready": null,
+  "categories": [
+    "dev-tools",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "agents",
+    "ide",
+    "devtools"
+  ],
+  "platform": [
+    "macos",
+    "windows",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://onorca.dev/",
+    "github": "https://github.com/stablyai/orca",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/stablyai/orca",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 69418,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:33:57.115Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 82,
+    "star_delta_7d": 680,
+    "star_delta_30d": 1428,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      6,
+      20,
+      214,
+      222,
+      226,
+      34,
+      2,
+      28,
+      65,
+      274,
+      140,
+      88,
+      27,
+      58
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:20:32.000Z",
+    "owner_type": "Organization",
+    "open_issues": 6054,
+    "contributors": 372,
+    "releases_count": 952,
+    "latest_release": {
+      "tag": "v1.4.203",
+      "published_at": "2026-09-15T05:43:20.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:33:57.115Z",
+    "core_checked_at": "2026-09-15T19:33:57.115Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/orca-c33f9bfff9.jpg",
+    "cover": "https://tesign.com/img/orca-c33f9bfff9.jpg",
+    "cover_width": 1998,
+    "cover_height": 1250,
+    "gallery": [
+      "https://tesign.com/img/orca-c33f9bfff9.jpg",
+      "https://tesign.com/img/orca-42d365be75.jpg",
+      "https://tesign.com/img/orca-43476c459b.jpg",
+      "https://tesign.com/img/orca-ab037b0c3c.jpg"
+    ],
+    "alt": "Orca desktop: workspace list at left, Claude Code and Codex terminals side by side, and the mobile app overlaid at bottom right.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:26.628Z",
+    "source_created_at": "2026-03-17T03:28:57.000Z",
+    "discovery_hours": 4324.241563333333,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-09-13T11:32:21.464Z",
+    "first_published_at": "2026-09-13T11:32:21.801Z",
+    "updated_at": "2026-09-15T04:36:56.951Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

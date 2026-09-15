@@ -1,0 +1,210 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "breakscale",
+  "url": "https://tesign.com/en/item/breakscale/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/breakscale/",
+      "json": "https://tesign.com/item/breakscale/index.json",
+      "markdown": "https://tesign.com/item/breakscale/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/breakscale/",
+      "json": "https://tesign.com/en/item/breakscale/index.json",
+      "markdown": "https://tesign.com/en/item/breakscale/index.md"
+    }
+  },
+  "name": "Breakscale",
+  "use_label": "System-design simulator for learners",
+  "one_liner": "Browser system-design simulator: build a topology, load it until it breaks, see why",
+  "text": {
+    "why": "System design is usually taught with static diagrams and rules of thumb like 'add a cache', which never explain why p99 latency falls off a cliff past 80 percent utilisation. Breakscale runs a discrete-event simulator in the browser, with finite server slots, gamma-distributed service times and measured percentiles, so that, in the README's account of the Retry Storm example, 100 offered requests per second become 348 hitting a database that is 99.9% busy while goodput is zero. It ships 33 components and 23 examples: sixteen teaching scenarios and seven reconstructions of Netflix, Spotify, Discord and other real architectures.",
+    "take": "Instead of telling you to add a cache, it shows the numbers collapsing until you understand why.",
+    "build": [
+      "The engine in src/sim has no React or DOM dependency, so you can drive Engine from a script to generate teaching material or capacity-planning experiments, and add components or examples that model your own architecture."
+    ],
+    "who": [
+      {
+        "role": "Backend job seekers",
+        "situation": "load-test the classic system-design interview topologies yourself"
+      },
+      {
+        "role": "Mentors of junior engineers",
+        "situation": "demonstrate retry storms, circuit breakers and sharding live"
+      },
+      {
+        "role": "Service operators",
+        "situation": "thought experiments that reproduce an outage"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "# No install: https://breakscale.tech"
+      },
+      {
+        "command": false,
+        "text": "git clone https://github.com/xevrion/breakscale.git"
+      },
+      {
+        "command": false,
+        "text": "cd breakscale"
+      },
+      {
+        "command": false,
+        "text": "bun install"
+      },
+      {
+        "command": false,
+        "text": "bun dev   # http://localhost:5173"
+      }
+    ],
+    "caveat": [
+      "Licence MIT (the bundled Caveat font is separately under SIL OFL 1.1). Runs entirely in the browser with no account or telemetry, and a design stays on your machine unless you create a share link.",
+      "Running locally requires Bun. The seven real-company architectures are teaching diagrams reconstructed from published material, not insider knowledge, as the README states.",
+      "Workers IO (YC F26) is listed as title sponsor."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://breakscale.tech/"
+  },
+  "ready": "browser",
+  "categories": [
+    "education",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "system-design",
+    "distributed-systems",
+    "simulator",
+    "education",
+    "queueing-theory",
+    "react"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://breakscale.tech/",
+    "github": "https://github.com/xevrion/breakscale",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/xevrion/breakscale",
+        "posted_at": "2026-09-04T12:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1156,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:35:08.110Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": 9,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      5,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "education",
+        "label": "EDUCATION",
+        "rank": 6
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-14T23:10:50.000Z",
+    "owner_type": "User",
+    "open_issues": 14,
+    "contributors": 14,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-15T19:35:08.110Z",
+    "core_checked_at": "2026-09-15T19:35:08.110Z"
+  },
+  "signals": [
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/breakscale-3ba86788af.png",
+    "cover": "https://tesign.com/img/breakscale-3ba86788af.png",
+    "cover_width": 1529,
+    "cover_height": 784,
+    "gallery": [
+      "https://tesign.com/img/breakscale-3ba86788af.png",
+      "https://tesign.com/img/breakscale-c619065b43.png"
+    ],
+    "alt": "Breakscale's Retry Storm example: a top bar reading 100 requests per second offered, goodput 0/s, errors 100% and 118/s dropped, a canvas with Client → API Server → Database boxes showing the database 99.9% busy, and a handwritten-style explanation below",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T09:39:49.913Z",
+    "source_created_at": "2026-08-23T06:21:21.000Z",
+    "discovery_hours": 507.3080313888889,
+    "launch_signal_at": "2026-09-04T12:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.638Z",
+    "first_published_at": "2026-09-14T19:27:43.752Z",
+    "updated_at": "2026-09-15T04:36:56.813Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}

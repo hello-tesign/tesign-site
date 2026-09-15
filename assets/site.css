@@ -154,6 +154,17 @@ a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-unde
 .milestone-row__kind{font:600 var(--t2)/1.4 var(--mono);color:var(--accent);white-space:nowrap;grid-column:1/-1}.milestone-row__kind--new{color:var(--early)}.milestone-row__kind--leader{color:var(--rising)}
 .milestone-row__body{min-width:0;align-self:stretch;display:flex;flex-direction:column}.milestone-row__name{font-size:var(--t4);font-weight:600}.milestone-row__note{display:block;font:var(--t2)/1.4 var(--mono);color:var(--muted)}.milestone-row .chip{margin:var(--s1) 0 0}
 @media(min-width:640px){.milestone-row{grid-template-columns:var(--thumb-w) minmax(0,1fr)}}
+/* §4-A /numbers/ (2026-09-15): figure grid, token-filled inline SVG bars (viewBox units, no px), tables reuse .compare and its stacked phone layout */
+.numbers__block{margin:var(--s5) 0 0;max-width:680px}.numbers__block .h-mono{margin:0 0 var(--s2)}
+.figures{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:var(--s3);margin:0}
+.figure{min-width:0}.figure dt{font:var(--t1)/1.4 var(--mono);color:var(--muted)}.figure dd{margin:0;font-size:var(--t6);line-height:1.1;font-weight:700;letter-spacing:-.02em}
+.nbars{list-style:none;margin:0;padding:0;display:grid;gap:var(--s1)}
+.nbar{display:grid;grid-template-columns:minmax(0,9em) minmax(0,1fr) auto;gap:var(--s1) var(--s2);align-items:center;font-size:var(--t3);line-height:1.5}
+.nbar__label{min-width:0}.nbar__svg{display:block;width:100%;height:var(--s1)}.nbar__track{fill:var(--line)}.nbar__fill{fill:var(--accent)}
+.nbar__value{font:var(--t2)/1.4 var(--mono);color:var(--muted);white-space:nowrap}
+.numbers__how{font:var(--t2)/1.6 var(--mono);color:var(--muted);max-width:40em;margin:var(--s2) 0 0}.numbers__asof{display:block;font:var(--t2)/1.6 var(--mono);color:var(--muted)}
+.compare--numbers td:nth-child(5),.compare--numbers td:nth-child(6){white-space:nowrap}
+@media(max-width:639px){.nbar{grid-template-columns:minmax(0,1fr) auto}.nbar__label,.nbar__value{grid-row:1}.nbar__value{grid-column:2}.nbar__svg{grid-column:1/-1;grid-row:2}}
 @media(min-width:1100px){.home-rankings__columns--3{grid-template-columns:repeat(3,minmax(0,1fr))}}
 /* §B4 (pass B3) home 2×2: with the fourth cell (스토어 히트 5) the block stays two columns on wide screens — 급상승 | 역대 over 이정표 | 스토어; phones stack as before */
 .home-store__caption{font:var(--t2)/1.4 var(--mono);color:var(--muted);margin:0 0 var(--s1);max-width:40em}
@@ -169,7 +180,17 @@ a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-unde
 @media(min-width:900px){.store-row{grid-template-columns:2.5em 72px minmax(0,1.2fr) minmax(0,1fr)}.store-row .ranking-row__evidence{grid-column:4}}
 /* Data cards (week B3): the auto-generated label, rank line, topic tags, README paragraphs and timeline. */
 .card-label{margin:0 0 var(--s3);padding:var(--s1) var(--s2);border:1px solid var(--early);border-radius:var(--r-card);color:var(--early);font:600 var(--t2)/1.4 var(--mono);letter-spacing:.04em}
-.card-ranks,.item-ranks{font:var(--t2)/1.6 var(--mono);margin:0 0 var(--s3);max-width:40em}.card-ranks a,.item-ranks a{color:var(--accent)}.card-ranks .chip__asof,.item-ranks .chip__asof{display:block}
+.card-ranks,.item-ranks{font:var(--t2)/1.6 var(--mono);margin:0 0 var(--s3);max-width:40em}.card-ranks a,.item-ranks a{color:var(--accent)}.card-ranks .chip__asof,.item-ranks .chip__asof,.glance .chip__asof{display:block}.glance dd time{white-space:nowrap}
+/* §4-B (2026-09-16) item page: the trust line ("별 12,340 · GitHub에서 … 확인 · 7일 +1,120은 GH Archive 관측") under the chip, the ranks as linked pills, the 24 h+ stale flag in the --early colour */
+.item-trust{font:var(--t2)/1.6 var(--mono);color:var(--muted);margin:0 0 var(--s2);max-width:60em}.item-trust b{color:var(--fg);font-weight:600;white-space:nowrap}.item-trust time{color:var(--fg);white-space:nowrap}
+.item-trust__stale{display:inline-block;color:var(--early);border:1px solid currentColor;border-radius:var(--r-chip);padding:0 var(--s1);font-weight:600;white-space:nowrap}
+.item-ranks{display:flex;flex-wrap:wrap;align-items:center;gap:var(--s1)}.item-ranks .h-mono{margin:0}
+.rank-badge{display:inline-flex;align-items:center;min-height:var(--s3);padding:2px var(--s1);border:1px solid var(--accent);border-radius:var(--r-chip);color:var(--accent);font:600 var(--t2)/1.4 var(--mono);white-space:nowrap}.rank-badge:hover{background:var(--accent);color:var(--bg);text-decoration:none}
+/* §4-E (2026-09-16) item page: the machine-export line under the receipt — the same facts as index.md / index.json beside the page */
+.item-export{font:var(--t2)/1.6 var(--mono);color:var(--muted);margin:var(--s2) 0 0;max-width:40em}.item-export a{color:var(--accent);display:inline-block;padding-block:calc((var(--tap) - 1lh) / 2);margin-block:calc((1lh - var(--tap)) / 2)}
+/* §4-C category head ("순위 대상 저장소 n개 · 중간 별 ★ x · 7일 증가 중간 +y", the reference time right under it) and the home hero proof line under the count */
+.ranking-facts{font:var(--t2)/1.6 var(--mono);color:var(--fg);margin:var(--s2) 0 0;max-width:60em}.ranking-facts a{color:var(--accent);white-space:nowrap}
+.mast__proof{font:var(--t2)/1.6 var(--mono);color:var(--muted);margin:0 0 var(--s3);max-width:40em}.mast .mast__proof{margin-top:calc(-1 * var(--s2))}.mast__proof a{color:var(--accent)}.mast__proof time{color:var(--fg);white-space:nowrap}
 .card-topics{display:flex;flex-wrap:wrap;gap:var(--s1);list-style:none;margin:0;padding:0}.card-topics li{font:var(--t2)/1.4 var(--mono);color:var(--muted);border:1px solid var(--line);border-radius:var(--r-chip);padding:0 var(--s1)}
 .card-readme{margin:var(--s4) 0;max-width:680px}.card-readme p{font-size:var(--t4);line-height:1.6;margin:0 0 var(--s2)}.card-readme__note,.timeline__note,.card-foot{font:var(--t2)/1.6 var(--mono);color:var(--muted);max-width:40em}
 .timeline{margin:var(--s4) 0;max-width:680px}.timeline ol{list-style:none;margin:0;padding:0}.timeline li{display:grid;grid-template-columns:minmax(0,1fr);gap:var(--s1) var(--s2);padding:var(--s1) 0;border-top:1px solid var(--line);font-size:var(--t3)}.timeline time{font:var(--t2)/1.4 var(--mono);color:var(--muted)}
@@ -197,6 +218,27 @@ a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-unde
 .timeline .warn{color:var(--early)}
 @media(max-width:639px){.compare thead{display:none}.compare,.compare tbody,.compare tr{display:block}.compare tr{padding:var(--s2) 0;border-top:1px solid var(--line)}.compare th,.compare td{display:grid;grid-template-columns:7em minmax(0,1fr);gap:var(--s1);border-top:0;padding:0}.compare th::before,.compare td::before{content:attr(data-label);font:var(--t1)/1.4 var(--mono);color:var(--muted)}.compare th>small,.compare td>small,.compare th>.use{grid-column:2}.compare__row--current th{padding-left:0;border-left:0}.compare__row--current{border-left:2px solid var(--accent);padding-left:var(--s1)}
 .compare .compare__thumb{display:block;width:auto;padding:0 0 var(--s1)}.compare .compare__thumb::before{display:none}.compare .compare__image{width:100%}}
+/* §4-F (2026-09-16) compare pages: two heads (name · 쓸모 한 줄) over a three-column fact table (fact label | A | B; the phone layout stacks label over value), then the who block;
+   the numbers page ends with the "비교 보기 · 게임" sections; the game board is two panel cards around a mono "vs", the revealed total in the figure size */
+.numbers__more{margin:var(--s5) 0 0;max-width:680px}.numbers__more .h-mono{margin:0 0 var(--s2)}.numbers__more .similar__note{margin-top:var(--s2)}
+.versus__heads{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--s3);margin:var(--s3) 0}.versus__head{min-width:0}.versus__head .use{white-space:normal}
+.versus__name{font-size:var(--t5);line-height:1.3;font-weight:600;margin:0 0 var(--s1)}.versus__name a{display:inline-block;padding-block:calc((var(--tap) - 1lh) / 2);margin-block:calc((1lh - var(--tap)) / 2)}
+.compare--versus tbody th{font:var(--t2)/1.5 var(--mono);color:var(--muted);font-weight:400}.compare--versus td{white-space:normal}.compare--versus td small{white-space:normal}.compare--versus td>.ready{justify-self:start}.versus .similar__note{margin-top:var(--s3)}
+.versus__who{margin:var(--s4) 0;max-width:680px}.versus__who dl{display:grid;grid-template-columns:1fr;gap:var(--s1) var(--s3);margin:0}.versus__who dt{font-weight:600}.versus__who dd{margin:0;color:var(--muted)}
+.versus-list .row__facts{margin-top:var(--s1)}
+.game__board{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:var(--s2);align-items:stretch;margin:var(--s4) 0 var(--s2);scroll-margin-top:calc(var(--head-h) + var(--s2))}
+.game__card{display:flex;flex-direction:column;gap:var(--s1);min-width:0;padding:var(--s3);border:1px solid var(--line);border-radius:var(--r-card);background:var(--panel)}
+.game__card--win{border-color:var(--rising)}.game__card--lose{border-color:var(--early)}
+.game__name{font-size:var(--t5);line-height:1.3;font-weight:600;margin:0}.game__cat{font:var(--t1)/1.4 var(--mono);color:var(--muted);margin:0}
+.game__stars{font-size:var(--t6);line-height:1.1;font-weight:700;letter-spacing:-.02em;margin:var(--s1) 0 0}.game__checked{font:var(--t1)/1.4 var(--mono);color:var(--muted);margin:0}
+.game__card .btn{margin-top:auto}.game__link{display:inline-flex;align-items:center;min-height:var(--tap);color:var(--accent);font-size:var(--t3)}
+.game__vs{align-self:center;font:var(--t2)/1.4 var(--mono);color:var(--muted)}
+.game__result{font-size:var(--t5);line-height:1.5;font-weight:600;min-height:1.5em;margin:0}.game__result--ok{color:var(--rising)}.game__result--no{color:var(--early)}
+.game__streak{font:var(--t2)/1.6 var(--mono);color:var(--muted);margin:var(--s1) 0 var(--s3)}.game .similar__note{margin-top:var(--s3)}
+/* the pick buttons, the entry links, the board and the next button are toggled with the hidden attribute: their display rules (.btn inline-flex, .game__link inline-flex, grid) must not beat it (precedent .pager[hidden]) */
+.game [hidden]{display:none}
+@media(max-width:639px){.versus__heads{grid-template-columns:minmax(0,1fr)}.compare--versus th,.compare--versus td{grid-template-columns:minmax(0,1fr)}.compare--versus th>small,.compare--versus td>small{grid-column:1}.compare--versus tbody th::before{display:none}.compare--versus tbody th{color:var(--fg);font-weight:600}.game__board{grid-template-columns:minmax(0,1fr)}.game__vs{justify-self:center}}
+@media(min-width:640px){.versus__who dl{grid-template-columns:12em minmax(0,1fr)}}
 .shell{max-width:calc(var(--shell) + var(--pad) * 2)}
 .site-head{background:var(--bg);text-shadow:none}
 .hudline{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:var(--s2);align-items:start;width:var(--plate-w);margin:0 0 var(--s2);font:var(--t1)/1.4 var(--mono);color:var(--muted)}
@@ -237,7 +279,9 @@ a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-unde
 .gallery__nav{display:flex;gap:var(--s2);margin-top:var(--s2)}.gallery__nav a{display:block;width:96px;min-height:50px;aspect-ratio:1200/630;border:1px solid var(--line);border-radius:var(--r-img);overflow:hidden}.gallery__nav a:hover,.gallery__nav a:focus-visible{border-color:var(--fg)}.gallery__nav img,.gallery__nav picture{width:100%;height:100%;object-fit:contain}
 .take{border-left:2px solid var(--accent);padding:var(--s1) 0 var(--s1) var(--s2);margin:var(--s4) 0}.take .h-mono{margin:0 0 var(--s1)}.take p{font-size:var(--t5);line-height:1.45;font-weight:600;margin:0}
 .glance,.who dl,.receipt{display:grid;grid-template-columns:1fr;gap:var(--s1) var(--s3)}.glance{max-width:680px;border-block:1px solid var(--line);padding:var(--s2) 0;font-size:var(--t4)}.glance dt,.receipt dt{font:var(--t1)/1.4 var(--mono);color:var(--muted)}.glance dd,.receipt dd,.who dd{margin:0}.who dt{font-weight:600}.who dd{color:var(--muted)}.receipt{padding:var(--s2) 0}
-.start__body{position:relative}.start pre,.prose pre{overflow-wrap:anywhere}.start pre{background:var(--panel);border:1px solid var(--line);border-radius:var(--r-card);padding:calc(var(--s5) + var(--s1)) var(--s2) var(--s2);font:var(--t2)/1.6 var(--mono)}.start__comment{color:var(--muted)}.start__copy{position:absolute;right:var(--s1);top:var(--s1);min-height:var(--tap);height:auto;width:auto;padding:0 var(--s2);font-size:var(--t1)}.caveat ul{list-style:"—  ";font-size:var(--t4);opacity:.85}
+.start__body{position:relative}.start pre,.prose pre{overflow-wrap:anywhere}
+/* a row name with no break opportunity (e.g. an App Store title joined with ㆍ, 26 chars) must not scroll the page: anywhere only bites when no word boundary exists (store all-view, 390 px, 2026-09-15) */
+.ranking-row__link{max-width:100%;overflow-wrap:anywhere}.start pre{background:var(--panel);border:1px solid var(--line);border-radius:var(--r-card);padding:calc(var(--s5) + var(--s1)) var(--s2) var(--s2);font:var(--t2)/1.6 var(--mono)}.start__comment{color:var(--muted)}.start__copy{position:absolute;right:var(--s1);top:var(--s1);min-height:var(--tap);height:auto;width:auto;padding:0 var(--s2);font-size:var(--t1)}.caveat ul{list-style:"—  ";font-size:var(--t4);opacity:.85}
 .related__tiles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--s3)}
 /* A3 list rows: phones stack the full-width thumbnail over "13 · name"; tablets put it in a var(--thumb-w) column; the row is at least thumbnail + 2 × --s3 tall and clips the image box */
 .row--thumb{grid-template-columns:2.8em minmax(0,1fr);align-items:start}.row--thumb .row__image{grid-column:1/-1;order:-1;margin:0;border-radius:var(--r-img);overflow:hidden}

@@ -1,0 +1,208 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-15T19:35:46.385Z",
+  "lang": "en",
+  "slug": "pdfx",
+  "url": "https://tesign.com/en/item/pdfx/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/pdfx/",
+      "json": "https://tesign.com/item/pdfx/index.json",
+      "markdown": "https://tesign.com/item/pdfx/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/pdfx/",
+      "json": "https://tesign.com/en/item/pdfx/index.json",
+      "markdown": "https://tesign.com/en/item/pdfx/index.md"
+    }
+  },
+  "name": "PDFx",
+  "use_label": "Bundle many PDFs into one valid PDF",
+  "one_liner": "Bundles many PDFs into one file that is still a valid PDF; its viewer splits them back",
+  "text": {
+    "why": "The whole format extension is one embedded file attachment, `pdfx-manifest.json` (SPEC.md, version 1.0 draft). Any PDF viewer therefore shows every page in sequence, and PDFx restores the document boundaries. The viewer is Electron with pdf.js and pdf-lib for macOS, Windows and Linux: drop PDFs, images or folders in, each document renders as a horizontal strip of pages, documents stack vertically, reorder them and Export PDF writes one file.",
+    "take": "The point is that this is not a new file format but a PDF with one JSON sheet inside, so the receiving side installs nothing.",
+    "build": [
+      "Because the spec is one JSON manifest, adding PDFx read/write to your own tool is small work — for example a back-office export that ships invoices and contracts as one file."
+    ],
+    "who": [
+      {
+        "role": "Office workers who send document sets",
+        "situation": "a review packet as one file"
+      },
+      {
+        "role": "Developers",
+        "situation": "add bundled-PDF support to an app from the manifest spec"
+      },
+      {
+        "role": "PDF tool users",
+        "situation": "reorder documents on the canvas and Export"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "yarn              # install"
+      },
+      {
+        "command": false,
+        "text": "yarn dev          # run in development"
+      },
+      {
+        "command": false,
+        "text": "yarn dev:web      # run on the web"
+      },
+      {
+        "command": false,
+        "text": "yarn build:mac    # build:win for windows, build:linux for linux"
+      },
+      {
+        "command": false,
+        "text": "Live demo: https://pdfx.zip"
+      }
+    ],
+    "caveat": [
+      "MIT. The viewer targets macOS, Windows and Linux (Electron), but the README's only download badge carries an Apple mark; for Windows and Linux it gives only the build:win / build:linux commands (prebuilt downloads [확인 필요]). The optional AI assistant needs your own provider API key (Google, Anthropic or OpenAI), so usage costs are yours. The spec is a 1.0 draft. Last push 2026-08-16."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://pdfx.zip/"
+  },
+  "ready": "browser",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "pdf",
+    "electron",
+    "file-format",
+    "document-bundle",
+    "pdfjs"
+  ],
+  "platform": [
+    "macos",
+    "windows",
+    "linux",
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://pdfx.zip/",
+    "github": "https://github.com/alexandrosgounis/pdfx",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/alexandrosgounis/pdfx",
+        "posted_at": "2026-06-26T23:00:00.000Z",
+        "hn_url": null
+      },
+      {
+        "source": "showhn",
+        "url": "https://github.com/alexandrosgounis/pdfx/",
+        "posted_at": "2026-06-29T16:17:38.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=48721197"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-15T15:00:00.000Z",
+    "stars": 1062,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T19:34:38.109Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 1,
+    "hn_points_observed_at": "2026-09-13T15:40:11.518Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-08-16T23:41:02.000Z",
+    "owner_type": "User",
+    "open_issues": 3,
+    "contributors": 5,
+    "releases_count": 2,
+    "latest_release": {
+      "tag": "v0.2.0",
+      "published_at": "2026-08-10T17:42:19.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-15T19:34:38.109Z",
+    "core_checked_at": "2026-09-15T19:34:38.109Z"
+  },
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "GitHub + Show HN"
+    },
+    {
+      "kind": "back",
+      "label": "BACK CATALOG",
+      "value": null
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/pdfx-c0957268ce.webp",
+    "cover": "https://tesign.com/img/pdfx-c0957268ce.webp",
+    "cover_width": 1600,
+    "cover_height": 1084,
+    "gallery": [
+      "https://tesign.com/img/pdfx-c0957268ce.webp"
+    ],
+    "alt": "The PDFx viewer — a canvas where each document is a horizontal strip of page thumbnails and documents stack vertically",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T08:30:33.839Z",
+    "source_created_at": "2026-06-29T16:17:38.000Z",
+    "discovery_hours": 1816.2155108333334,
+    "launch_signal_at": "2026-06-26T23:00:00.000Z",
+    "kept_at": "2026-09-14T19:27:43.489Z",
+    "first_published_at": "2026-09-14T19:27:43.735Z",
+    "updated_at": "2026-09-15T04:36:56.963Z",
+    "ingestion_mode": "backfill"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "Reconstructed from archive data, not a live discovery.",
+    "A summary, not legal advice."
+  ]
+}
