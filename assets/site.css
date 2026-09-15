@@ -101,6 +101,21 @@ a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-unde
 .site-foot a{display:inline-flex;align-items:center;min-height:44px}.site-foot address{font-style:normal;display:inline-flex}
 .site-foot__main a{font-size:var(--t2);letter-spacing:.08em;color:var(--muted)}.site-foot__main a:hover{color:var(--fg)}
 .site-foot__more{font-size:var(--t1);color:var(--muted)}.site-foot__more a{color:var(--muted)}.site-foot__more a:hover{color:var(--fg)}
+/* D2 (2026-09-15) "놓치지 않기": the re-visit block — home: its own snap section after the lobby, above the footer; other pages: the top of the footer.
+   Links are 44px tap targets, the RSS tag a t1 mono label, the RSS hint + email line one muted paragraph */
+.follow{max-width:calc(var(--shell) + var(--pad) * 2);margin:auto;padding:var(--s5) var(--pad);border-top:1px solid var(--line);scroll-snap-align:start;scroll-margin-top:var(--head-h)}.follow .h-mono{margin:0 0 var(--s2)}
+.follow__list{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:0 var(--s3)}.follow__list li{display:inline-flex;align-items:center;flex-wrap:wrap;gap:0 var(--s1)}
+.follow__link{display:inline-flex;align-items:center;min-height:var(--tap);font-size:var(--t4);font-weight:600;color:var(--fg)}.follow__link:hover{color:var(--accent)}
+.follow__kind{font:var(--t1)/1.4 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.follow__note{font-size:var(--t3);line-height:1.5;color:var(--muted);margin:var(--s2) 0 0;max-width:40em}
+.follow--foot{max-width:none;margin:0;padding:0 0 var(--s2);border-top:0;border-bottom:1px solid var(--line)}.follow--foot .h-mono{margin:0 0 var(--s1)}.follow--foot .follow__link{font-size:var(--t3);font-weight:500}.follow--foot .follow__note{font-size:var(--t2);margin-top:var(--s1)}
+/* D2 weekly head "이번 주 놓치면 아쉬운 5개": five compact rows (number · name · 쓸모 한 줄 · chip) above the week's sheet; one row per line on phones, five columns from 900px */
+.follow-week__rows{margin:0 0 var(--s4)}.follow-week .row{grid-template-columns:2.8em minmax(0,1fr);align-items:start;min-height:0;padding:var(--s2) 0;border-bottom:0;border-top:1px solid var(--line)}.follow-week .row__name{font-size:var(--t4)}
+@media(min-width:900px){.follow-week__rows{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:0 var(--s3)}}
+/* D3 (2026-09-15) "저장한 것": the link in the header tools and the footer row — a 44px text link, the count (hidden at zero) in accent mono; the saved page reuses the list rows with a small remove button */
+.saved-link{display:inline-flex;align-items:center;gap:var(--s1);min-height:var(--tap);font-size:var(--t2);letter-spacing:.08em;color:var(--muted);white-space:nowrap}.saved-link:hover{color:var(--fg);text-decoration:none}
+.saved-link__count{font:var(--t1)/1.4 var(--mono);letter-spacing:0;color:var(--accent)}
+.rows .saved__remove{height:auto;min-height:var(--tap);width:auto;align-self:flex-start;padding:0 var(--s2);margin-top:var(--s1);font-size:var(--t1)}
 /* Bauhaus v3: contact sheet, evidence, themes and time. */
 /* A3 thumbnails: one 16:10 box for every list (120px on tablets, 160px from 900px, the full column on phones); --thumb-h follows the width */
 :root{--thumb-w:120px;--thumb-h:calc(var(--thumb-w) * .625);--sheet-gap:var(--s2);--chip-bg:var(--panel);--chip-fg:var(--fg);--up:var(--rising)}
@@ -157,7 +172,7 @@ a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-unde
 .compare .compare__thumb{width:var(--thumb-w)}.compare__image{width:var(--thumb-w)}
 .compare__row--current>*{background:var(--panel)}.compare__row--current th{border-left:2px solid var(--accent);padding-left:var(--s1)}.compare__current{color:var(--accent)}
 .timeline .warn{color:var(--early)}
-@media(max-width:639px){.compare thead{display:none}.compare,.compare tbody,.compare tr{display:block}.compare tr{padding:var(--s2) 0;border-top:1px solid var(--line)}.compare th,.compare td{display:grid;grid-template-columns:7em minmax(0,1fr);gap:var(--s1);border-top:0;padding:0}.compare th::before,.compare td::before{content:attr(data-label);font:var(--t1)/1.4 var(--mono);color:var(--muted)}.compare th>small,.compare td>small{grid-column:2}.compare__row--current th{padding-left:0;border-left:0}.compare__row--current{border-left:2px solid var(--accent);padding-left:var(--s1)}
+@media(max-width:639px){.compare thead{display:none}.compare,.compare tbody,.compare tr{display:block}.compare tr{padding:var(--s2) 0;border-top:1px solid var(--line)}.compare th,.compare td{display:grid;grid-template-columns:7em minmax(0,1fr);gap:var(--s1);border-top:0;padding:0}.compare th::before,.compare td::before{content:attr(data-label);font:var(--t1)/1.4 var(--mono);color:var(--muted)}.compare th>small,.compare td>small,.compare th>.use{grid-column:2}.compare__row--current th{padding-left:0;border-left:0}.compare__row--current{border-left:2px solid var(--accent);padding-left:var(--s1)}
 .compare .compare__thumb{display:block;width:auto;padding:0 0 var(--s1)}.compare .compare__thumb::before{display:none}.compare .compare__image{width:100%}}
 .shell{max-width:calc(var(--shell) + var(--pad) * 2)}
 .site-head{background:var(--bg);text-shadow:none}
@@ -175,8 +190,18 @@ a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-unde
 .tile{display:flex;flex-direction:column;min-width:0;text-decoration:none}.tile:hover{text-decoration:none}.tile:hover .tile__name{color:var(--accent)}.tile:hover .tile__image{border-color:var(--fg)}
 .tile__image{display:grid;grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr);place-items:center;aspect-ratio:1200/630;background:var(--plate);border:1px solid var(--line);border-radius:var(--r-img);overflow:hidden}
 .tile__image picture,.tile__image img{width:100%;height:100%;object-fit:contain;min-height:0}.tile--card .tile__image,.tile__image--card{background:var(--panel)}
-.tile__name{display:block;font-size:var(--t4);font-weight:600;margin:0 0 var(--s1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.covers .tile__name{margin:var(--s1) 0 0}.tile__line{display:block;color:var(--muted);font-size:var(--t3);line-height:1.5;margin-top:auto;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.mast .tile__line{display:none}.mast .tile__name{font-size:var(--t3)}
+.tile__name{display:block;font-size:var(--t4);font-weight:600;margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.covers .tile__name{margin:var(--s1) 0 0}
+/* D1 (2026-09-15): the one-liner is back on every tile (the home sheet used to hide it) as a two-line clamp that always reserves two lines, so the chips on one row keep sharing a height */
+.tile__line{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;color:var(--muted);font-size:var(--t3);line-height:1.5;min-height:3em;margin-top:auto}
+.mast .tile__name{font-size:var(--t3)}
+/* D1 쓸모 한 줄: one "who + what" line in --accent under every name — tiles (above the image), list rows, the comparison table; the item header carries it at --t4 with the "누가 쓰나" roles line */
+.use{display:block;font-size:var(--t2);line-height:1.4;font-weight:600;color:var(--accent);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.tile__use{margin:0 0 var(--s1)}
+/* F2/U1 (2026-09-15): in a ~130px tile column and the five-column weekly head the one line was an ellipsis ("에이전트 사용자용 맥…"), so there it wraps to two lines instead (precedent .covers .tile__line); tiles reserve both lines so the images on a row stay top-aligned */
+.tile__use,.follow-week .use{white-space:normal;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2}.tile__use{min-height:2.8em}
+/* D4 바로 쓰기 배지: one small mono label derived from cta + platform (ready.ts); "설치 없이 바로" takes the rising green, the rest stay muted. Under the image on tiles, under the one-liner in rows, its own line in the item header */
+.ready{display:inline-block;max-width:100%;font:var(--t1)/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);border-radius:var(--r-chip);padding:0 var(--s1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;vertical-align:middle}
+.ready--browser{color:var(--rising);border-color:currentColor}.tile__ready,.row__body .ready{align-self:flex-start;margin:var(--s1) 0 0}.item__ready{margin:var(--s1) 0 0}
+.item__use{font-size:var(--t4);line-height:1.5;font-weight:600;color:var(--accent);margin:var(--s2) 0 0}.item__who{font-size:var(--t3);line-height:1.5;color:var(--muted);margin:var(--s1) 0 0}.item__who span{font:var(--t1)/1.4 var(--mono);letter-spacing:.12em;text-transform:uppercase;margin-right:var(--s1)}.item__who b{color:var(--fg);font-weight:500}
 .lobby{max-width:calc(var(--shell) + var(--pad) * 2);margin:auto;padding:calc(var(--s4) * 2) var(--pad);scroll-snap-align:start;scroll-margin-top:var(--head-h)}
 .lobby .h-mono{margin:var(--s3) 0 var(--s2);display:flex;justify-content:space-between;gap:var(--s2)}.covers{display:grid;grid-template-columns:1fr;gap:var(--s3);margin:var(--s4) 0}
 /* A4: a collection cover carries one sentence (up to two lines) and the "앱 n개 / n apps" count at its foot */
