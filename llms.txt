@@ -22,28 +22,30 @@
 
 ## All-time by category
 
-- [Top 20 · AI](https://tesign.com/en/top/ai/): 20 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · DEV TOOLS](https://tesign.com/en/top/dev-tools/): 20 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · DESIGN](https://tesign.com/en/top/design/): 20 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · PRODUCTIVITY](https://tesign.com/en/top/productivity/): 20 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · DATA](https://tesign.com/en/top/data/): 20 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · INFRA](https://tesign.com/en/top/infra/): 20 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 8 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · COMMERCE](https://tesign.com/en/top/commerce/): 3 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · MEDIA](https://tesign.com/en/top/media/): 20 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · EDUCATION](https://tesign.com/en/top/education/): 5 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · GAMES](https://tesign.com/en/top/games/): 7 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · FINANCE](https://tesign.com/en/top/finance/): 4 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · SOCIAL](https://tesign.com/en/top/social/): 20 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · API](https://tesign.com/en/top/api/): 8 tools; the same formula within the classifier's category; categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · AI](https://tesign.com/en/top/ai/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · DEV TOOLS](https://tesign.com/en/top/dev-tools/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · DESIGN](https://tesign.com/en/top/design/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · PRODUCTIVITY](https://tesign.com/en/top/productivity/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · DATA](https://tesign.com/en/top/data/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · INFRA](https://tesign.com/en/top/infra/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 9 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · COMMERCE](https://tesign.com/en/top/commerce/): 7 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · MEDIA](https://tesign.com/en/top/media/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · EDUCATION](https://tesign.com/en/top/education/): 6 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · GAMES](https://tesign.com/en/top/games/): 7 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · SCIENCE](https://tesign.com/en/top/science/): 3 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · FINANCE](https://tesign.com/en/top/finance/): 4 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · SOCIAL](https://tesign.com/en/top/social/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · HARDWARE](https://tesign.com/en/top/hardware/): 3 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · API](https://tesign.com/en/top/api/): 7 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 27 observed events in the last 30 days (9 star-threshold crossings, 17 new repositories, 1 rising leaders), as of 2026-09-14T19:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 27 observed events in the last 30 days (9 star-threshold crossings, 17 new repositories, 1 rising leaders), as of 2026-09-14T23:00:00.000Z; method at /en/about/#ranks
 
 ## Repository cards
 
-- [380 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
+- [366 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
 
 ## RSS
 
