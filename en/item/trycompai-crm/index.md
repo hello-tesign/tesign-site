@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/trycompai-crm/
 - JSON: https://tesign.com/en/item/trycompai-crm/index.json
 - Korean Markdown: https://tesign.com/item/trycompai-crm/index.md
-- Generated: 2026-09-17 01:30 UTC
+- Generated: 2026-09-17 01:56 UTC
 
 ## RANKS
 

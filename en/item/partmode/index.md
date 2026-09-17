@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/partmode/
 - JSON: https://tesign.com/en/item/partmode/index.json
 - Korean Markdown: https://tesign.com/item/partmode/index.md
-- Generated: 2026-09-17 01:30 UTC
+- Generated: 2026-09-17 01:56 UTC
 
 ## Numbers
 

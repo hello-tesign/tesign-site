@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/oauthcli/
 - JSON: https://tesign.com/en/item/oauthcli/index.json
 - Korean Markdown: https://tesign.com/item/oauthcli/index.md
-- Generated: 2026-09-17 01:30 UTC
+- Generated: 2026-09-17 01:56 UTC
 
 ## Numbers
 

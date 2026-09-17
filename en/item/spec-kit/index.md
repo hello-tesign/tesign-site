@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/spec-kit/
 - JSON: https://tesign.com/en/item/spec-kit/index.json
 - Korean Markdown: https://tesign.com/item/spec-kit/index.md
-- Generated: 2026-09-17 01:30 UTC
+- Generated: 2026-09-17 01:56 UTC
 
 ## RANKS
 

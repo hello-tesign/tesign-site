@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/museum-of-source-code/
 - JSON: https://tesign.com/item/museum-of-source-code/index.json
 - 영어 마크다운: https://tesign.com/en/item/museum-of-source-code/index.md
-- 생성 시각: 2026-09-17 01:30 UTC
+- 생성 시각: 2026-09-17 01:56 UTC
 
 ## 숫자
 

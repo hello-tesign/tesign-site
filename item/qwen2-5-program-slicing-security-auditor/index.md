@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/qwen2-5-program-slicing-security-auditor/
 - JSON: https://tesign.com/item/qwen2-5-program-slicing-security-auditor/index.json
 - 영어 마크다운: https://tesign.com/en/item/qwen2-5-program-slicing-security-auditor/index.md
-- 생성 시각: 2026-09-17 01:30 UTC
+- 생성 시각: 2026-09-17 01:56 UTC
 
 ## 숫자
 
