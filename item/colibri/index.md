@@ -5,17 +5,17 @@
 - 페이지: https://tesign.com/item/colibri/
 - JSON: https://tesign.com/item/colibri/index.json
 - 영어 마크다운: https://tesign.com/en/item/colibri/index.md
-- 생성 시각: 2026-09-15 20:32 UTC
+- 생성 시각: 2026-09-17 01:30 UTC
 
 ## 순위
 
-- 역대 188위 · 이번 주 급상승 7위 · 인프라 분야 10위 (기준 2026-09-15 15:00 UTC)
+- 역대 185위 · 이번 주 급상승 7위 · 인프라 분야 10위 (기준 2026-09-16 21:00 UTC)
 
 ## 숫자
 
-- 별 33,542 — GitHub에서 2026-09-15 19:33 UTC 확인
-- 7일 +696은 GH Archive 관측 (기준 2026-09-15 15:00 UTC)
-- 24h +180 ★ · 30d +743 ★ (기준 2026-09-15 15:00 UTC)
+- 별 33,753 — GitHub에서 2026-09-15 19:33 UTC 확인 (+211 확인 이후 관측)
+- 7일 +974은 GH Archive 관측 (기준 2026-09-16 21:00 UTC)
+- 24h +175 ★ · 30d +1,021 ★ (기준 2026-09-16 21:00 UTC)
 - Show HN 937점 — 2026-09-13 15:23 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
@@ -44,7 +44,7 @@
 ## 선정 신호와 근거
 
 - 교차 신호 · Show HN + GitHub
-- 상승 중 · +180 ★ / 24h
+- 상승 중 · +175 ★ / 24h
 
 ## TESIGN TAKE
 

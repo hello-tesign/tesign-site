@@ -5,11 +5,11 @@
 - Page: https://tesign.com/en/item/pdf-pocket-tools/
 - JSON: https://tesign.com/en/item/pdf-pocket-tools/index.json
 - Korean Markdown: https://tesign.com/item/pdf-pocket-tools/index.md
-- Generated: 2026-09-15 20:32 UTC
+- Generated: 2026-09-17 01:30 UTC
 
 ## Numbers
 
-- 2 Show HN points — observed 2026-09-15 11:21 UTC
+- 2 Show HN points — observed 2026-09-16 07:50 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

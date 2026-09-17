@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "en",
   "slug": "talivia",
   "url": "https://tesign.com/en/item/talivia/",
@@ -111,7 +111,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "stars": 2419,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:34:44.783Z",
@@ -144,7 +144,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -152,11 +152,6 @@
       "30d": null
     },
     "categories": [
-      {
-        "category": "data",
-        "label": "DATA",
-        "rank": 20
-      },
       {
         "category": "commerce",
         "label": "COMMERCE",

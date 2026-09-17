@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "ko",
   "slug": "archify",
   "url": "https://tesign.com/item/archify/",
@@ -106,17 +106,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
-    "stars": 63355,
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 63560,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:33:51.620Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 155,
-    "star_delta_7d": 1139,
-    "star_delta_30d": 3358,
+    "stars_observed_since_check": 205,
+    "star_delta_24h": 176,
+    "star_delta_7d": 1307,
+    "star_delta_30d": 3596,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      17,
       36,
       658,
       581,
@@ -129,7 +128,8 @@
       263,
       173,
       42,
-      119
+      206,
+      151
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -139,7 +139,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "all_time": 95,
     "rising": {
       "24h": null,
@@ -177,7 +177,7 @@
     {
       "kind": "rising",
       "label": "상승 중",
-      "value": "+155 ★ / 24h"
+      "value": "+176 ★ / 24h"
     }
   ],
   "images": {

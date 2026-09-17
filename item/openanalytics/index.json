@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "ko",
   "slug": "openanalytics",
   "url": "https://tesign.com/item/openanalytics/",
@@ -134,7 +134,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "stars": 535,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:35:20.117Z",
@@ -147,13 +147,13 @@
       null,
       null,
       null,
-      null,
       30,
       null,
       null,
       null,
       null,
       2,
+      null,
       null,
       null,
       null,

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "en",
   "slug": "caveman",
   "url": "https://tesign.com/en/item/caveman/",
@@ -107,17 +107,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
-    "stars": 105760,
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 105788,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:34:06.531Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 11,
-    "star_delta_7d": 189,
-    "star_delta_30d": 508,
+    "stars_observed_since_check": 28,
+    "star_delta_24h": 23,
+    "star_delta_7d": 222,
+    "star_delta_30d": 543,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       6,
       140,
       97,
@@ -130,7 +129,8 @@
       58,
       22,
       4,
-      7
+      19,
+      23
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -140,12 +140,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "all_time": 32,
     "rising": {
       "24h": null,
-      "7d": null,
-      "30d": 28
+      "7d": 49,
+      "30d": 29
     },
     "categories": [
       {

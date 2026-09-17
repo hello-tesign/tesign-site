@@ -1,0 +1,182 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-17T01:30:50.007Z",
+  "lang": "ko",
+  "slug": "podroid",
+  "url": "https://tesign.com/item/podroid/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/podroid/",
+      "json": "https://tesign.com/item/podroid/index.json",
+      "markdown": "https://tesign.com/item/podroid/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/podroid/",
+      "json": "https://tesign.com/en/item/podroid/index.json",
+      "markdown": "https://tesign.com/en/item/podroid/index.md"
+    }
+  },
+  "name": "Podroid",
+  "use_label": "폰용 리눅스 컨테이너 VM",
+  "one_liner": "루트 권한 없이 안드로이드 폰에서 별도 커널을 가진 진짜 알파인 리눅스 VM을 띄워, Podman·Docker·LXC를 서버와 똑같이 돌립니다.",
+  "text": {
+    "why": "안드로이드에서 리눅스 컨테이너를 돌리는 앱들은 대개 chroot나 proot 흉내로 동작해 진짜 컨테이너 런타임이 아닙니다. Podroid는 QEMU(또는 지원 기기에서는 pKVM 가속 AVF)로 자체 커널을 가진 진짜 VM을 띄우기 때문에 Podman·Docker·LXC가 서버에서와 동일하게 동작합니다. 122가지 색 테마의 xterm-256color 터미널, GUI 리눅스 앱을 띄우는 X11 뷰어, USB 패스스루, SSH, 포트포워딩, 안드로이드와의 브리지까지 포함되어 있고 루트가 필요 없습니다.",
+    "take": "\"안드로이드에서도 진짜 커널을 가진 VM\"이라는 주장을 QEMU·pKVM AVF라는 구체적인 근거로 뒷받침하는 게, 흔한 chroot 흉내 앱들과 다른 지점입니다.",
+    "build": [
+      "폰 안에서 진짜 컨테이너를 띄워 서버에 배포하기 전에 빠르게 테스트하기",
+      "podroid-forward로 컨테이너를 폰의 LAN에 노출해, 다른 기기에서 접속해 보기",
+      "SSH로 붙어서 노트북 없이 폰만으로 짧은 서버 작업 처리하기"
+    ],
+    "who": [
+      {
+        "role": "폰만 들고 다니는 개발자",
+        "situation": "노트북 없이 컨테이너를 테스트해야 할 때"
+      },
+      {
+        "role": "임베디드·모바일 개발자",
+        "situation": "실제 리눅스 커널 환경이 필요할 때"
+      },
+      {
+        "role": "리눅스를 배우는 사람",
+        "situation": "안드로이드 폰에서 진짜 터미널을 만져보고 싶을 때"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1) https://github.com/ExTV/Podroid/releases/latest 에서 APK 내려받아 설치"
+      },
+      {
+        "command": false,
+        "text": "2) Start VM 누르고 Ready! 뜨면 터미널 열기"
+      },
+      {
+        "command": true,
+        "text": "podman run --rm alpine echo \"hello from a container\""
+      },
+      {
+        "command": true,
+        "text": "ssh root@<폰IP> -p 9922  (비밀번호: podroid)"
+      }
+    ],
+    "caveat": [
+      "GPLv2 · arm64 안드로이드 8 이상 기기만 지원합니다",
+      "소스 빌드에는 Docker와 안드로이드 SDK/NDK가 필요합니다(사용 자체는 APK만 있으면 됩니다)"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://extv.github.io/Podroid"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "android",
+    "linux-vm",
+    "containers",
+    "qemu",
+    "no-root"
+  ],
+  "platform": [
+    "android"
+  ],
+  "license": {
+    "spdx": "GPL-2.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포하면 소스 공개 의무(카피레프트).",
+    "url": "https://spdx.org/licenses/GPL-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Kotlin",
+  "source_urls": {
+    "canonical": "https://extv.github.io/Podroid",
+    "github": "https://github.com/extv/podroid",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/extv/podroid",
+        "posted_at": "2026-09-14T16:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 2604,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T07:20:25.124Z",
+    "stars_observed_since_check": 2,
+    "star_delta_24h": 2,
+    "star_delta_7d": 14,
+    "star_delta_30d": 14,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      7,
+      5,
+      2
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-03T18:51:59.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T07:20:25.124Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/podroid-0f16dc4f02.png",
+    "cover": "https://tesign.com/img/podroid-0f16dc4f02.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/podroid-0f16dc4f02.png"
+    ],
+    "alt": "Podroid 홈페이지. 어두운 배경에 \"Linux containers on Android. No root required.\"라는 문구와 APK 다운로드 버튼이 있습니다.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T03:29:49.653Z",
+    "source_created_at": "2026-03-16T01:04:26.000Z",
+    "discovery_hours": 4394.423236944444,
+    "launch_signal_at": "2026-09-14T16:00:00.000Z",
+    "kept_at": "2026-09-17T01:24:00.723Z",
+    "first_published_at": "2026-09-17T01:24:00.858Z",
+    "updated_at": "2026-09-17T01:26:30.182Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

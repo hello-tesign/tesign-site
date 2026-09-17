@@ -1,0 +1,175 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-17T01:30:50.007Z",
+  "lang": "en",
+  "slug": "inkstone",
+  "url": "https://tesign.com/en/item/inkstone/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/inkstone/",
+      "json": "https://tesign.com/item/inkstone/index.json",
+      "markdown": "https://tesign.com/item/inkstone/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/inkstone/",
+      "json": "https://tesign.com/en/item/inkstone/index.json",
+      "markdown": "https://tesign.com/en/item/inkstone/index.md"
+    }
+  },
+  "name": "Inkstone",
+  "use_label": "Self-hosted notebook on Cloudflare",
+  "one_liner": "A self-hosted Markdown notebook you deploy on your own Cloudflare Workers account, with realtime sync, search and backlinks built in.",
+  "text": {
+    "why": "Inkstone is a Markdown notebook that runs entirely on your own Cloudflare account — Workers, D1, R2 — with no separate server to manage. Notes always stay plain text, with live preview, full-text search (including Chinese indexing), wiki-style backlinks, offline editing with multi-device sync, and scheduled WebDAV/S3 backups layered on top. The public demo (inkstone-demo.pages.dev) really does sign in with the admin account shown on the page (verified), resetting to two starter notes on refresh.",
+    "take": "Having to deploy it yourself is real friction, but in return it keeps its promise that the data lives only in your own account.",
+    "build": [
+      "Build your own note server for plain Markdown knowledge you want to fully own",
+      "Issue a per-document MCP API key so a coding agent can search or edit your notes",
+      "Schedule WebDAV/S3 backups for off-site storage"
+    ],
+    "who": [
+      {
+        "role": "Anyone who wants notes as plain Markdown files, nothing proprietary",
+        "situation": null
+      },
+      {
+        "role": "Someone with a Cloudflare account who wants a notebook server they fully own",
+        "situation": null
+      },
+      {
+        "role": "A developer who wants to grant an agent scoped access to search or edit notes",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Try the demo first: https://inkstone-demo.pages.dev (sign in with the account shown on the page; refreshing resets it)"
+      },
+      {
+        "command": false,
+        "text": "Deploy to your own account: fork the repo → connect it via GitHub in Cloudflare Workers & Pages → set build command npm run build, deploy command npm run deploy"
+      }
+    ],
+    "caveat": [
+      "LGPL-3.0-only · real use requires deploying to your own Cloudflare account; the public demo signs in with a fixed account and resets on refresh",
+      "Optional semantic search needs the Workers AI binding; without it, search falls back to lexical only"
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://inkstone-demo.pages.dev/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "markdown",
+    "self-hosted",
+    "cloudflare-workers",
+    "notes",
+    "sync"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/shuaiplus/inkstone?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://inkstone-demo.pages.dev/",
+    "github": "https://github.com/shuaiplus/inkstone",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/shuaiplus/inkstone",
+        "posted_at": "2026-09-15T11:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 819,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T21:33:23.443Z",
+    "stars_observed_since_check": 2,
+    "star_delta_24h": 2,
+    "star_delta_7d": 10,
+    "star_delta_30d": 12,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      2,
+      null,
+      6,
+      2
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-14T07:50:35.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T21:33:23.443Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/inkstone-163a482ebb.png",
+    "cover": "https://tesign.com/img/inkstone-163a482ebb.png",
+    "cover_width": 1200,
+    "cover_height": 800,
+    "gallery": [
+      "https://tesign.com/img/inkstone-163a482ebb.png",
+      "https://tesign.com/img/inkstone-08fdfcb197.png"
+    ],
+    "alt": "Inkstone's notebook interior: a note list on the left, the \"Welcome to Inkstone\" Markdown body in the centre, and a document outline on the right.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T21:32:54.624Z",
+    "source_created_at": "2026-07-30T13:27:48.000Z",
+    "discovery_hours": 1136.0851733333334,
+    "launch_signal_at": "2026-09-15T11:00:00.000Z",
+    "kept_at": "2026-09-17T01:24:00.719Z",
+    "first_published_at": "2026-09-17T01:24:00.858Z",
+    "updated_at": "2026-09-17T01:26:30.191Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

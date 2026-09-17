@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "ko",
   "slug": "pdf-pocket-tools",
   "url": "https://tesign.com/item/pdf-pocket-tools/",
@@ -86,7 +86,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "stars": null,
     "stars_unit": "GitHub stars",
     "stars_checked_at": null,
@@ -114,7 +114,7 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 2,
-    "hn_points_observed_at": "2026-09-15T11:21:52.765Z",
+    "hn_points_observed_at": "2026-09-16T07:50:08.487Z",
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },

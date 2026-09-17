@@ -4,7 +4,7 @@
 
 ## Start here
 
-- [Today](https://tesign.com/en/): the finite daily selection (6 items; see /en/about/ for how items are chosen)
+- [Today](https://tesign.com/en/): the finite daily selection (10 items; see /en/about/ for how items are chosen)
 - [About](https://tesign.com/en/about/): what TESIGN Radar is and how selection works
 - [FAQ](https://tesign.com/en/faq/)
 - [Explore](https://tesign.com/en/explore/): every kept product with categories, sources and signals
@@ -28,45 +28,45 @@
 - [Top 20 · PRODUCTIVITY](https://tesign.com/en/top/productivity/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · DATA](https://tesign.com/en/top/data/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · INFRA](https://tesign.com/en/top/infra/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 11 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 13 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · COMMERCE](https://tesign.com/en/top/commerce/): 7 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · MEDIA](https://tesign.com/en/top/media/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · EDUCATION](https://tesign.com/en/top/education/): 6 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · GAMES](https://tesign.com/en/top/games/): 7 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · SCIENCE](https://tesign.com/en/top/science/): 3 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · FINANCE](https://tesign.com/en/top/finance/): 4 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · FINANCE](https://tesign.com/en/top/finance/): 6 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · SOCIAL](https://tesign.com/en/top/social/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · HARDWARE](https://tesign.com/en/top/hardware/): 3 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · API](https://tesign.com/en/top/api/): 7 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 31 observed events in the last 30 days (8 star-threshold crossings, 22 new repositories, 1 rising leaders), as of 2026-09-15T15:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 37 observed events in the last 30 days (10 star-threshold crossings, 26 new repositories, 1 rising leaders), as of 2026-09-16T21:00:00.000Z; method at /en/about/#ranks
 
 ## Numbers
 
-- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2067 ranking-eligible repositories, 114 published items, 146953 candidate products, 16831 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-15T20:32:51.926Z, history clock 2026-09-15T15:00:00.000Z)
+- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2722 ranking-eligible repositories, 124 published items, 148082 candidate products, 17564 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-17T01:30:50.007Z, history clock 2026-09-16T21:00:00.000Z)
 
 ## Compare
 
-- [200 side-by-side comparisons](https://tesign.com/en/compare/): one /en/compare/<a>-vs-<b>/ page per pair of published items from the same category, both with a GitHub star total — stars with their check time, 7- and 30-day gains, licence, platform, last commit, contributors, how to start and the who-lines of each entry; taken category by category by combined stars, at most 200, star totals as of 2026-09-15T15:00:00.000Z
+- [200 side-by-side comparisons](https://tesign.com/en/compare/): one /en/compare/<a>-vs-<b>/ page per pair of published items from the same category, both with a GitHub star total — stars with their check time, 7- and 30-day gains, licence, platform, last commit, contributors, how to start and the who-lines of each entry; taken category by category by combined stars, at most 200, star totals as of 2026-09-16T21:00:00.000Z
 
 ## Repository cards
 
-- [369 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
+- [371 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
 
 ## Store hits
 
-- [Store hits · NEW ENTRIES · KR](https://tesign.com/en/store/new/): 1 apps; released within 30 days and charted within 7 days of release, as of 2026-09-15T08:44:45.998Z
-- [Store hits · FREE TOP · KR](https://tesign.com/en/store/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-15T08:44:45.998Z
-- [Store hits · PAID TOP · KR](https://tesign.com/en/store/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-15T08:44:45.998Z
-- [Store hits · NEW ENTRIES · US](https://tesign.com/en/store/us/new/): 3 apps; released within 30 days and charted within 7 days of release, as of 2026-09-15T08:44:45.998Z
-- [Store hits · FREE TOP · US](https://tesign.com/en/store/us/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-15T08:44:45.998Z
-- [Store hits · PAID TOP · US](https://tesign.com/en/store/us/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-15T08:44:45.998Z
+- [Store hits · NEW ENTRIES · KR](https://tesign.com/en/store/new/): 1 apps; released within 30 days and charted within 7 days of release, as of 2026-09-15T20:44:40.388Z
+- [Store hits · FREE TOP · KR](https://tesign.com/en/store/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-15T20:44:40.388Z
+- [Store hits · PAID TOP · KR](https://tesign.com/en/store/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-15T20:44:40.388Z
+- [Store hits · NEW ENTRIES · US](https://tesign.com/en/store/us/new/): 4 apps; released within 30 days and charted within 7 days of release, as of 2026-09-15T20:44:40.388Z
+- [Store hits · FREE TOP · US](https://tesign.com/en/store/us/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-15T20:44:40.388Z
+- [Store hits · PAID TOP · US](https://tesign.com/en/store/us/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-15T20:44:40.388Z
 
 ## App Store cards
 
-- [360 auto-generated App Store app cards](https://tesign.com/en/about/): one /en/app/appstore/<id>/ page per app observed on Apple's public KR/US top-100 free/paid charts without an edited entry (Apple's store description, rating, rating count, chart ranks and our observation times only; not edited, not listed here), as of 2026-09-15T08:44:45.998Z
+- [400 auto-generated App Store app cards](https://tesign.com/en/about/): one /en/app/appstore/<id>/ page per app observed on Apple's public KR/US top-100 free/paid charts without an edited entry (Apple's store description, rating, rating count, chart ranks and our observation times only; not edited, not listed here), as of 2026-09-15T20:44:40.388Z
 
 ## RSS
 
@@ -78,9 +78,9 @@
 
 Every published item has a sibling index.json and index.md next to its page: /item/<slug>/index.json and /item/<slug>/index.md in Korean, /en/item/<slug>/index.json and /en/item/<slug>/index.md in English. Keys name the unit (stars, star_delta_7d, hf_likes); every figure sits next to its reference time (as_of, *_at); null means not observed, never zero. Counts are stored observations, not scores. These files are not in the sitemap.
 
-- [Index of every published item (JSON)](https://tesign.com/data/index.json): 114 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-15T20:32:51.926Z); not for search indexes (robots.txt), not in the sitemap
-- [Example: Spec Kit as JSON](https://tesign.com/en/item/spec-kit/index.json): name, use label, one-liner, why / build / who / start / caveat, licence and scope, platform, categories, numbers with as_of, ranks, activity, images, source URLs, generated_at
-- [Example: Spec Kit as Markdown](https://tesign.com/en/item/spec-kit/index.md): the same fields as headed Markdown; Korean at the path without /en
+- [Index of every published item (JSON)](https://tesign.com/data/index.json): 124 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-17T01:30:50.007Z); not for search indexes (robots.txt), not in the sitemap
+- [Example: SparkyFitness as JSON](https://tesign.com/en/item/sparkyfitness/index.json): name, use label, one-liner, why / build / who / start / caveat, licence and scope, platform, categories, numbers with as_of, ranks, activity, images, source URLs, generated_at
+- [Example: SparkyFitness as Markdown](https://tesign.com/en/item/sparkyfitness/index.md): the same fields as headed Markdown; Korean at the path without /en
 
 ## Contact
 
@@ -88,6 +88,16 @@ Every published item has a sibling index.json and index.md next to its page: /it
 
 ## Products (English)
 
+- [SparkyFitness](https://tesign.com/en/item/sparkyfitness/): A self-hosted health tracker for nutrition, exercise, sleep, fasting, mood and body metrics — all on a server you run yourself.
+- [Podroid](https://tesign.com/en/item/podroid/): Boots a real, separately-kernelled Alpine Linux VM on an unrooted Android phone, running Podman, Docker and LXC exactly as they behave on a server.
+- [Inkstone](https://tesign.com/en/item/inkstone/): A self-hosted Markdown notebook you deploy on your own Cloudflare Workers account, with realtime sync, search and backlinks built in.
+- [OpenHunterAI](https://tesign.com/en/item/openhunterai/): An alpha-stage local workspace that runs attacker-style security assessments — strictly against public targets you own or are authorized to test.
+- [Wealthfolio](https://tesign.com/en/item/wealthfolio/): An open-source portfolio tracker that keeps investments, net worth and spending entirely on your device — no cloud account.
+- [Capsule](https://tesign.com/en/item/capsule/): A desktop player that packs an HTML app and its data into one SQLite file — no account, no server, just a file to share.
+- [MartinLoop](https://tesign.com/en/item/martin-loop/): Wraps a coding agent with a spend cap and a verifier, so "I'm done" comes with an evidence-backed receipt instead of just a claim.
+- [BG0](https://tesign.com/en/item/bg0/): Removes a photo's background entirely inside your browser — no upload, no server, no account.
+- [ZapFast](https://tesign.com/en/item/zapfast/): A from-scratch Rust WhatsApp client with no browser engine — about 150MB idle RAM on Linux, versus 1.13GB for WhatsApp Web.
+- [page-mascot](https://tesign.com/en/item/page-mascot/): A tiny React component that puts a character on your page which turns its head to follow the cursor and reacts when clicked.
 - [Spec Kit](https://tesign.com/en/item/spec-kit/): Makes your coding agent write the spec first, then plan, build and verify against it.
 - [Words of Hanoi](https://tesign.com/en/item/words-of-hanoi/): A daily puzzle: move letter tiles between five tubes until every full tube spells a word.
 - [Hindsight](https://tesign.com/en/item/hindsight/): Remembers 49,411 videos, maps 22,904 by issue, traces how a YouTuber's argument changed.
@@ -205,6 +215,7 @@ Every published item has a sibling index.json and index.md next to its page: /it
 
 ## Daily
 
+- [Daily 2026-09-17](https://tesign.com/en/day/2026-09-17/)
 - [Daily 2026-09-15](https://tesign.com/en/day/2026-09-15/)
 - [Daily 2026-09-14](https://tesign.com/en/day/2026-09-14/)
 - [Daily 2026-09-13](https://tesign.com/en/day/2026-09-13/)

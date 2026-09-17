@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/orca/
 - JSON: https://tesign.com/en/item/orca/index.json
 - Korean Markdown: https://tesign.com/item/orca/index.md
-- Generated: 2026-09-15 20:32 UTC
+- Generated: 2026-09-17 01:30 UTC
 
 ## Numbers
 
-- 69,418 stars — checked on GitHub 2026-09-15 19:33 UTC
-- 7-day +680 observed via GH Archive (as of 2026-09-15 15:00 UTC)
-- 24h +82 ★ · 30d +1,428 ★ (as of 2026-09-15 15:00 UTC)
+- 69,533 stars — checked on GitHub 2026-09-15 19:33 UTC (+115 observed since the check)
+- 7-day +794 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 24h +104 ★ · 30d +1,568 ★ (as of 2026-09-16 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -34,6 +34,10 @@
 - Open issues (incl. PRs): 6,054
 - Made by: an organization
 - Checked on GitHub: 2026-09-15 19:33 UTC
+
+## Signals and evidence
+
+- RISING · +104 ★ / 24h
 
 ## TESIGN TAKE
 

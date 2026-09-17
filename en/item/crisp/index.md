@@ -5,12 +5,13 @@
 - Page: https://tesign.com/en/item/crisp/
 - JSON: https://tesign.com/en/item/crisp/index.json
 - Korean Markdown: https://tesign.com/item/crisp/index.md
-- Generated: 2026-09-15 20:32 UTC
+- Generated: 2026-09-17 01:30 UTC
 
 ## Numbers
 
-- 1,692 stars — checked on GitHub 2026-09-15 19:35 UTC
-- 7-day +2 observed via GH Archive (as of 2026-09-15 15:00 UTC)
+- 1,694 stars — checked on GitHub 2026-09-15 19:35 UTC (+2 observed since the check)
+- 7-day +4 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 24h +2 ★ · 30d +4 ★ (as of 2026-09-16 21:00 UTC)
 - 4 Show HN points — observed 2026-09-13 14:56 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 

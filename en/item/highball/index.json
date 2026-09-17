@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "en",
   "slug": "highball",
   "url": "https://tesign.com/en/item/highball/",
@@ -111,17 +111,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
-    "stars": 719,
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 723,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:34:03.689Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 5,
-    "star_delta_7d": 43,
-    "star_delta_30d": 58,
+    "stars_observed_since_check": 4,
+    "star_delta_24h": 2,
+    "star_delta_7d": 55,
+    "star_delta_30d": 70,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       10,
@@ -134,7 +133,8 @@
       6,
       32,
       2,
-      3
+      13,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

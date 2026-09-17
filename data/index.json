@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "site": "https://tesign.com",
-  "count": 114,
+  "count": 124,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,303 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-15T15:00:00.000Z",
+  "numbers_as_of": "2026-09-16T21:00:00.000Z",
   "items": [
+    {
+      "slug": "sparkyfitness",
+      "name": {
+        "ko": "SparkyFitness",
+        "en": "SparkyFitness"
+      },
+      "use_label": {
+        "ko": "가족용 자가호스팅 건강 추적",
+        "en": "Self-hosted family health tracking"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "data"
+      ],
+      "updated": "2026-09-17T01:26:30.188Z",
+      "kept_at": "2026-09-17T01:24:00.729Z",
+      "html": {
+        "ko": "https://tesign.com/item/sparkyfitness/",
+        "en": "https://tesign.com/en/item/sparkyfitness/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/sparkyfitness/index.json",
+        "en": "https://tesign.com/en/item/sparkyfitness/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/sparkyfitness/index.md",
+        "en": "https://tesign.com/en/item/sparkyfitness/index.md"
+      }
+    },
+    {
+      "slug": "podroid",
+      "name": {
+        "ko": "Podroid",
+        "en": "Podroid"
+      },
+      "use_label": {
+        "ko": "폰용 리눅스 컨테이너 VM",
+        "en": "Linux container VM for your phone"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-09-17T01:26:30.182Z",
+      "kept_at": "2026-09-17T01:24:00.723Z",
+      "html": {
+        "ko": "https://tesign.com/item/podroid/",
+        "en": "https://tesign.com/en/item/podroid/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/podroid/index.json",
+        "en": "https://tesign.com/en/item/podroid/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/podroid/index.md",
+        "en": "https://tesign.com/en/item/podroid/index.md"
+      }
+    },
+    {
+      "slug": "inkstone",
+      "name": {
+        "ko": "Inkstone",
+        "en": "Inkstone"
+      },
+      "use_label": {
+        "ko": "자가호스팅 마크다운 노트",
+        "en": "Self-hosted notebook on Cloudflare"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-17T01:26:30.191Z",
+      "kept_at": "2026-09-17T01:24:00.719Z",
+      "html": {
+        "ko": "https://tesign.com/item/inkstone/",
+        "en": "https://tesign.com/en/item/inkstone/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/inkstone/index.json",
+        "en": "https://tesign.com/en/item/inkstone/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/inkstone/index.md",
+        "en": "https://tesign.com/en/item/inkstone/index.md"
+      }
+    },
+    {
+      "slug": "openhunterai",
+      "name": {
+        "ko": "OpenHunterAI",
+        "en": "OpenHunterAI"
+      },
+      "use_label": {
+        "ko": "로컬 AI 보안 점검",
+        "en": "Local AI red-team workspace"
+      },
+      "category": "security",
+      "categories": [
+        "security",
+        "ai"
+      ],
+      "updated": "2026-09-17T01:26:30.197Z",
+      "kept_at": "2026-09-17T01:24:00.715Z",
+      "html": {
+        "ko": "https://tesign.com/item/openhunterai/",
+        "en": "https://tesign.com/en/item/openhunterai/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openhunterai/index.json",
+        "en": "https://tesign.com/en/item/openhunterai/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openhunterai/index.md",
+        "en": "https://tesign.com/en/item/openhunterai/index.md"
+      }
+    },
+    {
+      "slug": "wealthfolio",
+      "name": {
+        "ko": "Wealthfolio",
+        "en": "Wealthfolio"
+      },
+      "use_label": {
+        "ko": "로컬 우선 자산관리 앱",
+        "en": "Local-first personal finance tracker"
+      },
+      "category": "finance",
+      "categories": [
+        "finance",
+        "data"
+      ],
+      "updated": "2026-09-17T01:26:30.175Z",
+      "kept_at": "2026-09-17T01:24:00.709Z",
+      "html": {
+        "ko": "https://tesign.com/item/wealthfolio/",
+        "en": "https://tesign.com/en/item/wealthfolio/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/wealthfolio/index.json",
+        "en": "https://tesign.com/en/item/wealthfolio/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/wealthfolio/index.md",
+        "en": "https://tesign.com/en/item/wealthfolio/index.md"
+      }
+    },
+    {
+      "slug": "capsule",
+      "name": {
+        "ko": "Capsule",
+        "en": "Capsule"
+      },
+      "use_label": {
+        "ko": "단일 파일 앱 플레이어",
+        "en": "Single-file app player"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-17T01:26:30.185Z",
+      "kept_at": "2026-09-17T01:24:00.705Z",
+      "html": {
+        "ko": "https://tesign.com/item/capsule/",
+        "en": "https://tesign.com/en/item/capsule/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/capsule/index.json",
+        "en": "https://tesign.com/en/item/capsule/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/capsule/index.md",
+        "en": "https://tesign.com/en/item/capsule/index.md"
+      }
+    },
+    {
+      "slug": "martin-loop",
+      "name": {
+        "ko": "MartinLoop",
+        "en": "MartinLoop"
+      },
+      "use_label": {
+        "ko": "에이전트 실행 통제",
+        "en": "Execution-control CLI for coding agents"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-17T01:26:30.194Z",
+      "kept_at": "2026-09-17T01:24:00.699Z",
+      "html": {
+        "ko": "https://tesign.com/item/martin-loop/",
+        "en": "https://tesign.com/en/item/martin-loop/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/martin-loop/index.json",
+        "en": "https://tesign.com/en/item/martin-loop/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/martin-loop/index.md",
+        "en": "https://tesign.com/en/item/martin-loop/index.md"
+      }
+    },
+    {
+      "slug": "bg0",
+      "name": {
+        "ko": "BG0",
+        "en": "BG0"
+      },
+      "use_label": {
+        "ko": "계정 없이 쓰는 배경 제거",
+        "en": "No-account background remover"
+      },
+      "category": "media",
+      "categories": [
+        "media",
+        "api"
+      ],
+      "updated": "2026-09-17T01:26:30.150Z",
+      "kept_at": "2026-09-17T01:24:00.696Z",
+      "html": {
+        "ko": "https://tesign.com/item/bg0/",
+        "en": "https://tesign.com/en/item/bg0/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/bg0/index.json",
+        "en": "https://tesign.com/en/item/bg0/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/bg0/index.md",
+        "en": "https://tesign.com/en/item/bg0/index.md"
+      }
+    },
+    {
+      "slug": "zapfast",
+      "name": {
+        "ko": "ZapFast",
+        "en": "ZapFast"
+      },
+      "use_label": {
+        "ko": "가벼운 왓츠앱 클라이언트",
+        "en": "Lightweight native WhatsApp client"
+      },
+      "category": "social",
+      "categories": [
+        "social"
+      ],
+      "updated": "2026-09-17T01:26:30.172Z",
+      "kept_at": "2026-09-17T01:24:00.688Z",
+      "html": {
+        "ko": "https://tesign.com/item/zapfast/",
+        "en": "https://tesign.com/en/item/zapfast/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/zapfast/index.json",
+        "en": "https://tesign.com/en/item/zapfast/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/zapfast/index.md",
+        "en": "https://tesign.com/en/item/zapfast/index.md"
+      }
+    },
+    {
+      "slug": "page-mascot",
+      "name": {
+        "ko": "page-mascot",
+        "en": "page-mascot"
+      },
+      "use_label": {
+        "ko": "웹페이지용 커서 반응 마스코트",
+        "en": "Cursor-following page mascot"
+      },
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "updated": "2026-09-17T01:26:30.179Z",
+      "kept_at": "2026-09-17T01:24:00.673Z",
+      "html": {
+        "ko": "https://tesign.com/item/page-mascot/",
+        "en": "https://tesign.com/en/item/page-mascot/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/page-mascot/index.json",
+        "en": "https://tesign.com/en/item/page-mascot/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/page-mascot/index.md",
+        "en": "https://tesign.com/en/item/page-mascot/index.md"
+      }
+    },
     {
       "slug": "spec-kit",
       "name": {

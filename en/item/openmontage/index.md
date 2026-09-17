@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/openmontage/
 - JSON: https://tesign.com/en/item/openmontage/index.json
 - Korean Markdown: https://tesign.com/item/openmontage/index.md
-- Generated: 2026-09-15 20:32 UTC
+- Generated: 2026-09-17 01:30 UTC
 
 ## RANKS
 
-- All-time #111 · Rising this week #14 · MEDIA #2 (As of 2026-09-15 15:00 UTC)
+- All-time #111 · Rising this week #21 · MEDIA #2 (As of 2026-09-16 21:00 UTC)
 
 ## Numbers
 
-- 59,290 stars — checked on GitHub 2026-09-15 19:34 UTC
-- 7-day +349 observed via GH Archive (as of 2026-09-15 15:00 UTC)
-- 24h +32 ★ · 30d +519 ★ (as of 2026-09-15 15:00 UTC)
+- 59,318 stars — checked on GitHub 2026-09-15 19:34 UTC (+28 observed since the check)
+- 7-day +377 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 24h +28 ★ · 30d +549 ★ (as of 2026-09-16 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

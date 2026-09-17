@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "ko",
   "slug": "openworker",
   "url": "https://tesign.com/item/openworker/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
-    "stars": 17820,
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 17832,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:34:42.923Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 10,
-    "star_delta_7d": 22,
-    "star_delta_30d": 40,
+    "stars_observed_since_check": 12,
+    "star_delta_24h": 9,
+    "star_delta_7d": 39,
+    "star_delta_30d": 57,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       5,
       6,
@@ -137,7 +136,8 @@
       4,
       6,
       2,
-      8
+      22,
+      3
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

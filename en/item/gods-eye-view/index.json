@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "en",
   "slug": "gods-eye-view",
   "url": "https://tesign.com/en/item/gods-eye-view/",
@@ -118,17 +118,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
-    "stars": 34598,
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 34766,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:33:39.795Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 112,
-    "star_delta_7d": 2331,
-    "star_delta_30d": 2967,
+    "stars_observed_since_check": 168,
+    "star_delta_24h": 132,
+    "star_delta_7d": 2468,
+    "star_delta_30d": 3185,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      4,
       7,
       166,
       227,
@@ -141,7 +140,8 @@
       617,
       318,
       47,
-      83
+      186,
+      115
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -151,7 +151,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "all_time": 206,
     "rising": {
       "24h": null,
@@ -189,7 +189,7 @@
     {
       "kind": "rising",
       "label": "RISING",
-      "value": "+112 ★ / 24h"
+      "value": "+132 ★ / 24h"
     }
   ],
   "images": {

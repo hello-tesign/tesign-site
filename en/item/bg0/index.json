@@ -1,0 +1,194 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-17T01:30:50.007Z",
+  "lang": "en",
+  "slug": "bg0",
+  "url": "https://tesign.com/en/item/bg0/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/bg0/",
+      "json": "https://tesign.com/item/bg0/index.json",
+      "markdown": "https://tesign.com/item/bg0/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/bg0/",
+      "json": "https://tesign.com/en/item/bg0/index.json",
+      "markdown": "https://tesign.com/en/item/bg0/index.md"
+    }
+  },
+  "name": "BG0",
+  "use_label": "No-account background remover",
+  "one_liner": "Removes a photo's background entirely inside your browser — no upload, no server, no account.",
+  "text": {
+    "why": "Most online background removers require uploading the photo to a server and cap free usage. BG0 does the opposite: it runs inference directly in the browser with WebGPU when available (falling back to WebAssembly), downloading and caching a BiRefNet-family ONNX model picked for the hardware. The photo and its output never leave browser memory, and there's no account, API key, billing, or usage limit.",
+    "take": "One of the few background removers that actually keeps its \"nothing is uploaded\" promise — worth asking why any other one needs your photo on a server at all.",
+    "build": [
+      "Make a passport photo's or product photo's background transparent, instantly",
+      "Add the same local, private background removal to your own web app with @bg0/browser",
+      "Study its Playwright layout-regression suite (11 viewports) as a reference for testing an image-processing UI"
+    ],
+    "who": [
+      {
+        "role": "Anyone privacy-conscious",
+        "situation": "when a face or ID photo shouldn't touch a server"
+      },
+      {
+        "role": "A small shop owner",
+        "situation": "cleaning up product photos quickly, with no account or bill"
+      },
+      {
+        "role": "A web developer",
+        "situation": "wiring the same feature into their own app via the library"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Use it now: open https://bg0.dev and drop a photo"
+      },
+      {
+        "command": false,
+        "text": "Run locally (requires Bun 1.4):"
+      },
+      {
+        "command": true,
+        "text": "bun install --frozen-lockfile"
+      },
+      {
+        "command": true,
+        "text": "bun run dev"
+      },
+      {
+        "command": false,
+        "text": "→ web app on port 3000, docs on port 4321"
+      }
+    ],
+    "caveat": [
+      "The code is Apache-2.0; the downloaded model weights carry their own licences, listed in THIRD_PARTY_NOTICES.md",
+      "The first run needs network access to fetch the model (it runs from a local cache after that)",
+      "Devices without WebGPU fall back to WebAssembly and may be slower"
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://bg0.dev/"
+  },
+  "ready": "browser",
+  "categories": [
+    "media",
+    "api"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "background-removal",
+    "privacy",
+    "webgpu",
+    "local-first",
+    "browser"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://bg0.dev/",
+    "github": "https://github.com/opencoredev/bg0",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/opencoredev/bg0",
+        "posted_at": "2026-09-15T15:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 79,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T21:33:32.877Z",
+    "stars_observed_since_check": 12,
+    "star_delta_24h": 12,
+    "star_delta_7d": 28,
+    "star_delta_30d": 28,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      16,
+      12
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T20:49:55.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T21:33:32.877Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "28h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/og/bg0.en.png",
+    "cover": "https://tesign.com/img/bg0-94be1cda4d.png",
+    "cover_width": 1200,
+    "cover_height": 630,
+    "gallery": [
+      "https://tesign.com/img/bg0-94be1cda4d.png"
+    ],
+    "alt": "BG0's homepage: a dark screen with the headline \"Background removal that stays on your device.\"",
+    "tier": 3
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T21:33:03.258Z",
+    "source_created_at": "2026-09-14T16:42:22.000Z",
+    "discovery_hours": 28.84479388888889,
+    "launch_signal_at": "2026-09-15T15:00:00.000Z",
+    "kept_at": "2026-09-17T01:24:00.696Z",
+    "first_published_at": "2026-09-17T01:24:00.858Z",
+    "updated_at": "2026-09-17T01:26:30.150Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

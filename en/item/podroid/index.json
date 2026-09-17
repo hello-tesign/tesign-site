@@ -1,0 +1,182 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-17T01:30:50.007Z",
+  "lang": "en",
+  "slug": "podroid",
+  "url": "https://tesign.com/en/item/podroid/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/podroid/",
+      "json": "https://tesign.com/item/podroid/index.json",
+      "markdown": "https://tesign.com/item/podroid/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/podroid/",
+      "json": "https://tesign.com/en/item/podroid/index.json",
+      "markdown": "https://tesign.com/en/item/podroid/index.md"
+    }
+  },
+  "name": "Podroid",
+  "use_label": "Linux container VM for your phone",
+  "one_liner": "Boots a real, separately-kernelled Alpine Linux VM on an unrooted Android phone, running Podman, Docker and LXC exactly as they behave on a server.",
+  "text": {
+    "why": "Most \"Linux containers on Android\" apps fake it with chroot or proot tricks, not a real container runtime. Podroid instead boots a genuine VM with its own kernel via QEMU (or hardware-accelerated AVF on supported pKVM devices), so Podman, Docker and LXC behave exactly as they do on a server. It ships a full xterm-256color terminal with 122 colour themes, an X11 viewer for GUI Linux apps, USB passthrough, SSH, port forwarding and a guest-to-Android bridge — no root required.",
+    "take": "The claim of \"a real, separately-kernelled VM on Android\" is backed by a specific mechanism (QEMU or pKVM AVF), which is what separates it from the usual chroot-based imitations.",
+    "build": [
+      "Run a real container on your phone to test something before deploying it to a server",
+      "Expose a container to your phone's LAN with podroid-forward and hit it from another device",
+      "SSH in to handle a quick server task from just a phone, no laptop needed"
+    ],
+    "who": [
+      {
+        "role": "A developer who only has their phone and needs to test a container without a laptop",
+        "situation": null
+      },
+      {
+        "role": "An embedded or mobile developer who needs a real Linux kernel environment",
+        "situation": null
+      },
+      {
+        "role": "Someone learning Linux who wants a genuine terminal on their Android phone",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "1) Download the APK from https://github.com/ExTV/Podroid/releases/latest and install it"
+      },
+      {
+        "command": false,
+        "text": "2) Tap Start VM, wait for Ready!, open the terminal"
+      },
+      {
+        "command": true,
+        "text": "podman run --rm alpine echo \"hello from a container\""
+      },
+      {
+        "command": true,
+        "text": "ssh root@<phone-ip> -p 9922  (password: podroid)"
+      }
+    ],
+    "caveat": [
+      "GPLv2 · supports arm64 Android 8+ devices only",
+      "Building from source needs Docker and the Android SDK/NDK (using the app itself only needs the APK)"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://extv.github.io/Podroid"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "android",
+    "linux-vm",
+    "containers",
+    "qemu",
+    "no-root"
+  ],
+  "platform": [
+    "android"
+  ],
+  "license": {
+    "spdx": "GPL-2.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Kotlin",
+  "source_urls": {
+    "canonical": "https://extv.github.io/Podroid",
+    "github": "https://github.com/extv/podroid",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/extv/podroid",
+        "posted_at": "2026-09-14T16:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 2604,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T07:20:25.124Z",
+    "stars_observed_since_check": 2,
+    "star_delta_24h": 2,
+    "star_delta_7d": 14,
+    "star_delta_30d": 14,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      7,
+      5,
+      2
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-03T18:51:59.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T07:20:25.124Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/podroid-0f16dc4f02.png",
+    "cover": "https://tesign.com/img/podroid-0f16dc4f02.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/podroid-0f16dc4f02.png"
+    ],
+    "alt": "Podroid's homepage: a dark screen reading \"Linux containers on Android. No root required,\" with a Download APK button.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T03:29:49.653Z",
+    "source_created_at": "2026-03-16T01:04:26.000Z",
+    "discovery_hours": 4394.423236944444,
+    "launch_signal_at": "2026-09-14T16:00:00.000Z",
+    "kept_at": "2026-09-17T01:24:00.723Z",
+    "first_published_at": "2026-09-17T01:24:00.858Z",
+    "updated_at": "2026-09-17T01:26:30.182Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

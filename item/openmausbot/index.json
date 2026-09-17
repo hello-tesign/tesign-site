@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "ko",
   "slug": "openmausbot",
   "url": "https://tesign.com/item/openmausbot/",
@@ -115,17 +115,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
-    "stars": 2814,
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 2846,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:35:02.445Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 10,
-    "star_delta_7d": 26,
-    "star_delta_30d": 72,
+    "stars_observed_since_check": 32,
+    "star_delta_24h": 16,
+    "star_delta_7d": 73,
+    "star_delta_30d": 119,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       6,
       21,
@@ -138,7 +137,8 @@
       5,
       3,
       null,
-      10
+      50,
+      7
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

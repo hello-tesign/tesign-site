@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/openresearch/
 - JSON: https://tesign.com/en/item/openresearch/index.json
 - Korean Markdown: https://tesign.com/item/openresearch/index.md
-- Generated: 2026-09-15 20:32 UTC
+- Generated: 2026-09-17 01:30 UTC
 
 ## RANKS
 
-- Rising this week #21 · SCIENCE #3 (As of 2026-09-15 15:00 UTC)
+- Rising this week #11 · SCIENCE #3 (As of 2026-09-16 21:00 UTC)
 
 ## Numbers
 
-- 3,207 stars — checked on GitHub 2026-09-15 19:33 UTC
-- 7-day +304 observed via GH Archive (as of 2026-09-15 15:00 UTC)
-- 24h +70 ★ · 30d +304 ★ (as of 2026-09-15 15:00 UTC)
+- 3,367 stars — checked on GitHub 2026-09-15 19:33 UTC (+160 observed since the check)
+- 7-day +506 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 24h +146 ★ · 30d +506 ★ (as of 2026-09-16 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -38,6 +38,10 @@
 - Open issues (incl. PRs): 28
 - Made by: an organization
 - Checked on GitHub: 2026-09-15 19:33 UTC
+
+## Signals and evidence
+
+- RISING · +146 ★ / 24h
 
 ## TESIGN TAKE
 

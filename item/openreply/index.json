@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "ko",
   "slug": "openreply",
   "url": "https://tesign.com/item/openreply/",
@@ -111,7 +111,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "stars": 2292,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:35:16.762Z",
@@ -121,7 +121,6 @@
     "star_delta_30d": 16,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       2,
       8,
@@ -134,6 +133,7 @@
       2,
       null,
       null,
+      null,
       null
     ],
     "hf_likes": null,
@@ -144,7 +144,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,

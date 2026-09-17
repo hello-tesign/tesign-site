@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "en",
   "slug": "pi-desktop",
   "url": "https://tesign.com/en/item/pi-desktop/",
@@ -105,17 +105,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
-    "stars": 3832,
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 3849,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:34:08.436Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 27,
-    "star_delta_7d": 342,
-    "star_delta_30d": 360,
+    "stars_observed_since_check": 17,
+    "star_delta_24h": 17,
+    "star_delta_7d": 345,
+    "star_delta_30d": 379,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -128,7 +127,8 @@
       83,
       35,
       4,
-      25
+      27,
+      17
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -138,12 +138,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
-      "7d": 15,
-      "30d": 47
+      "7d": 25,
+      "30d": 51
     },
     "categories": []
   },

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "en",
   "slug": "wutw-public",
   "url": "https://tesign.com/en/item/wutw-public/",
@@ -111,7 +111,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "stars": 188,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:34:01.716Z",
@@ -130,9 +130,9 @@
       null,
       null,
       null,
-      null,
       8,
       10,
+      null,
       null,
       null
     ],

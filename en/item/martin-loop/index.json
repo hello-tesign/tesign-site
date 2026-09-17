@@ -1,0 +1,194 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-17T01:30:50.007Z",
+  "lang": "en",
+  "slug": "martin-loop",
+  "url": "https://tesign.com/en/item/martin-loop/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/martin-loop/",
+      "json": "https://tesign.com/item/martin-loop/index.json",
+      "markdown": "https://tesign.com/item/martin-loop/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/martin-loop/",
+      "json": "https://tesign.com/en/item/martin-loop/index.json",
+      "markdown": "https://tesign.com/en/item/martin-loop/index.md"
+    }
+  },
+  "name": "MartinLoop",
+  "use_label": "Execution-control CLI for coding agents",
+  "one_liner": "Wraps a coding agent with a spend cap and a verifier, so \"I'm done\" comes with an evidence-backed receipt instead of just a claim.",
+  "text": {
+    "why": "A task that looks like a small fix can turn into dozens of retries, a blown budget, and a diff nobody trusts. MartinLoop wraps a coding agent (Claude Code, Codex, and others) with one execution contract — objective, verifier command, budget, iteration cap — around the run. Completion only fires when fresh verifier evidence is bound to that specific run and workspace (\"VERIFIED\" means the configured checks passed, not that the code is bug-free), and every run leaves a receipt you can re-inspect with martin dossier.",
+    "take": "It doesn't try to make the agent smarter — it treats uncontrolled execution by an already-capable agent as the actual problem, which is a sharper framing than most.",
+    "build": [
+      "Put a hard budget and attempt cap on a task handed to a coding agent",
+      "Bind an independent verifier command (e.g. npm test) so completion needs passing evidence, not just a claim",
+      "Compare outcomes across different agents using the same receipt format"
+    ],
+    "who": [
+      {
+        "role": "A developer who hands tasks to a coding agent and has to review the results",
+        "situation": null
+      },
+      {
+        "role": "A team that's been burned by an agent run costing more than expected",
+        "situation": null
+      },
+      {
+        "role": "Anyone who wants to compare different agents or models under one governed flow",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Try it now:"
+      },
+      {
+        "command": true,
+        "text": "npx -y martin-loop@latest start"
+      },
+      {
+        "command": true,
+        "text": "npx -y martin-loop@latest demo"
+      },
+      {
+        "command": true,
+        "text": "cd martin-loop-demo && npm install"
+      },
+      {
+        "command": true,
+        "text": "npx -y martin-loop@latest run \"describe the task\" --verify \"npm test\" --budget-usd 2 --max-iterations 1"
+      },
+      {
+        "command": true,
+        "text": "npx -y martin-loop@latest dossier --latest"
+      }
+    ],
+    "caveat": [
+      "Apache-2.0 · needs Node.js 20+",
+      "The hosted dashboard and team features are still early access (per the official homepage)",
+      "The README states plainly that VERIFIED means the configured checks passed, not that the code is safe to merge"
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://martinloop.com/"
+  },
+  "ready": null,
+  "categories": [
+    "dev-tools",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai-agents",
+    "coding-agent",
+    "governance",
+    "budget-control",
+    "cli"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://martinloop.com/",
+    "github": "https://github.com/keesan12/martin-loop",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/keesan12/martin-loop",
+        "posted_at": "2026-09-15T18:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 130,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T23:33:52.402Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 21,
+    "star_delta_30d": 21,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      21,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T03:04:19.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T23:33:52.402Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/martin-loop-a1cb6e24d0.png",
+    "cover": "https://tesign.com/img/martin-loop-a1cb6e24d0.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/martin-loop-a1cb6e24d0.png",
+      "https://tesign.com/img/martin-loop-b377bee9d1.png",
+      "https://tesign.com/img/martin-loop-9c13aa3bac.png"
+    ],
+    "alt": "MartinLoop's homepage headline: \"Watch your AI burn $5.20. Then watch MartinLoop close the loop for $2.30.\"",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T23:33:09.628Z",
+    "source_created_at": "2026-04-04T05:34:39.000Z",
+    "discovery_hours": 3953.9751744444443,
+    "launch_signal_at": "2026-09-15T18:00:00.000Z",
+    "kept_at": "2026-09-17T01:24:00.699Z",
+    "first_published_at": "2026-09-17T01:24:00.858Z",
+    "updated_at": "2026-09-17T01:26:30.194Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

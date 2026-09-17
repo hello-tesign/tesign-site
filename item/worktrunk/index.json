@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "ko",
   "slug": "worktrunk",
   "url": "https://tesign.com/item/worktrunk/",
@@ -113,17 +113,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
-    "stars": 7762,
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 7783,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:34:02.690Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 89,
-    "star_delta_30d": 91,
+    "stars_observed_since_check": 21,
+    "star_delta_24h": 19,
+    "star_delta_7d": 114,
+    "star_delta_30d": 116,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       2,
       null,
       null,
@@ -136,7 +135,8 @@
       34,
       40,
       2,
-      null
+      12,
+      13
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

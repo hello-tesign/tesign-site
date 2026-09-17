@@ -1,0 +1,193 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-17T01:30:50.007Z",
+  "lang": "en",
+  "slug": "openhunterai",
+  "url": "https://tesign.com/en/item/openhunterai/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/openhunterai/",
+      "json": "https://tesign.com/item/openhunterai/index.json",
+      "markdown": "https://tesign.com/item/openhunterai/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/openhunterai/",
+      "json": "https://tesign.com/en/item/openhunterai/index.json",
+      "markdown": "https://tesign.com/en/item/openhunterai/index.md"
+    }
+  },
+  "name": "OpenHunterAI",
+  "use_label": "Local AI red-team workspace",
+  "one_liner": "An alpha-stage local workspace that runs attacker-style security assessments — strictly against public targets you own or are authorized to test.",
+  "text": {
+    "why": "OpenHunterAI brings scope, scan activity, findings and remediation guidance into one local workspace with no signup. It only proceeds after verifying domain ownership and getting human approval on the scan plan, gathering signals through browser inspection, recon, ZAP and a Nuclei adapter for the AI to test bounded hypotheses against. As its own README states, it's alpha software — \"a healthy workspace or an empty report does not prove a target is secure\" — and it avoids destructive actions, gating sensitive validation behind separate approval.",
+    "take": "A security tool that calls itself alpha and states upfront that an empty report proves nothing is rare, and that honesty is itself reassuring.",
+    "build": [
+      "Run an attacker-style checklist against your own web app or API before a release",
+      "Wire it into a coding agent (Codex, Claude Code, Gemini CLI) as a skill so a scan only starts after explicit approval",
+      "Use its report/retest flow as a template for a human-verified security review process"
+    ],
+    "who": [
+      {
+        "role": "A small team that wants to regularly check its own service's security",
+        "situation": null
+      },
+      {
+        "role": "A developer who wants a coding agent to run approval-gated security checks",
+        "situation": null
+      },
+      {
+        "role": "Anyone who wants hands-on practice with recon tooling, strictly on authorized targets",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Requires Git, Node.js 22+, Docker with Compose v2"
+      },
+      {
+        "command": true,
+        "text": "git clone https://github.com/LumosLab-Innovation/OpenHunterAI.git"
+      },
+      {
+        "command": true,
+        "text": "cd OpenHunterAI"
+      },
+      {
+        "command": true,
+        "text": "node ops/local.mjs start"
+      },
+      {
+        "command": false,
+        "text": "→ open http://localhost:3001, set model keys in .env.local, create a project, verify its domain, approve scope, then start a scan"
+      },
+      {
+        "command": false,
+        "text": "(resolve the documented Nuclei template-policy blocker before scanning)"
+      }
+    ],
+    "caveat": [
+      "PolyForm Noncommercial 1.0.0 — source-available; commercial use needs a separate licence",
+      "Alpha stage; the README states plainly that an empty report does not prove a target is secure",
+      "\"Local\" means the workspace runs on your machine, not permission to scan localhost or private networks; the Nuclei adapter doesn't yet ship a reviewed template bundle"
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://lumoslab-innovation.github.io/OpenHunterAI"
+  },
+  "ready": "self-host",
+  "categories": [
+    "security",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "security-testing",
+    "ai-red-team",
+    "local-first",
+    "authorized-testing",
+    "alpha"
+  ],
+  "platform": [
+    "web",
+    "cli"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/lumoslab-innovation/openhunterai?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://lumoslab-innovation.github.io/OpenHunterAI",
+    "github": "https://github.com/lumoslab-innovation/openhunterai",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/lumoslab-innovation/openhunterai",
+        "posted_at": "2026-09-14T16:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 165,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T03:29:44.092Z",
+    "stars_observed_since_check": 2,
+    "star_delta_24h": null,
+    "star_delta_7d": 15,
+    "star_delta_30d": 15,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      11,
+      4,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-14T13:22:00.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T03:29:44.092Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/openhunterai-0f4f939d83.png",
+    "cover": "https://tesign.com/img/openhunterai-0f4f939d83.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/openhunterai-0f4f939d83.png"
+    ],
+    "alt": "OpenHunterAI's homepage, labelled \"AUTHORIZED EXTERNAL SECURITY TESTING,\" listing its five-stage process from scope verification to reporting.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-14T23:20:49.688Z",
+    "source_created_at": "2026-05-25T17:58:49.000Z",
+    "discovery_hours": 2693.3668577777776,
+    "launch_signal_at": "2026-09-14T16:00:00.000Z",
+    "kept_at": "2026-09-17T01:24:00.715Z",
+    "first_published_at": "2026-09-17T01:24:00.858Z",
+    "updated_at": "2026-09-17T01:26:30.197Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

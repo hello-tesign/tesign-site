@@ -1,0 +1,212 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-17T01:30:50.007Z",
+  "lang": "ko",
+  "slug": "wealthfolio",
+  "url": "https://tesign.com/item/wealthfolio/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/wealthfolio/",
+      "json": "https://tesign.com/item/wealthfolio/index.json",
+      "markdown": "https://tesign.com/item/wealthfolio/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/wealthfolio/",
+      "json": "https://tesign.com/en/item/wealthfolio/index.json",
+      "markdown": "https://tesign.com/en/item/wealthfolio/index.md"
+    }
+  },
+  "name": "Wealthfolio",
+  "use_label": "로컬 우선 자산관리 앱",
+  "one_liner": "투자·순자산·소비를 내 기기에만 저장해서 추적하는 오픈소스 자산관리 앱으로, 클라우드 계정이 필요 없습니다.",
+  "text": {
+    "why": "대부분의 자산관리 앱은 계좌 정보를 클라우드 서버에 맡겨야 합니다. Wealthfolio는 반대로, 모든 데이터를 기기 안에 저장하는 데스크톱·모바일 앱입니다. 여러 계좌와 자산군의 투자 내역을 CSV로 불러와 시간·금액가중 수익률, 배분·리스크, 배당 흐름 같은 지표를 계산해 보여줍니다. 계좌 자동 연동(30개 이상 증권사, 읽기 전용)과 암호화된 다중기기 동기화는 \"Wealthfolio Connect\"라는 별도 유료 구독으로 제공되지만, 수동 입력과 CSV 가져오기를 쓰는 핵심 기능은 영구히 무료입니다.",
+    "take": "계좌 연동이라는 진짜 비용이 드는 부분만 유료로 떼어 놓고, 핵심 추적 기능은 계정 없이 영구 무료로 두는 구조가 솔직합니다.",
+    "build": [
+      "여러 계좌에 흩어진 투자를 CSV로 모아 한 화면에서 순자산·수익률 보기",
+      "배당·이자 흐름을 시간순으로 추적해서 현금흐름 계획 세우기",
+      "애드온 SDK(타입스크립트)로 내 계좌 구성에 맞는 화면·기능을 직접 만들기"
+    ],
+    "who": [
+      {
+        "role": "여러 증권사·계좌에 투자를 흩어둔 사람",
+        "situation": "한 곳에서 순자산을 보고 싶을 때"
+      },
+      {
+        "role": "투자 데이터를 클라우드에 맡기고 싶지 않은 사람",
+        "situation": null
+      },
+      {
+        "role": "개발자",
+        "situation": "애드온으로 자기만의 화면을 붙이고 싶을 때"
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "설치: https://wealthfolio.app/download 에서 macOS·Windows·Linux용 내려받기 (iOS 앱, Docker 자가호스팅도 가능)"
+      },
+      {
+        "command": false,
+        "text": "소스에서 빌드(Node·pnpm·Rust·Tauri 필요):"
+      },
+      {
+        "command": true,
+        "text": "git clone https://github.com/wealthfolio/wealthfolio.git"
+      },
+      {
+        "command": true,
+        "text": "pnpm install"
+      },
+      {
+        "command": true,
+        "text": "cp .env.example .env"
+      }
+    ],
+    "caveat": [
+      "AGPL-3.0 · 계좌 자동 연동·암호화 동기화는 \"Wealthfolio Connect\" 유료 구독이 따로 필요합니다",
+      "macOS 12는 시스템·Safari를 최신으로 유지해야 동작합니다(WKWebView가 Safari 16 기준을 맞춰야 함)"
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://wealthfolio.app/"
+  },
+  "ready": "install",
+  "categories": [
+    "finance",
+    "data"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "personal-finance",
+    "portfolio-tracker",
+    "local-first",
+    "open-source",
+    "self-hosted"
+  ],
+  "platform": [
+    "macos",
+    "windows",
+    "linux",
+    "ios",
+    "web"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포는 물론 네트워크 서비스로 제공해도 소스 공개.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://wealthfolio.app/",
+    "github": "https://github.com/wealthfolio/wealthfolio",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/wealthfolio/wealthfolio",
+        "posted_at": "2026-09-15T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 8995,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-16T03:34:17.828Z",
+    "stars_observed_since_check": 2,
+    "star_delta_24h": 13,
+    "star_delta_7d": 15,
+    "star_delta_30d": 17,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      5,
+      8
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": {
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "data",
+        "label": "데이터",
+        "rank": 15
+      },
+      {
+        "category": "finance",
+        "label": "금융",
+        "rank": 4
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T19:37:32.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-16T03:34:17.828Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/wealthfolio-7287e60bd3.webp",
+    "cover": "https://tesign.com/img/wealthfolio-7287e60bd3.webp",
+    "cover_width": 5000,
+    "cover_height": 4359,
+    "gallery": [
+      "https://tesign.com/img/wealthfolio-7287e60bd3.webp",
+      "https://tesign.com/img/wealthfolio-49384e3e10.png"
+    ],
+    "alt": "Wealthfolio 태블릿 화면 네 개. 순자산 그래프, 계좌별 배분 트리맵, 수익률 비교 차트, 배당 흐름 막대그래프가 어두운 배경에 초록색 포인트로 표시되어 있습니다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-16T03:33:30.796Z",
+    "source_created_at": "2024-05-27T14:44:18.000Z",
+    "discovery_hours": 20196.820221111113,
+    "launch_signal_at": "2026-09-15T22:00:00.000Z",
+    "kept_at": "2026-09-17T01:24:00.709Z",
+    "first_published_at": "2026-09-17T01:24:00.858Z",
+    "updated_at": "2026-09-17T01:26:30.175Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

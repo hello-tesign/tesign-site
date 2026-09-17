@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-15T20:32:51.926Z",
+  "generated_at": "2026-09-17T01:30:50.007Z",
   "lang": "en",
   "slug": "openresearch",
   "url": "https://tesign.com/en/item/openresearch/",
@@ -110,17 +110,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-15T15:00:00.000Z",
-    "stars": 3207,
+    "as_of": "2026-09-16T21:00:00.000Z",
+    "stars": 3367,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-15T19:33:49.041Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 70,
-    "star_delta_7d": 304,
-    "star_delta_30d": 304,
+    "stars_observed_since_check": 160,
+    "star_delta_24h": 146,
+    "star_delta_7d": 506,
+    "star_delta_30d": 506,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -133,7 +132,8 @@
       106,
       59,
       11,
-      61
+      132,
+      131
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -143,12 +143,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-15T15:00:00.000Z",
+    "as_of": "2026-09-16T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
-      "7d": 21,
-      "30d": 58
+      "7d": 11,
+      "30d": 32
     },
     "categories": [
       {
@@ -172,7 +172,13 @@
     "checked_at": "2026-09-15T19:33:49.041Z",
     "core_checked_at": "2026-09-15T19:33:49.041Z"
   },
-  "signals": [],
+  "signals": [
+    {
+      "kind": "rising",
+      "label": "RISING",
+      "value": "+146 ★ / 24h"
+    }
+  ],
   "images": {
     "og": "https://tesign.com/img/openresearch-83e080b6be.png",
     "cover": "https://tesign.com/img/openresearch-83e080b6be.png",

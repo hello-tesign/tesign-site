@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>TESIGN Radar · 오늘</title><link>https://tesign.com/</link><description>AI chooses the lists under the owner’s delegation. No human review is running in September 2026. Total stars, increases, cross-source signals, last updates and licences are shown as evidence.</description><language>ko</language><lastBuildDate>Tue, 15 Sep 2026 20:32:51 GMT</lastBuildDate>
-<item><title>Hindsight</title><link>https://tesign.com/item/hindsight/</link><guid isPermaLink="true">https://tesign.com/item/hindsight/</guid><description>유튜브 108개 채널 49,411편의 자막을 기억하고 그중 2만 2천여 편을 주제 지도로 펼쳐 같은 이슈에 대한 발언이 어떻게 바뀌었는지 따라갑니다.
-Hindsight: Remembers 49,411 videos, maps 22,904 by issue, traces how a YouTuber&apos;s argument changed.
-★ 0 · ▲ 1 HN · As of 2026-09-15T15:00:00.000Z</description><pubDate>Tue, 15 Sep 2026 14:07:35 GMT</pubDate></item>
-<item><title>Forma</title><link>https://tesign.com/item/forma/</link><guid isPermaLink="true">https://tesign.com/item/forma/</guid><description>.onnx 파일을 브라우저에 끌어다 놓으면 신경망 그래프가 그려지고, 노드를 고쳐 다시 내보낼 수 있습니다.
-Forma: Drop an .onnx file in the browser, see the graph, edit a node and export — no Python.
-★ 3 · ▲ 2 HN · As of 2026-09-15T15:00:00.000Z</description><pubDate>Tue, 15 Sep 2026 14:07:35 GMT</pubDate></item>
-<item><title>Words of Hanoi</title><link>https://tesign.com/item/words-of-hanoi/</link><guid isPermaLink="true">https://tesign.com/item/words-of-hanoi/</guid><description>시험관 다섯 개에 든 글자 타일 열두 개를 옮겨 꽉 찬 관마다 네 글자 단어가 되게 만드는 하루 한 판 퍼즐입니다.
-Words of Hanoi: A daily puzzle: move letter tiles between five tubes until every full tube spells a word.
-▲ 1 HN · As of 2026-09-15T15:00:00.000Z</description><pubDate>Tue, 15 Sep 2026 14:07:35 GMT</pubDate></item>
-<item><title>Qwen2.5 Program Slicing Security Auditor</title><link>https://tesign.com/item/qwen2-5-program-slicing-security-auditor/</link><guid isPermaLink="true">https://tesign.com/item/qwen2-5-program-slicing-security-auditor/</guid><description>자바스크립트·HTML 코드를 붙여 넣으면 위험한 지점을 잘라내 7B 모델이 취약점 추론과 공격 예시를 써 줍니다.
-Qwen2.5 Program Slicing Security Auditor: Paste JS or HTML; a fine-tuned 7B model traces each risky sink to an exploit and verdict.
-♥ 1 HF · As of 2026-09-15T15:00:00.000Z</description><pubDate>Tue, 15 Sep 2026 14:07:35 GMT</pubDate></item>
-<item><title>SubSweep</title><link>https://tesign.com/item/subsweep/</link><guid isPermaLink="true">https://tesign.com/item/subsweep/</guid><description>호주 은행 거래내역 CSV를 올리면 잊고 있던 정기 결제와 연간 비용, 가격 인상, 환불 가능 건을 찾아 줍니다.
-SubSweep: Finds forgotten subscriptions, price hikes and refund windows in an Australian bank CSV.
-▲ 1 HN · As of 2026-09-15T15:00:00.000Z</description><pubDate>Tue, 15 Sep 2026 14:07:35 GMT</pubDate></item>
-<item><title>Spec Kit</title><link>https://tesign.com/item/spec-kit/</link><guid isPermaLink="true">https://tesign.com/item/spec-kit/</guid><description>코딩 에이전트에 &apos;무엇을 왜 만들지&apos;를 먼저 문서로 정하게 하고, 그 문서대로 계획·구현·검증까지 이끕니다.
-Spec Kit: Makes your coding agent write the spec first, then plan, build and verify against it.
-★ 137k · ▲ +520 / 7d · As of 2026-09-15T15:00:00.000Z</description><pubDate>Tue, 15 Sep 2026 14:07:35 GMT</pubDate></item>
+<rss version="2.0"><channel><title>TESIGN Radar · 오늘</title><link>https://tesign.com/</link><description>AI chooses the lists under the owner’s delegation. No human review is running in September 2026. Total stars, increases, cross-source signals, last updates and licences are shown as evidence.</description><language>ko</language><lastBuildDate>Thu, 17 Sep 2026 01:30:50 GMT</lastBuildDate>
+<item><title>BG0</title><link>https://tesign.com/item/bg0/</link><guid isPermaLink="true">https://tesign.com/item/bg0/</guid><description>사진을 서버에 올리지 않고, 브라우저 안에서만 배경을 지웁니다. WebGPU가 있으면 그걸 쓰고 없으면 WebAssembly로 돌아갑니다.
+BG0: Removes a photo&apos;s background entirely inside your browser — no upload, no server, no account.
+★ 79 · ▲ +28 / 7d · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
+<item><title>ZapFast</title><link>https://tesign.com/item/zapfast/</link><guid isPermaLink="true">https://tesign.com/item/zapfast/</guid><description>브라우저 엔진 없이 러스트로 새로 만든 왓츠앱 클라이언트로, 리눅스에서 유휴 메모리 약 150MB — 왓츠앱 웹(1.13GB)의 8분의 1 수준입니다.
+ZapFast: A from-scratch Rust WhatsApp client with no browser engine — about 150MB idle RAM on Linux, versus 1.13GB for WhatsApp Web.
+★ 107 · ▲ +39 / 7d · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
+<item><title>Wealthfolio</title><link>https://tesign.com/item/wealthfolio/</link><guid isPermaLink="true">https://tesign.com/item/wealthfolio/</guid><description>투자·순자산·소비를 내 기기에만 저장해서 추적하는 오픈소스 자산관리 앱으로, 클라우드 계정이 필요 없습니다.
+Wealthfolio: An open-source portfolio tracker that keeps investments, net worth and spending entirely on your device — no cloud account.
+★ 9k · ▲ +15 / 7d · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
+<item><title>page-mascot</title><link>https://tesign.com/item/page-mascot/</link><guid isPermaLink="true">https://tesign.com/item/page-mascot/</guid><description>마우스를 따라 고개를 돌리고 클릭하면 표정을 짓는 캐릭터를 웹페이지에 붙이는 작은 리액트 컴포넌트입니다.
+page-mascot: A tiny React component that puts a character on your page which turns its head to follow the cursor and reacts when clicked.
+★ 307 · ▲ +39 / 7d · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
+<item><title>Podroid</title><link>https://tesign.com/item/podroid/</link><guid isPermaLink="true">https://tesign.com/item/podroid/</guid><description>루트 권한 없이 안드로이드 폰에서 별도 커널을 가진 진짜 알파인 리눅스 VM을 띄워, Podman·Docker·LXC를 서버와 똑같이 돌립니다.
+Podroid: Boots a real, separately-kernelled Alpine Linux VM on an unrooted Android phone, running Podman, Docker and LXC exactly as they behave on a server.
+★ 2.6k · ▲ +14 / 7d · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
+<item><title>Capsule</title><link>https://tesign.com/item/capsule/</link><guid isPermaLink="true">https://tesign.com/item/capsule/</guid><description>HTML 앱과 그 데이터를 SQLite 파일 하나에 통째로 담아, 계정도 서버도 없이 파일 하나로 주고받는 데스크톱 플레이어입니다.
+Capsule: A desktop player that packs an HTML app and its data into one SQLite file — no account, no server, just a file to share.
+▲ 333 HN · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
+<item><title>SparkyFitness</title><link>https://tesign.com/item/sparkyfitness/</link><guid isPermaLink="true">https://tesign.com/item/sparkyfitness/</guid><description>영양·운동·수면·단식·기분·체성분을 한 앱에서 추적하는 자가호스팅 건강 트래커로, 데이터는 내가 띄운 서버에만 남습니다.
+SparkyFitness: A self-hosted health tracker for nutrition, exercise, sleep, fasting, mood and body metrics — all on a server you run yourself.
+★ 6.1k · ▲ +13 / 7d · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
+<item><title>Inkstone</title><link>https://tesign.com/item/inkstone/</link><guid isPermaLink="true">https://tesign.com/item/inkstone/</guid><description>마크다운 메모를 Cloudflare Workers 위에 직접 올려 쓰는 자가호스팅 노트 앱으로, 실시간 동기화와 검색·백링크까지 갖췄습니다.
+Inkstone: A self-hosted Markdown notebook you deploy on your own Cloudflare Workers account, with realtime sync, search and backlinks built in.
+★ 819 · ▲ +10 / 7d · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
+<item><title>MartinLoop</title><link>https://tesign.com/item/martin-loop/</link><guid isPermaLink="true">https://tesign.com/item/martin-loop/</guid><description>코딩 에이전트에게 예산 한도와 검증 절차를 채워, &quot;완료했다&quot;는 말 대신 증거가 붙은 영수증을 받게 만듭니다.
+MartinLoop: Wraps a coding agent with a spend cap and a verifier, so &quot;I&apos;m done&quot; comes with an evidence-backed receipt instead of just a claim.
+★ 130 · ▲ +21 / 7d · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
+<item><title>OpenHunterAI</title><link>https://tesign.com/item/openhunterai/</link><guid isPermaLink="true">https://tesign.com/item/openhunterai/</guid><description>내가 소유하거나 테스트 허가를 받은 웹·API 서비스만을 대상으로, 공격자 시각의 보안 점검을 로컬 워크스페이스에서 돌리는 알파 단계 도구입니다.
+OpenHunterAI: An alpha-stage local workspace that runs attacker-style security assessments — strictly against public targets you own or are authorized to test.
+★ 165 · ▲ +15 / 7d · As of 2026-09-16T21:00:00.000Z</description><pubDate>Thu, 17 Sep 2026 01:24:00 GMT</pubDate></item>
 </channel></rss>

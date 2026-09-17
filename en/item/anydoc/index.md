@@ -5,16 +5,17 @@
 - Page: https://tesign.com/en/item/anydoc/
 - JSON: https://tesign.com/en/item/anydoc/index.json
 - Korean Markdown: https://tesign.com/item/anydoc/index.md
-- Generated: 2026-09-15 20:32 UTC
+- Generated: 2026-09-17 01:30 UTC
 
 ## RANKS
 
-- PRODUCTIVITY #19 (As of 2026-09-15 15:00 UTC)
+- PRODUCTIVITY #19 (As of 2026-09-16 21:00 UTC)
 
 ## Numbers
 
-- 21,533 stars — checked on GitHub 2026-09-15 19:34 UTC
-- 7-day +36 observed via GH Archive (as of 2026-09-15 15:00 UTC)
+- 21,535 stars — checked on GitHub 2026-09-15 19:34 UTC (+2 observed since the check)
+- 7-day +40 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 24h +2 ★ · 30d +122 ★ (as of 2026-09-16 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

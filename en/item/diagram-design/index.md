@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/diagram-design/
 - JSON: https://tesign.com/en/item/diagram-design/index.json
 - Korean Markdown: https://tesign.com/item/diagram-design/index.md
-- Generated: 2026-09-15 20:32 UTC
+- Generated: 2026-09-17 01:30 UTC
 
 ## RANKS
 
-- All-time #161 · Rising this week #8 · DESIGN #7 (As of 2026-09-15 15:00 UTC)
+- All-time #162 · Rising this week #10 · DESIGN #7 (As of 2026-09-16 21:00 UTC)
 
 ## Numbers
 
-- 40,163 stars — checked on GitHub 2026-09-15 19:33 UTC
-- 7-day +574 observed via GH Archive (as of 2026-09-15 15:00 UTC)
-- 24h +44 ★ · 30d +1,436 ★ (as of 2026-09-15 15:00 UTC)
+- 40,194 stars — checked on GitHub 2026-09-15 19:33 UTC (+31 observed since the check)
+- 7-day +548 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 24h +29 ★ · 30d +1,485 ★ (as of 2026-09-16 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
