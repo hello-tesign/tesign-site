@@ -5,16 +5,16 @@
 - 페이지: https://tesign.com/item/openreply/
 - JSON: https://tesign.com/item/openreply/index.json
 - 영어 마크다운: https://tesign.com/en/item/openreply/index.md
-- 생성 시각: 2026-09-17 01:56 UTC
+- 생성 시각: 2026-09-17 19:00 UTC
 
 ## 순위
 
-- 커머스 분야 6위 · 소셜 분야 19위 (기준 2026-09-16 21:00 UTC)
+- 커머스 분야 6위 · 소셜 분야 19위 (기준 2026-09-17 13:00 UTC)
 
 ## 숫자
 
-- 별 2,292 — GitHub에서 2026-09-15 19:35 UTC 확인
-- 7일 +4은 GH Archive 관측 (기준 2026-09-16 21:00 UTC)
+- 별 2,322 — GitHub에서 2026-09-17 18:41 UTC 확인
+- 7일 +4은 GH Archive 관측 (기준 2026-09-17 13:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -35,9 +35,9 @@
 - 마지막 커밋: 2026-09-14 19:42 UTC
 - 최근 릴리스: 릴리스 없음
 - 기여자: 22
-- 열린 이슈 (PR 포함): 6
+- 열린 이슈 (PR 포함): 8
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-15 19:35 UTC
+- GitHub 확인 시각: 2026-09-17 18:41 UTC
 
 ## 선정 신호와 근거
 

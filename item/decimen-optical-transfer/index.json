@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "decimen-optical-transfer",
   "url": "https://tesign.com/item/decimen-optical-transfer/",
@@ -115,18 +115,18 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 6752,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 6759,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:43.861Z",
+    "stars_checked_at": "2026-09-17T18:41:08.193Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
     "star_delta_30d": 2,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       2,
+      null,
       null,
       null,
       null,
@@ -148,7 +148,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -174,8 +174,8 @@
       "published_at": "2026-08-20T00:46:56.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:43.861Z",
-    "core_checked_at": "2026-09-15T19:34:43.861Z"
+    "checked_at": "2026-09-17T18:41:08.193Z",
+    "core_checked_at": "2026-09-17T18:41:08.193Z"
   },
   "signals": [
     {

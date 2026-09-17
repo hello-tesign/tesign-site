@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "proton-cli",
   "url": "https://tesign.com/en/item/proton-cli/",
@@ -119,10 +119,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "stars": 70,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:31.235Z",
+    "stars_checked_at": "2026-09-17T18:40:55.476Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,24 +147,24 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 3,
-    "hn_points_observed_at": "2026-09-16T05:47:41.117Z",
+    "hn_points_observed_at": "2026-09-17T02:30:23.173Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T18:21:47.000Z",
+    "pushed_at": "2026-09-17T17:58:09.000Z",
     "owner_type": "User",
     "open_issues": 0,
     "contributors": 1,
-    "releases_count": 57,
+    "releases_count": 60,
     "latest_release": {
-      "tag": "v4.0.0",
-      "published_at": "2026-09-15T18:24:39.000Z",
+      "tag": "v4.2.1",
+      "published_at": "2026-09-17T18:04:30.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:31.235Z",
-    "core_checked_at": "2026-09-15T19:34:31.235Z"
+    "checked_at": "2026-09-17T18:40:55.476Z",
+    "core_checked_at": "2026-09-17T18:40:55.476Z"
   },
   "signals": [
     {

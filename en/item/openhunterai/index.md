@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/openhunterai/
 - JSON: https://tesign.com/en/item/openhunterai/index.json
 - Korean Markdown: https://tesign.com/item/openhunterai/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## Numbers
 
-- 165 stars — checked on GitHub 2026-09-15 03:29 UTC (+2 observed since the check)
-- 7-day +15 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 306 stars — checked on GitHub 2026-09-17 18:40 UTC
+- 7-day +15 observed via GH Archive (as of 2026-09-17 13:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,11 +28,11 @@
 ## ACTIVITY
 
 - Last commit: 2026-09-14 13:22 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-15 03:29 UTC
+- Latest release: v0.1.0-preview.1 (2026-09-07) · pre-release
+- Contributors: 4
+- Open issues (incl. PRs): 10
+- Made by: an organization
+- Checked on GitHub: 2026-09-17 18:40 UTC
 
 ## TESIGN TAKE
 

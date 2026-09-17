@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "zapfast",
   "url": "https://tesign.com/en/item/zapfast/",
@@ -115,12 +115,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 107,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 326,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T21:33:33.705Z",
-    "stars_observed_since_check": 11,
-    "star_delta_24h": 11,
+    "stars_checked_at": "2026-09-17T18:41:57.938Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 2,
     "star_delta_7d": 39,
     "star_delta_30d": 39,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -136,9 +136,9 @@
       null,
       null,
       null,
-      null,
       31,
-      8
+      8,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -147,25 +147,20 @@
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
-  "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "all_time": null,
-    "rising": {
-      "24h": null,
-      "7d": 59,
-      "30d": null
-    },
-    "categories": []
-  },
+  "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T18:40:18.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-15T21:33:33.705Z"
+    "pushed_at": "2026-09-17T16:08:41.000Z",
+    "owner_type": "User",
+    "open_issues": 30,
+    "contributors": 6,
+    "releases_count": 33,
+    "latest_release": {
+      "tag": "v0.14.0",
+      "published_at": "2026-09-16T13:16:54.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-17T18:41:57.938Z",
+    "core_checked_at": "2026-09-17T18:41:57.938Z"
   },
   "signals": [],
   "images": {

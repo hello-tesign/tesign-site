@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/hindsight/
 - JSON: https://tesign.com/en/item/hindsight/index.json
 - Korean Markdown: https://tesign.com/item/hindsight/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## Numbers
 
-- 0 stars — checked on GitHub 2026-09-15 19:33 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-16 21:00 UTC)
-- 1 Show HN points — observed 2026-09-16 07:50 UTC
+- 0 stars — checked on GitHub 2026-09-17 18:40 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-17 13:00 UTC)
+- 1 Show HN points — observed 2026-09-17 04:33 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -34,7 +34,7 @@
 - Contributors: 1
 - Open issues (incl. PRs): 0
 - Made by: an individual
-- Checked on GitHub: 2026-09-15 19:33 UTC
+- Checked on GitHub: 2026-09-17 18:40 UTC
 
 ## Signals and evidence
 

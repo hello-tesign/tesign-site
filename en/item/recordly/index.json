@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "recordly",
   "url": "https://tesign.com/en/item/recordly/",
@@ -110,17 +110,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 29045,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 29455,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:33:52.703Z",
-    "stars_observed_since_check": 24,
-    "star_delta_24h": 22,
-    "star_delta_7d": 399,
-    "star_delta_30d": 641,
+    "stars_checked_at": "2026-09-17T18:40:18.204Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 8,
+    "star_delta_7d": 400,
+    "star_delta_30d": 646,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       8,
       20,
       148,
@@ -133,7 +132,8 @@
       128,
       4,
       44,
-      22
+      22,
+      5
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -143,18 +143,18 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
-      "7d": 17,
-      "30d": 20
+      "7d": 19,
+      "30d": 21
     },
     "categories": [
       {
         "category": "productivity",
         "label": "PRODUCTIVITY",
-        "rank": 16
+        "rank": 17
       },
       {
         "category": "media",
@@ -164,9 +164,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-15T07:36:32.000Z",
+    "pushed_at": "2026-09-17T09:45:17.000Z",
     "owner_type": "Organization",
-    "open_issues": 358,
+    "open_issues": 374,
     "contributors": 76,
     "releases_count": 48,
     "latest_release": {
@@ -174,8 +174,8 @@
       "published_at": "2026-09-08T04:34:51.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:33:52.703Z",
-    "core_checked_at": "2026-09-15T19:33:52.703Z"
+    "checked_at": "2026-09-17T18:40:18.204Z",
+    "core_checked_at": "2026-09-17T18:40:18.204Z"
   },
   "signals": [],
   "images": {

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/llm-space/
 - JSON: https://tesign.com/en/item/llm-space/index.json
 - Korean Markdown: https://tesign.com/item/llm-space/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## Numbers
 
-- 1,890 stars — checked on GitHub 2026-09-15 19:34 UTC
-- 7-day +2 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 1,902 stars — checked on GitHub 2026-09-17 18:41 UTC
+- 7-day +2 observed via GH Archive (as of 2026-09-17 13:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,7 +33,7 @@
 - Contributors: 25
 - Open issues (incl. PRs): 21
 - Made by: an organization
-- Checked on GitHub: 2026-09-15 19:34 UTC
+- Checked on GitHub: 2026-09-17 18:41 UTC
 
 ## Signals and evidence
 

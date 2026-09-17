@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "dory",
   "url": "https://tesign.com/item/dory/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 1582,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 1589,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:40.967Z",
+    "stars_checked_at": "2026-09-17T18:41:05.282Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -158,8 +158,8 @@
       "published_at": "2026-08-13T14:20:03.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:40.967Z",
-    "core_checked_at": "2026-09-15T19:34:40.967Z"
+    "checked_at": "2026-09-17T18:41:05.282Z",
+    "core_checked_at": "2026-09-17T18:41:05.282Z"
   },
   "signals": [
     {

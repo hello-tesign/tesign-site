@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "genoffice",
   "url": "https://tesign.com/en/item/genoffice/",
@@ -112,17 +112,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 6836,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 7022,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:48.198Z",
+    "stars_checked_at": "2026-09-17T18:41:12.496Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 43,
-    "star_delta_30d": 338,
+    "star_delta_24h": 6,
+    "star_delta_7d": 49,
+    "star_delta_30d": 344,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      2,
       82,
       90,
       110,
@@ -135,7 +134,8 @@
       6,
       null,
       3,
-      null
+      2,
+      4
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -145,28 +145,28 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 59
+      "30d": 61
     },
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-15T09:38:26.000Z",
+    "pushed_at": "2026-09-17T13:46:14.000Z",
     "owner_type": "Organization",
-    "open_issues": 50,
-    "contributors": 22,
-    "releases_count": 25,
+    "open_issues": 27,
+    "contributors": 23,
+    "releases_count": 27,
     "latest_release": {
-      "tag": "v0.10.63",
-      "published_at": "2026-09-13T23:04:09.000Z",
+      "tag": "v0.10.639",
+      "published_at": "2026-09-17T13:30:59.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:48.198Z",
-    "core_checked_at": "2026-09-15T19:34:48.198Z"
+    "checked_at": "2026-09-17T18:41:12.496Z",
+    "core_checked_at": "2026-09-17T18:41:12.496Z"
   },
   "signals": [
     {

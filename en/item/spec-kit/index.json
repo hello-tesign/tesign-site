@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "spec-kit",
   "url": "https://tesign.com/en/item/spec-kit/",
@@ -146,17 +146,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 137055,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 137581,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:33:47.990Z",
-    "stars_observed_since_check": 38,
-    "star_delta_24h": 35,
-    "star_delta_7d": 560,
-    "star_delta_30d": 726,
+    "stars_checked_at": "2026-09-17T18:40:14.128Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 26,
+    "star_delta_7d": 575,
+    "star_delta_30d": 741,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      5,
       43,
       50,
       51,
@@ -169,7 +168,8 @@
       47,
       13,
       31,
-      32
+      36,
+      11
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -179,7 +179,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "all_time": 16,
     "rising": {
       "24h": null,
@@ -200,18 +200,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-15T17:30:56.000Z",
+    "pushed_at": "2026-09-17T17:48:40.000Z",
     "owner_type": "Organization",
-    "open_issues": 327,
-    "contributors": 295,
-    "releases_count": 221,
+    "open_issues": 309,
+    "contributors": 297,
+    "releases_count": 222,
     "latest_release": {
-      "tag": "v1.0.7",
-      "published_at": "2026-09-15T13:45:03.000Z",
+      "tag": "v1.0.8",
+      "published_at": "2026-09-17T17:44:48.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:33:47.990Z",
-    "core_checked_at": "2026-09-15T19:33:47.990Z"
+    "checked_at": "2026-09-17T18:40:14.128Z",
+    "core_checked_at": "2026-09-17T18:40:14.128Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "spotifast",
   "url": "https://tesign.com/en/item/spotifast/",
@@ -121,17 +121,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 4145,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 4329,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:53.105Z",
+    "stars_checked_at": "2026-09-17T18:41:17.237Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 13,
     "star_delta_30d": 200,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      10,
       74,
       62,
       39,
@@ -141,6 +140,7 @@
       4,
       6,
       3,
+      null,
       null,
       null,
       null,
@@ -154,7 +154,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -170,18 +170,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-15T18:40:13.000Z",
+    "pushed_at": "2026-09-17T16:10:51.000Z",
     "owner_type": "User",
-    "open_issues": 55,
-    "contributors": 37,
+    "open_issues": 67,
+    "contributors": 41,
     "releases_count": 20,
     "latest_release": {
       "tag": "v0.8.0",
       "published_at": "2026-09-14T14:23:27.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:53.105Z",
-    "core_checked_at": "2026-09-15T19:34:53.105Z"
+    "checked_at": "2026-09-17T18:41:17.237Z",
+    "core_checked_at": "2026-09-17T18:41:17.237Z"
   },
   "signals": [
     {

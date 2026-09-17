@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "bento",
   "url": "https://tesign.com/item/bento/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 5059,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 5111,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:35:10.242Z",
+    "stars_checked_at": "2026-09-17T18:41:32.145Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 6,
-    "star_delta_30d": 59,
+    "star_delta_24h": 2,
+    "star_delta_7d": 8,
+    "star_delta_30d": 61,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       34,
       19,
@@ -137,7 +136,8 @@
       null,
       null,
       4,
-      null
+      null,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -148,18 +148,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T10:59:51.000Z",
+    "pushed_at": "2026-09-17T12:38:40.000Z",
     "owner_type": "User",
     "open_issues": 35,
     "contributors": 16,
-    "releases_count": 15,
+    "releases_count": 16,
     "latest_release": {
-      "tag": "v1.1.0",
-      "published_at": "2026-09-14T01:35:30.000Z",
+      "tag": "v1.2.0",
+      "published_at": "2026-09-16T14:39:08.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:35:10.242Z",
-    "core_checked_at": "2026-09-15T19:35:10.242Z"
+    "checked_at": "2026-09-17T18:41:32.145Z",
+    "core_checked_at": "2026-09-17T18:41:32.145Z"
   },
   "signals": [
     {

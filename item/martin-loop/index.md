@@ -5,12 +5,13 @@
 - 페이지: https://tesign.com/item/martin-loop/
 - JSON: https://tesign.com/item/martin-loop/index.json
 - 영어 마크다운: https://tesign.com/en/item/martin-loop/index.md
-- 생성 시각: 2026-09-17 01:56 UTC
+- 생성 시각: 2026-09-17 19:00 UTC
 
 ## 숫자
 
-- 별 130 — GitHub에서 2026-09-15 23:33 UTC 확인
-- 7일 +21은 GH Archive 관측 (기준 2026-09-16 21:00 UTC)
+- 별 208 — GitHub에서 2026-09-17 18:41 UTC 확인
+- 7일 +25은 GH Archive 관측 (기준 2026-09-17 13:00 UTC)
+- 24h +4 ★ · 30d +25 ★ (기준 2026-09-17 13:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -27,12 +28,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-09-15 03:04 UTC
-- 최근 릴리스: [확인 필요]
-- 기여자: [확인 필요]
-- 열린 이슈 (PR 포함): [확인 필요]
-- 만든 이: [확인 필요]
-- GitHub 확인 시각: 2026-09-15 23:33 UTC
+- 마지막 커밋: 2026-09-17 18:36 UTC
+- 최근 릴리스: v0.6.4 (2026-09-15)
+- 기여자: 5
+- 열린 이슈 (PR 포함): 1
+- 만든 이: 개인
+- GitHub 확인 시각: 2026-09-17 18:41 UTC
 
 ## TESIGN TAKE
 

@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/podroid/
 - JSON: https://tesign.com/en/item/podroid/index.json
 - Korean Markdown: https://tesign.com/item/podroid/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## Numbers
 
-- 2,604 stars — checked on GitHub 2026-09-15 07:20 UTC (+2 observed since the check)
-- 7-day +14 observed via GH Archive (as of 2026-09-16 21:00 UTC)
-- 24h +2 ★ · 30d +14 ★ (as of 2026-09-16 21:00 UTC)
+- 2,772 stars — checked on GitHub 2026-09-17 18:40 UTC
+- 7-day +16 observed via GH Archive (as of 2026-09-17 13:00 UTC)
+- 24h +4 ★ · 30d +16 ★ (as of 2026-09-17 13:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-03 18:51 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-15 07:20 UTC
+- Last commit: 2026-09-17 14:21 UTC
+- Latest release: v1.2.8 (2026-08-22)
+- Contributors: 6
+- Open issues (incl. PRs): 22
+- Made by: an individual
+- Checked on GitHub: 2026-09-17 18:40 UTC
 
 ## TESIGN TAKE
 

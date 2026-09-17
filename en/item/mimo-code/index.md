@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/mimo-code/
 - JSON: https://tesign.com/en/item/mimo-code/index.json
 - Korean Markdown: https://tesign.com/item/mimo-code/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## Numbers
 
-- 13,128 stars — checked on GitHub 2026-09-15 19:34 UTC
-- 7-day +6 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 13,164 stars — checked on GitHub 2026-09-17 18:40 UTC
+- 7-day +6 observed via GH Archive (as of 2026-09-17 13:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 19:08 UTC
+- Last commit: 2026-09-17 18:36 UTC
 - Latest release: v0.1.14 (2026-09-02)
 - Contributors: 20
-- Open issues (incl. PRs): 1,001
+- Open issues (incl. PRs): 1,014
 - Made by: an organization
-- Checked on GitHub: 2026-09-15 19:34 UTC
+- Checked on GitHub: 2026-09-17 18:40 UTC
 
 ## Signals and evidence
 

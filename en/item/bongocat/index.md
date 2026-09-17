@@ -5,13 +5,12 @@
 - Page: https://tesign.com/en/item/bongocat/
 - JSON: https://tesign.com/en/item/bongocat/index.json
 - Korean Markdown: https://tesign.com/item/bongocat/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## Numbers
 
-- 764 stars — checked on GitHub 2026-09-15 19:34 UTC (+2 observed since the check)
-- 7-day +90 observed via GH Archive (as of 2026-09-16 21:00 UTC)
-- 24h +2 ★ · 30d +98 ★ (as of 2026-09-16 21:00 UTC)
+- 817 stars — checked on GitHub 2026-09-17 18:40 UTC
+- 7-day +90 observed via GH Archive (as of 2026-09-17 13:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 09:04 UTC
-- Latest release: v1.8.0 (2026-09-11)
+- Last commit: 2026-09-17 17:33 UTC
+- Latest release: v1.9.0 (2026-09-17)
 - Contributors: 12
-- Open issues (incl. PRs): 13
+- Open issues (incl. PRs): 15
 - Made by: an individual
-- Checked on GitHub: 2026-09-15 19:34 UTC
+- Checked on GitHub: 2026-09-17 18:40 UTC
 
 ## TESIGN TAKE
 

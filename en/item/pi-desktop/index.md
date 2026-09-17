@@ -5,17 +5,16 @@
 - Page: https://tesign.com/en/item/pi-desktop/
 - JSON: https://tesign.com/en/item/pi-desktop/index.json
 - Korean Markdown: https://tesign.com/item/pi-desktop/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## RANKS
 
-- Rising this week #25 (As of 2026-09-16 21:00 UTC)
+- Rising this week #28 (As of 2026-09-17 13:00 UTC)
 
 ## Numbers
 
-- 3,849 stars — checked on GitHub 2026-09-15 19:34 UTC (+17 observed since the check)
-- 7-day +345 observed via GH Archive (as of 2026-09-16 21:00 UTC)
-- 24h +17 ★ · 30d +379 ★ (as of 2026-09-16 21:00 UTC)
+- 4,146 stars — checked on GitHub 2026-09-17 18:40 UTC
+- 7-day +325 observed via GH Archive (as of 2026-09-17 13:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 19:18 UTC
-- Latest release: v0.14.8 (2026-09-14)
-- Contributors: 39
-- Open issues (incl. PRs): 76
+- Last commit: 2026-09-17 17:52 UTC
+- Latest release: v0.15.0 (2026-09-17)
+- Contributors: 42
+- Open issues (incl. PRs): 101
 - Made by: an individual
-- Checked on GitHub: 2026-09-15 19:34 UTC
+- Checked on GitHub: 2026-09-17 18:40 UTC
 
 ## TESIGN TAKE
 

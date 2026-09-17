@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "oauthcli",
   "url": "https://tesign.com/en/item/oauthcli/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 1,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 2,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:32.202Z",
+    "stars_checked_at": "2026-09-17T18:40:56.411Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -140,7 +140,7 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 5,
-    "hn_points_observed_at": "2026-09-16T05:47:41.109Z",
+    "hn_points_observed_at": "2026-09-17T02:30:23.166Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
@@ -156,8 +156,8 @@
       "published_at": "2026-09-12T21:02:05.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:32.202Z",
-    "core_checked_at": "2026-09-15T19:34:32.202Z"
+    "checked_at": "2026-09-17T18:40:56.411Z",
+    "core_checked_at": "2026-09-17T18:40:56.411Z"
   },
   "signals": [
     {

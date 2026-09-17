@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "bongocat",
   "url": "https://tesign.com/en/item/bongocat/",
@@ -106,17 +106,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 764,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 817,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:10.347Z",
-    "stars_observed_since_check": 2,
-    "star_delta_24h": 2,
+    "stars_checked_at": "2026-09-17T18:40:34.197Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
     "star_delta_7d": 90,
     "star_delta_30d": 98,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       4,
       null,
       2,
@@ -129,7 +128,8 @@
       47,
       null,
       2,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -140,18 +140,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T09:04:01.000Z",
+    "pushed_at": "2026-09-17T17:33:21.000Z",
     "owner_type": "User",
-    "open_issues": 13,
+    "open_issues": 15,
     "contributors": 12,
-    "releases_count": 4,
+    "releases_count": 5,
     "latest_release": {
-      "tag": "v1.8.0",
-      "published_at": "2026-09-11T16:41:04.000Z",
+      "tag": "v1.9.0",
+      "published_at": "2026-09-17T10:41:17.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:10.347Z",
-    "core_checked_at": "2026-09-15T19:34:10.347Z"
+    "checked_at": "2026-09-17T18:40:34.197Z",
+    "core_checked_at": "2026-09-17T18:40:34.197Z"
   },
   "signals": [],
   "images": {

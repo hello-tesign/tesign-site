@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "easel",
   "url": "https://tesign.com/en/item/easel/",
@@ -120,17 +120,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 1129,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 1201,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:16.042Z",
+    "stars_checked_at": "2026-09-17T18:40:39.741Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 48,
     "star_delta_30d": 66,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       11,
       null,
       null,
@@ -141,6 +140,7 @@
       13,
       14,
       21,
+      null,
       null,
       null,
       null
@@ -154,18 +154,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T07:06:35.000Z",
+    "pushed_at": "2026-09-17T17:23:35.000Z",
     "owner_type": "Organization",
-    "open_issues": 8,
+    "open_issues": 9,
     "contributors": 9,
-    "releases_count": 2,
+    "releases_count": 3,
     "latest_release": {
-      "tag": "v0.1.1",
-      "published_at": "2026-09-14T16:40:26.000Z",
+      "tag": "v0.2.0",
+      "published_at": "2026-09-17T17:24:08.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:16.042Z",
-    "core_checked_at": "2026-09-15T19:34:16.042Z"
+    "checked_at": "2026-09-17T18:40:39.741Z",
+    "core_checked_at": "2026-09-17T18:40:39.741Z"
   },
   "signals": [],
   "images": {

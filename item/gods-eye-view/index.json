@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "gods-eye-view",
   "url": "https://tesign.com/item/gods-eye-view/",
@@ -118,17 +118,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 34766,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 36923,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:33:39.795Z",
-    "stars_observed_since_check": 168,
-    "star_delta_24h": 132,
-    "star_delta_7d": 2468,
-    "star_delta_30d": 3185,
+    "stars_checked_at": "2026-09-17T18:40:06.878Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 110,
+    "star_delta_7d": 2495,
+    "star_delta_30d": 3267,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      7,
       166,
       227,
       181,
@@ -141,7 +140,8 @@
       318,
       47,
       186,
-      115
+      134,
+      63
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -151,8 +151,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "all_time": 206,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "all_time": 192,
     "rising": {
       "24h": null,
       "7d": 1,
@@ -172,9 +172,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-15T19:33:33.000Z",
+    "pushed_at": "2026-09-17T00:37:30.000Z",
     "owner_type": "User",
-    "open_issues": 160,
+    "open_issues": 195,
     "contributors": 17,
     "releases_count": 2,
     "latest_release": {
@@ -182,14 +182,14 @@
       "published_at": "2026-09-01T19:43:06.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:33:39.795Z",
-    "core_checked_at": "2026-09-15T19:33:39.795Z"
+    "checked_at": "2026-09-17T18:40:06.878Z",
+    "core_checked_at": "2026-09-17T18:40:06.878Z"
   },
   "signals": [
     {
       "kind": "rising",
       "label": "상승 중",
-      "value": "+132 ★ / 24h"
+      "value": "+110 ★ / 24h"
     }
   ],
   "images": {

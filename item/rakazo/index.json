@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "rakazo",
   "url": "https://tesign.com/item/rakazo/",
@@ -111,17 +111,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 2525,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 2632,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:57.150Z",
-    "stars_observed_since_check": 6,
-    "star_delta_24h": 6,
+    "stars_checked_at": "2026-09-17T18:41:20.180Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
     "star_delta_7d": 28,
     "star_delta_30d": 74,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       10,
       28,
       8,
@@ -134,7 +133,8 @@
       4,
       null,
       4,
-      4
+      4,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -145,18 +145,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T18:50:28.000Z",
+    "pushed_at": "2026-09-17T16:40:10.000Z",
     "owner_type": "User",
-    "open_issues": 18,
-    "contributors": 54,
+    "open_issues": 15,
+    "contributors": 58,
     "releases_count": 8,
     "latest_release": {
       "tag": "v0.1.6",
       "published_at": "2026-09-08T05:47:07.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:57.150Z",
-    "core_checked_at": "2026-09-15T19:34:57.150Z"
+    "checked_at": "2026-09-17T18:41:20.180Z",
+    "core_checked_at": "2026-09-17T18:41:20.180Z"
   },
   "signals": [
     {

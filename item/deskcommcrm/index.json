@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "deskcommcrm",
   "url": "https://tesign.com/item/deskcommcrm/",
@@ -115,17 +115,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 2781,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 3147,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:33:58.151Z",
-    "stars_observed_since_check": 46,
-    "star_delta_24h": 43,
+    "stars_checked_at": "2026-09-17T18:40:23.219Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 2,
     "star_delta_7d": 368,
     "star_delta_30d": 370,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -138,7 +137,8 @@
       64,
       null,
       44,
-      34
+      34,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -148,7 +148,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -164,18 +164,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-15T18:48:06.000Z",
+    "pushed_at": "2026-09-17T18:33:00.000Z",
     "owner_type": "User",
-    "open_issues": 134,
-    "contributors": 59,
-    "releases_count": 38,
+    "open_issues": 174,
+    "contributors": 61,
+    "releases_count": 45,
     "latest_release": {
-      "tag": "v1.27.2",
-      "published_at": "2026-09-15T17:16:52.000Z",
+      "tag": "v1.32.0",
+      "published_at": "2026-09-17T17:32:04.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:33:58.151Z",
-    "core_checked_at": "2026-09-15T19:33:58.151Z"
+    "checked_at": "2026-09-17T18:40:23.219Z",
+    "core_checked_at": "2026-09-17T18:40:23.219Z"
   },
   "signals": [],
   "images": {

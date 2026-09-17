@@ -5,13 +5,12 @@
 - Page: https://tesign.com/en/item/bg0/
 - JSON: https://tesign.com/en/item/bg0/index.json
 - Korean Markdown: https://tesign.com/item/bg0/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## Numbers
 
-- 79 stars — checked on GitHub 2026-09-15 21:33 UTC (+12 observed since the check)
-- 7-day +28 observed via GH Archive (as of 2026-09-16 21:00 UTC)
-- 24h +12 ★ · 30d +28 ★ (as of 2026-09-16 21:00 UTC)
+- 223 stars — checked on GitHub 2026-09-17 18:41 UTC
+- 7-day +28 observed via GH Archive (as of 2026-09-17 13:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 20:49 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-15 21:33 UTC
+- Last commit: 2026-09-16 18:06 UTC
+- Latest release: no releases
+- Contributors: 3
+- Open issues (incl. PRs): 2
+- Made by: an organization
+- Checked on GitHub: 2026-09-17 18:41 UTC
 
 ## Signals and evidence
 

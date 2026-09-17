@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "taste-skill",
   "url": "https://tesign.com/en/item/taste-skill/",
@@ -100,17 +100,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 87422,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 87934,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:12.129Z",
-    "stars_observed_since_check": 33,
-    "star_delta_24h": 33,
-    "star_delta_7d": 265,
-    "star_delta_30d": 633,
+    "stars_checked_at": "2026-09-17T18:40:36.050Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 11,
+    "star_delta_7d": 267,
+    "star_delta_30d": 637,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      4,
       104,
       101,
       127,
@@ -123,7 +122,8 @@
       46,
       9,
       45,
-      31
+      35,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -133,11 +133,11 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "all_time": 53,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "all_time": 52,
     "rising": {
       "24h": null,
-      "7d": 38,
+      "7d": 39,
       "30d": 23
     },
     "categories": [
@@ -149,14 +149,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-08-24T15:23:56.000Z",
+    "pushed_at": "2026-09-16T15:01:43.000Z",
     "owner_type": "User",
     "open_issues": 67,
     "contributors": 7,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-15T19:34:12.129Z",
-    "core_checked_at": "2026-09-15T19:34:12.129Z"
+    "checked_at": "2026-09-17T18:40:36.050Z",
+    "core_checked_at": "2026-09-17T18:40:36.050Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "vercel-labs-fx",
   "url": "https://tesign.com/en/item/vercel-labs-fx/",
@@ -113,17 +113,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 2988,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 3035,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:35:17.822Z",
+    "stars_checked_at": "2026-09-17T18:41:38.204Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 4,
     "star_delta_30d": 15,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       5,
       4,
@@ -134,6 +133,7 @@
       null,
       2,
       2,
+      null,
       null,
       null,
       null
@@ -147,18 +147,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T17:04:26.000Z",
+    "pushed_at": "2026-09-17T18:41:11.000Z",
     "owner_type": "Organization",
-    "open_issues": 229,
-    "contributors": 18,
+    "open_issues": 240,
+    "contributors": 20,
     "releases_count": 10,
     "latest_release": {
       "tag": "v0.0.10",
       "published_at": "2026-09-14T04:43:52.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:35:17.822Z",
-    "core_checked_at": "2026-09-15T19:35:17.822Z"
+    "checked_at": "2026-09-17T18:41:38.204Z",
+    "core_checked_at": "2026-09-17T18:41:38.204Z"
   },
   "signals": [
     {

@@ -5,12 +5,13 @@
 - Page: https://tesign.com/en/item/bento/
 - JSON: https://tesign.com/en/item/bento/index.json
 - Korean Markdown: https://tesign.com/item/bento/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## Numbers
 
-- 5,059 stars — checked on GitHub 2026-09-15 19:35 UTC
-- 7-day +6 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 5,111 stars — checked on GitHub 2026-09-17 18:41 UTC
+- 7-day +8 observed via GH Archive (as of 2026-09-17 13:00 UTC)
+- 24h +2 ★ · 30d +61 ★ (as of 2026-09-17 13:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 10:59 UTC
-- Latest release: v1.1.0 (2026-09-14)
+- Last commit: 2026-09-17 12:38 UTC
+- Latest release: v1.2.0 (2026-09-16)
 - Contributors: 16
 - Open issues (incl. PRs): 35
 - Made by: an individual
-- Checked on GitHub: 2026-09-15 19:35 UTC
+- Checked on GitHub: 2026-09-17 18:41 UTC
 
 ## Signals and evidence
 

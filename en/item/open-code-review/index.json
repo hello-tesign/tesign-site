@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "open-code-review",
   "url": "https://tesign.com/en/item/open-code-review/",
@@ -119,17 +119,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 28581,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 34424,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:33:50.685Z",
-    "stars_observed_since_check": 454,
-    "star_delta_24h": 416,
-    "star_delta_7d": 1064,
-    "star_delta_30d": 1089,
+    "stars_checked_at": "2026-09-17T18:40:16.175Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 314,
+    "star_delta_7d": 1269,
+    "star_delta_30d": 1294,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       7,
       7,
       6,
@@ -142,7 +141,8 @@
       96,
       58,
       447,
-      373
+      403,
+      175
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -152,40 +152,40 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "all_time": null,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "all_time": 212,
     "rising": {
       "24h": 1,
-      "7d": 6,
-      "30d": 11
+      "7d": 5,
+      "30d": 10
     },
     "categories": [
       {
         "category": "security",
         "label": "SECURITY",
-        "rank": 3
+        "rank": 1
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-15T19:33:15.000Z",
+    "pushed_at": "2026-09-17T13:19:37.000Z",
     "owner_type": "Organization",
-    "open_issues": 164,
-    "contributors": 165,
-    "releases_count": 126,
+    "open_issues": 193,
+    "contributors": 177,
+    "releases_count": 129,
     "latest_release": {
-      "tag": "v1.12.2",
-      "published_at": "2026-09-15T09:19:58.000Z",
+      "tag": "v1.12.5",
+      "published_at": "2026-09-17T13:33:32.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:33:50.685Z",
-    "core_checked_at": "2026-09-15T19:33:50.685Z"
+    "checked_at": "2026-09-17T18:40:16.175Z",
+    "core_checked_at": "2026-09-17T18:40:16.175Z"
   },
   "signals": [
     {
       "kind": "rising",
       "label": "RISING",
-      "value": "+416 ★ / 24h"
+      "value": "+314 ★ / 24h"
     }
   ],
   "images": {

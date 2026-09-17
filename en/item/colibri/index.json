@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "colibri",
   "url": "https://tesign.com/en/item/colibri/",
@@ -125,17 +125,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 33753,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 35619,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:33:45.880Z",
-    "stars_observed_since_check": 211,
-    "star_delta_24h": 175,
-    "star_delta_7d": 974,
-    "star_delta_30d": 1021,
+    "stars_checked_at": "2026-09-17T18:40:11.932Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 90,
+    "star_delta_7d": 1026,
+    "star_delta_30d": 1073,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       7,
       7,
       33,
@@ -148,7 +147,8 @@
       193,
       67,
       261,
-      151
+      164,
+      39
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -158,8 +158,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "all_time": 185,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "all_time": 173,
     "rising": {
       "24h": null,
       "7d": 7,
@@ -169,14 +169,14 @@
       {
         "category": "infra",
         "label": "INFRA",
-        "rank": 10
+        "rank": 9
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-15T19:28:15.000Z",
+    "pushed_at": "2026-09-17T14:41:49.000Z",
     "owner_type": "User",
-    "open_issues": 117,
+    "open_issues": 129,
     "contributors": 150,
     "releases_count": 17,
     "latest_release": {
@@ -184,19 +184,14 @@
       "published_at": "2026-09-13T13:44:10.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:33:45.880Z",
-    "core_checked_at": "2026-09-15T19:33:45.880Z"
+    "checked_at": "2026-09-17T18:40:11.932Z",
+    "core_checked_at": "2026-09-17T18:40:11.932Z"
   },
   "signals": [
     {
       "kind": "cross",
       "label": "CROSS-SIGNAL",
       "value": "Show HN + GitHub"
-    },
-    {
-      "kind": "rising",
-      "label": "RISING",
-      "value": "+175 ★ / 24h"
     }
   ],
   "images": {

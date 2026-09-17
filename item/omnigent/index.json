@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "omnigent",
   "url": "https://tesign.com/item/omnigent/",
@@ -115,17 +115,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 9973,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 10043,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:30.211Z",
-    "stars_observed_since_check": 4,
-    "star_delta_24h": 4,
+    "stars_checked_at": "2026-09-17T18:40:54.310Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
     "star_delta_7d": 8,
     "star_delta_30d": 22,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       4,
       6,
       4,
@@ -138,7 +137,8 @@
       null,
       null,
       2,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -149,18 +149,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T19:23:28.000Z",
+    "pushed_at": "2026-09-17T18:40:42.000Z",
     "owner_type": "Organization",
-    "open_issues": 1368,
-    "contributors": 253,
+    "open_issues": 1386,
+    "contributors": 259,
     "releases_count": 16,
     "latest_release": {
       "tag": "v0.14.0",
       "published_at": "2026-09-15T13:06:10.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:30.211Z",
-    "core_checked_at": "2026-09-15T19:34:30.211Z"
+    "checked_at": "2026-09-17T18:40:54.310Z",
+    "core_checked_at": "2026-09-17T18:40:54.310Z"
   },
   "signals": [
     {

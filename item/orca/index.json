@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "orca",
   "url": "https://tesign.com/item/orca/",
@@ -120,17 +120,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 69533,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 70980,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:33:57.115Z",
-    "stars_observed_since_check": 115,
-    "star_delta_24h": 104,
-    "star_delta_7d": 794,
-    "star_delta_30d": 1568,
+    "stars_checked_at": "2026-09-17T18:40:22.311Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 70,
+    "star_delta_7d": 826,
+    "star_delta_30d": 1617,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      20,
       214,
       222,
       226,
@@ -143,7 +142,8 @@
       88,
       27,
       102,
-      96
+      107,
+      38
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -154,26 +154,20 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T19:20:32.000Z",
+    "pushed_at": "2026-09-17T18:38:40.000Z",
     "owner_type": "Organization",
-    "open_issues": 6054,
-    "contributors": 372,
-    "releases_count": 952,
+    "open_issues": 6229,
+    "contributors": 374,
+    "releases_count": 954,
     "latest_release": {
-      "tag": "v1.4.203",
-      "published_at": "2026-09-15T05:43:20.000Z",
+      "tag": "v1.4.205",
+      "published_at": "2026-09-17T04:59:43.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:33:57.115Z",
-    "core_checked_at": "2026-09-15T19:33:57.115Z"
+    "checked_at": "2026-09-17T18:40:22.311Z",
+    "core_checked_at": "2026-09-17T18:40:22.311Z"
   },
-  "signals": [
-    {
-      "kind": "rising",
-      "label": "상승 중",
-      "value": "+104 ★ / 24h"
-    }
-  ],
+  "signals": [],
   "images": {
     "og": "https://tesign.com/img/orca-c33f9bfff9.jpg",
     "cover": "https://tesign.com/img/orca-c33f9bfff9.jpg",

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "gitfut",
   "url": "https://tesign.com/en/item/gitfut/",
@@ -105,10 +105,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 2591,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 2597,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:39.900Z",
+    "stars_checked_at": "2026-09-17T18:41:04.243Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -138,7 +138,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -156,12 +156,12 @@
   "activity": {
     "pushed_at": "2026-08-05T23:28:19.000Z",
     "owner_type": "User",
-    "open_issues": 50,
+    "open_issues": 49,
     "contributors": 9,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-15T19:34:39.900Z",
-    "core_checked_at": "2026-09-15T19:34:39.900Z"
+    "checked_at": "2026-09-17T18:41:04.243Z",
+    "core_checked_at": "2026-09-17T18:41:04.243Z"
   },
   "signals": [
     {

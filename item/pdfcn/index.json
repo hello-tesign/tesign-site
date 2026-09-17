@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "pdfcn",
   "url": "https://tesign.com/item/pdfcn/",
@@ -87,17 +87,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 1785,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 1818,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:25.336Z",
-    "stars_observed_since_check": 2,
+    "stars_checked_at": "2026-09-17T18:40:49.187Z",
+    "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 32,
     "star_delta_30d": 107,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       9,
       38,
       20,
@@ -110,6 +109,7 @@
       9,
       null,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -123,12 +123,12 @@
   "activity": {
     "pushed_at": "2026-09-15T10:24:39.000Z",
     "owner_type": "Organization",
-    "open_issues": 25,
+    "open_issues": 30,
     "contributors": 3,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-15T19:34:25.336Z",
-    "core_checked_at": "2026-09-15T19:34:25.336Z"
+    "checked_at": "2026-09-17T18:40:49.187Z",
+    "core_checked_at": "2026-09-17T18:40:49.187Z"
   },
   "signals": [],
   "images": {

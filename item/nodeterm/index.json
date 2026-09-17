@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "nodeterm",
   "url": "https://tesign.com/item/nodeterm/",
@@ -117,17 +117,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 1853,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 1861,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:35:14.142Z",
+    "stars_checked_at": "2026-09-17T18:41:35.187Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
     "star_delta_30d": 10,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       2,
       6,
       null,
@@ -137,6 +136,7 @@
       null,
       null,
       2,
+      null,
       null,
       null,
       null,
@@ -151,18 +151,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T16:25:18.000Z",
+    "pushed_at": "2026-09-17T18:34:46.000Z",
     "owner_type": "User",
-    "open_issues": 76,
+    "open_issues": 79,
     "contributors": 39,
-    "releases_count": 53,
+    "releases_count": 54,
     "latest_release": {
-      "tag": "v0.3.6",
-      "published_at": "2026-09-14T20:34:54.000Z",
+      "tag": "v0.3.7",
+      "published_at": "2026-09-16T16:22:39.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:35:14.142Z",
-    "core_checked_at": "2026-09-15T19:35:14.142Z"
+    "checked_at": "2026-09-17T18:41:35.187Z",
+    "core_checked_at": "2026-09-17T18:41:35.187Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "tinycast",
   "url": "https://tesign.com/item/tinycast/",
@@ -110,17 +110,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 4606,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 6058,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:35:05.467Z",
-    "stars_observed_since_check": 173,
-    "star_delta_24h": 136,
-    "star_delta_7d": 384,
-    "star_delta_30d": 449,
+    "stars_checked_at": "2026-09-17T18:41:28.034Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 58,
+    "star_delta_7d": 416,
+    "star_delta_30d": 483,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       16,
       8,
       30,
@@ -133,7 +132,8 @@
       2,
       22,
       215,
-      110
+      122,
+      22
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -143,35 +143,30 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
-      "7d": 19,
-      "30d": 38
+      "7d": 17,
+      "30d": 36
     },
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-15T19:22:05.000Z",
+    "pushed_at": "2026-09-17T05:19:23.000Z",
     "owner_type": "User",
-    "open_issues": 23,
-    "contributors": 39,
-    "releases_count": 93,
+    "open_issues": 62,
+    "contributors": 41,
+    "releases_count": 95,
     "latest_release": {
-      "tag": "v0.11.0-beta.95",
-      "published_at": "2026-09-14T20:42:19.000Z",
+      "tag": "v0.11.2-beta.97",
+      "published_at": "2026-09-16T23:38:09.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-09-15T19:35:05.467Z",
-    "core_checked_at": "2026-09-15T19:35:05.467Z"
+    "checked_at": "2026-09-17T18:41:28.034Z",
+    "core_checked_at": "2026-09-17T18:41:28.034Z"
   },
   "signals": [
-    {
-      "kind": "rising",
-      "label": "상승 중",
-      "value": "+136 ★ / 24h"
-    },
     {
       "kind": "back",
       "label": "과거 기록",

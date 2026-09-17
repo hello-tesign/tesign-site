@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "roamux",
   "url": "https://tesign.com/en/item/roamux/",
@@ -116,10 +116,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
+    "as_of": "2026-09-17T13:00:00.000Z",
     "stars": 3,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:26.323Z",
+    "stars_checked_at": "2026-09-17T18:40:50.217Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -144,15 +144,15 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 2,
-    "hn_points_observed_at": "2026-09-16T07:50:08.488Z",
+    "hn_points_observed_at": "2026-09-17T04:33:04.789Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T11:22:34.000Z",
+    "pushed_at": "2026-09-17T04:56:10.000Z",
     "owner_type": "Organization",
-    "open_issues": 14,
+    "open_issues": 11,
     "contributors": 2,
     "releases_count": 1,
     "latest_release": {
@@ -160,8 +160,8 @@
       "published_at": "2026-09-13T06:57:27.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:34:26.323Z",
-    "core_checked_at": "2026-09-15T19:34:26.323Z"
+    "checked_at": "2026-09-17T18:40:50.217Z",
+    "core_checked_at": "2026-09-17T18:40:50.217Z"
   },
   "signals": [
     {

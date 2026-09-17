@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "ko",
   "slug": "tokentab",
   "url": "https://tesign.com/item/tokentab/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 1137,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 1142,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:34:17.965Z",
+    "stars_checked_at": "2026-09-17T18:40:41.674Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 118,
@@ -128,12 +128,12 @@
       null,
       null,
       null,
-      null,
       12,
       45,
       16,
       41,
       4,
+      null,
       null,
       null
     ],
@@ -148,12 +148,12 @@
   "activity": {
     "pushed_at": "2026-09-07T17:20:54.000Z",
     "owner_type": "User",
-    "open_issues": 2,
+    "open_issues": 3,
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-15T19:34:17.965Z",
-    "core_checked_at": "2026-09-15T19:34:17.965Z"
+    "checked_at": "2026-09-17T18:40:41.674Z",
+    "core_checked_at": "2026-09-17T18:40:41.674Z"
   },
   "signals": [],
   "images": {

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/esp-kvm/
 - JSON: https://tesign.com/en/item/esp-kvm/index.json
 - Korean Markdown: https://tesign.com/item/esp-kvm/index.md
-- Generated: 2026-09-17 01:56 UTC
+- Generated: 2026-09-17 19:00 UTC
 
 ## Numbers
 
-- 422 stars — checked on GitHub 2026-09-15 19:35 UTC
-- 7-day +12 observed via GH Archive (as of 2026-09-16 21:00 UTC)
+- 431 stars — checked on GitHub 2026-09-17 18:41 UTC
+- 7-day +12 observed via GH Archive (as of 2026-09-17 13:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 16:53 UTC
-- Latest release: v.0.49.0 (2026-09-15)
+- Last commit: 2026-09-16 16:18 UTC
+- Latest release: v.0.50.0 (2026-09-16)
 - Contributors: 4
-- Open issues (incl. PRs): 2
+- Open issues (incl. PRs): 3
 - Made by: an organization
-- Checked on GitHub: 2026-09-15 19:35 UTC
+- Checked on GitHub: 2026-09-17 18:41 UTC
 
 ## Signals and evidence
 

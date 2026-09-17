@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T01:56:13.055Z",
+  "generated_at": "2026-09-17T19:00:00.033Z",
   "lang": "en",
   "slug": "mangodisk",
   "url": "https://tesign.com/en/item/mangodisk/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-16T21:00:00.000Z",
-    "stars": 2714,
+    "as_of": "2026-09-17T13:00:00.000Z",
+    "stars": 2818,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T19:35:01.431Z",
-    "stars_observed_since_check": 7,
-    "star_delta_24h": 5,
+    "stars_checked_at": "2026-09-17T18:41:24.150Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
     "star_delta_7d": 15,
     "star_delta_30d": 51,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       7,
       16,
       11,
@@ -137,7 +136,8 @@
       2,
       null,
       4,
-      5
+      5,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -148,18 +148,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T06:38:20.000Z",
+    "pushed_at": "2026-09-17T14:08:14.000Z",
     "owner_type": "User",
     "open_issues": 14,
     "contributors": 4,
-    "releases_count": 12,
+    "releases_count": 13,
     "latest_release": {
-      "tag": "v1.1.1",
-      "published_at": "2026-09-14T07:06:30.000Z",
+      "tag": "v1.1.2",
+      "published_at": "2026-09-16T23:54:02.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-15T19:35:01.431Z",
-    "core_checked_at": "2026-09-15T19:35:01.431Z"
+    "checked_at": "2026-09-17T18:41:24.150Z",
+    "core_checked_at": "2026-09-17T18:41:24.150Z"
   },
   "signals": [
     {
