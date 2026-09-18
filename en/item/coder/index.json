@@ -1,0 +1,177 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-18T21:08:09.911Z",
+  "lang": "en",
+  "slug": "coder",
+  "url": "https://tesign.com/en/item/coder/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/coder/",
+      "json": "https://tesign.com/item/coder/index.json",
+      "markdown": "https://tesign.com/item/coder/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/coder/",
+      "json": "https://tesign.com/en/item/coder/index.json",
+      "markdown": "https://tesign.com/en/item/coder/index.md"
+    }
+  },
+  "name": "Coder",
+  "use_label": "Self-hosted cloud dev environments",
+  "one_liner": "A self-hosted platform that moves development environments off laptops onto your own infrastructure, started on demand.",
+  "text": {
+    "why": "Every new hire loses days setting up a development environment. Coder defines that environment in Terraform and starts it on demand; idle workspaces shut down automatically to save cost, and access runs through a secure tunnel.",
+    "take": "Too heavy for one person; the return shows up with a team — particularly one worried about where AI coding tools keep their keys.",
+    "build": [
+      "Go under AGPL-3.0. Workspaces are defined in Terraform across EC2 VMs, Kubernetes pods or Docker containers, connected over a WireGuard tunnel. Coder Agents runs AI coding agents in the control plane on your own infrastructure, with no API keys inside workspaces."
+    ],
+    "who": [
+      {
+        "role": "Teams with several developers, projects with rotating contractors, and organisations that cannot let code sit on personal laptops.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Follow the quickstart at coder.com on a test server first, and gauge how much of your current setup has to move into Terraform."
+      }
+    ],
+    "caveat": [
+      "You run the servers yourself. Under AGPL-3.0 a modified service must publish its source, and some capabilities sit behind a paid Premium tier."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://coder.com/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "dev-tools",
+    "infra"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "개발환경",
+    "자체 호스팅",
+    "팀",
+    "인프라"
+  ],
+  "platform": [
+    "web",
+    "linux"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Release source if you redistribute or host it as a service.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Go",
+  "source_urls": {
+    "canonical": "https://coder.com/",
+    "github": "https://github.com/coder/coder",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/coder/coder",
+        "posted_at": "2026-09-16T21:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 14815,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-17T16:44:05.495Z",
+    "stars_observed_since_check": 11,
+    "star_delta_24h": 11,
+    "star_delta_7d": 31,
+    "star_delta_30d": 37,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      4,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      4,
+      2,
+      21,
+      4
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "infra",
+        "label": "INFRA",
+        "rank": 16
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-17T16:43:45.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-17T16:44:05.495Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/coder-919677f164.png",
+    "cover": "https://tesign.com/img/coder-919677f164.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/coder-919677f164.png",
+      "https://tesign.com/img/coder-fb6a094747.png",
+      "https://tesign.com/img/coder-92a85c7000.png"
+    ],
+    "alt": "The Coder product page describing self-hosted development environments and AI coding agents.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-17T15:44:14.088Z",
+    "source_created_at": "2021-12-22T06:08:52.000Z",
+    "discovery_hours": 41529.58946888889,
+    "launch_signal_at": "2026-09-16T21:00:00.000Z",
+    "kept_at": "2026-09-18T21:07:28.106Z",
+    "first_published_at": "2026-09-18T21:07:28.284Z",
+    "updated_at": "2026-09-18T21:07:28.253Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/deepseek-harness/
 - JSON: https://tesign.com/en/item/deepseek-harness/index.json
 - Korean Markdown: https://tesign.com/item/deepseek-harness/index.md
-- Generated: 2026-09-18 06:40 UTC
+- Generated: 2026-09-18 21:08 UTC
 
 ## RANKS
 
-- All-time #3 · Rising this week #3 · AI #3 · DEV TOOLS #1 (As of 2026-09-18 01:00 UTC)
+- All-time #3 · Rising this week #4 · AI #3 · DEV TOOLS #1 (As of 2026-09-18 15:00 UTC)
 
 ## Numbers
 
-- 227,819 stars — checked on GitHub 2026-09-17 18:40 UTC (+26 observed since the check)
-- 7-day +1,291 observed via GH Archive (as of 2026-09-18 01:00 UTC)
-- 24h +101 ★ · 30d +3,016 ★ (as of 2026-09-18 01:00 UTC)
+- 227,870 stars — checked on GitHub 2026-09-17 18:40 UTC (+77 observed since the check)
+- 7-day +1,095 observed via GH Archive (as of 2026-09-18 15:00 UTC)
+- 24h +79 ★ · 30d +3,049 ★ (as of 2026-09-18 15:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -39,10 +39,6 @@
 - Open issues (incl. PRs): 0
 - Made by: an organization
 - Checked on GitHub: 2026-09-17 18:40 UTC
-
-## Signals and evidence
-
-- RISING · +101 ★ / 24h
 
 ## TESIGN TAKE
 

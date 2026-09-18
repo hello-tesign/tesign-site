@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T06:40:12.665Z",
+  "generated_at": "2026-09-18T21:08:09.911Z",
   "lang": "en",
   "slug": "deepseek-harness",
   "url": "https://tesign.com/en/item/deepseek-harness/",
@@ -99,14 +99,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T01:00:00.000Z",
-    "stars": 227819,
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 227870,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:40:37.049Z",
-    "stars_observed_since_check": 26,
-    "star_delta_24h": 101,
-    "star_delta_7d": 1291,
-    "star_delta_30d": 3016,
+    "stars_observed_since_check": 77,
+    "star_delta_24h": 79,
+    "star_delta_7d": 1095,
+    "star_delta_30d": 3049,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       396,
@@ -122,7 +122,7 @@
       181,
       158,
       107,
-      14
+      65
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -132,11 +132,11 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-18T01:00:00.000Z",
+    "as_of": "2026-09-18T15:00:00.000Z",
     "all_time": 3,
     "rising": {
       "24h": null,
-      "7d": 3,
+      "7d": 4,
       "30d": 5
     },
     "categories": [
@@ -166,13 +166,7 @@
     "checked_at": "2026-09-17T18:40:37.049Z",
     "core_checked_at": "2026-09-17T18:40:37.049Z"
   },
-  "signals": [
-    {
-      "kind": "rising",
-      "label": "RISING",
-      "value": "+101 ★ / 24h"
-    }
-  ],
+  "signals": [],
   "images": {
     "og": "https://tesign.com/img/deepseek-harness-caea528126.png",
     "cover": "https://tesign.com/img/deepseek-harness-caea528126.png",

@@ -1,0 +1,160 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-18T21:08:09.911Z",
+  "lang": "en",
+  "slug": "liarjs",
+  "url": "https://tesign.com/en/item/liarjs/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/liarjs/",
+      "json": "https://tesign.com/item/liarjs/index.json",
+      "markdown": "https://tesign.com/item/liarjs/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/liarjs/",
+      "json": "https://tesign.com/en/item/liarjs/index.json",
+      "markdown": "https://tesign.com/en/item/liarjs/index.md"
+    }
+  },
+  "name": "liarjs",
+  "use_label": "Check where a browser contradicts itself",
+  "one_liner": "Reads what a browser says about itself, compares it with what the network actually saw, and reports every disagreement.",
+  "text": {
+    "why": "A browser controls its own JavaScript, but not the network it connects over. liarjs exploits that gap: it reads the fingerprint inside the browser, reads the TLS, HTTP and ASN view from the edge that served the request, and flags every place the two stories disagree.",
+    "take": "Its usefulness is in showing you what a site can read about a visitor. If you have wondered what your browser leaks, opening the page answers it immediately.",
+    "build": [
+      "TypeScript under MIT, split into three parts: a CLI and driver, 19 browser-side fingerprint probes, and 40 consistency rules as pure functions. liarjs.dev runs exactly these checks."
+    ],
+    "who": [
+      {
+        "role": "People checking whether their privacy settings actually hold, and developers working on bot detection or traffic analysis.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Open liarjs.dev and it scans your browser right away — no install, no signup."
+      }
+    ],
+    "caveat": [
+      "A diagnostic tool: the result tells you where two views disagree, not who someone is or whether they are safe."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://liarjs.dev/"
+  },
+  "ready": "browser",
+  "categories": [
+    "security",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "브라우저",
+    "지문",
+    "프라이버시",
+    "점검"
+  ],
+  "platform": [
+    "web",
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://liarjs.dev/",
+    "github": "https://github.com/liarjsdev/liarjs",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/liarjsdev/liarjs",
+        "posted_at": "2026-09-15T17:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 214,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T23:33:48.861Z",
+    "stars_observed_since_check": 3,
+    "star_delta_24h": null,
+    "star_delta_7d": 21,
+    "star_delta_30d": 21,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      2,
+      null,
+      null,
+      14,
+      3,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-08-20T07:14:49.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T23:33:48.861Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/liarjs-a40040e79f.png",
+    "cover": "https://tesign.com/img/liarjs-a40040e79f.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/liarjs-a40040e79f.png"
+    ],
+    "alt": "The liarjs.dev page on a blue background, headlined \"Can your browser fool me?\" with the browser analysis in progress.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T23:33:09.628Z",
+    "source_created_at": "2026-07-28T06:35:55.000Z",
+    "discovery_hours": 1192.9540633333334,
+    "launch_signal_at": "2026-09-15T17:00:00.000Z",
+    "kept_at": "2026-09-18T21:07:28.100Z",
+    "first_published_at": "2026-09-18T21:07:28.284Z",
+    "updated_at": "2026-09-18T21:07:28.246Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

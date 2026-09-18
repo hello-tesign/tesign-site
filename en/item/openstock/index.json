@@ -1,0 +1,174 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-18T21:08:09.911Z",
+  "lang": "en",
+  "slug": "openstock",
+  "url": "https://tesign.com/en/item/openstock/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/openstock/",
+      "json": "https://tesign.com/item/openstock/index.json",
+      "markdown": "https://tesign.com/item/openstock/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/openstock/",
+      "json": "https://tesign.com/en/item/openstock/index.json",
+      "markdown": "https://tesign.com/en/item/openstock/index.md"
+    }
+  },
+  "name": "OpenStock",
+  "use_label": "Track prices and set your own alerts",
+  "one_liner": "An open-source dashboard for tracking stock prices, company details and personalised alerts in one place.",
+  "text": {
+    "why": "Plenty of people pay for an expensive platform when all they need is prices and alerts. OpenStock isolates that part as open source: a price table, a sector heatmap and a watchlist on one screen.",
+    "take": "The README draws its own limits up front, which reads as honest: it is not a brokerage, it is not financial advice, and the data may lag.",
+    "build": [
+      "TypeScript under AGPL-3.0, offering real-time price tracking, personalised alerts and detailed company insights."
+    ],
+    "who": [
+      {
+        "role": "Individual investors watching a handful of tickers who mainly want an alert at a certain price.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Try the public demo at openstock-ods.vercel.app first, then follow the repository guide to self-host if you want to keep it."
+      }
+    ],
+    "caveat": [
+      "Not a brokerage and not financial advice; market data may be delayed depending on the provider's rules and your configuration. Under AGPL-3.0, deploying a modified version as a web service means publishing your source."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://openstock-ods.vercel.app/"
+  },
+  "ready": "browser",
+  "categories": [
+    "finance"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "주식",
+    "시세",
+    "알림",
+    "오픈소스"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Release source if you redistribute or host it as a service.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://openstock-ods.vercel.app/",
+    "github": "https://github.com/open-dev-society/openstock",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/open-dev-society/openstock",
+        "posted_at": "2026-09-17T09:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 14478,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-17T18:44:17.571Z",
+    "stars_observed_since_check": 64,
+    "star_delta_24h": 64,
+    "star_delta_7d": 71,
+    "star_delta_30d": 73,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      19,
+      52
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "finance",
+        "label": "FINANCE",
+        "rank": 5
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-08-21T12:10:26.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-17T18:44:17.571Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/openstock-4f726c1ee6.png",
+    "cover": "https://tesign.com/img/openstock-4f726c1ee6.png",
+    "cover_width": 1718,
+    "cover_height": 911,
+    "gallery": [
+      "https://tesign.com/img/openstock-4f726c1ee6.png",
+      "https://tesign.com/img/openstock-9efb003513.png"
+    ],
+    "alt": "The OpenStock dashboard with a price list and chart on the left and a colour-coded sector heatmap on the right.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-17T17:44:17.947Z",
+    "source_created_at": "2025-09-28T18:16:32.000Z",
+    "discovery_hours": 8495.462763055555,
+    "launch_signal_at": "2026-09-17T09:00:00.000Z",
+    "kept_at": "2026-09-18T21:07:28.089Z",
+    "first_published_at": "2026-09-18T21:07:28.284Z",
+    "updated_at": "2026-09-18T21:07:28.241Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

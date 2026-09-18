@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T06:40:12.665Z",
+  "generated_at": "2026-09-18T21:08:09.911Z",
   "lang": "en",
   "slug": "hermes-agent",
   "url": "https://tesign.com/en/item/hermes-agent/",
@@ -119,14 +119,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T01:00:00.000Z",
-    "stars": 246477,
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 246487,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:40:29.264Z",
-    "stars_observed_since_check": 3,
-    "star_delta_24h": 16,
-    "star_delta_7d": 366,
-    "star_delta_30d": 1152,
+    "stars_observed_since_check": 13,
+    "star_delta_24h": 13,
+    "star_delta_7d": 298,
+    "star_delta_30d": 1162,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       241,
@@ -142,7 +142,7 @@
       43,
       35,
       15,
-      3
+      13
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -152,11 +152,11 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-18T01:00:00.000Z",
+    "as_of": "2026-09-18T15:00:00.000Z",
     "all_time": 2,
     "rising": {
       "24h": null,
-      "7d": 21,
+      "7d": 25,
       "30d": 11
     },
     "categories": [

@@ -1,0 +1,161 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-18T21:08:09.911Z",
+  "lang": "en",
+  "slug": "status-trio",
+  "url": "https://tesign.com/en/item/status-trio/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/status-trio/",
+      "json": "https://tesign.com/item/status-trio/index.json",
+      "markdown": "https://tesign.com/item/status-trio/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/status-trio/",
+      "json": "https://tesign.com/en/item/status-trio/index.json",
+      "markdown": "https://tesign.com/en/item/status-trio/index.md"
+    }
+  },
+  "name": "Status Trio",
+  "use_label": "One menu bar icon for three signals",
+  "one_liner": "A native macOS menu bar app that merges Wi-Fi, battery and volume into a single icon.",
+  "text": {
+    "why": "The menu bar is always short on space. Taking its cue from the iPhone's combined Wi-Fi, battery and cellular indicator, this puts three signals into one icon — with volume in place of cellular data.",
+    "take": "It does one thing, which makes the decision easy: if your menu bar is crowded the effect is immediate, and if it is not, you do not need this.",
+    "build": [
+      "A native macOS app in Swift under Apache-2.0. Icon size is configurable from 16 to 36 pt (28 pt by default), and you can opt to show the standard Wi-Fi icon for Ethernet."
+    ],
+    "who": [
+      {
+        "role": "Mac users with a crowded menu bar, especially on smaller laptop screens.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Download it from statustrio.lingai.net, install, and set the icon size once to suit your screen."
+      }
+    ],
+    "caveat": [
+      "macOS only, and the author states plainly that it is an independent project with no Apple affiliation."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://statustrio.lingai.net/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "맥",
+    "메뉴바",
+    "네이티브 앱",
+    "작은 도구"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://statustrio.lingai.net/",
+    "github": "https://github.com/lingyired/status-trio",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/lingyired/status-trio",
+        "posted_at": "2026-09-15T17:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 191,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-16T06:46:38.909Z",
+    "stars_observed_since_check": 5,
+    "star_delta_24h": 5,
+    "star_delta_7d": 13,
+    "star_delta_30d": 13,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      6,
+      null,
+      5
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-16T03:52:25.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-16T06:46:38.909Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/status-trio-eec16b59ba.jpg",
+    "cover": "https://tesign.com/img/status-trio-eec16b59ba.jpg",
+    "cover_width": 2000,
+    "cover_height": 1000,
+    "gallery": [
+      "https://tesign.com/img/status-trio-eec16b59ba.jpg",
+      "https://tesign.com/img/status-trio-d8af813e56.jpg",
+      "https://tesign.com/img/status-trio-ff6211a037.jpg",
+      "https://tesign.com/img/status-trio-f7fac9f6b9.jpg"
+    ],
+    "alt": "The Status Trio page showing the combined Wi-Fi, battery and volume menu bar icon with its settings.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-16T06:46:21.926Z",
+    "source_created_at": "2026-09-12T12:52:21.000Z",
+    "discovery_hours": 89.90025722222222,
+    "launch_signal_at": "2026-09-15T17:00:00.000Z",
+    "kept_at": "2026-09-18T21:07:28.096Z",
+    "first_published_at": "2026-09-18T21:07:28.284Z",
+    "updated_at": "2026-09-18T21:07:28.243Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

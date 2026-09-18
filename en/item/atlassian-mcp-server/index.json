@@ -1,0 +1,159 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-18T21:08:09.911Z",
+  "lang": "en",
+  "slug": "atlassian-mcp-server",
+  "url": "https://tesign.com/en/item/atlassian-mcp-server/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/atlassian-mcp-server/",
+      "json": "https://tesign.com/item/atlassian-mcp-server/index.json",
+      "markdown": "https://tesign.com/item/atlassian-mcp-server/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/atlassian-mcp-server/",
+      "json": "https://tesign.com/en/item/atlassian-mcp-server/index.json",
+      "markdown": "https://tesign.com/en/item/atlassian-mcp-server/index.md"
+    }
+  },
+  "name": "Atlassian MCP Server",
+  "use_label": "Connect Jira and Confluence to AI tools",
+  "one_liner": "Atlassian's official bridge that lets AI tools read and act on Jira, Confluence and the rest of the platform.",
+  "text": {
+    "why": "The work lives in Jira and Confluence, but AI tools cannot see inside them. This server bridges the two, so a request like \"summarise what's left in this sprint\" is answered from the real data. It is built and hosted by Atlassian itself.",
+    "take": "Unofficial connectors existed before; what changes here is an official path where access and security are the vendor's responsibility — which matters when the data is your company's work.",
+    "build": [
+      "Apache-2.0, cloud-hosted by Atlassian, covering Jira, Confluence, Jira Service Management, Bitbucket, Compass, Loom and wider platform data through the Teamwork Graph."
+    ],
+    "who": [
+      {
+        "role": "Teams on Jira or Confluence who want AI tools in the loop, and managers who have been copying ticket status by hand.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Open the getting-started guide at atlassian.com/platform/rovo-mcp to connect it to your AI tool, and check first whether your admin has to approve it."
+      }
+    ],
+    "caveat": [
+      "Atlassian Cloud only. Company accounts may need admin approval, and since the connected AI tool can read work data, check the permission scope first."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://atlassian.com/platform/rovo-mcp"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "지라",
+    "컨플루언스",
+    "mcp",
+    "업무 자동화"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://atlassian.com/platform/rovo-mcp",
+    "github": "https://github.com/atlassian/atlassian-mcp-server",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/atlassian/atlassian-mcp-server",
+        "posted_at": "2026-09-15T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 1111,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-16T05:46:25.741Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 11,
+    "star_delta_30d": 11,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      9,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T19:26:27.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-16T05:46:25.741Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/atlassian-mcp-server-723a66a19b.png",
+    "cover": "https://tesign.com/img/atlassian-mcp-server-723a66a19b.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/atlassian-mcp-server-723a66a19b.png"
+    ],
+    "alt": "The Atlassian MCP Server page explaining how AI tools connect to Jira and Confluence.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-16T04:46:18.387Z",
+    "source_created_at": "2025-08-01T22:31:35.000Z",
+    "discovery_hours": 9846.245385277778,
+    "launch_signal_at": "2026-09-15T22:00:00.000Z",
+    "kept_at": "2026-09-18T21:07:28.114Z",
+    "first_published_at": "2026-09-18T21:07:28.284Z",
+    "updated_at": "2026-09-18T21:07:28.259Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

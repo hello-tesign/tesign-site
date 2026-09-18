@@ -1,0 +1,161 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-18T21:08:09.911Z",
+  "lang": "ko",
+  "slug": "status-trio",
+  "url": "https://tesign.com/item/status-trio/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/status-trio/",
+      "json": "https://tesign.com/item/status-trio/index.json",
+      "markdown": "https://tesign.com/item/status-trio/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/status-trio/",
+      "json": "https://tesign.com/en/item/status-trio/index.json",
+      "markdown": "https://tesign.com/en/item/status-trio/index.md"
+    }
+  },
+  "name": "Status Trio",
+  "use_label": "맥 메뉴바 정리",
+  "one_liner": "맥 메뉴 막대에 흩어진 와이파이·배터리·소리 표시를 아이콘 하나로 합쳐 주는 앱.",
+  "text": {
+    "why": "메뉴 막대는 항상 자리가 모자란다. 아이폰이 와이파이·배터리·데이터를 한 덩어리로 묶어 보여 주는 방식에서 착안해, 맥에서는 데이터 대신 소리를 넣어 세 가지를 아이콘 하나에 담았다.",
+    "take": "기능이 하나뿐이라 오히려 판단이 쉽다. 메뉴 막대가 빽빽한 사람에게는 바로 효과가 보이고, 아닌 사람에게는 필요 없다.",
+    "build": [
+      "스위프트로 만든 맥 전용 네이티브 앱이고 Apache-2.0 라이선스다. 아이콘 크기를 16~36pt에서 고를 수 있고 기본값은 28pt다. 유선 연결일 때 표준 와이파이 아이콘을 쓰도록 선택할 수도 있다."
+    ],
+    "who": [
+      {
+        "role": "작업 표시줄이 늘 꽉 차 있는 맥 사용자, 화면이 좁은 노트북을 쓰는 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "statustrio.lingai.net에서 내려받아 설치하고, 아이콘 크기를 화면에 맞게 한 번 조정해 둔다."
+      }
+    ],
+    "caveat": [
+      "macOS 전용이다. 애플과 무관한 개인 프로젝트라고 만든 쪽이 직접 밝히고 있다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://statustrio.lingai.net/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "맥",
+    "메뉴바",
+    "네이티브 앱",
+    "작은 도구"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 고지 유지, 바꾼 부분은 표시.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Swift",
+  "source_urls": {
+    "canonical": "https://statustrio.lingai.net/",
+    "github": "https://github.com/lingyired/status-trio",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/lingyired/status-trio",
+        "posted_at": "2026-09-15T17:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 191,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-16T06:46:38.909Z",
+    "stars_observed_since_check": 5,
+    "star_delta_24h": 5,
+    "star_delta_7d": 13,
+    "star_delta_30d": 13,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      6,
+      null,
+      5
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-16T03:52:25.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-16T06:46:38.909Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/status-trio-eec16b59ba.jpg",
+    "cover": "https://tesign.com/img/status-trio-eec16b59ba.jpg",
+    "cover_width": 2000,
+    "cover_height": 1000,
+    "gallery": [
+      "https://tesign.com/img/status-trio-eec16b59ba.jpg",
+      "https://tesign.com/img/status-trio-d8af813e56.jpg",
+      "https://tesign.com/img/status-trio-ff6211a037.jpg",
+      "https://tesign.com/img/status-trio-f7fac9f6b9.jpg"
+    ],
+    "alt": "Status Trio 소개 화면. 와이파이·배터리·소리가 하나로 합쳐진 메뉴 막대 아이콘과 설정 항목이 보인다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-16T06:46:21.926Z",
+    "source_created_at": "2026-09-12T12:52:21.000Z",
+    "discovery_hours": 89.90025722222222,
+    "launch_signal_at": "2026-09-15T17:00:00.000Z",
+    "kept_at": "2026-09-18T21:07:28.096Z",
+    "first_published_at": "2026-09-18T21:07:28.284Z",
+    "updated_at": "2026-09-18T21:07:28.243Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

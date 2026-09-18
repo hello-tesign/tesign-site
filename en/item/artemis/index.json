@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T06:40:12.665Z",
+  "generated_at": "2026-09-18T21:08:09.911Z",
   "lang": "en",
   "slug": "artemis",
   "url": "https://tesign.com/en/item/artemis/",
@@ -113,14 +113,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T01:00:00.000Z",
-    "stars": 7123,
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 7140,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:40:10.936Z",
-    "stars_observed_since_check": 23,
-    "star_delta_24h": 57,
-    "star_delta_7d": 919,
-    "star_delta_30d": 1016,
+    "stars_observed_since_check": 40,
+    "star_delta_24h": 56,
+    "star_delta_7d": 820,
+    "star_delta_30d": 1033,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -136,7 +136,7 @@
       77,
       59,
       55,
-      8
+      25
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/vorssaint/
 - JSON: https://tesign.com/en/item/vorssaint/index.json
 - Korean Markdown: https://tesign.com/item/vorssaint/index.md
-- Generated: 2026-09-18 06:40 UTC
+- Generated: 2026-09-18 21:08 UTC
 
 ## RANKS
 
--  (As of 2026-09-18 01:00 UTC)
+-  (As of 2026-09-18 15:00 UTC)
 
 ## Numbers
 
-- 19,629 stars — checked on GitHub 2026-09-17 18:40 UTC (+4 observed since the check)
-- 7-day +191 observed via GH Archive (as of 2026-09-18 01:00 UTC)
-- 24h +9 ★ · 30d +631 ★ (as of 2026-09-18 01:00 UTC)
+- 19,631 stars — checked on GitHub 2026-09-17 18:40 UTC (+6 observed since the check)
+- 7-day +143 observed via GH Archive (as of 2026-09-18 15:00 UTC)
+- 24h +6 ★ · 30d +633 ★ (as of 2026-09-18 15:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

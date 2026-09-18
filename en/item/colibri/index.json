@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T06:40:12.665Z",
+  "generated_at": "2026-09-18T21:08:09.911Z",
   "lang": "en",
   "slug": "colibri",
   "url": "https://tesign.com/en/item/colibri/",
@@ -125,14 +125,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T01:00:00.000Z",
-    "stars": 35635,
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "stars": 35646,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:40:11.932Z",
-    "stars_observed_since_check": 16,
-    "star_delta_24h": 56,
-    "star_delta_7d": 1012,
-    "star_delta_30d": 1097,
+    "stars_observed_since_check": 27,
+    "star_delta_24h": 35,
+    "star_delta_7d": 975,
+    "star_delta_30d": 1108,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       7,
@@ -148,7 +148,7 @@
       261,
       164,
       56,
-      7
+      18
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -158,11 +158,11 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-18T01:00:00.000Z",
-    "all_time": 172,
+    "as_of": "2026-09-18T15:00:00.000Z",
+    "all_time": 169,
     "rising": {
       "24h": null,
-      "7d": 7,
+      "7d": 6,
       "30d": 12
     },
     "categories": [

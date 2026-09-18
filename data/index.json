@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-18T06:40:12.665Z",
+  "generated_at": "2026-09-18T21:08:09.911Z",
   "site": "https://tesign.com",
-  "count": 124,
+  "count": 134,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,304 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-18T01:00:00.000Z",
+  "numbers_as_of": "2026-09-18T15:00:00.000Z",
   "items": [
+    {
+      "slug": "atlassian-mcp-server",
+      "name": {
+        "ko": "Atlassian MCP Server",
+        "en": "Atlassian MCP Server"
+      },
+      "use_label": {
+        "ko": "지라를 AI에 연결",
+        "en": "Connect Jira and Confluence to AI tools"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "dev-tools"
+      ],
+      "updated": "2026-09-18T21:07:28.259Z",
+      "kept_at": "2026-09-18T21:07:28.114Z",
+      "html": {
+        "ko": "https://tesign.com/item/atlassian-mcp-server/",
+        "en": "https://tesign.com/en/item/atlassian-mcp-server/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/atlassian-mcp-server/index.json",
+        "en": "https://tesign.com/en/item/atlassian-mcp-server/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/atlassian-mcp-server/index.md",
+        "en": "https://tesign.com/en/item/atlassian-mcp-server/index.md"
+      }
+    },
+    {
+      "slug": "memoh",
+      "name": {
+        "ko": "Memoh",
+        "en": "Memoh"
+      },
+      "use_label": {
+        "ko": "AI 비서 24시간",
+        "en": "A cloud computer for every agent"
+      },
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "updated": "2026-09-18T21:07:28.257Z",
+      "kept_at": "2026-09-18T21:07:28.108Z",
+      "html": {
+        "ko": "https://tesign.com/item/memoh/",
+        "en": "https://tesign.com/en/item/memoh/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/memoh/index.json",
+        "en": "https://tesign.com/en/item/memoh/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/memoh/index.md",
+        "en": "https://tesign.com/en/item/memoh/index.md"
+      }
+    },
+    {
+      "slug": "coder",
+      "name": {
+        "ko": "Coder",
+        "en": "Coder"
+      },
+      "use_label": {
+        "ko": "개발환경 서버화",
+        "en": "Self-hosted cloud dev environments"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "infra"
+      ],
+      "updated": "2026-09-18T21:07:28.253Z",
+      "kept_at": "2026-09-18T21:07:28.106Z",
+      "html": {
+        "ko": "https://tesign.com/item/coder/",
+        "en": "https://tesign.com/en/item/coder/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/coder/index.json",
+        "en": "https://tesign.com/en/item/coder/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/coder/index.md",
+        "en": "https://tesign.com/en/item/coder/index.md"
+      }
+    },
+    {
+      "slug": "memos",
+      "name": {
+        "ko": "MemOS",
+        "en": "MemOS"
+      },
+      "use_label": {
+        "ko": "AI에 기억 붙이기",
+        "en": "Give an AI agent long-term memory"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-18T21:07:28.248Z",
+      "kept_at": "2026-09-18T21:07:28.103Z",
+      "html": {
+        "ko": "https://tesign.com/item/memos/",
+        "en": "https://tesign.com/en/item/memos/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/memos/index.json",
+        "en": "https://tesign.com/en/item/memos/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/memos/index.md",
+        "en": "https://tesign.com/en/item/memos/index.md"
+      }
+    },
+    {
+      "slug": "liarjs",
+      "name": {
+        "ko": "liarjs",
+        "en": "liarjs"
+      },
+      "use_label": {
+        "ko": "브라우저 위장 점검",
+        "en": "Check where a browser contradicts itself"
+      },
+      "category": "security",
+      "categories": [
+        "security",
+        "dev-tools"
+      ],
+      "updated": "2026-09-18T21:07:28.246Z",
+      "kept_at": "2026-09-18T21:07:28.100Z",
+      "html": {
+        "ko": "https://tesign.com/item/liarjs/",
+        "en": "https://tesign.com/en/item/liarjs/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/liarjs/index.json",
+        "en": "https://tesign.com/en/item/liarjs/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/liarjs/index.md",
+        "en": "https://tesign.com/en/item/liarjs/index.md"
+      }
+    },
+    {
+      "slug": "status-trio",
+      "name": {
+        "ko": "Status Trio",
+        "en": "Status Trio"
+      },
+      "use_label": {
+        "ko": "맥 메뉴바 정리",
+        "en": "One menu bar icon for three signals"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-18T21:07:28.243Z",
+      "kept_at": "2026-09-18T21:07:28.096Z",
+      "html": {
+        "ko": "https://tesign.com/item/status-trio/",
+        "en": "https://tesign.com/en/item/status-trio/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/status-trio/index.json",
+        "en": "https://tesign.com/en/item/status-trio/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/status-trio/index.md",
+        "en": "https://tesign.com/en/item/status-trio/index.md"
+      }
+    },
+    {
+      "slug": "openstock",
+      "name": {
+        "ko": "OpenStock",
+        "en": "OpenStock"
+      },
+      "use_label": {
+        "ko": "주식 시세 확인",
+        "en": "Track prices and set your own alerts"
+      },
+      "category": "finance",
+      "categories": [
+        "finance"
+      ],
+      "updated": "2026-09-18T21:07:28.241Z",
+      "kept_at": "2026-09-18T21:07:28.089Z",
+      "html": {
+        "ko": "https://tesign.com/item/openstock/",
+        "en": "https://tesign.com/en/item/openstock/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openstock/index.json",
+        "en": "https://tesign.com/en/item/openstock/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openstock/index.md",
+        "en": "https://tesign.com/en/item/openstock/index.md"
+      }
+    },
+    {
+      "slug": "arcreel",
+      "name": {
+        "ko": "ArcReel",
+        "en": "ArcReel"
+      },
+      "use_label": {
+        "ko": "대본을 숏폼으로",
+        "en": "Turn scripts into short-form video"
+      },
+      "category": "media",
+      "categories": [
+        "media",
+        "ai"
+      ],
+      "updated": "2026-09-18T21:07:28.238Z",
+      "kept_at": "2026-09-18T21:07:28.086Z",
+      "html": {
+        "ko": "https://tesign.com/item/arcreel/",
+        "en": "https://tesign.com/en/item/arcreel/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/arcreel/index.json",
+        "en": "https://tesign.com/en/item/arcreel/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/arcreel/index.md",
+        "en": "https://tesign.com/en/item/arcreel/index.md"
+      }
+    },
+    {
+      "slug": "harper",
+      "name": {
+        "ko": "Harper",
+        "en": "Harper"
+      },
+      "use_label": {
+        "ko": "영어 글 교정",
+        "en": "Offline English grammar checking"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-18T21:07:28.235Z",
+      "kept_at": "2026-09-18T21:07:28.082Z",
+      "html": {
+        "ko": "https://tesign.com/item/harper/",
+        "en": "https://tesign.com/en/item/harper/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/harper/index.json",
+        "en": "https://tesign.com/en/item/harper/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/harper/index.md",
+        "en": "https://tesign.com/en/item/harper/index.md"
+      }
+    },
+    {
+      "slug": "actual-budget",
+      "name": {
+        "ko": "Actual Budget",
+        "en": "Actual Budget"
+      },
+      "use_label": {
+        "ko": "가계부 직접 관리",
+        "en": "Budgeting that stays on your device"
+      },
+      "category": "finance",
+      "categories": [
+        "finance",
+        "productivity"
+      ],
+      "updated": "2026-09-18T21:07:28.228Z",
+      "kept_at": "2026-09-18T21:07:28.064Z",
+      "html": {
+        "ko": "https://tesign.com/item/actual-budget/",
+        "en": "https://tesign.com/en/item/actual-budget/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/actual-budget/index.json",
+        "en": "https://tesign.com/en/item/actual-budget/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/actual-budget/index.md",
+        "en": "https://tesign.com/en/item/actual-budget/index.md"
+      }
+    },
     {
       "slug": "sparkyfitness",
       "name": {

@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/gods-eye-view/
 - JSON: https://tesign.com/en/item/gods-eye-view/index.json
 - Korean Markdown: https://tesign.com/item/gods-eye-view/index.md
-- Generated: 2026-09-18 06:40 UTC
+- Generated: 2026-09-18 21:08 UTC
 
 ## RANKS
 
-- All-time #191 · Rising this week #1 · DATA #4 · SCIENCE #1 (As of 2026-09-18 01:00 UTC)
+- All-time #188 · Rising this week #1 · DATA #4 · SCIENCE #1 (As of 2026-09-18 15:00 UTC)
 
 ## Numbers
 
-- 36,956 stars — checked on GitHub 2026-09-17 18:40 UTC (+33 observed since the check)
-- 7-day +2,154 observed via GH Archive (as of 2026-09-18 01:00 UTC)
-- 24h +90 ★ · 30d +3,315 ★ (as of 2026-09-18 01:00 UTC)
+- 36,965 stars — checked on GitHub 2026-09-17 18:40 UTC (+42 observed since the check)
+- 7-day +1,671 observed via GH Archive (as of 2026-09-18 15:00 UTC)
+- 24h +51 ★ · 30d +3,324 ★ (as of 2026-09-18 15:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
