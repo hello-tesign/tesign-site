@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T19:00:00.033Z",
+  "generated_at": "2026-09-18T06:40:12.665Z",
   "lang": "en",
   "slug": "openmontage",
   "url": "https://tesign.com/en/item/openmontage/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-17T13:00:00.000Z",
-    "stars": 59787,
+    "as_of": "2026-09-18T01:00:00.000Z",
+    "stars": 59791,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:40:37.928Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 21,
-    "star_delta_7d": 383,
-    "star_delta_30d": 561,
+    "stars_observed_since_check": 4,
+    "star_delta_24h": 16,
+    "star_delta_7d": 377,
+    "star_delta_30d": 567,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      58,
       37,
       59,
       10,
@@ -137,7 +136,8 @@
       9,
       27,
       28,
-      10
+      16,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -147,12 +147,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-17T13:00:00.000Z",
+    "as_of": "2026-09-18T01:00:00.000Z",
     "all_time": 110,
     "rising": {
       "24h": null,
-      "7d": 22,
-      "30d": 29
+      "7d": 20,
+      "30d": 31
     },
     "categories": [
       {

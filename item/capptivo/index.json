@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T19:00:00.033Z",
+  "generated_at": "2026-09-18T06:40:12.665Z",
   "lang": "ko",
   "slug": "capptivo",
   "url": "https://tesign.com/item/capptivo/",
@@ -114,7 +114,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-17T13:00:00.000Z",
+    "as_of": "2026-09-18T01:00:00.000Z",
     "stars": 1003,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:41:13.616Z",
@@ -130,8 +130,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null,
       null,
       null,

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T19:00:00.033Z",
+  "generated_at": "2026-09-18T06:40:12.665Z",
   "lang": "ko",
   "slug": "ecc",
   "url": "https://tesign.com/item/ecc/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-17T13:00:00.000Z",
-    "stars": 261133,
+    "as_of": "2026-09-18T01:00:00.000Z",
+    "stars": 261167,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:40:05.985Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 117,
-    "star_delta_7d": 887,
-    "star_delta_30d": 2729,
+    "stars_observed_since_check": 34,
+    "star_delta_24h": 93,
+    "star_delta_7d": 880,
+    "star_delta_30d": 2776,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      406,
       579,
       656,
       110,
@@ -137,7 +136,8 @@
       20,
       161,
       114,
-      56
+      90,
+      13
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -161,13 +161,7 @@
     "checked_at": "2026-09-17T18:40:05.985Z",
     "core_checked_at": "2026-09-17T18:40:05.985Z"
   },
-  "signals": [
-    {
-      "kind": "rising",
-      "label": "상승 중",
-      "value": "+117 ★ / 24h"
-    }
-  ],
+  "signals": [],
   "images": {
     "og": "https://tesign.com/img/ecc-9ff6213e45.png",
     "cover": "https://tesign.com/img/ecc-9ff6213e45.png",

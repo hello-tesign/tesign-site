@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T19:00:00.033Z",
+  "generated_at": "2026-09-18T06:40:12.665Z",
   "lang": "en",
   "slug": "bento",
   "url": "https://tesign.com/en/item/bento/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-17T13:00:00.000Z",
+    "as_of": "2026-09-18T01:00:00.000Z",
     "stars": 5111,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:41:32.145Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
+    "star_delta_24h": null,
     "star_delta_7d": 8,
     "star_delta_30d": 61,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       34,
       19,
       null,
@@ -137,7 +136,8 @@
       null,
       4,
       null,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

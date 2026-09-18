@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T19:00:00.033Z",
+  "generated_at": "2026-09-18T06:40:12.665Z",
   "lang": "ko",
   "slug": "zapfast",
   "url": "https://tesign.com/item/zapfast/",
@@ -115,12 +115,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-17T13:00:00.000Z",
+    "as_of": "2026-09-18T01:00:00.000Z",
     "stars": 326,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:41:57.938Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
+    "star_delta_24h": null,
     "star_delta_7d": 39,
     "star_delta_30d": 39,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -135,9 +135,9 @@
       null,
       null,
       null,
-      null,
       31,
       8,
+      null,
       null
     ],
     "hf_likes": null,

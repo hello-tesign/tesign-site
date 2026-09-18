@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T19:00:00.033Z",
+  "generated_at": "2026-09-18T06:40:12.665Z",
   "lang": "en",
   "slug": "nodeterm",
   "url": "https://tesign.com/en/item/nodeterm/",
@@ -117,7 +117,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-17T13:00:00.000Z",
+    "as_of": "2026-09-18T01:00:00.000Z",
     "stars": 1861,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:41:35.187Z",
@@ -127,7 +127,6 @@
     "star_delta_30d": 10,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      2,
       6,
       null,
       null,
@@ -136,6 +135,7 @@
       null,
       null,
       2,
+      null,
       null,
       null,
       null,

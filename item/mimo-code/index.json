@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T19:00:00.033Z",
+  "generated_at": "2026-09-18T06:40:12.665Z",
   "lang": "ko",
   "slug": "mimo-code",
   "url": "https://tesign.com/item/mimo-code/",
@@ -110,7 +110,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-17T13:00:00.000Z",
+    "as_of": "2026-09-18T01:00:00.000Z",
     "stars": 13164,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:40:53.310Z",
@@ -120,7 +120,6 @@
     "star_delta_30d": 8,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       2,
       null,
       null,
@@ -129,6 +128,7 @@
       null,
       4,
       2,
+      null,
       null,
       null,
       null,

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T19:00:00.033Z",
+  "generated_at": "2026-09-18T06:40:12.665Z",
   "lang": "ko",
   "slug": "wealthfolio",
   "url": "https://tesign.com/item/wealthfolio/",
@@ -117,7 +117,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-17T13:00:00.000Z",
+    "as_of": "2026-09-18T01:00:00.000Z",
     "stars": 9024,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:41:59.897Z",
@@ -127,7 +127,6 @@
     "star_delta_30d": 17,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       2,
       null,
@@ -140,6 +139,7 @@
       null,
       5,
       8,
+      null,
       null
     ],
     "hf_likes": null,
@@ -150,7 +150,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-17T13:00:00.000Z",
+    "as_of": "2026-09-18T01:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,

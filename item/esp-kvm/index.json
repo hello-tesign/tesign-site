@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-17T19:00:00.033Z",
+  "generated_at": "2026-09-18T06:40:12.665Z",
   "lang": "ko",
   "slug": "esp-kvm",
   "url": "https://tesign.com/item/esp-kvm/",
@@ -113,7 +113,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-17T13:00:00.000Z",
+    "as_of": "2026-09-18T01:00:00.000Z",
     "stars": 431,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-17T18:41:44.385Z",
@@ -129,10 +129,10 @@
       null,
       null,
       null,
-      null,
       2,
       4,
       6,
+      null,
       null,
       null,
       null,
