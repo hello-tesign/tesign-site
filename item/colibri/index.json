@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T21:08:09.911Z",
+  "generated_at": "2026-09-19T23:10:56.893Z",
   "lang": "ko",
   "slug": "colibri",
   "url": "https://tesign.com/item/colibri/",
@@ -125,17 +125,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "stars": 35646,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 36393,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-17T18:40:11.932Z",
-    "stars_observed_since_check": 27,
-    "star_delta_24h": 35,
-    "star_delta_7d": 975,
-    "star_delta_30d": 1108,
+    "stars_checked_at": "2026-09-19T22:58:03.697Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 2,
+    "star_delta_7d": 791,
+    "star_delta_30d": 1110,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      7,
       33,
       null,
       null,
@@ -148,7 +147,8 @@
       261,
       164,
       56,
-      18
+      18,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -158,11 +158,11 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "all_time": 169,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "all_time": 162,
     "rising": {
       "24h": null,
-      "7d": 6,
+      "7d": 4,
       "30d": 12
     },
     "categories": [
@@ -174,9 +174,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-17T14:41:49.000Z",
+    "pushed_at": "2026-09-19T20:40:41.000Z",
     "owner_type": "User",
-    "open_issues": 129,
+    "open_issues": 150,
     "contributors": 150,
     "releases_count": 17,
     "latest_release": {
@@ -184,8 +184,8 @@
       "published_at": "2026-09-13T13:44:10.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-17T18:40:11.932Z",
-    "core_checked_at": "2026-09-17T18:40:11.932Z"
+    "checked_at": "2026-09-19T22:58:03.697Z",
+    "core_checked_at": "2026-09-19T22:58:03.697Z"
   },
   "signals": [
     {

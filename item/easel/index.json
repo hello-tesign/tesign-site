@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T21:08:09.911Z",
+  "generated_at": "2026-09-19T23:10:56.893Z",
   "lang": "ko",
   "slug": "easel",
   "url": "https://tesign.com/item/easel/",
@@ -120,17 +120,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "stars": 1201,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 1240,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-17T18:40:39.741Z",
+    "stars_checked_at": "2026-09-19T22:58:29.531Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 38,
+    "star_delta_7d": 21,
     "star_delta_30d": 66,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -139,6 +138,7 @@
       13,
       14,
       21,
+      null,
       null,
       null,
       null,
@@ -154,9 +154,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-17T17:23:35.000Z",
+    "pushed_at": "2026-09-19T15:55:47.000Z",
     "owner_type": "Organization",
-    "open_issues": 9,
+    "open_issues": 10,
     "contributors": 9,
     "releases_count": 3,
     "latest_release": {
@@ -164,8 +164,8 @@
       "published_at": "2026-09-17T17:24:08.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-17T18:40:39.741Z",
-    "core_checked_at": "2026-09-17T18:40:39.741Z"
+    "checked_at": "2026-09-19T22:58:29.531Z",
+    "core_checked_at": "2026-09-19T22:58:29.531Z"
   },
   "signals": [],
   "images": {

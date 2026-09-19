@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/pdfcn/
 - JSON: https://tesign.com/en/item/pdfcn/index.json
 - Korean Markdown: https://tesign.com/item/pdfcn/index.md
-- Generated: 2026-09-18 21:08 UTC
+- Generated: 2026-09-19 23:10 UTC
 
 ## Numbers
 
-- 1,818 stars — checked on GitHub 2026-09-17 18:40 UTC
-- 7-day +24 observed via GH Archive (as of 2026-09-18 15:00 UTC)
+- 1,899 stars — checked on GitHub 2026-09-19 22:58 UTC
+- 7-day +20 observed via GH Archive (as of 2026-09-19 18:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 10:24 UTC
+- Last commit: 2026-09-19 09:42 UTC
 - Latest release: no releases
 - Contributors: 3
-- Open issues (incl. PRs): 30
+- Open issues (incl. PRs): 36
 - Made by: an organization
-- Checked on GitHub: 2026-09-17 18:40 UTC
+- Checked on GitHub: 2026-09-19 22:58 UTC
 
 ## TESIGN TAKE
 

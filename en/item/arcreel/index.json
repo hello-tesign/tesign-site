@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T21:08:09.911Z",
+  "generated_at": "2026-09-19T23:10:56.893Z",
   "lang": "en",
   "slug": "arcreel",
   "url": "https://tesign.com/en/item/arcreel/",
@@ -85,12 +85,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "stars": 4697,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 5074,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-17T07:47:57.709Z",
-    "stars_observed_since_check": 25,
-    "star_delta_24h": 14,
+    "stars_checked_at": "2026-09-19T22:57:48.937Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
     "star_delta_7d": 37,
     "star_delta_30d": 39,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -106,9 +106,9 @@
       null,
       null,
       null,
-      null,
       29,
-      8
+      8,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -117,16 +117,35 @@
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
-  "ranks": null,
+  "ranks": {
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "media",
+        "label": "MEDIA",
+        "rank": 19
+      }
+    ]
+  },
   "activity": {
-    "pushed_at": "2026-09-17T07:46:16.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-17T07:47:57.709Z"
+    "pushed_at": "2026-09-18T11:58:39.000Z",
+    "owner_type": "Organization",
+    "open_issues": 89,
+    "contributors": 18,
+    "releases_count": 59,
+    "latest_release": {
+      "tag": "v0.30.0",
+      "published_at": "2026-09-10T11:44:42.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-19T22:57:48.937Z",
+    "core_checked_at": "2026-09-19T22:57:48.937Z"
   },
   "signals": [],
   "images": {

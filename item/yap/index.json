@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T21:08:09.911Z",
+  "generated_at": "2026-09-19T23:10:56.893Z",
   "lang": "ko",
   "slug": "yap",
   "url": "https://tesign.com/item/yap/",
@@ -107,10 +107,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "stars": 393,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 394,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-17T18:41:49.282Z",
+    "stars_checked_at": "2026-09-19T22:59:34.982Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -143,7 +143,7 @@
   "activity": {
     "pushed_at": "2026-09-15T00:08:43.000Z",
     "owner_type": "Organization",
-    "open_issues": 7,
+    "open_issues": 8,
     "contributors": 6,
     "releases_count": 13,
     "latest_release": {
@@ -151,8 +151,8 @@
       "published_at": "2026-09-15T00:08:43.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-17T18:41:49.282Z",
-    "core_checked_at": "2026-09-17T18:41:49.282Z"
+    "checked_at": "2026-09-19T22:59:34.982Z",
+    "core_checked_at": "2026-09-19T22:59:34.982Z"
   },
   "signals": [
     {

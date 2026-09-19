@@ -1,0 +1,167 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-19T23:10:56.893Z",
+  "lang": "en",
+  "slug": "txcript",
+  "url": "https://tesign.com/en/item/txcript/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/txcript/",
+      "json": "https://tesign.com/item/txcript/index.json",
+      "markdown": "https://tesign.com/item/txcript/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/txcript/",
+      "json": "https://tesign.com/en/item/txcript/index.json",
+      "markdown": "https://tesign.com/en/item/txcript/index.md"
+    }
+  },
+  "name": "txcript",
+  "use_label": "Continue an AI session in another tool",
+  "one_liner": "Move an AI coding session from one agent to another and carry on where you left off.",
+  "text": {
+    "why": "Switching tools usually means explaining everything again. txcript converts a stored session into the target agent’s own format, writes a new native session and opens it in the recorded working directory. The source session is kept.",
+    "take": "It states early what does not travel: the conversation moves, while system instructions and project files stay behind. Better to know that up front.",
+    "build": [
+      "A Rust CLI and library. Download a binary for macOS, Linux or Windows, or install from source. It reads and writes Claude Code, Codex, OpenCode, Cursor, Grok, Antigravity and more, and anything unsupported can go through its interchange JSON. An MCP mode exposes past sessions read-only, and there are Rust and JavaScript packages. The documentation includes Korean."
+    ],
+    "who": [
+      {
+        "role": "Developers who move between Claude Code, Codex and the like, and anyone archiving or searching past sessions.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Grab a binary from Releases, then run continue with a session id and the agent you want to carry on in."
+      }
+    ],
+    "caveat": [
+      "Anything the source never recorded, or the destination cannot represent, is lost in conversion. The new tool supplies its own system instructions and tools, and project files must be moved separately. Reading Claude Chat and ChatGPT relies on private web APIs and an existing login. The maker also sells a paid service."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://skillsync.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai 코딩",
+    "대화 이전",
+    "명령줄",
+    "오픈소스"
+  ],
+  "platform": [
+    "cli",
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://skillsync.com/",
+    "github": "https://github.com/skillsynchq/txcript",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/skillsynchq/txcript",
+        "posted_at": "2026-09-17T18:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 125,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-19T22:59:48.846Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 5,
+    "star_delta_30d": 5,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      5,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-17T21:46:23.000Z",
+    "owner_type": "Organization",
+    "open_issues": 19,
+    "contributors": 7,
+    "releases_count": 24,
+    "latest_release": {
+      "tag": "v0.14.4",
+      "published_at": "2026-09-13T23:41:24.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-19T22:59:48.846Z",
+    "core_checked_at": "2026-09-19T22:59:48.846Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/txcript-85d5a1be7a.png",
+    "cover": "https://tesign.com/img/txcript-85d5a1be7a.png",
+    "cover_width": 1170,
+    "cover_height": 828,
+    "gallery": [
+      "https://tesign.com/img/txcript-85d5a1be7a.png",
+      "https://tesign.com/img/txcript-46fed51f03.png"
+    ],
+    "alt": "A terminal running txcript: the install finishes, then a continue command carries a session into another agent.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-18T03:44:43.139Z",
+    "source_created_at": "2026-06-25T19:22:08.000Z",
+    "discovery_hours": 2024.3764275,
+    "launch_signal_at": "2026-09-17T18:00:00.000Z",
+    "kept_at": "2026-09-19T22:45:27.529Z",
+    "first_published_at": "2026-09-19T22:45:27.650Z",
+    "updated_at": "2026-09-19T22:45:27.619Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

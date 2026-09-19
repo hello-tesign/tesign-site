@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T21:08:09.911Z",
+  "generated_at": "2026-09-19T23:10:56.893Z",
   "lang": "ko",
   "slug": "openmontage",
   "url": "https://tesign.com/item/openmontage/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "stars": 59793,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 60156,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-17T18:40:37.928Z",
-    "stars_observed_since_check": 6,
-    "star_delta_24h": 8,
-    "star_delta_7d": 353,
+    "stars_checked_at": "2026-09-19T22:58:27.649Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 150,
     "star_delta_30d": 569,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      37,
       59,
       10,
       null,
@@ -137,7 +136,8 @@
       27,
       28,
       16,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -147,11 +147,11 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "all_time": 109,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "all_time": 107,
     "rising": {
       "24h": null,
-      "7d": 15,
+      "7d": null,
       "30d": 32
     },
     "categories": [
@@ -165,12 +165,12 @@
   "activity": {
     "pushed_at": "2026-09-06T05:02:34.000Z",
     "owner_type": "User",
-    "open_issues": 327,
+    "open_issues": 329,
     "contributors": 52,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-17T18:40:37.928Z",
-    "core_checked_at": "2026-09-17T18:40:37.928Z"
+    "checked_at": "2026-09-19T22:58:27.649Z",
+    "core_checked_at": "2026-09-19T22:58:27.649Z"
   },
   "signals": [],
   "images": {

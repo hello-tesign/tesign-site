@@ -1,0 +1,166 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-19T23:10:56.893Z",
+  "lang": "ko",
+  "slug": "jobsync",
+  "url": "https://tesign.com/item/jobsync/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/jobsync/",
+      "json": "https://tesign.com/item/jobsync/index.json",
+      "markdown": "https://tesign.com/item/jobsync/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/jobsync/",
+      "json": "https://tesign.com/en/item/jobsync/index.json",
+      "markdown": "https://tesign.com/en/item/jobsync/index.md"
+    }
+  },
+  "name": "JobSync",
+  "use_label": "구직 현황 관리",
+  "one_liner": "지원한 회사와 이력서, 면접 기록을 한곳에 모아 두고 내 서버에서 돌리는 구직 관리 도구.",
+  "text": {
+    "why": "지원 현황을 스프레드시트에 적다 보면 어디까지 했는지 금방 흐려진다. JobSync는 지원 기록·이력서·면접 질문을 한 화면에 모으고, 이력서 검토나 공고 매칭 같은 AI 기능을 내 컴퓨터의 Ollama로도 돌릴 수 있게 해 둔다. 이력서가 밖으로 나가지 않는다.",
+    "take": "설치하기 전에 공개 데모에서 화면을 전부 둘러볼 수 있다는 점이 크다. 구직 도구는 대개 가입부터 시키는데, 이쪽은 내 서버에 올려 두고 쓰는 쪽을 택했다.",
+    "build": [
+      "도커로 설치한다. 내려받아 docker compose up을 하고 localhost:3737에서 계정을 만들면 끝이다. 지원 현황판과 달력, 이력서 보관이 있고 PDF·워드 이력서를 불러오면 경력·학력·연락처를 항목별로 나눠 준다. 다시 내보낼 때는 서식을 갖춘 PDF 두 종류 중 고른다. MCP 서버가 들어 있어 클로드 데스크톱 같은 도구에서 채팅으로 공고를 넣을 수도 있다."
+    ],
+    "who": [
+      {
+        "role": "여러 회사에 동시에 지원 중이라 진행 상황이 헷갈리는 사람. 이력서를 회사마다 조금씩 고쳐 쓰는 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "demo.jobsync.ca에서 실제 화면을 먼저 보고, 쓸 만하면 도커가 있는 컴퓨터나 서버에 올린다."
+      }
+    ],
+    "caveat": [
+      "설치에 도커가 필요하고, 첫 실행은 앱을 빌드하느라 몇 분 걸린다. AI 기능은 내 컴퓨터의 모델을 쓰거나 외부 서비스 키를 직접 넣어야 동작한다. 원격 서버에 올린다면 시간대(TZ)를 반드시 맞춰야 기록 시각이 어긋나지 않는다."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://jobsync.ca/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "productivity",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "구직",
+    "지원 관리",
+    "이력서",
+    "자체 설치"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://jobsync.ca/",
+    "github": "https://github.com/gsync/jobsync",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/gsync/jobsync",
+        "posted_at": "2026-09-16T18:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 1268,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-19T22:57:48.018Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 8,
+    "star_delta_30d": 8,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      8,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-16T13:48:46.000Z",
+    "owner_type": "User",
+    "open_issues": 30,
+    "contributors": 3,
+    "releases_count": 17,
+    "latest_release": {
+      "tag": "v1.1.20",
+      "published_at": "2026-09-14T19:00:28.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-19T22:57:48.018Z",
+    "core_checked_at": "2026-09-19T22:57:48.018Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/jobsync-12ce0957f8.png",
+    "cover": "https://tesign.com/img/jobsync-12ce0957f8.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/jobsync-12ce0957f8.png",
+      "https://tesign.com/img/jobsync-acd977e533.png",
+      "https://tesign.com/img/jobsync-b090466997.png",
+      "https://tesign.com/img/jobsync-59596fe195.png"
+    ],
+    "alt": "JobSync 대시보드. 최근 7일·30일 지원 수, 주간 활동 막대그래프, 최근 지원한 회사 목록이 보인다.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-17T01:24:50.947Z",
+    "source_created_at": "2024-05-21T22:30:01.000Z",
+    "discovery_hours": 20354.91387416667,
+    "launch_signal_at": "2026-09-16T18:00:00.000Z",
+    "kept_at": "2026-09-19T22:45:27.481Z",
+    "first_published_at": "2026-09-19T22:45:27.650Z",
+    "updated_at": "2026-09-19T22:45:27.605Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

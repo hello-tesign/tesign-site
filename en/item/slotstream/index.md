@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/slotstream/
 - JSON: https://tesign.com/en/item/slotstream/index.json
 - Korean Markdown: https://tesign.com/item/slotstream/index.md
-- Generated: 2026-09-18 21:08 UTC
+- Generated: 2026-09-19 23:10 UTC
 
 ## Numbers
 
-- 371 stars — checked on GitHub 2026-09-17 18:41 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-18 15:00 UTC)
+- 382 stars — checked on GitHub 2026-09-19 22:59 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-19 18:00 UTC)
 - 240 Show HN points — observed 2026-09-13 13:59 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-17 03:23 UTC
-- Latest release: v0.2.20 (2026-09-17)
+- Last commit: 2026-09-18 21:50 UTC
+- Latest release: v0.2.22 (2026-09-18)
 - Contributors: 3
-- Open issues (incl. PRs): 11
+- Open issues (incl. PRs): 14
 - Made by: an individual
-- Checked on GitHub: 2026-09-17 18:41 UTC
+- Checked on GitHub: 2026-09-19 22:59 UTC
 
 ## Signals and evidence
 

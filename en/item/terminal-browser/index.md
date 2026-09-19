@@ -5,13 +5,12 @@
 - Page: https://tesign.com/en/item/terminal-browser/
 - JSON: https://tesign.com/en/item/terminal-browser/index.json
 - Korean Markdown: https://tesign.com/item/terminal-browser/index.md
-- Generated: 2026-09-18 21:08 UTC
+- Generated: 2026-09-19 23:10 UTC
 
 ## Numbers
 
-- 3,027 stars — checked on GitHub 2026-09-17 18:41 UTC (+8 observed since the check)
-- 7-day +13 observed via GH Archive (as of 2026-09-18 15:00 UTC)
-- 24h +8 ★ · 30d +43 ★ (as of 2026-09-18 15:00 UTC)
+- 3,124 stars — checked on GitHub 2026-09-19 22:59 UTC
+- 7-day +10 observed via GH Archive (as of 2026-09-19 18:00 UTC)
 - 4 Show HN points — observed 2026-09-13 14:00 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -30,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-17 08:34 UTC
+- Last commit: 2026-09-19 22:13 UTC
 - Latest release: v0.11.1 (2026-09-17)
 - Contributors: 6
-- Open issues (incl. PRs): 63
+- Open issues (incl. PRs): 64
 - Made by: an organization
-- Checked on GitHub: 2026-09-17 18:41 UTC
+- Checked on GitHub: 2026-09-19 22:59 UTC
 
 ## Signals and evidence
 

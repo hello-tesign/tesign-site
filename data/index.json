@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-18T21:08:09.911Z",
+  "generated_at": "2026-09-19T23:10:56.893Z",
   "site": "https://tesign.com",
-  "count": 134,
+  "count": 144,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,305 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-18T15:00:00.000Z",
+  "numbers_as_of": "2026-09-19T18:00:00.000Z",
   "items": [
+    {
+      "slug": "outloud",
+      "name": {
+        "ko": "outloud",
+        "en": "outloud"
+      },
+      "use_label": {
+        "ko": "PDF 접근성 점검",
+        "en": "Check if a PDF reads correctly aloud"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "productivity"
+      ],
+      "updated": "2026-09-19T22:45:27.621Z",
+      "kept_at": "2026-09-19T22:45:27.579Z",
+      "html": {
+        "ko": "https://tesign.com/item/outloud/",
+        "en": "https://tesign.com/en/item/outloud/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/outloud/index.json",
+        "en": "https://tesign.com/en/item/outloud/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/outloud/index.md",
+        "en": "https://tesign.com/en/item/outloud/index.md"
+      }
+    },
+    {
+      "slug": "apeeye",
+      "name": {
+        "ko": "Apeeye",
+        "en": "Apeeye"
+      },
+      "use_label": {
+        "ko": "가짜 API 만들기",
+        "en": "Spin up mock REST endpoints fast"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "api"
+      ],
+      "updated": "2026-09-19T22:45:27.625Z",
+      "kept_at": "2026-09-19T22:45:27.577Z",
+      "html": {
+        "ko": "https://tesign.com/item/apeeye/",
+        "en": "https://tesign.com/en/item/apeeye/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/apeeye/index.json",
+        "en": "https://tesign.com/en/item/apeeye/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/apeeye/index.md",
+        "en": "https://tesign.com/en/item/apeeye/index.md"
+      }
+    },
+    {
+      "slug": "alidade",
+      "name": {
+        "ko": "Alidade",
+        "en": "Alidade"
+      },
+      "use_label": {
+        "ko": "웹 지도 만들기",
+        "en": "Build and style maps in the browser"
+      },
+      "category": "data",
+      "categories": [
+        "data"
+      ],
+      "updated": "2026-09-19T22:45:27.623Z",
+      "kept_at": "2026-09-19T22:45:27.563Z",
+      "html": {
+        "ko": "https://tesign.com/item/alidade/",
+        "en": "https://tesign.com/en/item/alidade/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/alidade/index.json",
+        "en": "https://tesign.com/en/item/alidade/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/alidade/index.md",
+        "en": "https://tesign.com/en/item/alidade/index.md"
+      }
+    },
+    {
+      "slug": "vocawin",
+      "name": {
+        "ko": "VocaWin",
+        "en": "VocaWin"
+      },
+      "use_label": {
+        "ko": "윈도우 음성 입력",
+        "en": "Voice typing that stays on your PC"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "productivity"
+      ],
+      "updated": "2026-09-19T22:45:27.609Z",
+      "kept_at": "2026-09-19T22:45:27.532Z",
+      "html": {
+        "ko": "https://tesign.com/item/vocawin/",
+        "en": "https://tesign.com/en/item/vocawin/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/vocawin/index.json",
+        "en": "https://tesign.com/en/item/vocawin/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/vocawin/index.md",
+        "en": "https://tesign.com/en/item/vocawin/index.md"
+      }
+    },
+    {
+      "slug": "txcript",
+      "name": {
+        "ko": "txcript",
+        "en": "txcript"
+      },
+      "use_label": {
+        "ko": "AI 대화 옮기기",
+        "en": "Continue an AI session in another tool"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-19T22:45:27.619Z",
+      "kept_at": "2026-09-19T22:45:27.529Z",
+      "html": {
+        "ko": "https://tesign.com/item/txcript/",
+        "en": "https://tesign.com/en/item/txcript/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/txcript/index.json",
+        "en": "https://tesign.com/en/item/txcript/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/txcript/index.md",
+        "en": "https://tesign.com/en/item/txcript/index.md"
+      }
+    },
+    {
+      "slug": "syrinx",
+      "name": {
+        "ko": "Syrinx",
+        "en": "Syrinx"
+      },
+      "use_label": {
+        "ko": "플루트 연습",
+        "en": "Practise flute with piano backing"
+      },
+      "category": "education",
+      "categories": [
+        "education",
+        "media"
+      ],
+      "updated": "2026-09-19T22:45:27.614Z",
+      "kept_at": "2026-09-19T22:45:27.511Z",
+      "html": {
+        "ko": "https://tesign.com/item/syrinx/",
+        "en": "https://tesign.com/en/item/syrinx/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/syrinx/index.json",
+        "en": "https://tesign.com/en/item/syrinx/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/syrinx/index.md",
+        "en": "https://tesign.com/en/item/syrinx/index.md"
+      }
+    },
+    {
+      "slug": "look4sat",
+      "name": {
+        "ko": "Look4Sat",
+        "en": "Look4Sat"
+      },
+      "use_label": {
+        "ko": "위성 통과 예측",
+        "en": "See when a satellite passes overhead"
+      },
+      "category": "science",
+      "categories": [
+        "science"
+      ],
+      "updated": "2026-09-19T23:10:56.829Z",
+      "kept_at": "2026-09-19T22:45:27.506Z",
+      "html": {
+        "ko": "https://tesign.com/item/look4sat/",
+        "en": "https://tesign.com/en/item/look4sat/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/look4sat/index.json",
+        "en": "https://tesign.com/en/item/look4sat/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/look4sat/index.md",
+        "en": "https://tesign.com/en/item/look4sat/index.md"
+      }
+    },
+    {
+      "slug": "gitdiagram",
+      "name": {
+        "ko": "GitDiagram",
+        "en": "GitDiagram"
+      },
+      "use_label": {
+        "ko": "저장소 구조 보기",
+        "en": "See how a GitHub project is built"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-09-19T22:45:27.598Z",
+      "kept_at": "2026-09-19T22:45:27.501Z",
+      "html": {
+        "ko": "https://tesign.com/item/gitdiagram/",
+        "en": "https://tesign.com/en/item/gitdiagram/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/gitdiagram/index.json",
+        "en": "https://tesign.com/en/item/gitdiagram/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/gitdiagram/index.md",
+        "en": "https://tesign.com/en/item/gitdiagram/index.md"
+      }
+    },
+    {
+      "slug": "jobsync",
+      "name": {
+        "ko": "JobSync",
+        "en": "JobSync"
+      },
+      "use_label": {
+        "ko": "구직 현황 관리",
+        "en": "Track job applications on your server"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "ai"
+      ],
+      "updated": "2026-09-19T22:45:27.605Z",
+      "kept_at": "2026-09-19T22:45:27.481Z",
+      "html": {
+        "ko": "https://tesign.com/item/jobsync/",
+        "en": "https://tesign.com/en/item/jobsync/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/jobsync/index.json",
+        "en": "https://tesign.com/en/item/jobsync/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/jobsync/index.md",
+        "en": "https://tesign.com/en/item/jobsync/index.md"
+      }
+    },
+    {
+      "slug": "laranode",
+      "name": {
+        "ko": "LaraNode",
+        "en": "LaraNode"
+      },
+      "use_label": {
+        "ko": "서버 관리 화면",
+        "en": "Run your own hosting control panel"
+      },
+      "category": "infra",
+      "categories": [
+        "infra",
+        "dev-tools"
+      ],
+      "updated": "2026-09-19T22:45:27.616Z",
+      "kept_at": "2026-09-19T22:45:27.473Z",
+      "html": {
+        "ko": "https://tesign.com/item/laranode/",
+        "en": "https://tesign.com/en/item/laranode/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/laranode/index.json",
+        "en": "https://tesign.com/en/item/laranode/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/laranode/index.md",
+        "en": "https://tesign.com/en/item/laranode/index.md"
+      }
+    },
     {
       "slug": "atlassian-mcp-server",
       "name": {

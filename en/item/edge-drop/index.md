@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/edge-drop/
 - JSON: https://tesign.com/en/item/edge-drop/index.json
 - Korean Markdown: https://tesign.com/item/edge-drop/index.md
-- Generated: 2026-09-18 21:08 UTC
+- Generated: 2026-09-19 23:10 UTC
 
 ## Numbers
 
-- 568 stars — checked on GitHub 2026-09-17 18:41 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-18 15:00 UTC)
+- 578 stars — checked on GitHub 2026-09-19 22:59 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-19 18:00 UTC)
 - 6 Show HN points — observed 2026-09-13 14:47 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -32,9 +32,9 @@
 - Last commit: 2026-09-15 16:28 UTC
 - Latest release: v0.3.1 (2026-09-08)
 - Contributors: 5
-- Open issues (incl. PRs): 16
+- Open issues (incl. PRs): 22
 - Made by: an individual
-- Checked on GitHub: 2026-09-17 18:41 UTC
+- Checked on GitHub: 2026-09-19 22:59 UTC
 
 ## Signals and evidence
 

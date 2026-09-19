@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/inkstone/
 - JSON: https://tesign.com/en/item/inkstone/index.json
 - Korean Markdown: https://tesign.com/item/inkstone/index.md
-- Generated: 2026-09-18 21:08 UTC
+- Generated: 2026-09-19 23:10 UTC
 
 ## Numbers
 
-- 877 stars — checked on GitHub 2026-09-17 18:41 UTC
-- 7-day +10 observed via GH Archive (as of 2026-09-18 15:00 UTC)
+- 929 stars — checked on GitHub 2026-09-19 22:59 UTC
+- 7-day +10 observed via GH Archive (as of 2026-09-19 18:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -30,9 +30,9 @@
 - Last commit: 2026-09-14 07:50 UTC
 - Latest release: v0.8.0 (2026-09-14)
 - Contributors: 2
-- Open issues (incl. PRs): 21
+- Open issues (incl. PRs): 23
 - Made by: an individual
-- Checked on GitHub: 2026-09-17 18:41 UTC
+- Checked on GitHub: 2026-09-19 22:59 UTC
 
 ## TESIGN TAKE
 

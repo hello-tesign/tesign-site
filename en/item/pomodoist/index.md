@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/pomodoist/
 - JSON: https://tesign.com/en/item/pomodoist/index.json
 - Korean Markdown: https://tesign.com/item/pomodoist/index.md
-- Generated: 2026-09-18 21:08 UTC
+- Generated: 2026-09-19 23:10 UTC
 
 ## Numbers
 
-- 424 stars — checked on GitHub 2026-09-17 18:41 UTC
-- 7-day +16 observed via GH Archive (as of 2026-09-18 15:00 UTC)
+- 411 stars — checked on GitHub 2026-09-19 22:59 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-19 18:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-17 17:09 UTC
-- Latest release: v1.0.6-rc.5 (2026-09-16) · pre-release
+- Last commit: 2026-09-19 11:46 UTC
+- Latest release: v1.0.6-rc.6 (2026-09-17) · pre-release
 - Contributors: 1
 - Open issues (incl. PRs): 17
 - Made by: an individual
-- Checked on GitHub: 2026-09-17 18:41 UTC
+- Checked on GitHub: 2026-09-19 22:59 UTC
 
 ## Signals and evidence
 

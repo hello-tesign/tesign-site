@@ -5,11 +5,11 @@
 - 페이지: https://tesign.com/item/words-of-hanoi/
 - JSON: https://tesign.com/item/words-of-hanoi/index.json
 - 영어 마크다운: https://tesign.com/en/item/words-of-hanoi/index.md
-- 생성 시각: 2026-09-18 21:08 UTC
+- 생성 시각: 2026-09-19 23:10 UTC
 
 ## 숫자
 
-- Show HN 1점 — 2026-09-18 00:55 UTC 관측
+- Show HN 1점 — 2026-09-19 04:16 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실

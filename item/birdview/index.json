@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T21:08:09.911Z",
+  "generated_at": "2026-09-19T23:10:56.893Z",
   "lang": "ko",
   "slug": "birdview",
   "url": "https://tesign.com/item/birdview/",
@@ -98,7 +98,7 @@
     "note": null,
     "open_source": true
   },
-  "language": "JavaScript",
+  "language": "TypeScript",
   "source_urls": {
     "canonical": "https://qiuner.github.io/birdview",
     "github": "https://github.com/qiuner/birdview",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "stars": 372,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 404,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-17T18:40:52.230Z",
+    "stars_checked_at": "2026-09-19T22:58:40.694Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 23,
+    "star_delta_7d": 21,
     "star_delta_30d": 23,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -135,6 +134,7 @@
       15,
       2,
       2,
+      null,
       null,
       null,
       null
@@ -148,9 +148,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-17T07:23:32.000Z",
+    "pushed_at": "2026-09-18T09:01:26.000Z",
     "owner_type": "User",
-    "open_issues": 0,
+    "open_issues": 1,
     "contributors": 1,
     "releases_count": 4,
     "latest_release": {
@@ -158,8 +158,8 @@
       "published_at": "2026-09-17T03:19:50.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-17T18:40:52.230Z",
-    "core_checked_at": "2026-09-17T18:40:52.230Z"
+    "checked_at": "2026-09-19T22:58:40.694Z",
+    "core_checked_at": "2026-09-19T22:58:40.694Z"
   },
   "signals": [
     {

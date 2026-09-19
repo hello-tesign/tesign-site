@@ -5,12 +5,12 @@
 - 페이지: https://tesign.com/item/crisp/
 - JSON: https://tesign.com/item/crisp/index.json
 - 영어 마크다운: https://tesign.com/en/item/crisp/index.md
-- 생성 시각: 2026-09-18 21:08 UTC
+- 생성 시각: 2026-09-19 23:10 UTC
 
 ## 숫자
 
-- 별 1,752 — GitHub에서 2026-09-17 18:41 UTC 확인
-- 7일 +2은 GH Archive 관측 (기준 2026-09-18 15:00 UTC)
+- 별 1,788 — GitHub에서 2026-09-19 22:59 UTC 확인
+- 7일 +2은 GH Archive 관측 (기준 2026-09-19 18:00 UTC)
 - Show HN 4점 — 2026-09-13 14:56 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
@@ -32,9 +32,9 @@
 - 마지막 커밋: 2026-09-16 22:21 UTC
 - 최근 릴리스: v1.6.0 (2026-09-08)
 - 기여자: 12
-- 열린 이슈 (PR 포함): 7
+- 열린 이슈 (PR 포함): 8
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-17 18:41 UTC
+- GitHub 확인 시각: 2026-09-19 22:59 UTC
 
 ## 선정 신호와 근거
 

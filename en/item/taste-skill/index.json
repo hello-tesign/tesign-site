@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T21:08:09.911Z",
+  "generated_at": "2026-09-19T23:10:56.893Z",
   "lang": "en",
   "slug": "taste-skill",
   "url": "https://tesign.com/en/item/taste-skill/",
@@ -100,17 +100,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "stars": 87945,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 88469,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-17T18:40:36.050Z",
-    "stars_observed_since_check": 11,
-    "star_delta_24h": 13,
-    "star_delta_7d": 227,
+    "stars_checked_at": "2026-09-19T22:58:25.853Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 152,
     "star_delta_30d": 652,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      101,
       127,
       12,
       4,
@@ -123,7 +122,8 @@
       45,
       35,
       9,
-      6
+      6,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -133,11 +133,11 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-18T15:00:00.000Z",
+    "as_of": "2026-09-19T18:00:00.000Z",
     "all_time": 52,
     "rising": {
       "24h": null,
-      "7d": 33,
+      "7d": null,
       "30d": 22
     },
     "categories": [
@@ -151,12 +151,12 @@
   "activity": {
     "pushed_at": "2026-09-16T15:01:43.000Z",
     "owner_type": "User",
-    "open_issues": 67,
+    "open_issues": 69,
     "contributors": 7,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-17T18:40:36.050Z",
-    "core_checked_at": "2026-09-17T18:40:36.050Z"
+    "checked_at": "2026-09-19T22:58:25.853Z",
+    "core_checked_at": "2026-09-19T22:58:25.853Z"
   },
   "signals": [],
   "images": {

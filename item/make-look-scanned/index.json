@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-18T21:08:09.911Z",
+  "generated_at": "2026-09-19T23:10:56.893Z",
   "lang": "ko",
   "slug": "make-look-scanned",
   "url": "https://tesign.com/item/make-look-scanned/",
@@ -117,10 +117,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-18T15:00:00.000Z",
-    "stars": 808,
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 809,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-17T18:40:59.279Z",
+    "stars_checked_at": "2026-09-19T22:58:47.358Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -161,8 +161,8 @@
       "published_at": "2026-06-21T10:43:31.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-17T18:40:59.279Z",
-    "core_checked_at": "2026-09-17T18:40:59.279Z"
+    "checked_at": "2026-09-19T22:58:47.358Z",
+    "core_checked_at": "2026-09-19T22:58:47.358Z"
   },
   "signals": [
     {

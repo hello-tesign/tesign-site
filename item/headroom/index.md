@@ -5,16 +5,16 @@
 - 페이지: https://tesign.com/item/headroom/
 - JSON: https://tesign.com/item/headroom/index.json
 - 영어 마크다운: https://tesign.com/en/item/headroom/index.md
-- 생성 시각: 2026-09-18 21:08 UTC
+- 생성 시각: 2026-09-19 23:10 UTC
 
 ## 순위
 
-- 역대 75위 (기준 2026-09-18 15:00 UTC)
+- 역대 74위 (기준 2026-09-19 18:00 UTC)
 
 ## 숫자
 
-- 별 72,723 — GitHub에서 2026-09-17 18:40 UTC 확인
-- 7일 +129은 GH Archive 관측 (기준 2026-09-18 15:00 UTC)
+- 별 73,097 — GitHub에서 2026-09-19 22:58 UTC 확인
+- 7일 +78은 GH Archive 관측 (기준 2026-09-19 18:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -32,12 +32,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-09-17 17:50 UTC
+- 마지막 커밋: 2026-09-19 19:07 UTC
 - 최근 릴리스: v0.37.0 (2026-08-27)
-- 기여자: 265
-- 열린 이슈 (PR 포함): 673
+- 기여자: 268
+- 열린 이슈 (PR 포함): 685
 - 만든 이: 조직
-- GitHub 확인 시각: 2026-09-17 18:40 UTC
+- GitHub 확인 시각: 2026-09-19 22:58 UTC
 
 ## TESIGN TAKE
 

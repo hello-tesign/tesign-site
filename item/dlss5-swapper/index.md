@@ -5,13 +5,13 @@
 - 페이지: https://tesign.com/item/dlss5-swapper/
 - JSON: https://tesign.com/item/dlss5-swapper/index.json
 - 영어 마크다운: https://tesign.com/en/item/dlss5-swapper/index.md
-- 생성 시각: 2026-09-18 21:08 UTC
+- 생성 시각: 2026-09-19 23:10 UTC
 
 ## 숫자
 
-- 별 5,540 — GitHub에서 2026-09-17 18:40 UTC 확인 (+4 확인 이후 관측)
-- 7일 +212은 GH Archive 관측 (기준 2026-09-18 15:00 UTC)
-- 24h +4 ★ · 30d +743 ★ (기준 2026-09-18 15:00 UTC)
+- 별 5,924 — GitHub에서 2026-09-19 22:58 UTC 확인
+- 7일 +146은 GH Archive 관측 (기준 2026-09-19 18:00 UTC)
+- 24h +2 ★ · 30d +745 ★ (기준 2026-09-19 18:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -32,9 +32,9 @@
 - 마지막 커밋: 2026-09-13 02:02 UTC
 - 최근 릴리스: v2.2.7 (2026-09-12)
 - 기여자: 5
-- 열린 이슈 (PR 포함): 44
+- 열린 이슈 (PR 포함): 50
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-17 18:40 UTC
+- GitHub 확인 시각: 2026-09-19 22:58 UTC
 
 ## TESIGN TAKE
 

@@ -5,17 +5,16 @@
 - Page: https://tesign.com/en/item/actual-budget/
 - JSON: https://tesign.com/en/item/actual-budget/index.json
 - Korean Markdown: https://tesign.com/item/actual-budget/index.md
-- Generated: 2026-09-18 21:08 UTC
+- Generated: 2026-09-19 23:10 UTC
 
 ## RANKS
 
-- PRODUCTIVITY #17 · FINANCE #3 (As of 2026-09-18 15:00 UTC)
+- PRODUCTIVITY #17 · FINANCE #3 (As of 2026-09-19 18:00 UTC)
 
 ## Numbers
 
-- 28,885 stars — checked on GitHub 2026-09-15 21:33 UTC (+2 observed since the check)
-- 7-day +11 observed via GH Archive (as of 2026-09-18 15:00 UTC)
-- 24h +2 ★ · 30d +14 ★ (as of 2026-09-18 15:00 UTC)
+- 29,028 stars — checked on GitHub 2026-09-19 22:57 UTC
+- 7-day +11 observed via GH Archive (as of 2026-09-19 18:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 19:56 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-15 21:33 UTC
+- Last commit: 2026-09-19 12:50 UTC
+- Latest release: v26.9.0 (2026-09-01)
+- Contributors: 725
+- Open issues (incl. PRs): 255
+- Made by: an organization
+- Checked on GitHub: 2026-09-19 22:57 UTC
 
 ## TESIGN TAKE
 

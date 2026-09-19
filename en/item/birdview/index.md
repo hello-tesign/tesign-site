@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/birdview/
 - JSON: https://tesign.com/en/item/birdview/index.json
 - Korean Markdown: https://tesign.com/item/birdview/index.md
-- Generated: 2026-09-18 21:08 UTC
+- Generated: 2026-09-19 23:10 UTC
 
 ## Numbers
 
-- 372 stars — checked on GitHub 2026-09-17 18:40 UTC
-- 7-day +23 observed via GH Archive (as of 2026-09-18 15:00 UTC)
+- 404 stars — checked on GitHub 2026-09-19 22:58 UTC
+- 7-day +21 observed via GH Archive (as of 2026-09-19 18:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -18,7 +18,7 @@
 - LICENSE: MIT (permissive) — https://spdx.org/licenses/MIT.html
 - USAGE: Use, change and redistribute, commercially too. Keep the notice.
 - OPEN SOURCE: YES
-- LANGUAGE: JavaScript
+- LANGUAGE: TypeScript
 - PLATFORM: cli · web
 - CATEGORY: DEV TOOLS · AI
 - Tags: architecture · code-visualization · agents · diagram-as-code
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-17 07:23 UTC
+- Last commit: 2026-09-18 09:01 UTC
 - Latest release: v0.2.1 (2026-09-17)
 - Contributors: 1
-- Open issues (incl. PRs): 0
+- Open issues (incl. PRs): 1
 - Made by: an individual
-- Checked on GitHub: 2026-09-17 18:40 UTC
+- Checked on GitHub: 2026-09-19 22:58 UTC
 
 ## Signals and evidence
 

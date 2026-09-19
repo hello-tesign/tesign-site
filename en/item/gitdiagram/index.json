@@ -1,0 +1,159 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-19T23:10:56.893Z",
+  "lang": "en",
+  "slug": "gitdiagram",
+  "url": "https://tesign.com/en/item/gitdiagram/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/gitdiagram/",
+      "json": "https://tesign.com/item/gitdiagram/index.json",
+      "markdown": "https://tesign.com/item/gitdiagram/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/gitdiagram/",
+      "json": "https://tesign.com/en/item/gitdiagram/index.json",
+      "markdown": "https://tesign.com/en/item/gitdiagram/index.md"
+    }
+  },
+  "name": "GitDiagram",
+  "use_label": "See how a GitHub project is built",
+  "one_liner": "Paste a GitHub repository URL and get its architecture as one interactive diagram.",
+  "text": {
+    "why": "Opening someone else’s repository shows folder names, not how the parts fit. GitDiagram reads the file tree and the README and draws a system-level graph instead of a folder chart. You can also just swap \"hub\" for \"diagram\" in a GitHub URL.",
+    "take": "The diagram earns its place because each box opens the actual file. On an unfamiliar repository it saves the first few minutes of deciding where to start reading.",
+    "build": [
+      "Next.js 16, React 19 and TypeScript, with the graph drawn in Mermaid. Clicking a component opens the real file or directory on GitHub, and you can copy the Mermaid source or download a PNG. Private repositories work with a token held in your browser, stored separately. Generation uses OpenAI by default, with OpenRouter available for self-hosted deployments."
+    ],
+    "who": [
+      {
+        "role": "People opening an open-source project for the first time, developers inheriting a codebase, and new joiners finding their way around.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Paste a repository URL at gitdiagram.com, or replace \"hub\" with \"diagram\" in the GitHub URL you are already looking at."
+      }
+    ],
+    "caveat": [
+      "The diagram is an AI’s reading of the code and can be wrong. The hosted service meters usage, and self-hosting needs your own OpenAI or OpenRouter key."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://gitdiagram.com/"
+  },
+  "ready": "browser",
+  "categories": [
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "깃허브",
+    "구조도",
+    "코드 읽기",
+    "오픈소스"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://gitdiagram.com/",
+    "github": "https://github.com/ahmedkhaleel2004/gitdiagram",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+        "posted_at": "2026-09-17T04:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 16652,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-19T22:57:51.762Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 6,
+    "star_delta_30d": 8,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      6,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-19T22:22:26.000Z",
+    "owner_type": "User",
+    "open_issues": 40,
+    "contributors": 4,
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-09-19T22:57:51.762Z",
+    "core_checked_at": "2026-09-19T22:57:51.762Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/gitdiagram-5b52b1db64.png",
+    "cover": "https://tesign.com/img/gitdiagram-5b52b1db64.png",
+    "cover_width": 1866,
+    "cover_height": 1322,
+    "gallery": [
+      "https://tesign.com/img/gitdiagram-5b52b1db64.png",
+      "https://tesign.com/img/gitdiagram-29f78cbb13.png"
+    ],
+    "alt": "The GitDiagram entry screen: a field for a repository URL, a Diagram button and example repositories such as FastAPI and Flask.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-17T15:44:06.269Z",
+    "source_created_at": "2024-12-15T10:32:03.000Z",
+    "discovery_hours": 15389.200908055556,
+    "launch_signal_at": "2026-09-17T04:00:00.000Z",
+    "kept_at": "2026-09-19T22:45:27.501Z",
+    "first_published_at": "2026-09-19T22:45:27.650Z",
+    "updated_at": "2026-09-19T22:45:27.598Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

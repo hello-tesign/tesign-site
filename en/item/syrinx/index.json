@@ -1,0 +1,168 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-19T23:10:56.893Z",
+  "lang": "en",
+  "slug": "syrinx",
+  "url": "https://tesign.com/en/item/syrinx/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/syrinx/",
+      "json": "https://tesign.com/item/syrinx/index.json",
+      "markdown": "https://tesign.com/item/syrinx/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/syrinx/",
+      "json": "https://tesign.com/en/item/syrinx/index.json",
+      "markdown": "https://tesign.com/en/item/syrinx/index.md"
+    }
+  },
+  "name": "Syrinx",
+  "use_label": "Practise flute with piano backing",
+  "one_liner": "A flute practice app that plays the piano part for you and shows how each note landed.",
+  "text": {
+    "why": "Practising alone, it is hard to tell whether the tempo slipped or the pitch was true. Syrinx follows the score with a cursor while a sampled piano plays the accompaniment, then lets you replay the recording with a note-by-note pitch comparison.",
+    "take": "Having the piano under you is what keeps a piece moving when you practise alone, and the five bundled songs mean you can start without hunting for sheet music.",
+    "build": [
+      "An Electron and React desktop app. It imports MusicXML, XML and MXL, reads the title, part and time signature, and keeps everything in folders on your own device. A four-beat count-in starts the accompaniment, clicking a bar jumps there, and tempo moves between 0.5x and 1.5x without changing pitch. Five pieces ship with accompaniment and artwork."
+    ],
+    "who": [
+      {
+        "role": "People practising flute on their own, and anyone keeping a piece alive between lessons.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Try it online at romanticjojo.com first, then download the Windows or macOS build if it fits."
+      }
+    ],
+    "caveat": [
+      "The interface and documentation are Chinese-first, with an English toggle at the top right. The installers are unsigned, so SmartScreen and Gatekeeper will warn once, and Intel Macs have to run from source. The provenance and licensing of the bundled pieces is set out in the repository’s NOTICE.md."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://romanticjojo.com/"
+  },
+  "ready": "browser",
+  "categories": [
+    "education",
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "플루트",
+    "악보",
+    "연습",
+    "반주"
+  ],
+  "platform": [
+    "web",
+    "windows",
+    "macos"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://romanticjojo.com/",
+    "github": "https://github.com/romanticjojo/syrinx",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/romanticjojo/syrinx",
+        "posted_at": "2026-09-16T11:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-19T18:00:00.000Z",
+    "stars": 70,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-19T22:57:43.303Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 6,
+    "star_delta_30d": 6,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      6,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-16T12:54:15.000Z",
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 1,
+    "releases_count": 1,
+    "latest_release": {
+      "tag": "v0.3.0",
+      "published_at": "2026-09-15T13:44:38.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-19T22:57:43.303Z",
+    "core_checked_at": "2026-09-19T22:57:43.303Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/syrinx-1927aee95f.jpg",
+    "cover": "https://tesign.com/img/syrinx-1927aee95f.jpg",
+    "cover_width": 1440,
+    "cover_height": 900,
+    "gallery": [
+      "https://tesign.com/img/syrinx-1927aee95f.jpg",
+      "https://tesign.com/img/syrinx-0c78e63a30.jpg",
+      "https://tesign.com/img/syrinx-7c8402776b.jpg",
+      "https://tesign.com/img/syrinx-7af01f7963.jpg"
+    ],
+    "alt": "The Syrinx library: a large cover and description at the top, with cards for the bundled pieces such as Luv Letter and Flower Dance below.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-17T01:24:17.323Z",
+    "source_created_at": "2026-08-31T13:59:42.000Z",
+    "discovery_hours": 395.40981194444447,
+    "launch_signal_at": "2026-09-16T11:00:00.000Z",
+    "kept_at": "2026-09-19T22:45:27.511Z",
+    "first_published_at": "2026-09-19T22:45:27.650Z",
+    "updated_at": "2026-09-19T22:45:27.614Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

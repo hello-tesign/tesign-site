@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/nurb/
 - JSON: https://tesign.com/en/item/nurb/index.json
 - Korean Markdown: https://tesign.com/item/nurb/index.md
-- Generated: 2026-09-18 21:08 UTC
+- Generated: 2026-09-19 23:10 UTC
 
 ## Numbers
 
-- 544 stars — checked on GitHub 2026-09-17 18:41 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-18 15:00 UTC)
+- 548 stars — checked on GitHub 2026-09-19 22:59 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-19 18:00 UTC)
 - 2 Show HN points — observed 2026-09-13 14:48 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -31,9 +31,9 @@
 - Last commit: 2026-09-16 13:17 UTC
 - Latest release: v0.26.0 (2026-09-05)
 - Contributors: 11
-- Open issues (incl. PRs): 14
+- Open issues (incl. PRs): 15
 - Made by: an individual
-- Checked on GitHub: 2026-09-17 18:41 UTC
+- Checked on GitHub: 2026-09-19 22:59 UTC
 
 ## Signals and evidence
 
