@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-19T23:10:56.893Z",
+  "generated_at": "2026-09-20T03:36:48.434Z",
   "lang": "en",
   "slug": "monocode",
   "url": "https://tesign.com/en/item/monocode/",
@@ -115,13 +115,13 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-19T18:00:00.000Z",
+    "as_of": "2026-09-19T22:00:00.000Z",
     "stars": 1045,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:59:17.037Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 8,
+    "star_delta_7d": 5,
     "star_delta_30d": 67,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [

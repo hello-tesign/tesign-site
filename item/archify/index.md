@@ -5,17 +5,17 @@
 - 페이지: https://tesign.com/item/archify/
 - JSON: https://tesign.com/item/archify/index.json
 - 영어 마크다운: https://tesign.com/en/item/archify/index.md
-- 생성 시각: 2026-09-19 23:10 UTC
+- 생성 시각: 2026-09-20 03:36 UTC
 
 ## 순위
 
-- 역대 84위 · 이번 주 급상승 6위 · 개발 도구 분야 19위 · 디자인 분야 3위 (기준 2026-09-19 18:00 UTC)
+- 역대 84위 · 이번 주 급상승 6위 · 개발 도구 분야 19위 · 디자인 분야 3위 (기준 2026-09-19 22:00 UTC)
 
 ## 숫자
 
 - 별 67,432 — GitHub에서 2026-09-19 22:58 UTC 확인
-- 7일 +735은 GH Archive 관측 (기준 2026-09-19 18:00 UTC)
-- 24h +2 ★ · 30d +3,731 ★ (기준 2026-09-19 18:00 UTC)
+- 7일 +715은 GH Archive 관측 (기준 2026-09-19 22:00 UTC)
+- 24h +2 ★ · 30d +3,731 ★ (기준 2026-09-19 22:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실

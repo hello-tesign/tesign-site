@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-19T23:10:56.893Z",
+  "generated_at": "2026-09-20T03:36:48.434Z",
   "lang": "en",
   "slug": "laranode",
   "url": "https://tesign.com/en/item/laranode/",
@@ -86,14 +86,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-19T18:00:00.000Z",
+    "as_of": "2026-09-19T22:00:00.000Z",
     "stars": 1362,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:59:50.669Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 8,
-    "star_delta_7d": 8,
-    "star_delta_30d": 8,
+    "star_delta_24h": 9,
+    "star_delta_7d": 12,
+    "star_delta_30d": 12,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -109,7 +109,7 @@
       null,
       null,
       3,
-      5
+      9
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

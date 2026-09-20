@@ -41,15 +41,15 @@
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 43 observed events in the last 30 days (12 star-threshold crossings, 30 new repositories, 1 rising leaders), as of 2026-09-19T18:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 43 observed events in the last 30 days (12 star-threshold crossings, 30 new repositories, 1 rising leaders), as of 2026-09-19T22:00:00.000Z; method at /en/about/#ranks
 
 ## Numbers
 
-- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2749 ranking-eligible repositories, 144 published items, 151652 candidate products, 18058 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-19T23:10:56.893Z, history clock 2026-09-19T18:00:00.000Z)
+- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2754 ranking-eligible repositories, 144 published items, 152106 candidate products, 18058 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-20T03:36:48.434Z, history clock 2026-09-19T22:00:00.000Z)
 
 ## Compare
 
-- [200 side-by-side comparisons](https://tesign.com/en/compare/): one /en/compare/<a>-vs-<b>/ page per pair of published items from the same category, both with a GitHub star total — stars with their check time, 7- and 30-day gains, licence, platform, last commit, contributors, how to start and the who-lines of each entry; taken category by category by combined stars, at most 200, star totals as of 2026-09-19T18:00:00.000Z
+- [200 side-by-side comparisons](https://tesign.com/en/compare/): one /en/compare/<a>-vs-<b>/ page per pair of published items from the same category, both with a GitHub star total — stars with their check time, 7- and 30-day gains, licence, platform, last commit, contributors, how to start and the who-lines of each entry; taken category by category by combined stars, at most 200, star totals as of 2026-09-19T22:00:00.000Z
 
 ## Repository cards
 
@@ -80,7 +80,7 @@
 
 Every published item has a sibling index.json and index.md next to its page: /item/<slug>/index.json and /item/<slug>/index.md in Korean, /en/item/<slug>/index.json and /en/item/<slug>/index.md in English. Keys name the unit (stars, star_delta_7d, hf_likes); every figure sits next to its reference time (as_of, *_at); null means not observed, never zero. Counts are stored observations, not scores. These files are not in the sitemap.
 
-- [Index of every published item (JSON)](https://tesign.com/data/index.json): 144 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-19T23:10:56.893Z); not for search indexes (robots.txt), not in the sitemap
+- [Index of every published item (JSON)](https://tesign.com/data/index.json): 144 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-20T03:36:48.434Z); not for search indexes (robots.txt), not in the sitemap
 - [Example: outloud as JSON](https://tesign.com/en/item/outloud/index.json): name, use label, one-liner, why / build / who / start / caveat, licence and scope, platform, categories, numbers with as_of, ranks, activity, images, source URLs, generated_at
 - [Example: outloud as Markdown](https://tesign.com/en/item/outloud/index.md): the same fields as headed Markdown; Korean at the path without /en
 
