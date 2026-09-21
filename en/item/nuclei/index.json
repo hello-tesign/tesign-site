@@ -1,0 +1,175 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-21T05:13:49.792Z",
+  "lang": "en",
+  "slug": "nuclei",
+  "url": "https://tesign.com/en/item/nuclei/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/nuclei/",
+      "json": "https://tesign.com/item/nuclei/index.json",
+      "markdown": "https://tesign.com/item/nuclei/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/nuclei/",
+      "json": "https://tesign.com/en/item/nuclei/index.json",
+      "markdown": "https://tesign.com/en/item/nuclei/index.md"
+    }
+  },
+  "name": "Nuclei",
+  "use_label": "Scan your servers for known weak spots",
+  "one_liner": "A fast vulnerability scanner driven by simple, readable YAML templates.",
+  "text": {
+    "why": "A security check is only worth as much as the record of what it checked. Nuclei writes each check as one readable YAML template and verifies it by sending the real request, so findings carry their evidence and false positives stay low — with thousands of community templates to draw on.",
+    "take": "Because a template is readable, you can check what a rule actually looks at and change it — which is what makes a scanner worth trusting.",
+    "build": [
+      "A Go CLI covering HTTP, TCP, DNS, SSL, WHOIS, JavaScript and more, clustering requests to scan fast in parallel. It fits into CI as a regression check and reports into Jira, Splunk, GitHub, Elastic or GitLab. The documentation includes Korean."
+    ],
+    "who": [
+      {
+        "role": "People running their own servers, security reviewers, and teams automating a pre-release check.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Install it and run it first against one address you administer."
+      }
+    ],
+    "caveat": [
+      "Only scan what you are authorised to scan — probing someone else’s server without permission is illegal. Beyond the free CLI there are paid Pro and Enterprise editions."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://docs.projectdiscovery.io/tools/nuclei"
+  },
+  "ready": "install",
+  "categories": [
+    "security",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "보안 점검",
+    "취약점",
+    "명령줄",
+    "오픈소스"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Go",
+  "source_urls": {
+    "canonical": "https://docs.projectdiscovery.io/tools/nuclei",
+    "github": "https://github.com/projectdiscovery/nuclei",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/projectdiscovery/nuclei",
+        "posted_at": "2026-09-14T23:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T00:00:00.000Z",
+    "stars": 31225,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T21:33:22.620Z",
+    "stars_observed_since_check": 5,
+    "star_delta_24h": null,
+    "star_delta_7d": 10,
+    "star_delta_30d": 12,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      2,
+      3,
+      5,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-21T00:00:00.000Z",
+    "all_time": 236,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "security",
+        "label": "SECURITY",
+        "rank": 2
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T12:54:43.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T21:33:22.620Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/nuclei-9d8f402a58.png",
+    "cover": "https://tesign.com/img/nuclei-9d8f402a58.png",
+    "cover_width": 10924,
+    "cover_height": 8192,
+    "gallery": [
+      "https://tesign.com/img/nuclei-9d8f402a58.png",
+      "https://tesign.com/img/nuclei-f0fd37fcd6.png"
+    ],
+    "alt": "An example Nuclei template: the check’s name, severity, description and CVSS score, with the actual HTTP request written out in YAML.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T21:32:54.624Z",
+    "source_created_at": "2020-04-03T18:47:11.000Z",
+    "discovery_hours": 56546.76211777778,
+    "launch_signal_at": "2026-09-14T23:00:00.000Z",
+    "kept_at": "2026-09-21T05:13:34.371Z",
+    "first_published_at": "2026-09-21T05:13:34.733Z",
+    "updated_at": "2026-09-21T05:13:34.674Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

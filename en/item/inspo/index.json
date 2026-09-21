@@ -1,0 +1,162 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-21T05:13:49.792Z",
+  "lang": "en",
+  "slug": "inspo",
+  "url": "https://tesign.com/en/item/inspo/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/inspo/",
+      "json": "https://tesign.com/item/inspo/index.json",
+      "markdown": "https://tesign.com/item/inspo/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/inspo/",
+      "json": "https://tesign.com/en/item/inspo/index.json",
+      "markdown": "https://tesign.com/en/item/inspo/index.md"
+    }
+  },
+  "name": "Inspo",
+  "use_label": "Give a coding agent design references",
+  "one_liner": "A library of real production websites your coding agent can study before it writes UI.",
+  "text": {
+    "why": "Hand a screen to an agent and you get the function without the taste. Inspo captures 2,320 pages across 832 live sites on desktop and mobile, records their palettes, fonts and structure, and hands them to the agent over MCP while it works.",
+    "take": "It makes its case with two screens built from the same brief. Whether that gap shows up in your own work is something to test rather than take.",
+    "build": [
+      "An MCP server. Every site carries a design document extracted from its DOM — semantic palette roles, type ramp, spacing scale, CSS variables — and 68 canonical components (heroes, pricing, footers, navs) come as copy-pasteable JSX. Fifteen tools expose it all."
+    ],
+    "who": [
+      {
+        "role": "People building UI with Claude Code or Cursor, and teams shaping product screens without a designer.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Follow inspomcp.dev to register it as an MCP server in your agent, then build one screen with it."
+      }
+    ],
+    "caveat": [
+      "The library is made of other companies’ live sites: it is reference material, not something to copy wholesale. The project is new and still moving."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://inspomcp.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "design"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai 코딩",
+    "디자인 참고",
+    "mcp",
+    "화면 설계"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://inspomcp.dev/",
+    "github": "https://github.com/nutlope/inspo",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/nutlope/inspo",
+        "posted_at": "2026-09-14T21:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T00:00:00.000Z",
+    "stars": 157,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T18:01:56.715Z",
+    "stars_observed_since_check": 15,
+    "star_delta_24h": null,
+    "star_delta_7d": 26,
+    "star_delta_30d": 26,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      13,
+      4,
+      5,
+      2,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T16:09:43.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T18:01:56.715Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/inspo-2b9a626516.png",
+    "cover": "https://tesign.com/img/inspo-2b9a626516.png",
+    "cover_width": 1200,
+    "cover_height": 630,
+    "gallery": [
+      "https://tesign.com/img/inspo-2b9a626516.png",
+      "https://tesign.com/img/inspo-a13b371813.jpg",
+      "https://tesign.com/img/inspo-d0698d6562.jpg",
+      "https://tesign.com/img/inspo-0a512df20e.png"
+    ],
+    "alt": "The Inspo cover: a wall of full-length captures of real websites with the line \"Give your agent design taste\" beneath.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T18:01:28.769Z",
+    "source_created_at": "2026-04-29T11:51:47.000Z",
+    "discovery_hours": 3342.1616025,
+    "launch_signal_at": "2026-09-14T21:00:00.000Z",
+    "kept_at": "2026-09-21T05:13:34.332Z",
+    "first_published_at": "2026-09-21T05:13:34.733Z",
+    "updated_at": "2026-09-21T05:13:34.667Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

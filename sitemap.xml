@@ -3,7 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tesign.com/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://tesign.com/milestones/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/milestones/"/>
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://tesign.com/numbers/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/numbers/"/>
@@ -27,7 +27,7 @@
   </url>
   <url>
     <loc>https://tesign.com/compare/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/compare/"/>
@@ -35,7 +35,7 @@
   </url>
   <url>
     <loc>https://tesign.com/rising/24h/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/rising/24h/"/>
@@ -43,7 +43,7 @@
   </url>
   <url>
     <loc>https://tesign.com/rising/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/rising/"/>
@@ -51,7 +51,7 @@
   </url>
   <url>
     <loc>https://tesign.com/rising/30d/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/rising/30d/"/>
@@ -59,7 +59,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/"/>
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/ai/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/ai/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/dev-tools/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/dev-tools/"/>
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/design/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/design/"/>
@@ -91,7 +91,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/productivity/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/productivity/"/>
@@ -99,7 +99,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/data/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/data/"/>
@@ -107,7 +107,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/infra/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/infra/"/>
@@ -115,7 +115,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/security/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/security/"/>
@@ -123,7 +123,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/commerce/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/commerce/"/>
@@ -131,7 +131,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/media/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/media/"/>
@@ -139,7 +139,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/education/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/education/"/>
@@ -147,7 +147,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/games/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/games/"/>
@@ -155,7 +155,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/science/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/science/"/>
@@ -163,7 +163,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/finance/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/finance/"/>
@@ -171,7 +171,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/social/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/social/"/>
@@ -179,7 +179,7 @@
   </url>
   <url>
     <loc>https://tesign.com/top/hardware/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/hardware/"/>
@@ -187,19 +187,11 @@
   </url>
   <url>
     <loc>https://tesign.com/top/api/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/api/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/top/api/"/>
-  </url>
-  <url>
-    <loc>https://tesign.com/store/</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/store/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/store/"/>
   </url>
   <url>
     <loc>https://tesign.com/store/new/</loc>
@@ -226,14 +218,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/store/paid/"/>
   </url>
   <url>
-    <loc>https://tesign.com/store/us/</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/store/us/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/store/us/"/>
-  </url>
-  <url>
     <loc>https://tesign.com/store/us/new/</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>daily</changefreq>
@@ -256,6 +240,14 @@
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/store/us/paid/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/store/us/paid/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/day/2026-09-21/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/day/2026-09-21/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/day/2026-09-21/"/>
   </url>
   <url>
     <loc>https://tesign.com/day/2026-09-20/</loc>
@@ -304,6 +296,86 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/day/2026-09-13/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/day/2026-09-13/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/ruffle/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/ruffle/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/ruffle/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/promptfoo/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/promptfoo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/promptfoo/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/blurt/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/blurt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/blurt/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/miu/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/miu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/miu/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/monica/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/monica/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/monica/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/supersplat/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/supersplat/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/supersplat/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/openschool/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/openschool/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/openschool/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/acode/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/acode/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/acode/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/nuclei/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/nuclei/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/nuclei/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/item/inspo/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/inspo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/inspo/"/>
   </url>
   <url>
     <loc>https://tesign.com/item/outloud/</loc>
@@ -1515,7 +1587,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/"/>
@@ -1523,7 +1595,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/ai/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/ai/"/>
@@ -1531,7 +1603,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/dev-tools/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/dev-tools/"/>
@@ -1539,7 +1611,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/design/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/design/"/>
@@ -1547,7 +1619,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/productivity/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/productivity/"/>
@@ -1571,7 +1643,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/security/</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/security/"/>
@@ -1587,7 +1659,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/media/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/media/"/>
@@ -1595,7 +1667,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/education/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/education/"/>
@@ -1603,7 +1675,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/games/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/games/"/>
@@ -1683,7 +1755,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/open-source/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/open-source/"/>
@@ -1707,7 +1779,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/source/github/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/source/github/"/>
@@ -1731,7 +1803,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/cta/try/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/cta/try/"/>
@@ -1747,7 +1819,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/cta/install/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/cta/install/"/>
@@ -1771,7 +1843,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/cta/self_host/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/cta/self_host/"/>
@@ -1779,7 +1851,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/ready/browser/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/ready/browser/"/>
@@ -1787,7 +1859,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/license/permissive/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/license/permissive/"/>
@@ -1795,7 +1867,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/license/copyleft/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/license/copyleft/"/>
@@ -1803,7 +1875,7 @@
   </url>
   <url>
     <loc>https://tesign.com/explore/license/unknown/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/license/unknown/"/>
@@ -1883,7 +1955,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/"/>
@@ -1891,7 +1963,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/milestones/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/milestones/"/>
@@ -1899,7 +1971,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/numbers/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/numbers/"/>
@@ -1907,7 +1979,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/compare/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/compare/"/>
@@ -1915,7 +1987,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/rising/24h/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/rising/24h/"/>
@@ -1923,7 +1995,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/rising/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/rising/"/>
@@ -1931,7 +2003,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/rising/30d/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/rising/30d/"/>
@@ -1939,7 +2011,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/"/>
@@ -1947,7 +2019,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/ai/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/ai/"/>
@@ -1955,7 +2027,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/dev-tools/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/dev-tools/"/>
@@ -1963,7 +2035,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/design/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/design/"/>
@@ -1971,7 +2043,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/productivity/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/productivity/"/>
@@ -1979,7 +2051,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/data/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/data/"/>
@@ -1987,7 +2059,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/infra/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/infra/"/>
@@ -1995,7 +2067,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/security/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/security/"/>
@@ -2003,7 +2075,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/commerce/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/commerce/"/>
@@ -2011,7 +2083,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/media/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/media/"/>
@@ -2019,7 +2091,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/education/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/education/"/>
@@ -2027,7 +2099,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/games/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/games/"/>
@@ -2035,7 +2107,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/science/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/science/"/>
@@ -2043,7 +2115,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/finance/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/finance/"/>
@@ -2051,7 +2123,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/social/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/social/"/>
@@ -2059,7 +2131,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/hardware/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/hardware/"/>
@@ -2067,19 +2139,11 @@
   </url>
   <url>
     <loc>https://tesign.com/en/top/api/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/top/api/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/top/api/"/>
-  </url>
-  <url>
-    <loc>https://tesign.com/en/store/</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/store/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/store/"/>
   </url>
   <url>
     <loc>https://tesign.com/en/store/new/</loc>
@@ -2106,14 +2170,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/store/paid/"/>
   </url>
   <url>
-    <loc>https://tesign.com/en/store/us/</loc>
-    <lastmod>2026-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/store/us/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/store/us/"/>
-  </url>
-  <url>
     <loc>https://tesign.com/en/store/us/new/</loc>
     <lastmod>2026-09-20</lastmod>
     <changefreq>daily</changefreq>
@@ -2136,6 +2192,14 @@
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/store/us/paid/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/store/us/paid/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/day/2026-09-21/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/day/2026-09-21/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/day/2026-09-21/"/>
   </url>
   <url>
     <loc>https://tesign.com/en/day/2026-09-20/</loc>
@@ -2184,6 +2248,86 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/day/2026-09-13/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/day/2026-09-13/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/ruffle/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/ruffle/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/ruffle/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/promptfoo/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/promptfoo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/promptfoo/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/blurt/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/blurt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/blurt/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/miu/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/miu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/miu/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/monica/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/monica/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/monica/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/supersplat/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/supersplat/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/supersplat/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/openschool/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/openschool/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/openschool/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/acode/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/acode/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/acode/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/nuclei/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/nuclei/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/nuclei/"/>
+  </url>
+  <url>
+    <loc>https://tesign.com/en/item/inspo/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/item/inspo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tesign.com/en/item/inspo/"/>
   </url>
   <url>
     <loc>https://tesign.com/en/item/outloud/</loc>
@@ -3395,7 +3539,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/"/>
@@ -3403,7 +3547,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/ai/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/ai/"/>
@@ -3411,7 +3555,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/dev-tools/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/dev-tools/"/>
@@ -3419,7 +3563,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/design/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/design/"/>
@@ -3427,7 +3571,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/productivity/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/productivity/"/>
@@ -3451,7 +3595,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/security/</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/security/"/>
@@ -3467,7 +3611,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/media/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/media/"/>
@@ -3475,7 +3619,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/education/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/education/"/>
@@ -3483,7 +3627,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/games/</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/games/"/>
@@ -3563,7 +3707,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/open-source/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/open-source/"/>
@@ -3587,7 +3731,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/source/github/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/source/github/"/>
@@ -3611,7 +3755,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/cta/try/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/cta/try/"/>
@@ -3627,7 +3771,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/cta/install/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/cta/install/"/>
@@ -3651,7 +3795,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/cta/self_host/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/cta/self_host/"/>
@@ -3659,7 +3803,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/ready/browser/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/ready/browser/"/>
@@ -3667,7 +3811,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/license/permissive/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/license/permissive/"/>
@@ -3675,7 +3819,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/license/copyleft/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/license/copyleft/"/>
@@ -3683,7 +3827,7 @@
   </url>
   <url>
     <loc>https://tesign.com/en/explore/license/unknown/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://tesign.com/explore/license/unknown/"/>

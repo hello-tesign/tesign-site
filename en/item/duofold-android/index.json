@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T00:32:43.503Z",
+  "generated_at": "2026-09-21T05:13:49.792Z",
   "lang": "en",
   "slug": "duofold-android",
   "url": "https://tesign.com/en/item/duofold-android/",
@@ -100,13 +100,13 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-20T10:00:00.000Z",
+    "as_of": "2026-09-21T00:00:00.000Z",
     "stars": 157,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:58:23.107Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 4,
+    "star_delta_7d": null,
     "star_delta_30d": 14,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
@@ -115,8 +115,8 @@
       null,
       null,
       null,
-      null,
       14,
+      null,
       null,
       null,
       null,

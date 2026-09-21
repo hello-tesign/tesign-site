@@ -1,0 +1,175 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-21T05:13:49.792Z",
+  "lang": "en",
+  "slug": "monica",
+  "url": "https://tesign.com/en/item/monica/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/monica/",
+      "json": "https://tesign.com/item/monica/index.json",
+      "markdown": "https://tesign.com/item/monica/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/monica/",
+      "json": "https://tesign.com/en/item/monica/index.json",
+      "markdown": "https://tesign.com/en/item/monica/index.md"
+    }
+  },
+  "name": "Monica",
+  "use_label": "Keep passwords on your own device",
+  "one_liner": "A local-first password vault for Android that also holds your 2FA codes.",
+  "text": {
+    "why": "Most password managers keep the vault on the company’s servers. Monica puts local storage first and handles both worlds in one app — Bitwarden sync and KeePass (.kdbx) files — with your own WebDAV when you want the vault on more than one device.",
+    "take": "Accepting both existing formats is the practical part: you are not retyping a vault to switch.",
+    "build": [
+      "A Kotlin Android app holding logins, cards, identities, private notes and attachments in an encrypted vault, with TOTP codes generated in the same place. It uses its own MDBX vault format, designed around nested folders, attachments, commit history, conflict detection and snapshot recovery. Android 8.0 and later."
+    ],
+    "who": [
+      {
+        "role": "People who would rather not park their vault on someone else’s server, and anyone already carrying a KeePass file.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Install the APK from GitHub Releases, set a master password, and import your existing .kdbx if you have one."
+      }
+    ],
+    "caveat": [
+      "The interface and documentation are Chinese-first, with English and other translations alongside. The Windows build and the old browser extension are archived while a new extension is being written, and the repository notes that passkeys cannot be created on some Xiaomi HyperOS devices. It is maintained by one person."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://monica-pass.github.io/MonicaDocs"
+  },
+  "ready": "install",
+  "categories": [
+    "security",
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "비밀번호",
+    "2차 인증",
+    "안드로이드",
+    "내 기기에서"
+  ],
+  "platform": [
+    "android"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Kotlin",
+  "source_urls": {
+    "canonical": "https://monica-pass.github.io/MonicaDocs",
+    "github": "https://github.com/monica-pass/monica",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/monica-pass/monica",
+        "posted_at": "2026-09-15T06:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T00:00:00.000Z",
+    "stars": 1001,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T10:15:40.353Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 6,
+    "star_delta_30d": 6,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      6,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-21T00:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "security",
+        "label": "SECURITY",
+        "rank": 12
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-15T06:43:01.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T10:15:40.353Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/og/monica.en.png",
+    "cover": null,
+    "cover_width": null,
+    "cover_height": null,
+    "gallery": [
+      "https://tesign.com/img/monica-a606636c13.jpg",
+      "https://tesign.com/img/monica-dbd87b35fb.png"
+    ],
+    "alt": "Monica app screens side by side: the vault list, an entry’s detail view and a themed password screen.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T10:14:15.849Z",
+    "source_created_at": "2025-10-05T16:19:24.000Z",
+    "discovery_hours": 8273.9144025,
+    "launch_signal_at": "2026-09-15T06:00:00.000Z",
+    "kept_at": "2026-09-21T05:13:34.449Z",
+    "first_published_at": "2026-09-21T05:13:34.733Z",
+    "updated_at": "2026-09-21T05:13:34.644Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

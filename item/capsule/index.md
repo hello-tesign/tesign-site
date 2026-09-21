@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/capsule/
 - JSON: https://tesign.com/item/capsule/index.json
 - 영어 마크다운: https://tesign.com/en/item/capsule/index.md
-- 생성 시각: 2026-09-21 00:32 UTC
+- 생성 시각: 2026-09-21 05:13 UTC
 
 ## 숫자
 

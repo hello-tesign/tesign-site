@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-21T00:32:43.503Z",
+  "generated_at": "2026-09-21T05:13:49.792Z",
   "site": "https://tesign.com",
-  "count": 144,
+  "count": 154,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,308 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-20T10:00:00.000Z",
+  "numbers_as_of": "2026-09-21T00:00:00.000Z",
   "items": [
+    {
+      "slug": "ruffle",
+      "name": {
+        "ko": "Ruffle",
+        "en": "Ruffle"
+      },
+      "use_label": {
+        "ko": "플래시 다시 보기",
+        "en": "Play old Flash files again"
+      },
+      "category": "games",
+      "categories": [
+        "games",
+        "media"
+      ],
+      "updated": "2026-09-21T05:13:34.594Z",
+      "kept_at": "2026-09-21T05:13:34.491Z",
+      "html": {
+        "ko": "https://tesign.com/item/ruffle/",
+        "en": "https://tesign.com/en/item/ruffle/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/ruffle/index.json",
+        "en": "https://tesign.com/en/item/ruffle/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/ruffle/index.md",
+        "en": "https://tesign.com/en/item/ruffle/index.md"
+      }
+    },
+    {
+      "slug": "promptfoo",
+      "name": {
+        "ko": "Promptfoo",
+        "en": "Promptfoo"
+      },
+      "use_label": {
+        "ko": "AI 답변 시험",
+        "en": "Test what your AI app actually answers"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-21T05:13:34.670Z",
+      "kept_at": "2026-09-21T05:13:34.465Z",
+      "html": {
+        "ko": "https://tesign.com/item/promptfoo/",
+        "en": "https://tesign.com/en/item/promptfoo/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/promptfoo/index.json",
+        "en": "https://tesign.com/en/item/promptfoo/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/promptfoo/index.md",
+        "en": "https://tesign.com/en/item/promptfoo/index.md"
+      }
+    },
+    {
+      "slug": "blurt",
+      "name": {
+        "ko": "Blurt",
+        "en": "Blurt"
+      },
+      "use_label": {
+        "ko": "맥 음성 입력",
+        "en": "Dictate into any Mac app"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "productivity"
+      ],
+      "updated": "2026-09-21T05:13:34.662Z",
+      "kept_at": "2026-09-21T05:13:34.457Z",
+      "html": {
+        "ko": "https://tesign.com/item/blurt/",
+        "en": "https://tesign.com/en/item/blurt/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/blurt/index.json",
+        "en": "https://tesign.com/en/item/blurt/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/blurt/index.md",
+        "en": "https://tesign.com/en/item/blurt/index.md"
+      }
+    },
+    {
+      "slug": "miu",
+      "name": {
+        "ko": "miu",
+        "en": "miu"
+      },
+      "use_label": {
+        "ko": "큰 파일 열기",
+        "en": "Open very large text files fast"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "dev-tools"
+      ],
+      "updated": "2026-09-21T05:13:34.650Z",
+      "kept_at": "2026-09-21T05:13:34.453Z",
+      "html": {
+        "ko": "https://tesign.com/item/miu/",
+        "en": "https://tesign.com/en/item/miu/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/miu/index.json",
+        "en": "https://tesign.com/en/item/miu/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/miu/index.md",
+        "en": "https://tesign.com/en/item/miu/index.md"
+      }
+    },
+    {
+      "slug": "monica",
+      "name": {
+        "ko": "Monica",
+        "en": "Monica"
+      },
+      "use_label": {
+        "ko": "비밀번호 보관",
+        "en": "Keep passwords on your own device"
+      },
+      "category": "security",
+      "categories": [
+        "security",
+        "productivity"
+      ],
+      "updated": "2026-09-21T05:13:34.644Z",
+      "kept_at": "2026-09-21T05:13:34.449Z",
+      "html": {
+        "ko": "https://tesign.com/item/monica/",
+        "en": "https://tesign.com/en/item/monica/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/monica/index.json",
+        "en": "https://tesign.com/en/item/monica/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/monica/index.md",
+        "en": "https://tesign.com/en/item/monica/index.md"
+      }
+    },
+    {
+      "slug": "supersplat",
+      "name": {
+        "ko": "SuperSplat",
+        "en": "SuperSplat"
+      },
+      "use_label": {
+        "ko": "3D 스캔 다듬기",
+        "en": "Edit 3D Gaussian splats in a browser"
+      },
+      "category": "design",
+      "categories": [
+        "design",
+        "media"
+      ],
+      "updated": "2026-09-21T05:13:34.633Z",
+      "kept_at": "2026-09-21T05:13:34.430Z",
+      "html": {
+        "ko": "https://tesign.com/item/supersplat/",
+        "en": "https://tesign.com/en/item/supersplat/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/supersplat/index.json",
+        "en": "https://tesign.com/en/item/supersplat/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/supersplat/index.md",
+        "en": "https://tesign.com/en/item/supersplat/index.md"
+      }
+    },
+    {
+      "slug": "openschool",
+      "name": {
+        "ko": "OpenSchool",
+        "en": "OpenSchool"
+      },
+      "use_label": {
+        "ko": "학교 업무 관리",
+        "en": "Run a school’s records in one system"
+      },
+      "category": "education",
+      "categories": [
+        "education",
+        "productivity"
+      ],
+      "updated": "2026-09-21T05:13:34.679Z",
+      "kept_at": "2026-09-21T05:13:34.419Z",
+      "html": {
+        "ko": "https://tesign.com/item/openschool/",
+        "en": "https://tesign.com/en/item/openschool/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openschool/index.json",
+        "en": "https://tesign.com/en/item/openschool/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openschool/index.md",
+        "en": "https://tesign.com/en/item/openschool/index.md"
+      }
+    },
+    {
+      "slug": "acode",
+      "name": {
+        "ko": "Acode",
+        "en": "Acode"
+      },
+      "use_label": {
+        "ko": "폰에서 코딩",
+        "en": "Write and run code on an Android phone"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "productivity"
+      ],
+      "updated": "2026-09-21T05:13:34.639Z",
+      "kept_at": "2026-09-21T05:13:34.391Z",
+      "html": {
+        "ko": "https://tesign.com/item/acode/",
+        "en": "https://tesign.com/en/item/acode/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/acode/index.json",
+        "en": "https://tesign.com/en/item/acode/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/acode/index.md",
+        "en": "https://tesign.com/en/item/acode/index.md"
+      }
+    },
+    {
+      "slug": "nuclei",
+      "name": {
+        "ko": "Nuclei",
+        "en": "Nuclei"
+      },
+      "use_label": {
+        "ko": "취약점 점검",
+        "en": "Scan your servers for known weak spots"
+      },
+      "category": "security",
+      "categories": [
+        "security",
+        "dev-tools"
+      ],
+      "updated": "2026-09-21T05:13:34.674Z",
+      "kept_at": "2026-09-21T05:13:34.371Z",
+      "html": {
+        "ko": "https://tesign.com/item/nuclei/",
+        "en": "https://tesign.com/en/item/nuclei/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/nuclei/index.json",
+        "en": "https://tesign.com/en/item/nuclei/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/nuclei/index.md",
+        "en": "https://tesign.com/en/item/nuclei/index.md"
+      }
+    },
+    {
+      "slug": "inspo",
+      "name": {
+        "ko": "Inspo",
+        "en": "Inspo"
+      },
+      "use_label": {
+        "ko": "AI 화면 참고",
+        "en": "Give a coding agent design references"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "design"
+      ],
+      "updated": "2026-09-21T05:13:34.667Z",
+      "kept_at": "2026-09-21T05:13:34.332Z",
+      "html": {
+        "ko": "https://tesign.com/item/inspo/",
+        "en": "https://tesign.com/en/item/inspo/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/inspo/index.json",
+        "en": "https://tesign.com/en/item/inspo/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/inspo/index.md",
+        "en": "https://tesign.com/en/item/inspo/index.md"
+      }
+    },
     {
       "slug": "outloud",
       "name": {

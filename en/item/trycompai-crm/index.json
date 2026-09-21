@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T00:32:43.503Z",
+  "generated_at": "2026-09-21T05:13:49.792Z",
   "lang": "en",
   "slug": "trycompai-crm",
   "url": "https://tesign.com/en/item/trycompai-crm/",
@@ -111,17 +111,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-20T10:00:00.000Z",
+    "as_of": "2026-09-21T00:00:00.000Z",
     "stars": 10647,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:58:57.641Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 8,
+    "star_delta_7d": 6,
     "star_delta_30d": 149,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -130,6 +129,7 @@
       6,
       null,
       6,
+      null,
       null,
       null,
       null,
@@ -144,7 +144,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-20T10:00:00.000Z",
+    "as_of": "2026-09-21T00:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,

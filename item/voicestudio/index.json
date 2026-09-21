@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T00:32:43.503Z",
+  "generated_at": "2026-09-21T05:13:49.792Z",
   "lang": "ko",
   "slug": "voicestudio",
   "url": "https://tesign.com/item/voicestudio/",
@@ -118,17 +118,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-20T10:00:00.000Z",
+    "as_of": "2026-09-21T00:00:00.000Z",
     "stars": 33187,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:58:00.057Z",
     "stars_observed_since_check": 3,
-    "star_delta_24h": 3,
-    "star_delta_7d": 680,
+    "star_delta_24h": null,
+    "star_delta_7d": 496,
     "star_delta_30d": 2666,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      42,
       10,
       25,
       40,
@@ -141,7 +140,8 @@
       41,
       8,
       null,
-      3
+      3,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -151,11 +151,11 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-20T10:00:00.000Z",
+    "as_of": "2026-09-21T00:00:00.000Z",
     "all_time": 218,
     "rising": {
       "24h": null,
-      "7d": 3,
+      "7d": 7,
       "30d": 6
     },
     "categories": [

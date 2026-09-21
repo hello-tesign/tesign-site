@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T00:32:43.503Z",
+  "generated_at": "2026-09-21T05:13:49.792Z",
   "lang": "ko",
   "slug": "chat-on-steroids",
   "url": "https://tesign.com/item/chat-on-steroids/",
@@ -111,17 +111,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-20T10:00:00.000Z",
+    "as_of": "2026-09-21T00:00:00.000Z",
     "stars": 3295,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:58:10.516Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 54,
+    "star_delta_7d": 31,
     "star_delta_30d": 258,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      19,
       null,
       2,
       null,
@@ -132,6 +131,7 @@
       7,
       6,
       15,
+      null,
       null,
       null,
       null

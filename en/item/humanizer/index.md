@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/humanizer/
 - JSON: https://tesign.com/en/item/humanizer/index.json
 - Korean Markdown: https://tesign.com/item/humanizer/index.md
-- Generated: 2026-09-21 00:32 UTC
+- Generated: 2026-09-21 05:13 UTC
 
 ## RANKS
 
-- All-time #127 · Rising this week #19 · PRODUCTIVITY #10 (As of 2026-09-20 10:00 UTC)
+- All-time #127 · Rising this week #18 · PRODUCTIVITY #10 (As of 2026-09-21 00:00 UTC)
 
 ## Numbers
 
 - 50,238 stars — checked on GitHub 2026-09-19 22:58 UTC (+2 observed since the check)
-- 7-day +229 observed via GH Archive (as of 2026-09-20 10:00 UTC)
-- 24h +4 ★ · 30d +1,592 ★ (as of 2026-09-20 10:00 UTC)
+- 7-day +209 observed via GH Archive (as of 2026-09-21 00:00 UTC)
+- 24h +2 ★ · 30d +1,592 ★ (as of 2026-09-21 00:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
