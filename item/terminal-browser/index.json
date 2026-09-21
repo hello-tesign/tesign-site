@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-20T03:36:48.434Z",
+  "generated_at": "2026-09-21T00:32:43.503Z",
   "lang": "ko",
   "slug": "terminal-browser",
   "url": "https://tesign.com/item/terminal-browser/",
@@ -121,7 +121,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-19T22:00:00.000Z",
+    "as_of": "2026-09-20T10:00:00.000Z",
     "stars": 3124,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:59:07.640Z",
@@ -131,7 +131,6 @@
     "star_delta_30d": 41,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      2,
       null,
       null,
       null,
@@ -144,6 +143,7 @@
       2,
       4,
       4,
+      null,
       null
     ],
     "hf_likes": null,

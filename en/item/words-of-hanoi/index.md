@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/words-of-hanoi/
 - JSON: https://tesign.com/en/item/words-of-hanoi/index.json
 - Korean Markdown: https://tesign.com/item/words-of-hanoi/index.md
-- Generated: 2026-09-20 03:36 UTC
+- Generated: 2026-09-21 00:32 UTC
 
 ## Numbers
 

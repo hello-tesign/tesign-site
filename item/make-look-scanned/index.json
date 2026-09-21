@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-20T03:36:48.434Z",
+  "generated_at": "2026-09-21T00:32:43.503Z",
   "lang": "ko",
   "slug": "make-look-scanned",
   "url": "https://tesign.com/item/make-look-scanned/",
@@ -117,7 +117,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-19T22:00:00.000Z",
+    "as_of": "2026-09-20T10:00:00.000Z",
     "stars": 809,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:58:47.358Z",

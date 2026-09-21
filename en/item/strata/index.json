@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-20T03:36:48.434Z",
+  "generated_at": "2026-09-21T00:32:43.503Z",
   "lang": "en",
   "slug": "strata",
   "url": "https://tesign.com/en/item/strata/",
@@ -110,7 +110,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-19T22:00:00.000Z",
+    "as_of": "2026-09-20T10:00:00.000Z",
     "stars": 489,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:59:24.515Z",
@@ -120,7 +120,6 @@
     "star_delta_30d": 25,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      17,
       null,
       null,
       null,
@@ -130,6 +129,7 @@
       null,
       null,
       2,
+      null,
       null,
       null,
       null,

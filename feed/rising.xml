@@ -1,87 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>TESIGN Radar · 7일 급상승</title><link>https://tesign.com/rising/</link><description>AI chooses the lists under the owner’s delegation. No human review is running in September 2026. Total stars, increases, cross-source signals, last updates and licences are shown as evidence.</description><language>ko</language><lastBuildDate>Sun, 20 Sep 2026 03:36:48 GMT</lastBuildDate>
+<rss version="2.0"><channel><title>TESIGN Radar · 7일 급상승</title><link>https://tesign.com/rising/</link><description>AI chooses the lists under the owner’s delegation. No human review is running in September 2026. Total stars, increases, cross-source signals, last updates and licences are shown as evidence.</description><language>ko</language><lastBuildDate>Mon, 21 Sep 2026 00:32:43 GMT</lastBuildDate>
 <item><title>open-code-review</title><link>https://tesign.com/item/open-code-review/</link><guid isPermaLink="true">https://tesign.com/item/open-code-review/</guid><description>규칙 검사와 LLM 리뷰를 함께 돌려 줄 단위로 지적합니다.
 open-code-review: Reviews code line by line with fixed rule pipelines plus an LLM agent.
-★ 37.5k · ▲ +1,348 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>VoiceStudio</title><link>https://tesign.com/item/voicestudio/</link><guid isPermaLink="true">https://tesign.com/item/voicestudio/</guid><description>목소리를 복제하고 더빙과 받아쓰기를 내 컴퓨터 안에서 처리합니다.
-VoiceStudio: Clones voices, dubs video and transcribes audio on your own machine.
-★ 33.2k · ▲ +875 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>gods-eye-view</title><link>https://tesign.com/item/gods-eye-view/</link><guid isPermaLink="true">https://tesign.com/item/gods-eye-view/</guid><description>실제 위성과 항공기 위치를 브라우저 3D 지구본 위에 띄웁니다.
-gods-eye-view: Puts real satellite and flight tracks on a 3D globe in your browser.
-★ 38.6k · ▲ +833 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 37.5k · ▲ +1,319 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>colibri</title><link>https://tesign.com/item/colibri/</link><guid isPermaLink="true">https://tesign.com/item/colibri/</guid><description>큰 MoE 모델을 지금 가진 컴퓨터에서 돌립니다.
 colibri: Runs frontier MoE models on hardware you already own.
-★ 36.4k · ▲ +767 / 7d · ▲ 937 HN · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 36.4k · ▲ +705 / 7d · ▲ 937 HN · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
+<item><title>VoiceStudio</title><link>https://tesign.com/item/voicestudio/</link><guid isPermaLink="true">https://tesign.com/item/voicestudio/</guid><description>목소리를 복제하고 더빙과 받아쓰기를 내 컴퓨터 안에서 처리합니다.
+VoiceStudio: Clones voices, dubs video and transcribes audio on your own machine.
+★ 33.2k · ▲ +680 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>DeepSeek Harness</title><link>https://tesign.com/item/deepseek-harness/</link><guid isPermaLink="true">https://tesign.com/item/deepseek-harness/</guid><description>에이전트 기능을 전부 플러그인으로 끼워 씁니다.
 DeepSeek Harness: Builds an agent harness where every capability is a plugin.
-★ 230k · ▲ +744 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 230k · ▲ +633 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>archify</title><link>https://tesign.com/item/archify/</link><guid isPermaLink="true">https://tesign.com/item/archify/</guid><description>구조도와 흐름도를 의존성 없는 HTML 한 파일로 뽑아냅니다.
 archify: Exports architecture and data-flow diagrams as self-contained HTML.
-★ 67.4k · ▲ +715 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>ponytail</title><link>https://tesign.com/item/ponytail/</link><guid isPermaLink="true">https://tesign.com/item/ponytail/</guid><description>에이전트가 코드를 쓰기 전에 안 써도 되는지 먼저 따지게 합니다.
-ponytail: Makes a coding agent ask whether the code needs writing at all.
-★ 143k · ▲ +545 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 67.4k · ▲ +604 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
+<item><title>gods-eye-view</title><link>https://tesign.com/item/gods-eye-view/</link><guid isPermaLink="true">https://tesign.com/item/gods-eye-view/</guid><description>실제 위성과 항공기 위치를 브라우저 3D 지구본 위에 띄웁니다.
+gods-eye-view: Puts real satellite and flight tracks on a 3D globe in your browser.
+★ 38.6k · ▲ +586 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>howtolivebetter</title><link>https://tesign.com/repo/eternity4719/howtolivebetter/</link><guid isPermaLink="false">https://github.com/eternity4719/howtolivebetter</guid><description>按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 howtolivebetter: 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
-★ 1.2k · ▲ +505 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>skills</title><link>https://tesign.com/repo/mattpocock/skills/</link><guid isPermaLink="false">https://github.com/mattpocock/skills</guid><description>Skills for Real Engineers. Straight from my .agents directory.
-skills: Skills for Real Engineers. Straight from my .agents directory.
-★ 261k · ▲ +481 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>weknora</title><link>https://tesign.com/repo/tencent/weknora/</link><guid isPermaLink="false">https://github.com/tencent/weknora</guid><description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-weknora: Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-★ 23.2k · ▲ +439 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 1.2k · ▲ +509 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
+<item><title>ponytail</title><link>https://tesign.com/item/ponytail/</link><guid isPermaLink="true">https://tesign.com/item/ponytail/</guid><description>에이전트가 코드를 쓰기 전에 안 써도 되는지 먼저 따지게 합니다.
+ponytail: Makes a coding agent ask whether the code needs writing at all.
+★ 143k · ▲ +470 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>fugleramme</title><link>https://tesign.com/repo/arnegiacomo/fugleramme/</link><guid isPermaLink="false">https://github.com/arnegiacomo/fugleramme</guid><description>E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 fugleramme: E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
-★ 587 · ▲ +426 / 7d · ▲ 145 HN · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>OpenResearch</title><link>https://tesign.com/item/openresearch/</link><guid isPermaLink="true">https://tesign.com/item/openresearch/</guid><description>조사 에이전트 여러 개를 원하는 모델로 동시에 돌립니다.
-OpenResearch: Runs several research agents in parallel on any model you choose.
-★ 5.4k · ▲ +425 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 587 · ▲ +426 / 7d · ▲ 145 HN · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>Tinycast</title><link>https://tesign.com/item/tinycast/</link><guid isPermaLink="true">https://tesign.com/item/tinycast/</guid><description>핫키 하나로 앱·클립보드·계산기·창 관리를 부르는 100MB 미만의 네이티브 맥 런처. Raycast 확장도 실행
 Tinycast: Native macOS launcher under 100 MB of RAM that also runs Raycast extensions
-★ 6.7k · ▲ +415 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>ever-gauzy</title><link>https://tesign.com/repo/ever-co/ever-gauzy/</link><guid isPermaLink="false">https://github.com/ever-co/ever-gauzy</guid><description>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
-ever-gauzy: Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
-★ 5.1k · ▲ +331 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 6.7k · ▲ +417 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
+<item><title>weknora</title><link>https://tesign.com/repo/tencent/weknora/</link><guid isPermaLink="false">https://github.com/tencent/weknora</guid><description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+weknora: Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+★ 23.2k · ▲ +414 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
+<item><title>skills</title><link>https://tesign.com/repo/mattpocock/skills/</link><guid isPermaLink="false">https://github.com/mattpocock/skills</guid><description>Skills for Real Engineers. Straight from my .agents directory.
+skills: Skills for Real Engineers. Straight from my .agents directory.
+★ 261k · ▲ +394 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
+<item><title>OpenResearch</title><link>https://tesign.com/item/openresearch/</link><guid isPermaLink="true">https://tesign.com/item/openresearch/</guid><description>조사 에이전트 여러 개를 원하는 모델로 동시에 돌립니다.
+OpenResearch: Runs several research agents in parallel on any model you choose.
+★ 5.4k · ▲ +392 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>ghidra</title><link>https://tesign.com/repo/nationalsecurityagency/ghidra/</link><guid isPermaLink="false">https://github.com/nationalsecurityagency/ghidra</guid><description>Ghidra is a software reverse engineering (SRE) framework
 ghidra: Ghidra is a software reverse engineering (SRE) framework
-★ 75.2k · ▲ +329 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 75.2k · ▲ +329 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
+<item><title>ever-gauzy</title><link>https://tesign.com/repo/ever-co/ever-gauzy/</link><guid isPermaLink="false">https://github.com/ever-co/ever-gauzy</guid><description>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+ever-gauzy: Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+★ 5.1k · ▲ +326 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>tradingagents</title><link>https://tesign.com/repo/tauricresearch/tradingagents/</link><guid isPermaLink="false">https://github.com/tauricresearch/tradingagents</guid><description>TradingAgents: Multi-Agents LLM Financial Trading Framework
 tradingagents: TradingAgents: Multi-Agents LLM Financial Trading Framework
-★ 105k · ▲ +274 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>humanizer</title><link>https://tesign.com/item/humanizer/</link><guid isPermaLink="true">https://tesign.com/item/humanizer/</guid><description>글에서 AI가 쓴 티가 나는 부분을 걷어냅니다.
-humanizer: Strips the tells of AI-generated writing out of a draft.
-★ 50.2k · ▲ +255 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 105k · ▲ +263 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>agent-skills</title><link>https://tesign.com/repo/addyosmani/agent-skills/</link><guid isPermaLink="false">https://github.com/addyosmani/agent-skills</guid><description>Production-grade engineering skills for AI coding agents.
 agent-skills: Production-grade engineering skills for AI coding agents.
-★ 94.1k · ▲ +254 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>YuE2</title><link>https://tesign.com/item/yue/</link><guid isPermaLink="true">https://tesign.com/item/yue/</guid><description>곡을 만들고, 기존 곡을 다시 부르게 하고, 부분만 고칩니다.
-YuE2: Generates music, makes zero-shot covers and edits parts of a track.
-★ 9.8k · ▲ +233 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 94.1k · ▲ +245 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>octop</title><link>https://tesign.com/repo/tencentcloud/octop/</link><guid isPermaLink="false">https://github.com/tencentcloud/octop</guid><description>A smarter, self-hosted AI assistant — multi-user, multi-agent.
 octop: A smarter, self-hosted AI assistant — multi-user, multi-agent.
-★ 1.8k · ▲ +231 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>firecrawl</title><link>https://tesign.com/repo/firecrawl/firecrawl/</link><guid isPermaLink="false">https://github.com/firecrawl/firecrawl</guid><description>The context API to search, scrape, and interact with the web at scale. 🔥
-firecrawl: The context API to search, scrape, and interact with the web at scale. 🔥
-★ 180k · ▲ +218 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>Recordly</title><link>https://tesign.com/item/recordly/</link><guid isPermaLink="true">https://tesign.com/item/recordly/</guid><description>녹화만 하면 편집 없이 내보낼 만한 데모 영상을 만듭니다.
-Recordly: Turns a screen recording into a polished demo video without editing.
-★ 29.8k · ▲ +217 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 1.8k · ▲ +231 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
+<item><title>humanizer</title><link>https://tesign.com/item/humanizer/</link><guid isPermaLink="true">https://tesign.com/item/humanizer/</guid><description>글에서 AI가 쓴 티가 나는 부분을 걷어냅니다.
+humanizer: Strips the tells of AI-generated writing out of a draft.
+★ 50.2k · ▲ +229 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>voicebox</title><link>https://tesign.com/repo/jamiepine/voicebox/</link><guid isPermaLink="false">https://github.com/jamiepine/voicebox</guid><description>The open-source AI voice studio. Clone, dictate, create.
 voicebox: The open-source AI voice studio. Clone, dictate, create.
-★ 53.3k · ▲ +212 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>no-ai-slop</title><link>https://tesign.com/repo/petergyang/no-ai-slop/</link><guid isPermaLink="false">https://github.com/petergyang/no-ai-slop</guid><description>Removes 20+ patterns of AI slop from any piece of writing.
-no-ai-slop: Removes 20+ patterns of AI slop from any piece of writing.
-★ 9k · ▲ +202 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 53.3k · ▲ +205 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>qingjian</title><link>https://tesign.com/repo/qingjian-team/qingjian/</link><guid isPermaLink="false">https://github.com/qingjian-team/qingjian</guid><description>青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
 qingjian: 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
-★ 165 · ▲ +107 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 165 · ▲ +95 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>mural</title><link>https://tesign.com/repo/chuloo/mural/</link><guid isPermaLink="false">https://github.com/chuloo/mural</guid><description>The language app you eventually delete. A native iPhone companion for learning through conversation.
 mural: The language app you eventually delete. A native iPhone companion for learning through conversation.
-★ 282 · ▲ +77 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 282 · ▲ +72 / 7d · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 <item><title>oj</title><link>https://tesign.com/repo/lovablelabs/oj/</link><guid isPermaLink="false">https://github.com/lovablelabs/oj</guid><description>An experimental Rust-native build tool for React apps.
 oj: An experimental Rust-native build tool for React apps.
-★ 236 · ▲ +50 / 7d · ▲ 17 HN · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
-<item><title>malecns</title><link>https://tesign.com/repo/natverse/malecns/</link><guid isPermaLink="false">https://github.com/natverse/malecns</guid><description>Access to the latest &apos;Janelia FlyEM&apos; datasets
-malecns: Access to the latest &apos;Janelia FlyEM&apos; datasets
-★ 156 · ▲ +32 / 7d · As of 2026-09-19T22:00:00.000Z</description><pubDate>Sat, 19 Sep 2026 22:00:00 GMT</pubDate></item>
+★ 236 · ▲ +50 / 7d · ▲ 17 HN · As of 2026-09-20T10:00:00.000Z</description><pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate></item>
 </channel></rss>

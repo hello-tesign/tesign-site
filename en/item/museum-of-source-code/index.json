@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-20T03:36:48.434Z",
+  "generated_at": "2026-09-21T00:32:43.503Z",
   "lang": "en",
   "slug": "museum-of-source-code",
   "url": "https://tesign.com/en/item/museum-of-source-code/",
@@ -88,7 +88,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-19T22:00:00.000Z",
+    "as_of": "2026-09-20T10:00:00.000Z",
     "stars": null,
     "stars_unit": "GitHub stars",
     "stars_checked_at": null,
@@ -116,7 +116,7 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 5,
-    "hn_points_observed_at": "2026-09-19T04:16:51.528Z",
+    "hn_points_observed_at": "2026-09-20T05:34:33.302Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
