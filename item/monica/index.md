@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/monica/
 - JSON: https://tesign.com/item/monica/index.json
 - 영어 마크다운: https://tesign.com/en/item/monica/index.md
-- 생성 시각: 2026-09-21 05:13 UTC
+- 생성 시각: 2026-09-21 05:58 UTC
 
 ## 순위
 
@@ -71,7 +71,7 @@
 - 출처 등록: 2025-10-05 16:19 UTC
 - 선정: 2026-09-21 05:13 UTC
 - TESIGN 게재: 2026-09-21 05:13 UTC
-- 소개 글 마지막 수정: 2026-09-21 05:13 UTC
+- 소개 글 마지막 수정: 2026-09-21 05:43 UTC
 
 ## 읽는 법
 
@@ -80,4 +80,4 @@
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 - 요약이며 법적 조언이 아닙니다.
 
-[대표 이미지] https://tesign.com/img/og/monica.png
+[대표 이미지] https://tesign.com/img/monica-1465d400dd.webp

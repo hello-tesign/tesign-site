@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/openschool/
 - JSON: https://tesign.com/en/item/openschool/index.json
 - Korean Markdown: https://tesign.com/item/openschool/index.md
-- Generated: 2026-09-21 05:13 UTC
+- Generated: 2026-09-21 05:58 UTC
 
 ## Numbers
 
@@ -67,7 +67,7 @@ Many schools still run on paper and a handful of disconnected tools, which makes
 - AT SOURCE: 2026-06-20 08:20 UTC
 - KEPT: 2026-09-21 05:13 UTC
 - Published on TESIGN: 2026-09-21 05:13 UTC
-- Text last updated: 2026-09-21 05:13 UTC
+- Text last updated: 2026-09-21 05:58 UTC
 
 ## How to read this
 

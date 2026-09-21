@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/sonora/
 - JSON: https://tesign.com/en/item/sonora/index.json
 - Korean Markdown: https://tesign.com/item/sonora/index.md
-- Generated: 2026-09-21 05:13 UTC
+- Generated: 2026-09-21 05:58 UTC
 
 ## Numbers
 

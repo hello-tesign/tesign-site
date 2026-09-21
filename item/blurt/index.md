@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/blurt/
 - JSON: https://tesign.com/item/blurt/index.json
 - 영어 마크다운: https://tesign.com/en/item/blurt/index.md
-- 생성 시각: 2026-09-21 05:13 UTC
+- 생성 시각: 2026-09-21 05:58 UTC
 
 ## 숫자
 
@@ -67,7 +67,7 @@
 - 출처 등록: 2026-06-30 21:43 UTC
 - 선정: 2026-09-21 05:13 UTC
 - TESIGN 게재: 2026-09-21 05:13 UTC
-- 소개 글 마지막 수정: 2026-09-21 05:13 UTC
+- 소개 글 마지막 수정: 2026-09-21 05:58 UTC
 
 ## 읽는 법
 

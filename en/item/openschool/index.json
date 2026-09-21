@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "en",
   "slug": "openschool",
   "url": "https://tesign.com/en/item/openschool/",
@@ -137,7 +137,7 @@
     "gallery": [
       "https://tesign.com/img/openschool-ebf9d696e6.png"
     ],
-    "alt": "The OpenSchool site: an introduction to the school management platform and a link into the feature guide.",
+    "alt": "The OpenSchool site: the line \"One platform for your entire school's records\", a Get Started button and a photo of students in uniform.",
     "tier": 1
   },
   "dates": {
@@ -147,7 +147,7 @@
     "launch_signal_at": "2026-09-15T15:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.419Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.679Z",
+    "updated_at": "2026-09-21T05:58:27.283Z",
     "ingestion_mode": "live"
   },
   "notes": [

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "ko",
   "slug": "openschool",
   "url": "https://tesign.com/item/openschool/",
@@ -137,7 +137,7 @@
     "gallery": [
       "https://tesign.com/img/openschool-ebf9d696e6.png"
     ],
-    "alt": "OpenSchool 소개 사이트 첫 화면. 학교 관리 플랫폼이라는 설명과 기능 안내로 가는 버튼이 있다.",
+    "alt": "OpenSchool 공식 사이트 첫 화면. \"한 학교의 모든 기록을 한 시스템에\"라는 문구와 시작 버튼, 교복을 입은 학생들 사진이 있다.",
     "tier": 1
   },
   "dates": {
@@ -147,7 +147,7 @@
     "launch_signal_at": "2026-09-15T15:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.419Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.679Z",
+    "updated_at": "2026-09-21T05:58:27.283Z",
     "ingestion_mode": "live"
   },
   "notes": [

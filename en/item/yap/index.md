@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/yap/
 - JSON: https://tesign.com/en/item/yap/index.json
 - Korean Markdown: https://tesign.com/item/yap/index.md
-- Generated: 2026-09-21 05:13 UTC
+- Generated: 2026-09-21 05:58 UTC
 
 ## Numbers
 

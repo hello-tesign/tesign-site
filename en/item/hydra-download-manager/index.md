@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/hydra-download-manager/
 - JSON: https://tesign.com/en/item/hydra-download-manager/index.json
 - Korean Markdown: https://tesign.com/item/hydra-download-manager/index.md
-- Generated: 2026-09-21 05:13 UTC
+- Generated: 2026-09-21 05:58 UTC
 
 ## Numbers
 

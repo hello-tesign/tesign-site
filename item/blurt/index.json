@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "ko",
   "slug": "blurt",
   "url": "https://tesign.com/item/blurt/",
@@ -138,7 +138,7 @@
       "https://tesign.com/img/blurt-45ecdb84e3.png",
       "https://tesign.com/img/blurt-23725467c5.png"
     ],
-    "alt": "Blurt 받아쓰기 화면. 말한 내용이 정리된 문장으로 바뀌어 앱 창에 들어가는 모습이다.",
+    "alt": "Blurt 앱 창. 오른쪽 커맨드 키로 시작·정지한다는 안내와 출력 방식 설정, 최근 받아쓴 내용이 들어갈 자리가 있다.",
     "tier": 2
   },
   "dates": {
@@ -148,7 +148,7 @@
     "launch_signal_at": "2026-09-15T16:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.457Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.662Z",
+    "updated_at": "2026-09-21T05:58:27.283Z",
     "ingestion_mode": "live"
   },
   "notes": [

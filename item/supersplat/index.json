@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "ko",
   "slug": "supersplat",
   "url": "https://tesign.com/item/supersplat/",
@@ -150,11 +150,12 @@
   },
   "signals": [],
   "images": {
-    "og": "https://tesign.com/img/og/supersplat.png",
-    "cover": null,
-    "cover_width": null,
-    "cover_height": null,
+    "og": "https://tesign.com/img/supersplat-c529ceff77.webp",
+    "cover": "https://tesign.com/img/supersplat-c529ceff77.webp",
+    "cover_width": 1600,
+    "cover_height": 962,
     "gallery": [
+      "https://tesign.com/img/supersplat-c529ceff77.webp",
       "https://tesign.com/img/supersplat-9cb2ef8265.png"
     ],
     "alt": "SuperSplat 편집 화면. 눈 덮인 산속 오두막을 3D로 띄워 두고 왼쪽에 장면 목록과 위치·회전·크기 값, 아래에 스플랫 분포 그래프가 있다.",
@@ -167,7 +168,7 @@
     "launch_signal_at": "2026-09-15T16:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.430Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.633Z",
+    "updated_at": "2026-09-21T05:43:25.002Z",
     "ingestion_mode": "live"
   },
   "notes": [

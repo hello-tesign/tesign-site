@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "site": "https://tesign.com",
   "count": 154,
   "convention": {
@@ -98,7 +98,7 @@
         "ai",
         "productivity"
       ],
-      "updated": "2026-09-21T05:13:34.662Z",
+      "updated": "2026-09-21T05:58:27.283Z",
       "kept_at": "2026-09-21T05:13:34.457Z",
       "html": {
         "ko": "https://tesign.com/item/blurt/",
@@ -128,7 +128,7 @@
         "productivity",
         "dev-tools"
       ],
-      "updated": "2026-09-21T05:13:34.650Z",
+      "updated": "2026-09-21T05:54:38.619Z",
       "kept_at": "2026-09-21T05:13:34.453Z",
       "html": {
         "ko": "https://tesign.com/item/miu/",
@@ -158,7 +158,7 @@
         "security",
         "productivity"
       ],
-      "updated": "2026-09-21T05:13:34.644Z",
+      "updated": "2026-09-21T05:43:25.002Z",
       "kept_at": "2026-09-21T05:13:34.449Z",
       "html": {
         "ko": "https://tesign.com/item/monica/",
@@ -188,7 +188,7 @@
         "design",
         "media"
       ],
-      "updated": "2026-09-21T05:13:34.633Z",
+      "updated": "2026-09-21T05:43:25.002Z",
       "kept_at": "2026-09-21T05:13:34.430Z",
       "html": {
         "ko": "https://tesign.com/item/supersplat/",
@@ -218,7 +218,7 @@
         "education",
         "productivity"
       ],
-      "updated": "2026-09-21T05:13:34.679Z",
+      "updated": "2026-09-21T05:58:27.283Z",
       "kept_at": "2026-09-21T05:13:34.419Z",
       "html": {
         "ko": "https://tesign.com/item/openschool/",
@@ -248,7 +248,7 @@
         "dev-tools",
         "productivity"
       ],
-      "updated": "2026-09-21T05:13:34.639Z",
+      "updated": "2026-09-21T05:43:25.002Z",
       "kept_at": "2026-09-21T05:13:34.391Z",
       "html": {
         "ko": "https://tesign.com/item/acode/",

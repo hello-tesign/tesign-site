@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/easel/
 - JSON: https://tesign.com/en/item/easel/index.json
 - Korean Markdown: https://tesign.com/item/easel/index.md
-- Generated: 2026-09-21 05:13 UTC
+- Generated: 2026-09-21 05:58 UTC
 
 ## Numbers
 

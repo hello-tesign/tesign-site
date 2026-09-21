@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/bg0/
 - JSON: https://tesign.com/en/item/bg0/index.json
 - Korean Markdown: https://tesign.com/item/bg0/index.md
-- Generated: 2026-09-21 05:13 UTC
+- Generated: 2026-09-21 05:58 UTC
 
 ## Numbers
 

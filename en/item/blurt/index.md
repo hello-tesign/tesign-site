@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/blurt/
 - JSON: https://tesign.com/en/item/blurt/index.json
 - Korean Markdown: https://tesign.com/item/blurt/index.md
-- Generated: 2026-09-21 05:13 UTC
+- Generated: 2026-09-21 05:58 UTC
 
 ## Numbers
 
@@ -67,7 +67,7 @@ Built-in Mac dictation behaves differently in every app and the result shows it.
 - AT SOURCE: 2026-06-30 21:43 UTC
 - KEPT: 2026-09-21 05:13 UTC
 - Published on TESIGN: 2026-09-21 05:13 UTC
-- Text last updated: 2026-09-21 05:13 UTC
+- Text last updated: 2026-09-21 05:58 UTC
 
 ## How to read this
 

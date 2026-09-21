@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "en",
   "slug": "supersplat",
   "url": "https://tesign.com/en/item/supersplat/",
@@ -150,11 +150,12 @@
   },
   "signals": [],
   "images": {
-    "og": "https://tesign.com/img/og/supersplat.en.png",
-    "cover": null,
-    "cover_width": null,
-    "cover_height": null,
+    "og": "https://tesign.com/img/supersplat-c529ceff77.webp",
+    "cover": "https://tesign.com/img/supersplat-c529ceff77.webp",
+    "cover_width": 1600,
+    "cover_height": 962,
     "gallery": [
+      "https://tesign.com/img/supersplat-c529ceff77.webp",
       "https://tesign.com/img/supersplat-9cb2ef8265.png"
     ],
     "alt": "The SuperSplat editor: a snow-covered cabin rendered in 3D, a scene list with position, rotation and scale on the left, and a splat data histogram below.",
@@ -167,7 +168,7 @@
     "launch_signal_at": "2026-09-15T16:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.430Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.633Z",
+    "updated_at": "2026-09-21T05:43:25.002Z",
     "ingestion_mode": "live"
   },
   "notes": [

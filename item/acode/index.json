@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "ko",
   "slug": "acode",
   "url": "https://tesign.com/item/acode/",
@@ -130,11 +130,13 @@
   },
   "signals": [],
   "images": {
-    "og": "https://tesign.com/img/og/acode.png",
-    "cover": null,
-    "cover_width": null,
-    "cover_height": null,
-    "gallery": [],
+    "og": "https://tesign.com/img/acode-531456d91b.webp",
+    "cover": "https://tesign.com/img/acode-531456d91b.webp",
+    "cover_width": 1600,
+    "cover_height": 840,
+    "gallery": [
+      "https://tesign.com/img/acode-531456d91b.webp"
+    ],
     "alt": "Acode 공식 사이트 첫 화면. \"Code on Android\" 문구와 구글 플레이·F-Droid·깃허브 내려받기 버튼, 아래에 편집기가 열린 휴대폰 화면이 있다.",
     "tier": 1
   },
@@ -145,7 +147,7 @@
     "launch_signal_at": "2026-09-15T02:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.391Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.639Z",
+    "updated_at": "2026-09-21T05:43:25.002Z",
     "ingestion_mode": "live"
   },
   "notes": [

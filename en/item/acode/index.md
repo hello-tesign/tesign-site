@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/acode/
 - JSON: https://tesign.com/en/item/acode/index.json
 - Korean Markdown: https://tesign.com/item/acode/index.md
-- Generated: 2026-09-21 05:13 UTC
+- Generated: 2026-09-21 05:58 UTC
 
 ## Numbers
 
@@ -67,7 +67,7 @@ When something needs fixing and you are not at a computer, the options are thin.
 - AT SOURCE: 2019-10-23 20:47 UTC
 - KEPT: 2026-09-21 05:13 UTC
 - Published on TESIGN: 2026-09-21 05:13 UTC
-- Text last updated: 2026-09-21 05:13 UTC
+- Text last updated: 2026-09-21 05:43 UTC
 
 ## How to read this
 
@@ -76,4 +76,4 @@ When something needs fixing and you are not at a computer, the options are thin.
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 - A summary, not legal advice.
 
-[Image] https://tesign.com/img/og/acode.en.png
+[Image] https://tesign.com/img/acode-531456d91b.webp

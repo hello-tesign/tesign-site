@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "ko",
   "slug": "monica",
   "url": "https://tesign.com/item/monica/",
@@ -145,11 +145,12 @@
   },
   "signals": [],
   "images": {
-    "og": "https://tesign.com/img/og/monica.png",
-    "cover": null,
-    "cover_width": null,
-    "cover_height": null,
+    "og": "https://tesign.com/img/monica-1465d400dd.webp",
+    "cover": "https://tesign.com/img/monica-1465d400dd.webp",
+    "cover_width": 1536,
+    "cover_height": 1024,
     "gallery": [
+      "https://tesign.com/img/monica-1465d400dd.webp",
       "https://tesign.com/img/monica-a606636c13.jpg",
       "https://tesign.com/img/monica-dbd87b35fb.png"
     ],
@@ -163,7 +164,7 @@
     "launch_signal_at": "2026-09-15T06:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.449Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.644Z",
+    "updated_at": "2026-09-21T05:43:25.002Z",
     "ingestion_mode": "live"
   },
   "notes": [

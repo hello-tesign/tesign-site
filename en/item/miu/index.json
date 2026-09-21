@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "en",
   "slug": "miu",
   "url": "https://tesign.com/en/item/miu/",
@@ -130,15 +130,16 @@
   },
   "signals": [],
   "images": {
-    "og": "https://tesign.com/img/miu-c8101b0967.png",
-    "cover": "https://tesign.com/img/miu-c8101b0967.png",
-    "cover_width": 2400,
-    "cover_height": 1260,
+    "og": "https://tesign.com/img/miu-1ff4145a9a.png",
+    "cover": "https://tesign.com/img/miu-1ff4145a9a.png",
+    "cover_width": 632,
+    "cover_height": 476,
     "gallery": [
-      "https://tesign.com/img/miu-c8101b0967.png"
+      "https://tesign.com/img/miu-1ff4145a9a.png",
+      "https://tesign.com/img/miu-40df2f95b3.png"
     ],
-    "alt": "The miu project page: a Japanese feature list for the editor and download instructions.",
-    "tier": 1
+    "alt": "The miu editor: a text file open on a dark background with line numbers and the search bar visible.",
+    "tier": 2
   },
   "dates": {
     "first_seen_at": "2026-09-15T16:01:18.479Z",
@@ -147,7 +148,7 @@
     "launch_signal_at": "2026-09-15T11:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.453Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.650Z",
+    "updated_at": "2026-09-21T05:54:38.619Z",
     "ingestion_mode": "live"
   },
   "notes": [

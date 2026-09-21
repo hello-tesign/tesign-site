@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "ko",
   "slug": "miu",
   "url": "https://tesign.com/item/miu/",
@@ -130,15 +130,16 @@
   },
   "signals": [],
   "images": {
-    "og": "https://tesign.com/img/miu-c8101b0967.png",
-    "cover": "https://tesign.com/img/miu-c8101b0967.png",
-    "cover_width": 2400,
-    "cover_height": 1260,
+    "og": "https://tesign.com/img/miu-1ff4145a9a.png",
+    "cover": "https://tesign.com/img/miu-1ff4145a9a.png",
+    "cover_width": 632,
+    "cover_height": 476,
     "gallery": [
-      "https://tesign.com/img/miu-c8101b0967.png"
+      "https://tesign.com/img/miu-1ff4145a9a.png",
+      "https://tesign.com/img/miu-40df2f95b3.png"
     ],
-    "alt": "miu 소개 페이지. 편집기의 특징을 항목별로 정리한 일본어 설명과 내려받기 안내가 있다.",
-    "tier": 1
+    "alt": "miu 편집기 화면. 어두운 배경에 텍스트 파일이 열려 있고 줄 번호와 검색 창이 보인다.",
+    "tier": 2
   },
   "dates": {
     "first_seen_at": "2026-09-15T16:01:18.479Z",
@@ -147,7 +148,7 @@
     "launch_signal_at": "2026-09-15T11:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.453Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.650Z",
+    "updated_at": "2026-09-21T05:54:38.619Z",
     "ingestion_mode": "live"
   },
   "notes": [

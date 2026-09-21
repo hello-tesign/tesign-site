@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/terminal-browser/
 - JSON: https://tesign.com/item/terminal-browser/index.json
 - 영어 마크다운: https://tesign.com/en/item/terminal-browser/index.md
-- 생성 시각: 2026-09-21 05:13 UTC
+- 생성 시각: 2026-09-21 05:58 UTC
 
 ## 숫자
 

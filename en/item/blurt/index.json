@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:13:49.792Z",
+  "generated_at": "2026-09-21T05:58:27.350Z",
   "lang": "en",
   "slug": "blurt",
   "url": "https://tesign.com/en/item/blurt/",
@@ -138,7 +138,7 @@
       "https://tesign.com/img/blurt-45ecdb84e3.png",
       "https://tesign.com/img/blurt-23725467c5.png"
     ],
-    "alt": "Blurt in use: spoken words arriving as clean sentences in the app that has focus.",
+    "alt": "The Blurt window: the instruction to tap Right Command to start and stop, an output style setting, and a space for recent dictations.",
     "tier": 2
   },
   "dates": {
@@ -148,7 +148,7 @@
     "launch_signal_at": "2026-09-15T16:00:00.000Z",
     "kept_at": "2026-09-21T05:13:34.457Z",
     "first_published_at": "2026-09-21T05:13:34.733Z",
-    "updated_at": "2026-09-21T05:13:34.662Z",
+    "updated_at": "2026-09-21T05:58:27.283Z",
     "ingestion_mode": "live"
   },
   "notes": [

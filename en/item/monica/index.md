@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/monica/
 - JSON: https://tesign.com/en/item/monica/index.json
 - Korean Markdown: https://tesign.com/item/monica/index.md
-- Generated: 2026-09-21 05:13 UTC
+- Generated: 2026-09-21 05:58 UTC
 
 ## RANKS
 
@@ -71,7 +71,7 @@ Most password managers keep the vault on the company’s servers. Monica puts lo
 - AT SOURCE: 2025-10-05 16:19 UTC
 - KEPT: 2026-09-21 05:13 UTC
 - Published on TESIGN: 2026-09-21 05:13 UTC
-- Text last updated: 2026-09-21 05:13 UTC
+- Text last updated: 2026-09-21 05:43 UTC
 
 ## How to read this
 
@@ -80,4 +80,4 @@ Most password managers keep the vault on the company’s servers. Monica puts lo
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 - A summary, not legal advice.
 
-[Image] https://tesign.com/img/og/monica.en.png
+[Image] https://tesign.com/img/monica-1465d400dd.webp
