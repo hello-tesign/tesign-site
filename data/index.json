@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "site": "https://tesign.com",
-  "count": 154,
+  "count": 164,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,305 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-21T00:00:00.000Z",
+  "numbers_as_of": "2026-09-21T20:00:00.000Z",
   "items": [
+    {
+      "slug": "2049",
+      "name": {
+        "ko": "2049 — Mines of Merge",
+        "en": "2049 — Mines of Merge"
+      },
+      "use_label": {
+        "ko": "2048과 지뢰찾기",
+        "en": "2048 fused with Minesweeper in a dungeon"
+      },
+      "category": "games",
+      "categories": [
+        "games"
+      ],
+      "updated": "2026-09-22T05:53:16.446Z",
+      "kept_at": "2026-09-22T05:53:16.339Z",
+      "html": {
+        "ko": "https://tesign.com/item/2049/",
+        "en": "https://tesign.com/en/item/2049/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/2049/index.json",
+        "en": "https://tesign.com/en/item/2049/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/2049/index.md",
+        "en": "https://tesign.com/en/item/2049/index.md"
+      }
+    },
+    {
+      "slug": "pokertools-arena",
+      "name": {
+        "ko": "pokertools-arena",
+        "en": "pokertools-arena"
+      },
+      "use_label": {
+        "ko": "AI 포커 시험대",
+        "en": "Watch AI models play poker at one table"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "games"
+      ],
+      "updated": "2026-09-22T05:53:16.439Z",
+      "kept_at": "2026-09-22T05:53:16.309Z",
+      "html": {
+        "ko": "https://tesign.com/item/pokertools-arena/",
+        "en": "https://tesign.com/en/item/pokertools-arena/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/pokertools-arena/index.json",
+        "en": "https://tesign.com/en/item/pokertools-arena/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/pokertools-arena/index.md",
+        "en": "https://tesign.com/en/item/pokertools-arena/index.md"
+      }
+    },
+    {
+      "slug": "comic-chat-ai",
+      "name": {
+        "ko": "Comic Chat for AI",
+        "en": "Comic Chat for AI"
+      },
+      "use_label": {
+        "ko": "챗 대화를 만화로",
+        "en": "Turn a ChatGPT chat into a comic strip"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "media"
+      ],
+      "updated": "2026-09-22T05:53:16.444Z",
+      "kept_at": "2026-09-22T05:53:16.278Z",
+      "html": {
+        "ko": "https://tesign.com/item/comic-chat-ai/",
+        "en": "https://tesign.com/en/item/comic-chat-ai/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/comic-chat-ai/index.json",
+        "en": "https://tesign.com/en/item/comic-chat-ai/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/comic-chat-ai/index.md",
+        "en": "https://tesign.com/en/item/comic-chat-ai/index.md"
+      }
+    },
+    {
+      "slug": "roastbook",
+      "name": {
+        "ko": "Roastbook",
+        "en": "Roastbook"
+      },
+      "use_label": {
+        "ko": "내가 호스팅하는 커피 기록",
+        "en": "Log espresso shots on your own server"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-22T05:53:16.441Z",
+      "kept_at": "2026-09-22T05:53:16.232Z",
+      "html": {
+        "ko": "https://tesign.com/item/roastbook/",
+        "en": "https://tesign.com/en/item/roastbook/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/roastbook/index.json",
+        "en": "https://tesign.com/en/item/roastbook/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/roastbook/index.md",
+        "en": "https://tesign.com/en/item/roastbook/index.md"
+      }
+    },
+    {
+      "slug": "package-doctor",
+      "name": {
+        "ko": "package-doctor",
+        "en": "package-doctor"
+      },
+      "use_label": {
+        "ko": "취약 패키지 점검",
+        "en": "Find the Python dependency to fix first"
+      },
+      "category": "security",
+      "categories": [
+        "security",
+        "dev-tools"
+      ],
+      "updated": "2026-09-22T05:53:16.435Z",
+      "kept_at": "2026-09-22T05:53:16.173Z",
+      "html": {
+        "ko": "https://tesign.com/item/package-doctor/",
+        "en": "https://tesign.com/en/item/package-doctor/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/package-doctor/index.json",
+        "en": "https://tesign.com/en/item/package-doctor/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/package-doctor/index.md",
+        "en": "https://tesign.com/en/item/package-doctor/index.md"
+      }
+    },
+    {
+      "slug": "hibi",
+      "name": {
+        "ko": "hibi",
+        "en": "hibi"
+      },
+      "use_label": {
+        "ko": "마크다운 노트 앱",
+        "en": "A markdown notes app with a graph view"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-22T05:53:16.417Z",
+      "kept_at": "2026-09-22T05:53:16.149Z",
+      "html": {
+        "ko": "https://tesign.com/item/hibi/",
+        "en": "https://tesign.com/en/item/hibi/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/hibi/index.json",
+        "en": "https://tesign.com/en/item/hibi/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/hibi/index.md",
+        "en": "https://tesign.com/en/item/hibi/index.md"
+      }
+    },
+    {
+      "slug": "agentmeasure",
+      "name": {
+        "ko": "AgentMeasure",
+        "en": "AgentMeasure"
+      },
+      "use_label": {
+        "ko": "에이전트 기록 점검",
+        "en": "Audit your Codex and Claude Code logs"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-22T05:53:16.423Z",
+      "kept_at": "2026-09-22T05:53:16.093Z",
+      "html": {
+        "ko": "https://tesign.com/item/agentmeasure/",
+        "en": "https://tesign.com/en/item/agentmeasure/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/agentmeasure/index.json",
+        "en": "https://tesign.com/en/item/agentmeasure/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/agentmeasure/index.md",
+        "en": "https://tesign.com/en/item/agentmeasure/index.md"
+      }
+    },
+    {
+      "slug": "try-omarchy-windows",
+      "name": {
+        "ko": "Try Omarchy for Windows",
+        "en": "Try Omarchy for Windows"
+      },
+      "use_label": {
+        "ko": "윈도우에서 리눅스 체험",
+        "en": "Try the Omarchy Linux desktop on Windows"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "infra"
+      ],
+      "updated": "2026-09-22T05:53:16.413Z",
+      "kept_at": "2026-09-22T05:53:16.086Z",
+      "html": {
+        "ko": "https://tesign.com/item/try-omarchy-windows/",
+        "en": "https://tesign.com/en/item/try-omarchy-windows/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/try-omarchy-windows/index.json",
+        "en": "https://tesign.com/en/item/try-omarchy-windows/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/try-omarchy-windows/index.md",
+        "en": "https://tesign.com/en/item/try-omarchy-windows/index.md"
+      }
+    },
+    {
+      "slug": "tfm-tui",
+      "name": {
+        "ko": "tfm",
+        "en": "tfm"
+      },
+      "use_label": {
+        "ko": "터미널 파일 관리",
+        "en": "Drag and drop files inside your terminal"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "productivity"
+      ],
+      "updated": "2026-09-22T05:53:16.419Z",
+      "kept_at": "2026-09-22T05:53:16.054Z",
+      "html": {
+        "ko": "https://tesign.com/item/tfm-tui/",
+        "en": "https://tesign.com/en/item/tfm-tui/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/tfm-tui/index.json",
+        "en": "https://tesign.com/en/item/tfm-tui/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/tfm-tui/index.md",
+        "en": "https://tesign.com/en/item/tfm-tui/index.md"
+      }
+    },
+    {
+      "slug": "zcode",
+      "name": {
+        "ko": "ZCode",
+        "en": "ZCode"
+      },
+      "use_label": {
+        "ko": "여러 에이전트 코딩 작업대",
+        "en": "Run multiple coding agents from one app"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "dev-tools"
+      ],
+      "updated": "2026-09-22T05:53:16.387Z",
+      "kept_at": "2026-09-22T05:53:16.013Z",
+      "html": {
+        "ko": "https://tesign.com/item/zcode/",
+        "en": "https://tesign.com/en/item/zcode/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/zcode/index.json",
+        "en": "https://tesign.com/en/item/zcode/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/zcode/index.md",
+        "en": "https://tesign.com/en/item/zcode/index.md"
+      }
+    },
     {
       "slug": "ruffle",
       "name": {

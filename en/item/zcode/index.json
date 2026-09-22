@@ -1,0 +1,169 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-22T05:53:28.496Z",
+  "lang": "en",
+  "slug": "zcode",
+  "url": "https://tesign.com/en/item/zcode/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/zcode/",
+      "json": "https://tesign.com/item/zcode/index.json",
+      "markdown": "https://tesign.com/item/zcode/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/zcode/",
+      "json": "https://tesign.com/en/item/zcode/index.json",
+      "markdown": "https://tesign.com/en/item/zcode/index.md"
+    }
+  },
+  "name": "ZCode",
+  "use_label": "Run multiple coding agents from one app",
+  "one_liner": "A coding workspace that runs several AI agents at once and drives a goal to completion.",
+  "text": {
+    "why": "Sitting at one keyboard, trading messages with a single model breaks down on a complex goal. ZCode ties the desktop app, the browser and the terminal into one workspace, and lets several agents split planning, execution and verification. Progress can be checked and steered from WeChat, Feishu or Telegram too.",
+    "take": "Plenty of tools claim multi-agent; tying desktop, web and terminal into one codebase and letting you watch from a messaging app is the part you actually feel.",
+    "build": [
+      "The Electron desktop app, the browser workspace and the zcode terminal CLI all come from one repository. Point it at a Git repo, state a goal, and an agent plans and executes it while progress and completed steps stay visible on screen. It ships as the official harness for Zhipu AI’s GLM-5.3 model, and connects MCP tools and skills."
+    ],
+    "who": [
+      {
+        "role": "Developers juggling several jobs at once, and teams that need to check progress on the move.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Download the desktop app from zcode.z.ai and sign in with a Z.AI account."
+      }
+    ],
+    "caveat": [
+      "The source is Apache-2.0, but using it means logging into a Z.AI account and, for model access, the GLM Coding Plan subscription. Much of the interface and docs are Chinese-first."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://zcode.z.ai/"
+  },
+  "ready": "browser",
+  "categories": [
+    "ai",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai 코딩",
+    "멀티 에이전트",
+    "데스크톱",
+    "오픈소스"
+  ],
+  "platform": [
+    "windows",
+    "macos",
+    "linux",
+    "web",
+    "cli"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://zcode.z.ai/",
+    "github": "https://github.com/zai-org/zcode",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/zai-org/zcode",
+        "posted_at": "2026-09-21T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 5052,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-21T13:07:06.321Z",
+    "stars_observed_since_check": 18,
+    "star_delta_24h": 44,
+    "star_delta_7d": 44,
+    "star_delta_30d": 44,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      44
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-21T00:02:36.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-21T13:07:06.321Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "18h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/zcode-d0d37b5b4b.png",
+    "cover": "https://tesign.com/img/zcode-d0d37b5b4b.png",
+    "cover_width": 1200,
+    "cover_height": 675,
+    "gallery": [
+      "https://tesign.com/img/zcode-d0d37b5b4b.png"
+    ],
+    "alt": "The ZCode brand card: a white ZCODE wordmark and square logo on black.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-21T06:05:35.200Z",
+    "source_created_at": "2026-09-20T12:01:16.000Z",
+    "discovery_hours": 18.072,
+    "launch_signal_at": "2026-09-21T00:00:00.000Z",
+    "kept_at": "2026-09-22T05:53:16.013Z",
+    "first_published_at": "2026-09-22T05:53:16.495Z",
+    "updated_at": "2026-09-22T05:53:16.387Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

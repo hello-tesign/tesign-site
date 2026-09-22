@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "recordly",
   "url": "https://tesign.com/item/recordly/",
@@ -110,30 +110,30 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 29825,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 30346,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:09.593Z",
+    "stars_checked_at": "2026-09-22T00:37:37.279Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 81,
-    "star_delta_30d": 652,
+    "star_delta_24h": 2,
+    "star_delta_7d": 75,
+    "star_delta_30d": 508,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       8,
       4,
       20,
       67,
-      114,
-      128,
-      4,
-      44,
+      104,
+      null,
+      null,
+      40,
       22,
       9,
       2,
       null,
       null,
-      null
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -143,18 +143,18 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "all_time": 250,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "all_time": 246,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 22
+      "30d": 33
     },
     "categories": [
       {
         "category": "productivity",
         "label": "생산성",
-        "rank": 16
+        "rank": 15
       },
       {
         "category": "media",
@@ -164,9 +164,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-19T04:32:49.000Z",
+    "pushed_at": "2026-09-21T11:29:32.000Z",
     "owner_type": "Organization",
-    "open_issues": 380,
+    "open_issues": 387,
     "contributors": 77,
     "releases_count": 48,
     "latest_release": {
@@ -174,8 +174,8 @@
       "published_at": "2026-09-08T04:34:51.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:09.593Z",
-    "core_checked_at": "2026-09-19T22:58:09.593Z"
+    "checked_at": "2026-09-22T00:37:37.279Z",
+    "core_checked_at": "2026-09-22T00:37:37.279Z"
   },
   "signals": [],
   "images": {

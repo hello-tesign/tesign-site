@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "spec-kit",
   "url": "https://tesign.com/en/item/spec-kit/",
@@ -146,30 +146,30 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 137961,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 138231,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:05.631Z",
+    "stars_checked_at": "2026-09-22T00:37:33.439Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 101,
-    "star_delta_30d": 751,
+    "star_delta_24h": 6,
+    "star_delta_7d": 91,
+    "star_delta_30d": 689,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       4,
       7,
       127,
       241,
-      69,
-      47,
-      13,
-      31,
+      64,
+      null,
+      null,
+      28,
       36,
       13,
       8,
       null,
       null,
-      null
+      6
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -179,12 +179,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "all_time": 16,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 17
+      "30d": 18
     },
     "categories": [
       {
@@ -200,18 +200,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-18T21:02:09.000Z",
+    "pushed_at": "2026-09-21T22:29:27.000Z",
     "owner_type": "Organization",
-    "open_issues": 307,
-    "contributors": 299,
-    "releases_count": 222,
+    "open_issues": 299,
+    "contributors": 301,
+    "releases_count": 223,
     "latest_release": {
-      "tag": "v1.0.8",
-      "published_at": "2026-09-17T17:44:48.000Z",
+      "tag": "v1.0.9",
+      "published_at": "2026-09-21T15:44:26.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:05.631Z",
-    "core_checked_at": "2026-09-19T22:58:05.631Z"
+    "checked_at": "2026-09-22T00:37:33.439Z",
+    "core_checked_at": "2026-09-22T00:37:33.439Z"
   },
   "signals": [],
   "images": {

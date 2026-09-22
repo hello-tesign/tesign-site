@@ -5,12 +5,13 @@
 - Page: https://tesign.com/en/item/liarjs/
 - JSON: https://tesign.com/en/item/liarjs/index.json
 - Korean Markdown: https://tesign.com/item/liarjs/index.md
-- Generated: 2026-09-21 05:58 UTC
+- Generated: 2026-09-22 05:53 UTC
 
 ## Numbers
 
-- 343 stars — checked on GitHub 2026-09-19 22:57 UTC
-- 7-day +19 observed via GH Archive (as of 2026-09-21 00:00 UTC)
+- 383 stars — checked on GitHub 2026-09-22 00:37 UTC
+- 7-day +21 observed via GH Archive (as of 2026-09-21 20:00 UTC)
+- 24h +2 ★ · 30d +23 ★ (as of 2026-09-21 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,9 +32,9 @@
 - Last commit: 2026-08-20 07:14 UTC
 - Latest release: no releases
 - Contributors: 1
-- Open issues (incl. PRs): 58
+- Open issues (incl. PRs): 70
 - Made by: an individual
-- Checked on GitHub: 2026-09-19 22:57 UTC
+- Checked on GitHub: 2026-09-22 00:37 UTC
 
 ## TESIGN TAKE
 

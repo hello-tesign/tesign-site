@@ -1,0 +1,168 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-22T05:53:28.496Z",
+  "lang": "ko",
+  "slug": "try-omarchy-windows",
+  "url": "https://tesign.com/item/try-omarchy-windows/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/try-omarchy-windows/",
+      "json": "https://tesign.com/item/try-omarchy-windows/index.json",
+      "markdown": "https://tesign.com/item/try-omarchy-windows/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/try-omarchy-windows/",
+      "json": "https://tesign.com/en/item/try-omarchy-windows/index.json",
+      "markdown": "https://tesign.com/en/item/try-omarchy-windows/index.md"
+    }
+  },
+  "name": "Try Omarchy for Windows",
+  "use_label": "윈도우에서 리눅스 체험",
+  "one_liner": "가상머신 설치 없이 윈도우 창 하나에 진짜 Omarchy 리눅스 데스크톱을 그대로 띄우는 앱.",
+  "text": {
+    "why": "Omarchy(Hyprland 기반 아치 리눅스)를 잠깐 써 보려면 보통 VMware나 VirtualBox를 깔고 듀얼 부팅까지 고민해야 한다. Try Omarchy는 윈도우 자체 가상화(WHPX)와 QEMU로 아치 이미지를 그대로 띄우고, 그래픽카드로 렌더링까지 해서 실제 쓰는 느낌에 가깝게 만든다.",
+    "take": "VM 소프트웨어를 따로 설치하지 않고 윈도우가 이미 갖고 있는 가상화 기능만으로 띄운다는 점이 다르다. 실행 파일 하나로 끝난다.",
+    "build": [
+      "실행 파일 하나(TryOmarchy.exe, 약 10MB)가 윈도우 하이퍼바이저 플랫폼을 켜고 아치 이미지를 내려받아 부팅과 감시를 맡는다. 그래픽은 virtio-gpu virgl과 Venus Vulkan으로 GPU에서 그리고, 지원되지 않으면 CPU 렌더링으로 자동 전환한다. 윈도우-Omarchy 양방향 클립보드 공유와 폴더 공유(virtio-9p)도 들어 있다."
+    ],
+    "who": [
+      {
+        "role": "Hyprland·Omarchy를 궁금해하는 윈도우 사용자, 리눅스로 옮기기 전에 미리 써 보고 싶은 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "tryomarchy.com에서 TryOmarchy.exe를 받아 실행하고, 안내에 따라 가상화 권한을 허용한다."
+      }
+    ],
+    "caveat": [
+      "아직 v0.0.20 미리보기 단계로, 실제 검증은 대부분 AMD 윈도우 11 노트북 한 대에서 이뤄졌다고 저장소가 밝힌다. 네트워크 공유 폴더는 지원하지 않는다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://tryomarchy.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools",
+    "infra"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "윈도우",
+    "리눅스",
+    "가상화",
+    "hyprland"
+  ],
+  "platform": [
+    "windows"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Go",
+  "source_urls": {
+    "canonical": "https://tryomarchy.com/",
+    "github": "https://github.com/omacom/try-omarchy-windows",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/omacom/try-omarchy-windows",
+        "posted_at": "2026-09-20T22:56:44.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49780980"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 440,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-21T03:05:06.975Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": 5,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 5,
+    "hn_points_observed_at": "2026-09-22T00:33:54.225Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-20T22:20:28.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-21T03:05:06.975Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 3h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/try-omarchy-windows-b6d7cb8793.jpg",
+    "cover": "https://tesign.com/img/try-omarchy-windows-b6d7cb8793.jpg",
+    "cover_width": 1280,
+    "cover_height": 719,
+    "gallery": [
+      "https://tesign.com/img/try-omarchy-windows-b6d7cb8793.jpg",
+      "https://tesign.com/img/try-omarchy-windows-402dbcc99a.jpg",
+      "https://tesign.com/img/try-omarchy-windows-6eaf19c572.jpg",
+      "https://tesign.com/img/try-omarchy-windows-cec1cb5625.png"
+    ],
+    "alt": "Try Omarchy 창 안에 뜬 Omarchy 데스크톱. 보라빛 노을 배경화면과 업데이트·키보드 단축키 배우기 알림 두 개가 오른쪽 위에 있다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-21T02:05:21.818Z",
+    "source_created_at": "2026-09-20T22:56:44.000Z",
+    "discovery_hours": 3.1438383333333335,
+    "launch_signal_at": "2026-09-20T22:56:44.000Z",
+    "kept_at": "2026-09-22T05:53:16.086Z",
+    "first_published_at": "2026-09-22T05:53:16.495Z",
+    "updated_at": "2026-09-22T05:53:16.413Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/miu/
 - JSON: https://tesign.com/en/item/miu/index.json
 - Korean Markdown: https://tesign.com/item/miu/index.md
-- Generated: 2026-09-21 05:58 UTC
+- Generated: 2026-09-22 05:53 UTC
 
 ## Numbers
 
-- 151 stars — checked on GitHub 2026-09-15 16:01 UTC
-- 7-day +6 observed via GH Archive (as of 2026-09-21 00:00 UTC)
+- 114 stars — checked on GitHub 2026-09-22 00:36 UTC
+- 7-day +6 observed via GH Archive (as of 2026-09-21 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-04-21 00:03 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-15 16:01 UTC
+- Last commit: 2026-09-19 15:14 UTC
+- Latest release: v1.0.24 (2026-09-19)
+- Contributors: 2
+- Open issues (incl. PRs): 10
+- Made by: an individual
+- Checked on GitHub: 2026-09-22 00:36 UTC
 
 ## TESIGN TAKE
 

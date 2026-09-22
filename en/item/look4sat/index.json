@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "look4sat",
   "url": "https://tesign.com/en/item/look4sat/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 1491,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 1492,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:57:49.930Z",
+    "stars_checked_at": "2026-09-22T00:37:17.219Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 6,
@@ -117,7 +117,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -135,7 +135,7 @@
   "activity": {
     "pushed_at": "2026-09-19T10:35:43.000Z",
     "owner_type": "User",
-    "open_issues": 37,
+    "open_issues": 36,
     "contributors": 32,
     "releases_count": 24,
     "latest_release": {
@@ -143,8 +143,8 @@
       "published_at": "2026-09-13T19:34:14.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:57:49.930Z",
-    "core_checked_at": "2026-09-19T22:57:49.930Z"
+    "checked_at": "2026-09-22T00:37:17.219Z",
+    "core_checked_at": "2026-09-22T00:37:17.219Z"
   },
   "signals": [],
   "images": {

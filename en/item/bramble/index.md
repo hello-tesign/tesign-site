@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/bramble/
 - JSON: https://tesign.com/en/item/bramble/index.json
 - Korean Markdown: https://tesign.com/item/bramble/index.md
-- Generated: 2026-09-21 05:58 UTC
+- Generated: 2026-09-22 05:53 UTC
 
 ## Numbers
 
-- 389 stars — checked on GitHub 2026-09-19 22:59 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-21 00:00 UTC)
+- 393 stars — checked on GitHub 2026-09-22 00:39 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-21 20:00 UTC)
 - 153 Show HN points — observed 2026-09-13 15:33 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-19 21:12 UTC
-- Latest release: 1.29.0-chromium (2026-09-16)
-- Contributors: 5
-- Open issues (incl. PRs): 20
+- Last commit: 2026-09-21 01:38 UTC
+- Latest release: 0.9.0-desktop (2026-09-20)
+- Contributors: 8
+- Open issues (incl. PRs): 21
 - Made by: an individual
-- Checked on GitHub: 2026-09-19 22:59 UTC
+- Checked on GitHub: 2026-09-22 00:39 UTC
 
 ## Signals and evidence
 

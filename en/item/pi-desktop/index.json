@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "pi-desktop",
   "url": "https://tesign.com/en/item/pi-desktop/",
@@ -105,30 +105,30 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 4481,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 4964,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:22.211Z",
+    "stars_checked_at": "2026-09-22T00:37:50.268Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 50,
-    "star_delta_30d": 381,
+    "star_delta_24h": 2,
+    "star_delta_7d": 45,
+    "star_delta_30d": 338,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       4,
       14,
       49,
       130,
-      83,
-      35,
-      4,
-      27,
+      80,
+      null,
+      null,
+      24,
       17,
       null,
       2,
       null,
       null,
-      null
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -138,28 +138,28 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 53
+      "30d": 55
     },
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-19T18:34:50.000Z",
+    "pushed_at": "2026-09-21T18:44:02.000Z",
     "owner_type": "User",
-    "open_issues": 99,
-    "contributors": 52,
-    "releases_count": 69,
+    "open_issues": 133,
+    "contributors": 60,
+    "releases_count": 73,
     "latest_release": {
-      "tag": "v0.15.1",
-      "published_at": "2026-09-19T18:53:01.000Z",
+      "tag": "v0.15.3",
+      "published_at": "2026-09-21T18:58:21.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:22.211Z",
-    "core_checked_at": "2026-09-19T22:58:22.211Z"
+    "checked_at": "2026-09-22T00:37:50.268Z",
+    "core_checked_at": "2026-09-22T00:37:50.268Z"
   },
   "signals": [],
   "images": {

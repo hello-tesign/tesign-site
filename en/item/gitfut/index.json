@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "gitfut",
   "url": "https://tesign.com/en/item/gitfut/",
@@ -105,10 +105,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 2602,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 2606,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:52.009Z",
+    "stars_checked_at": "2026-09-22T00:38:20.480Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -138,7 +138,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -160,8 +160,8 @@
     "contributors": 9,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-19T22:58:52.009Z",
-    "core_checked_at": "2026-09-19T22:58:52.009Z"
+    "checked_at": "2026-09-22T00:38:20.480Z",
+    "core_checked_at": "2026-09-22T00:38:20.480Z"
   },
   "signals": [
     {

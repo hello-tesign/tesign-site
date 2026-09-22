@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "viserys-agent",
   "url": "https://tesign.com/item/viserys-agent/",
@@ -75,12 +75,12 @@
   ],
   "platform": [],
   "license": {
-    "spdx": null,
-    "scope": "unknown",
-    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
-    "url": "https://github.com/rizqinrr/viserys-agent?tab=License-1-ov-file",
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 고지 유지, 바꾼 부분은 표시.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
     "note": null,
-    "open_source": null
+    "open_source": true
   },
   "language": "JavaScript",
   "source_urls": {
@@ -98,14 +98,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 665,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 698,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:24.966Z",
+    "stars_checked_at": "2026-09-22T00:37:53.009Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 139,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -113,7 +113,7 @@
       null,
       null,
       null,
-      139,
+      null,
       null,
       null,
       null,
@@ -132,14 +132,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-13T03:43:15.000Z",
+    "pushed_at": "2026-09-21T07:01:25.000Z",
     "owner_type": "User",
-    "open_issues": 0,
+    "open_issues": 1,
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-19T22:58:24.966Z",
-    "core_checked_at": "2026-09-19T22:58:24.966Z"
+    "checked_at": "2026-09-22T00:37:53.009Z",
+    "core_checked_at": "2026-09-22T00:37:53.009Z"
   },
   "signals": [
     {

@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-22T05:53:28.496Z",
+  "lang": "en",
+  "slug": "pokertools-arena",
+  "url": "https://tesign.com/en/item/pokertools-arena/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/pokertools-arena/",
+      "json": "https://tesign.com/item/pokertools-arena/index.json",
+      "markdown": "https://tesign.com/item/pokertools-arena/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/pokertools-arena/",
+      "json": "https://tesign.com/en/item/pokertools-arena/index.json",
+      "markdown": "https://tesign.com/en/item/pokertools-arena/index.md"
+    }
+  },
+  "name": "pokertools-arena",
+  "use_label": "Watch AI models play poker at one table",
+  "one_liner": "Seats several OpenAI-compatible models at the same poker table and lets you watch every decision as a spectator.",
+  "text": {
+    "why": "Most language-model benchmarks are a fixed question set, which makes it hard to tell memorised answers from real judgement. Poker has an opponent, hidden information and a different situation every hand, so bad reasoning shows up immediately. pokertools-arena turns that structure into a benchmark models play against each other.",
+    "take": "Using an adversarial game instead of a question set as the benchmark is the different idea here, and being able to watch every decision live is a real part of that.",
+    "build": [
+      "Poker legality, hole-card masking and legal actions all come from the PokerTools engine, and every move a model chooses is re-validated by that engine before it counts. It is fully client-side with no server or database — run it with npx pokertools-arena or build it into a single HTML file — and it exports decision logs and replay images."
+    ],
+    "who": [
+      {
+        "role": "Developers comparing real-world judgement across models, and people building AI benchmarks.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Run npx pokertools-arena to start a local server and seat a model."
+      }
+    ],
+    "caveat": [
+      "It needs Node.js 24 or later and an OpenAI-compatible API, and calling real models means paying that provider’s usual rate. It is still very early — one star."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://pokertools-arena.github.io/"
+  },
+  "ready": "browser",
+  "categories": [
+    "ai",
+    "games"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai 벤치마크",
+    "포커",
+    "브라우저",
+    "llm 평가"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://pokertools-arena.github.io/",
+    "github": "https://github.com/pokertools-arena/pokertools-arena.github.io",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/pokertools-arena/pokertools-arena.github.io",
+        "posted_at": "2026-09-21T15:00:39.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49788178"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 1,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-21T16:07:09.506Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-21T15:09:04.403Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-21T14:58:22.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-21T16:07:09.506Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "0h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/pokertools-arena-4e5941629f.png",
+    "cover": "https://tesign.com/img/pokertools-arena-4e5941629f.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/pokertools-arena-4e5941629f.png"
+    ],
+    "alt": "The pokertools-arena screen: current decision and history on the left, and a green poker table with ten empty seats on the right.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-21T15:07:06.160Z",
+    "source_created_at": "2026-09-21T15:00:39.000Z",
+    "discovery_hours": 0.10754444444444444,
+    "launch_signal_at": "2026-09-21T15:00:39.000Z",
+    "kept_at": "2026-09-22T05:53:16.309Z",
+    "first_published_at": "2026-09-22T05:53:16.495Z",
+    "updated_at": "2026-09-22T05:53:16.439Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

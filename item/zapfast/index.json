@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "zapfast",
   "url": "https://tesign.com/item/zapfast/",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 592,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 706,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:59:43.265Z",
+    "stars_checked_at": "2026-09-22T00:39:11.594Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 39,
@@ -149,18 +149,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-19T06:54:46.000Z",
+    "pushed_at": "2026-09-21T23:58:01.000Z",
     "owner_type": "User",
-    "open_issues": 42,
-    "contributors": 9,
+    "open_issues": 63,
+    "contributors": 12,
     "releases_count": 33,
     "latest_release": {
       "tag": "v0.14.0",
       "published_at": "2026-09-16T13:16:54.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:59:43.265Z",
-    "core_checked_at": "2026-09-19T22:59:43.265Z"
+    "checked_at": "2026-09-22T00:39:11.594Z",
+    "core_checked_at": "2026-09-22T00:39:11.594Z"
   },
   "signals": [],
   "images": {

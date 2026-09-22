@@ -5,12 +5,13 @@
 - Page: https://tesign.com/en/item/amagine3d/
 - JSON: https://tesign.com/en/item/amagine3d/index.json
 - Korean Markdown: https://tesign.com/item/amagine3d/index.md
-- Generated: 2026-09-21 05:58 UTC
+- Generated: 2026-09-22 05:53 UTC
 
 ## Numbers
 
-- 5,650 stars — checked on GitHub 2026-09-19 22:58 UTC
-- 7-day +37 observed via GH Archive (as of 2026-09-21 00:00 UTC)
+- 6,090 stars — checked on GitHub 2026-09-22 00:37 UTC
+- 7-day +40 observed via GH Archive (as of 2026-09-21 20:00 UTC)
+- 24h +5 ★ · 30d +348 ★ (as of 2026-09-21 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,7 +34,7 @@
 - Contributors: 4
 - Open issues (incl. PRs): 2
 - Made by: an organization
-- Checked on GitHub: 2026-09-19 22:58 UTC
+- Checked on GitHub: 2026-09-22 00:37 UTC
 
 ## TESIGN TAKE
 

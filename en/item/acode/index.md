@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/acode/
 - JSON: https://tesign.com/en/item/acode/index.json
 - Korean Markdown: https://tesign.com/item/acode/index.md
-- Generated: 2026-09-21 05:58 UTC
+- Generated: 2026-09-22 05:53 UTC
 
 ## Numbers
 
-- 7,011 stars — checked on GitHub 2026-09-15 10:14 UTC (+2 observed since the check)
-- 7-day +8 observed via GH Archive (as of 2026-09-21 00:00 UTC)
+- 7,076 stars — checked on GitHub 2026-09-22 00:36 UTC
+- 7-day +8 observed via GH Archive (as of 2026-09-21 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 08:34 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-15 10:14 UTC
+- Last commit: 2026-09-21 07:29 UTC
+- Latest release: 1.13.5-nightly.d7a1c91 (2026-09-21) · pre-release
+- Contributors: 129
+- Open issues (incl. PRs): 95
+- Made by: an organization
+- Checked on GitHub: 2026-09-22 00:36 UTC
 
 ## TESIGN TAKE
 

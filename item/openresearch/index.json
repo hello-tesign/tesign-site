@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "openresearch",
   "url": "https://tesign.com/item/openresearch/",
@@ -110,30 +110,30 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 5379,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 5525,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:06.577Z",
+    "stars_checked_at": "2026-09-22T00:37:34.414Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 361,
-    "star_delta_30d": 593,
+    "star_delta_24h": 2,
+    "star_delta_7d": 347,
+    "star_delta_30d": 512,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
       null,
       10,
       57,
-      106,
-      59,
-      11,
-      132,
+      98,
+      null,
+      null,
+      127,
       139,
       59,
       20,
       null,
       null,
-      null
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -143,12 +143,12 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
       "7d": 12,
-      "30d": 29
+      "30d": 32
     },
     "categories": [
       {
@@ -159,18 +159,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-19T05:26:17.000Z",
+    "pushed_at": "2026-09-21T23:29:42.000Z",
     "owner_type": "Organization",
-    "open_issues": 53,
-    "contributors": 13,
-    "releases_count": 126,
+    "open_issues": 57,
+    "contributors": 15,
+    "releases_count": 128,
     "latest_release": {
-      "tag": "v0.2.4",
-      "published_at": "2026-09-17T01:46:04.000Z",
+      "tag": "v0.2.7",
+      "published_at": "2026-09-21T08:30:58.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:06.577Z",
-    "core_checked_at": "2026-09-19T22:58:06.577Z"
+    "checked_at": "2026-09-22T00:37:34.414Z",
+    "core_checked_at": "2026-09-22T00:37:34.414Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "trycompai-crm",
   "url": "https://tesign.com/item/trycompai-crm/",
@@ -111,14 +111,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 10647,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 10709,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:57.641Z",
+    "stars_checked_at": "2026-09-22T00:38:26.038Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 6,
-    "star_delta_30d": 149,
+    "star_delta_30d": 143,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -126,7 +126,7 @@
       null,
       11,
       7,
-      6,
+      null,
       null,
       6,
       null,
@@ -144,7 +144,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -162,7 +162,7 @@
   "activity": {
     "pushed_at": "2026-09-11T07:06:17.000Z",
     "owner_type": "Organization",
-    "open_issues": 47,
+    "open_issues": 49,
     "contributors": 6,
     "releases_count": 22,
     "latest_release": {
@@ -170,8 +170,8 @@
       "published_at": "2026-08-21T14:24:51.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:57.641Z",
-    "core_checked_at": "2026-09-19T22:58:57.641Z"
+    "checked_at": "2026-09-22T00:38:26.038Z",
+    "core_checked_at": "2026-09-22T00:38:26.038Z"
   },
   "signals": [
     {

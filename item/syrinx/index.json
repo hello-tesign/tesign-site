@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "syrinx",
   "url": "https://tesign.com/item/syrinx/",
@@ -87,10 +87,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "stars": 70,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:57:43.303Z",
+    "stars_checked_at": "2026-09-22T00:37:09.988Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 6,
@@ -131,8 +131,8 @@
       "published_at": "2026-09-15T13:44:38.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:57:43.303Z",
-    "core_checked_at": "2026-09-19T22:57:43.303Z"
+    "checked_at": "2026-09-22T00:37:09.988Z",
+    "core_checked_at": "2026-09-22T00:37:09.988Z"
   },
   "signals": [],
   "images": {

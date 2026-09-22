@@ -1,0 +1,167 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-22T05:53:28.496Z",
+  "lang": "en",
+  "slug": "comic-chat-ai",
+  "url": "https://tesign.com/en/item/comic-chat-ai/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/comic-chat-ai/",
+      "json": "https://tesign.com/item/comic-chat-ai/index.json",
+      "markdown": "https://tesign.com/item/comic-chat-ai/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/comic-chat-ai/",
+      "json": "https://tesign.com/en/item/comic-chat-ai/index.json",
+      "markdown": "https://tesign.com/en/item/comic-chat-ai/index.md"
+    }
+  },
+  "name": "Comic Chat for AI",
+  "use_label": "Turn a ChatGPT chat into a comic strip",
+  "one_liner": "A revival of Microsoft’s old Comic Chat that automatically draws a ChatGPT conversation as a comic strip.",
+  "text": {
+    "why": "1990s Microsoft Comic Chat was an unusual program that staged a chat as an automatic comic strip, and it was discontinued long ago. Comic Chat for AI revives that same panel, balloon, avatar and emotion renderer, this time drawing an automatic comic from a conversation with ChatGPT instead of another person.",
+    "take": "Reviving a dead program’s renderer intact and pointing it at a new use is the unusual part; the same conversation reads differently once it is drawn as a comic.",
+    "build": [
+      "A 32-bit MFC app for Windows",
+      "Unlike the original, IRC, the legacy server dialogs and member lists are removed; a locally installed Codex handles the browser sign-in and connects to ChatGPT, and the app states it does not store the credentials. The source is MIT-licensed, and the repository is independent of the original Microsoft project."
+    ],
+    "who": [
+      {
+        "role": "Anyone who remembers the original Comic Chat, and people who want a different record of a ChatGPT conversation.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Download the Windows build from GitHub Releases and extract it intact so CChat.exe stays next to the comicart folder."
+      }
+    ],
+    "caveat": [
+      "It is still alpha, a 32-bit app on 64-bit Windows 11, and needs Codex installed locally plus a ChatGPT sign-in to work. The repository states it is not affiliated with Microsoft or OpenAI."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://en.wikipedia.org/wiki/Microsoft_Comic_Chat"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "chatgpt",
+    "만화",
+    "레트로",
+    "윈도우"
+  ],
+  "platform": [
+    "windows"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "C++",
+  "source_urls": {
+    "canonical": "https://en.wikipedia.org/wiki/Microsoft_Comic_Chat",
+    "github": "https://github.com/theletterf/comic-chat-ai",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/theletterf/comic-chat-ai/tree/main",
+        "posted_at": "2026-09-16T12:26:00.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49725890"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 1,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-16T13:42:08.425Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 3,
+    "hn_points_observed_at": "2026-09-21T04:12:29.831Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-16T12:23:31.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-16T13:42:08.425Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "1h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/comic-chat-ai-8824ff75ad.jpg",
+    "cover": "https://tesign.com/img/comic-chat-ai-8824ff75ad.jpg",
+    "cover_width": 1517,
+    "cover_height": 485,
+    "gallery": [
+      "https://tesign.com/img/comic-chat-ai-8824ff75ad.jpg",
+      "https://tesign.com/img/comic-chat-ai-e9e838f647.png"
+    ],
+    "alt": "A three-panel comic with the original Comic Chat characters — a rabbit-eared genie and a bob-haired girl — joking that Comic Chat is open source now.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-16T13:41:46.589Z",
+    "source_created_at": "2026-09-16T12:26:00.000Z",
+    "discovery_hours": 1.262941388888889,
+    "launch_signal_at": "2026-09-16T12:26:00.000Z",
+    "kept_at": "2026-09-22T05:53:16.278Z",
+    "first_published_at": "2026-09-22T05:53:16.495Z",
+    "updated_at": "2026-09-22T05:53:16.444Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

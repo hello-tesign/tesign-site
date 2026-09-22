@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "inspo",
   "url": "https://tesign.com/item/inspo/",
@@ -85,14 +85,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 157,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 680,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T18:01:56.715Z",
-    "stars_observed_since_check": 15,
+    "stars_checked_at": "2026-09-22T00:36:59.583Z",
+    "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 26,
-    "star_delta_30d": 26,
+    "star_delta_7d": 24,
+    "star_delta_30d": 24,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -101,7 +101,7 @@
       null,
       null,
       null,
-      2,
+      null,
       13,
       4,
       5,
@@ -120,13 +120,13 @@
   "ranks": null,
   "activity": {
     "pushed_at": "2026-09-15T16:09:43.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 2,
+    "releases_count": 0,
     "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-15T18:01:56.715Z"
+    "checked_at": "2026-09-22T00:36:59.583Z",
+    "core_checked_at": "2026-09-22T00:36:59.583Z"
   },
   "signals": [],
   "images": {

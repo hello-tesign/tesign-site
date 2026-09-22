@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-22T05:53:28.496Z",
+  "lang": "en",
+  "slug": "agentmeasure",
+  "url": "https://tesign.com/en/item/agentmeasure/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/agentmeasure/",
+      "json": "https://tesign.com/item/agentmeasure/index.json",
+      "markdown": "https://tesign.com/item/agentmeasure/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/agentmeasure/",
+      "json": "https://tesign.com/en/item/agentmeasure/index.json",
+      "markdown": "https://tesign.com/en/item/agentmeasure/index.md"
+    }
+  },
+  "name": "AgentMeasure",
+  "use_label": "Audit your Codex and Claude Code logs",
+  "one_liner": "Reads your Codex and Claude Code session logs and surfaces repeated failures and retries, with the evidence attached.",
+  "text": {
+    "why": "An agent that edits the same file over and over, or hits one failed tool call after another, is easy to miss when it is buried in a log. AgentMeasure reads the session logs you already have and finds duplicate records, retry chains and consecutive tool failures — and when the evidence is not there it says UNPROVABLE rather than inventing a zero.",
+    "take": "Marking what it cannot prove as UNPROVABLE instead of quietly writing zero is what makes the numbers worth trusting.",
+    "build": [
+      "Written in Python and published on PyPI, so pipx runs it with no repository checkout. There is a demo mode with no personal logs needed, a check command over the last seven days, and a flag to force the Claude Code adapter. All analysis runs locally with no network calls, and the result is a terminal summary plus a local HTML report."
+    ],
+    "who": [
+      {
+        "role": "Developers who use Codex or Claude Code daily, and anyone building or maintaining agent tooling.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Run pipx run agentmeasure demo first to see it on a synthetic example."
+      }
+    ],
+    "caveat": [
+      "It is built around the log formats Codex and Claude Code write, so sessions from other tools are not covered, and the repository marks its billing/settlement feature (settle) as still a concept."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://roy-tong.github.io/AgentMeasure"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "에이전트 점검",
+    "claude code",
+    "codex",
+    "로컬 분석"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://roy-tong.github.io/AgentMeasure",
+    "github": "https://github.com/roy-tong/agentmeasure",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/roy-tong/AgentMeasure",
+        "posted_at": "2026-09-19T09:16:41.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49764767"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 216,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-19T11:09:18.497Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": 3,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-22T01:35:29.180Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-19T09:23:55.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-19T11:09:18.497Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "0h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/agentmeasure-50e9355166.png",
+    "cover": "https://tesign.com/img/agentmeasure-50e9355166.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/agentmeasure-50e9355166.png"
+    ],
+    "alt": "The AgentMeasure landing page: \"The open yardstick for agent metrics\" on the left, and a terminal panel on the right showing checks marked PASS, FAIL and UNPROVABLE.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-19T10:09:19.071Z",
+    "source_created_at": "2026-09-19T09:16:41.000Z",
+    "discovery_hours": 0.8772419444444445,
+    "launch_signal_at": "2026-09-19T09:16:41.000Z",
+    "kept_at": "2026-09-22T05:53:16.093Z",
+    "first_published_at": "2026-09-22T05:53:16.495Z",
+    "updated_at": "2026-09-22T05:53:16.423Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "decimen-optical-transfer",
   "url": "https://tesign.com/item/decimen-optical-transfer/",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 6775,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 6789,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:55.765Z",
+    "stars_checked_at": "2026-09-22T00:38:24.201Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,7 +148,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -166,7 +166,7 @@
   "activity": {
     "pushed_at": "2026-08-26T12:51:11.000Z",
     "owner_type": "User",
-    "open_issues": 23,
+    "open_issues": 25,
     "contributors": 2,
     "releases_count": 8,
     "latest_release": {
@@ -174,8 +174,8 @@
       "published_at": "2026-08-20T00:46:56.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:55.765Z",
-    "core_checked_at": "2026-09-19T22:58:55.765Z"
+    "checked_at": "2026-09-22T00:38:24.201Z",
+    "core_checked_at": "2026-09-22T00:38:24.201Z"
   },
   "signals": [
     {

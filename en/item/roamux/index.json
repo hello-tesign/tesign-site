@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "roamux",
   "url": "https://tesign.com/en/item/roamux/",
@@ -116,10 +116,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "stars": 3,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:38.734Z",
+    "stars_checked_at": "2026-09-22T00:38:06.816Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -150,9 +150,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-17T04:56:10.000Z",
+    "pushed_at": "2026-09-21T16:11:32.000Z",
     "owner_type": "Organization",
-    "open_issues": 11,
+    "open_issues": 18,
     "contributors": 2,
     "releases_count": 1,
     "latest_release": {
@@ -160,8 +160,8 @@
       "published_at": "2026-09-13T06:57:27.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:38.734Z",
-    "core_checked_at": "2026-09-19T22:58:38.734Z"
+    "checked_at": "2026-09-22T00:38:06.816Z",
+    "core_checked_at": "2026-09-22T00:38:06.816Z"
   },
   "signals": [
     {

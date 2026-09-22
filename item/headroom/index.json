@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "headroom",
   "url": "https://tesign.com/item/headroom/",
@@ -114,14 +114,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 73097,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 73417,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:34.172Z",
+    "stars_checked_at": "2026-09-22T00:38:01.597Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 53,
-    "star_delta_30d": 327,
+    "star_delta_7d": 40,
+    "star_delta_30d": 296,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -129,9 +129,9 @@
       17,
       60,
       42,
-      18,
-      11,
-      27,
+      null,
+      null,
+      25,
       8,
       7,
       null,
@@ -147,28 +147,28 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
+    "as_of": "2026-09-21T20:00:00.000Z",
     "all_time": 74,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 66
+      "30d": 65
     },
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-19T19:07:21.000Z",
+    "pushed_at": "2026-09-21T23:48:51.000Z",
     "owner_type": "Organization",
-    "open_issues": 685,
-    "contributors": 268,
-    "releases_count": 169,
+    "open_issues": 702,
+    "contributors": 273,
+    "releases_count": 170,
     "latest_release": {
-      "tag": "v0.37.0",
-      "published_at": "2026-08-27T21:18:26.000Z",
+      "tag": "v0.38.0",
+      "published_at": "2026-09-21T23:48:52.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:34.172Z",
-    "core_checked_at": "2026-09-19T22:58:34.172Z"
+    "checked_at": "2026-09-22T00:38:01.597Z",
+    "core_checked_at": "2026-09-22T00:38:01.597Z"
   },
   "signals": [],
   "images": {

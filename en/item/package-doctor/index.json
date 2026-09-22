@@ -1,0 +1,166 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-22T05:53:28.496Z",
+  "lang": "en",
+  "slug": "package-doctor",
+  "url": "https://tesign.com/en/item/package-doctor/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/package-doctor/",
+      "json": "https://tesign.com/item/package-doctor/index.json",
+      "markdown": "https://tesign.com/item/package-doctor/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/package-doctor/",
+      "json": "https://tesign.com/en/item/package-doctor/index.json",
+      "markdown": "https://tesign.com/en/item/package-doctor/index.md"
+    }
+  },
+  "name": "package-doctor",
+  "use_label": "Find the Python dependency to fix first",
+  "one_liner": "Scans Python dependencies and tells you which are being exploited now — and which have no one left to fix them.",
+  "text": {
+    "why": "When one dependency accumulates dozens of advisories, knowing where to start is hard. package-doctor orders them by CISA’s known-exploited list and EPSS scores, and only flags a package to replace when it sits at a trust boundary — parsing or authenticating outside input — and no one is left to patch it. Everything else is marked quiet.",
+    "take": "Filtering on two axes — currently exploited, and is anyone left to fix it — rather than just counting advisories is what separates it from a plain scanner.",
+    "build": [
+      "Written in Python and installed with pip install package-doctor. It reads uv.lock, poetry.lock, Pipfile.lock, requirements.txt and similar files, and calls the trust-boundary question against a human-reviewed map of roughly 1,500 packages. As a Claude Code hook it blocks a coding agent from installing invented package names, packages published in the last 30 days, or vulnerable/abandoned ones at a boundary. It also runs in CI, as a pre-commit hook, and writes SARIF."
+    ],
+    "who": [
+      {
+        "role": "Developers running Python projects, and teams that want to stop a coding agent from adding a package on its own.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Install with pip install package-doctor and run package-doctor scan."
+      }
+    ],
+    "caveat": [
+      "The trust-boundary call depends on that human-reviewed map of about 1,500 packages, so anything outside it is left unchecked. It covers Python projects only."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://pypi.org/project/package-doctor"
+  },
+  "ready": "install",
+  "categories": [
+    "security",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "보안 점검",
+    "파이썬",
+    "의존성",
+    "claude code 훅"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://pypi.org/project/package-doctor",
+    "github": "https://github.com/binuka200/package-doctor",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/binuka200/package-doctor",
+        "posted_at": "2026-09-19T00:27:26.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49762076"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 8,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-19T03:09:08.818Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 4,
+    "hn_points_observed_at": "2026-09-22T01:35:29.153Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-16T22:00:09.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-19T03:09:08.818Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "1h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/package-doctor-888d02a454.png",
+    "cover": "https://tesign.com/img/package-doctor-888d02a454.png",
+    "cover_width": 3696,
+    "cover_height": 2198,
+    "gallery": [
+      "https://tesign.com/img/package-doctor-888d02a454.png",
+      "https://tesign.com/img/package-doctor-dff2bc33aa.png"
+    ],
+    "alt": "Terminal output of package-doctor scan: pillow and litellm flagged under FIX TODAY, with a list below split into replace, mitigate, upgrade and quiet.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-19T02:09:06.883Z",
+    "source_created_at": "2026-09-19T00:27:26.000Z",
+    "discovery_hours": 1.6946897222222221,
+    "launch_signal_at": "2026-09-19T00:27:26.000Z",
+    "kept_at": "2026-09-22T05:53:16.173Z",
+    "first_published_at": "2026-09-22T05:53:16.495Z",
+    "updated_at": "2026-09-22T05:53:16.435Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "codex-astra-luna-orchestrator",
   "url": "https://tesign.com/en/item/codex-astra-luna-orchestrator/",
@@ -116,23 +116,23 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 1497,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 1530,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:01.845Z",
+    "stars_checked_at": "2026-09-22T00:37:29.435Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 4,
-    "star_delta_30d": 154,
+    "star_delta_7d": null,
+    "star_delta_30d": 106,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
       2,
       4,
       4,
-      17,
-      35,
-      4,
+      8,
+      null,
+      null,
       null,
       null,
       null,
@@ -160,8 +160,8 @@
       "published_at": "2026-09-16T05:18:31.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:01.845Z",
-    "core_checked_at": "2026-09-19T22:58:01.845Z"
+    "checked_at": "2026-09-22T00:37:29.435Z",
+    "core_checked_at": "2026-09-22T00:37:29.435Z"
   },
   "signals": [],
   "images": {

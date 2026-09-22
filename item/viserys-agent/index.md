@@ -5,18 +5,19 @@
 - 페이지: https://tesign.com/item/viserys-agent/
 - JSON: https://tesign.com/item/viserys-agent/index.json
 - 영어 마크다운: https://tesign.com/en/item/viserys-agent/index.md
-- 생성 시각: 2026-09-21 05:58 UTC
+- 생성 시각: 2026-09-22 05:53 UTC
 
 ## 숫자
 
-- 별 665 — GitHub에서 2026-09-19 22:58 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-09-21 00:00 UTC)
+- 별 698 — GitHub에서 2026-09-22 00:37 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-09-21 20:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
 
-- 라이선스: 라이선스 미확인
-- 사용 범위: 미확인 — 쓰기 전에 살펴보세요.
+- 라이선스: Apache-2.0 (허용적) — https://spdx.org/licenses/Apache-2.0.html
+- 사용 범위: 상업 이용·수정·재배포 가능. 고지 유지, 바꾼 부분은 표시.
+- 오픈소스: 예
 - 언어: JavaScript
 - 플랫폼: [확인 필요]
 - 분류: AI · 개발 도구
@@ -27,12 +28,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-09-13 03:43 UTC
+- 마지막 커밋: 2026-09-21 07:01 UTC
 - 최근 릴리스: 릴리스 없음
 - 기여자: 1
-- 열린 이슈 (PR 포함): 0
+- 열린 이슈 (PR 포함): 1
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-19 22:58 UTC
+- GitHub 확인 시각: 2026-09-22 00:37 UTC
 
 ## 선정 신호와 근거
 

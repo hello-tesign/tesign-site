@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "highball",
   "url": "https://tesign.com/en/item/highball/",
@@ -111,23 +111,23 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 981,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 1002,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:18.585Z",
+    "stars_checked_at": "2026-09-22T00:37:46.475Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 17,
-    "star_delta_30d": 70,
+    "star_delta_7d": 15,
+    "star_delta_30d": 34,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
       null,
       null,
       null,
-      6,
-      32,
-      2,
+      4,
+      null,
+      null,
       13,
       2,
       null,
@@ -143,20 +143,35 @@
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
-  "ranks": null,
-  "activity": {
-    "pushed_at": "2026-09-19T22:52:13.000Z",
-    "owner_type": "User",
-    "open_issues": 24,
-    "contributors": 6,
-    "releases_count": 86,
-    "latest_release": {
-      "tag": "v0.9.32",
-      "published_at": "2026-09-19T16:17:31.000Z",
-      "prerelease": false
+  "ranks": {
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
     },
-    "checked_at": "2026-09-19T22:58:18.585Z",
-    "core_checked_at": "2026-09-19T22:58:18.585Z"
+    "categories": [
+      {
+        "category": "games",
+        "label": "GAMES",
+        "rank": 9
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-21T13:29:39.000Z",
+    "owner_type": "User",
+    "open_issues": 31,
+    "contributors": 7,
+    "releases_count": 89,
+    "latest_release": {
+      "tag": "v0.9.35",
+      "published_at": "2026-09-21T13:29:36.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-09-22T00:37:46.475Z",
+    "core_checked_at": "2026-09-22T00:37:46.475Z"
   },
   "signals": [
     {

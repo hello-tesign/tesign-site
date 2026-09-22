@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "caveman",
   "url": "https://tesign.com/en/item/caveman/",
@@ -107,30 +107,30 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 106774,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 107173,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:20.365Z",
+    "stars_checked_at": "2026-09-22T00:37:48.459Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 85,
-    "star_delta_30d": 579,
+    "star_delta_24h": 2,
+    "star_delta_7d": 81,
+    "star_delta_30d": 551,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       2,
       2,
       10,
       86,
-      58,
-      22,
-      4,
-      19,
+      56,
+      null,
+      null,
+      17,
       27,
       24,
       9,
       2,
       null,
-      null
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -140,12 +140,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "all_time": 32,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "all_time": 31,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 31
+      "30d": 28
     },
     "categories": [
       {
@@ -156,18 +156,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-19T07:26:40.000Z",
+    "pushed_at": "2026-09-21T23:41:23.000Z",
     "owner_type": "User",
-    "open_issues": 129,
-    "contributors": 56,
+    "open_issues": 126,
+    "contributors": 61,
     "releases_count": 35,
     "latest_release": {
       "tag": "v2.7.0",
       "published_at": "2026-09-15T04:01:16.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:20.365Z",
-    "core_checked_at": "2026-09-19T22:58:20.365Z"
+    "checked_at": "2026-09-22T00:37:48.459Z",
+    "core_checked_at": "2026-09-22T00:37:48.459Z"
   },
   "signals": [],
   "images": {

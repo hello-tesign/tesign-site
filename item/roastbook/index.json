@@ -1,0 +1,168 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-22T05:53:28.496Z",
+  "lang": "ko",
+  "slug": "roastbook",
+  "url": "https://tesign.com/item/roastbook/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/roastbook/",
+      "json": "https://tesign.com/item/roastbook/index.json",
+      "markdown": "https://tesign.com/item/roastbook/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/roastbook/",
+      "json": "https://tesign.com/en/item/roastbook/index.json",
+      "markdown": "https://tesign.com/en/item/roastbook/index.md"
+    }
+  },
+  "name": "Roastbook",
+  "use_label": "내가 호스팅하는 커피 기록",
+  "one_liner": "커피 봉지를 찍으면 라벨을 읽어 채워 주는, 내 서버에 직접 올리는 원두·추출 기록 앱.",
+  "text": {
+    "why": "원두·로스터·추출 기록을 남기려 해도 대개 남의 서버에 데이터가 쌓인다. Roastbook은 자기 서버에 직접 올려 쓰는 방식이고, 봉지 사진 한 장으로 원산지·품종·로스팅 정도를 채우고 로스터 이름만 쳐도 웹사이트와 위치를 찾아 준다. 추출은 숫자 세 개만 입력해도 기록이 끝난다.",
+    "take": "표본 데이터로 바로 써 보는 읽기 전용 데모가 있어, 설치하기 전에 진짜 화면부터 확인할 수 있다는 점이 실용적이다.",
+    "build": [
+      "PostgreSQL과 자체 저장소 위에서 돌고, 도커 컴포즈 한 줄이나 헬름 차트로 올린다. AI로 라벨을 읽거나 로스터를 조사하는 기능은 OPENAI_API_KEY를 넣어야 켜지고, 나머지는 키 없이도 그대로 쓸 수 있다. 계정·원격 측정·추가 결제가 없다고 저장소가 밝힌다."
+    ],
+    "who": [
+      {
+        "role": "집에서 원두를 직접 추출하는 사람, 커피 기록을 자기 서버에 두고 싶은 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "roastbook.vercel.app의 읽기 전용 데모를 먼저 눌러 보고, 도커 컴포즈로 직접 올린다."
+      }
+    ],
+    "caveat": [
+      "라벨 인식·로스터 조사 같은 AI 기능은 자신의 OpenAI 키가 있어야 켜지고, 그만큼 API 비용이 따로 든다. 아직 별 2개로 초기 프로젝트다."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://roastbook.vercel.app/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "커피",
+    "자체 설치",
+    "postgresql",
+    "ai 라벨 인식"
+  ],
+  "platform": [
+    "web",
+    "linux"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://roastbook.vercel.app/",
+    "github": "https://github.com/michidk/roastbook",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/michidk/roastbook",
+        "posted_at": "2026-09-14T13:06:05.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49696194"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 2,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-14T23:21:07.824Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 1,
+    "hn_points_observed_at": "2026-09-21T06:15:08.842Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-14T14:10:05.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-14T23:21:07.824Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 10h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/roastbook-fa2cf185e1.png",
+    "cover": "https://tesign.com/img/roastbook-fa2cf185e1.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/roastbook-fa2cf185e1.png",
+      "https://tesign.com/img/roastbook-57add7a8e5.png",
+      "https://tesign.com/img/roastbook-0892efde82.png",
+      "https://tesign.com/img/roastbook-da618d4a8b.png"
+    ],
+    "alt": "Roastbook 데모 화면. \"완벽한 추출을 좇다\" 문구와 기록한 추출·보유 원두·이달의 추출 수 카드, 아래에 최근 추출 목록이 있다.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-14T23:06:48.383Z",
+    "source_created_at": "2026-09-14T13:06:05.000Z",
+    "discovery_hours": 10.012050833333333,
+    "launch_signal_at": "2026-09-14T13:06:05.000Z",
+    "kept_at": "2026-09-22T05:53:16.232Z",
+    "first_published_at": "2026-09-22T05:53:16.495Z",
+    "updated_at": "2026-09-22T05:53:16.441Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

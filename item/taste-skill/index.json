@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "ko",
   "slug": "taste-skill",
   "url": "https://tesign.com/item/taste-skill/",
@@ -100,14 +100,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 88469,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 89055,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:25.853Z",
+    "stars_checked_at": "2026-09-22T00:37:53.898Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 104,
-    "star_delta_30d": 645,
+    "star_delta_7d": 95,
+    "star_delta_30d": 590,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       4,
@@ -115,8 +115,8 @@
       7,
       68,
       59,
-      46,
-      9,
+      null,
+      null,
       45,
       35,
       9,
@@ -133,12 +133,12 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "all_time": 52,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "all_time": 51,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 23
+      "30d": 26
     },
     "categories": [
       {
@@ -149,14 +149,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-16T15:01:43.000Z",
+    "pushed_at": "2026-09-20T16:26:24.000Z",
     "owner_type": "User",
-    "open_issues": 69,
-    "contributors": 7,
+    "open_issues": 70,
+    "contributors": 8,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-19T22:58:25.853Z",
-    "core_checked_at": "2026-09-19T22:58:25.853Z"
+    "checked_at": "2026-09-22T00:37:53.898Z",
+    "core_checked_at": "2026-09-22T00:37:53.898Z"
   },
   "signals": [],
   "images": {

@@ -1,0 +1,167 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-22T05:53:28.496Z",
+  "lang": "ko",
+  "slug": "hibi",
+  "url": "https://tesign.com/item/hibi/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/hibi/",
+      "json": "https://tesign.com/item/hibi/index.json",
+      "markdown": "https://tesign.com/item/hibi/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/hibi/",
+      "json": "https://tesign.com/en/item/hibi/index.json",
+      "markdown": "https://tesign.com/en/item/hibi/index.md"
+    }
+  },
+  "name": "hibi",
+  "use_label": "마크다운 노트 앱",
+  "one_liner": "마크다운으로 쓰고 노트끼리 어떻게 이어지는지 그래프로 보여 주는 데스크톱 편집기.",
+  "text": {
+    "why": "메모가 쌓이면 예전에 뭘 써 뒀는지, 어느 글과 어느 글이 이어지는지 찾기가 어려워진다. hibi는 마크다운 원문과 서식 있는 보기를 나란히 두고, 오른쪽에 지금 문서와 연결된 노트들을 그래프와 목록으로 보여 준다.",
+    "take": "따로 그래프 플러그인을 붙이지 않아도 오른쪽 패널이 항상 지금 문서의 연결을 보여 준다는 점이 편하다.",
+    "build": [
+      "일렉트론 기반 데스크톱 앱으로, 파일이나 폴더를 워크스페이스로 열어 쓴다. 굵게·기울임·표·머리글 같은 서식 도구줄, cmd+K(윈도우·리눅스는 ctrl+K) 명령 팔레트, 버전 기록, 가져오기·내보내기를 갖췄다. AGPL-3.0으로 공개돼 있고 애드온으로 기능을 늘릴 수 있다."
+    ],
+    "who": [
+      {
+        "role": "메모와 글을 마크다운으로 쌓는 사람, 노트 사이 연결을 눈으로 보고 싶은 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "깃허브 Releases에서 나이틀리 빌드를 받아 설치하고, 폴더 하나를 워크스페이스로 연다."
+      }
+    ],
+    "caveat": [
+      "아직 알파 단계 나이틀리 빌드뿐이라 임시 서명 경고가 뜰 수 있고, 쓰기 전에 노트를 따로 백업해 두라고 저장소가 직접 밝힌다. AGPL-3.0이라 이 앱을 고쳐 서비스로 내놓으면 그 소스도 공개해야 한다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://hibi.garden/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "마크다운",
+    "노트",
+    "데스크톱",
+    "agpl"
+  ],
+  "platform": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포는 물론 네트워크 서비스로 제공해도 소스 공개.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://hibi.garden/",
+    "github": "https://github.com/schmayterling/hibi",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/schmayterling/hibi",
+        "posted_at": "2026-09-21T02:51:56.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49782528"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 14,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-21T05:05:25.400Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 5,
+    "hn_points_observed_at": "2026-09-22T00:33:54.225Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-21T04:47:41.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-21T05:05:25.400Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 1h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/hibi-85c1c15430.png",
+    "cover": "https://tesign.com/img/hibi-85c1c15430.png",
+    "cover_width": 2648,
+    "cover_height": 1664,
+    "gallery": [
+      "https://tesign.com/img/hibi-85c1c15430.png",
+      "https://tesign.com/img/hibi-7106de075c.png"
+    ],
+    "alt": "hibi 편집기 화면. 왼쪽에 폴더 목록, 가운데에 마크다운 사용 안내 문서, 오른쪽에 노트 연결을 보여 주는 워크스페이스 그래프가 있다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-21T04:06:05.269Z",
+    "source_created_at": "2026-09-21T02:51:56.000Z",
+    "discovery_hours": 1.2359080555555555,
+    "launch_signal_at": "2026-09-21T02:51:56.000Z",
+    "kept_at": "2026-09-22T05:53:16.149Z",
+    "first_published_at": "2026-09-22T05:53:16.495Z",
+    "updated_at": "2026-09-22T05:53:16.417Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

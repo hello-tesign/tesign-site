@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "dory",
   "url": "https://tesign.com/en/item/dory/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 1591,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 1594,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T22:58:52.977Z",
+    "stars_checked_at": "2026-09-22T00:38:21.397Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,7 +148,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-14T02:47:06.000Z",
+    "pushed_at": "2026-09-20T19:34:09.000Z",
     "owner_type": "User",
     "open_issues": 24,
     "contributors": 1,
@@ -158,8 +158,8 @@
       "published_at": "2026-08-13T14:20:03.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-19T22:58:52.977Z",
-    "core_checked_at": "2026-09-19T22:58:52.977Z"
+    "checked_at": "2026-09-22T00:38:21.397Z",
+    "core_checked_at": "2026-09-22T00:38:21.397Z"
   },
   "signals": [
     {

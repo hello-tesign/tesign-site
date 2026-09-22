@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-21T05:58:27.350Z",
+  "generated_at": "2026-09-22T05:53:28.496Z",
   "lang": "en",
   "slug": "openschool",
   "url": "https://tesign.com/en/item/openschool/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T00:00:00.000Z",
-    "stars": 26,
+    "as_of": "2026-09-21T20:00:00.000Z",
+    "stars": 35,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-15T21:33:18.982Z",
+    "stars_checked_at": "2026-09-22T00:37:01.801Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 8,
@@ -119,14 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T14:58:25.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-15T21:33:18.982Z"
+    "pushed_at": "2026-09-21T02:28:54.000Z",
+    "owner_type": "Organization",
+    "open_issues": 0,
+    "contributors": 3,
+    "releases_count": 2,
+    "latest_release": {
+      "tag": "v0.2.0",
+      "published_at": "2026-09-15T14:01:35.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-22T00:37:01.801Z",
+    "core_checked_at": "2026-09-22T00:37:01.801Z"
   },
   "signals": [],
   "images": {
