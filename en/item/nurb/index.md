@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/nurb/
 - JSON: https://tesign.com/en/item/nurb/index.json
 - Korean Markdown: https://tesign.com/item/nurb/index.md
-- Generated: 2026-09-22 05:53 UTC
+- Generated: 2026-09-22 06:54 UTC
 
 ## Numbers
 

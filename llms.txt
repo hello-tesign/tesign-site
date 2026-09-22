@@ -28,7 +28,7 @@
 - [Top 20 · PRODUCTIVITY](https://tesign.com/en/top/productivity/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · DATA](https://tesign.com/en/top/data/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · INFRA](https://tesign.com/en/top/infra/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
-- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 12 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
+- [Top 20 · SECURITY](https://tesign.com/en/top/security/): 13 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · COMMERCE](https://tesign.com/en/top/commerce/): 7 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · MEDIA](https://tesign.com/en/top/media/): 20 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
 - [Top 20 · EDUCATION](https://tesign.com/en/top/education/): 6 tools; the same formula within each category (an item's public category, else the classifier's); categories with fewer than 3 qualifying repositories have no page
@@ -45,7 +45,7 @@
 
 ## Numbers
 
-- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2726 ranking-eligible repositories, 164 published items, 154610 candidate products, 17687 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-22T05:53:28.496Z, history clock 2026-09-21T20:00:00.000Z)
+- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2730 ranking-eligible repositories, 164 published items, 154610 candidate products, 17687 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-22T06:54:18.226Z, history clock 2026-09-21T20:00:00.000Z)
 
 ## Compare
 
@@ -53,7 +53,7 @@
 
 ## Repository cards
 
-- [358 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
+- [359 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
 
 ## Store hits
 
@@ -79,7 +79,7 @@
 
 Every published item has a sibling index.json and index.md next to its page: /item/<slug>/index.json and /item/<slug>/index.md in Korean, /en/item/<slug>/index.json and /en/item/<slug>/index.md in English. Keys name the unit (stars, star_delta_7d, hf_likes); every figure sits next to its reference time (as_of, *_at); null means not observed, never zero. Counts are stored observations, not scores. These files are not in the sitemap.
 
-- [Index of every published item (JSON)](https://tesign.com/data/index.json): 164 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-22T05:53:28.496Z); not for search indexes (robots.txt), not in the sitemap
+- [Index of every published item (JSON)](https://tesign.com/data/index.json): 164 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-22T06:54:18.226Z); not for search indexes (robots.txt), not in the sitemap
 - [Example: 2049 — Mines of Merge as JSON](https://tesign.com/en/item/2049/index.json): name, use label, one-liner, why / build / who / start / caveat, licence and scope, platform, categories, numbers with as_of, ranks, activity, images, source URLs, generated_at
 - [Example: 2049 — Mines of Merge as Markdown](https://tesign.com/en/item/2049/index.md): the same fields as headed Markdown; Korean at the path without /en
 

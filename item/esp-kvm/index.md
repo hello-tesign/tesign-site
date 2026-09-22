@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/esp-kvm/
 - JSON: https://tesign.com/item/esp-kvm/index.json
 - 영어 마크다운: https://tesign.com/en/item/esp-kvm/index.md
-- 생성 시각: 2026-09-22 05:53 UTC
+- 생성 시각: 2026-09-22 06:54 UTC
 
 ## 숫자
 

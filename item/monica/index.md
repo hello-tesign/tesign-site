@@ -5,11 +5,11 @@
 - 페이지: https://tesign.com/item/monica/
 - JSON: https://tesign.com/item/monica/index.json
 - 영어 마크다운: https://tesign.com/en/item/monica/index.md
-- 생성 시각: 2026-09-22 05:53 UTC
+- 생성 시각: 2026-09-22 06:54 UTC
 
 ## 순위
 
-- 보안 분야 12위 (기준 2026-09-21 20:00 UTC)
+- 보안 분야 13위 (기준 2026-09-21 20:00 UTC)
 
 ## 숫자
 

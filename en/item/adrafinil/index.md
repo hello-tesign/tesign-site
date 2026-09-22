@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/adrafinil/
 - JSON: https://tesign.com/en/item/adrafinil/index.json
 - Korean Markdown: https://tesign.com/item/adrafinil/index.md
-- Generated: 2026-09-22 05:53 UTC
+- Generated: 2026-09-22 06:54 UTC
 
 ## Numbers
 

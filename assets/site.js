@@ -10,13 +10,13 @@ function track(name,params){try{if(typeof gtag==='function')gtag('event',name,pa
 function attr(el,k){return (el&&el.getAttribute&&el.getAttribute(k))||'';}
 function escText(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
 if(d.addEventListener)d.addEventListener('click',function(e){var el=e.target&&e.target.closest?e.target.closest('[data-track]'):null;if(!el)return;var k=attr(el,'data-track');
-if(k==='go')track('go_to_tool',{slug:attr(el,'data-slug'),cta:attr(el,'data-cta'),place:attr(el,'data-place')});else if(k==='rss')track('rss_click',{feed:attr(el,'data-feed')});});
+if(k==='go'||k==='source')track(k==='source'?'source_reference':'go_to_tool',{slug:attr(el,'data-slug'),cta:attr(el,'data-cta'),place:attr(el,'data-place')});else if(k==='rss')track('rss_click',{feed:attr(el,'data-feed')});});
 var KEY='tesign.saved';function load(){try{var v=JSON.parse(localStorage.getItem(KEY)||'[]');return Array.isArray(v)?v.filter(function(x){return typeof x==='string';}):[];}catch(e){return [];}}
 function store(a){try{localStorage.setItem(KEY,JSON.stringify(a));}catch(e){}}
 var saved=load();
 function paintCounts(){[].forEach.call(d.querySelectorAll('[data-saved-count]'),function(c){c.textContent=String(saved.length);c.hidden=!saved.length;});}
 function bindSave(b,after){var s=attr(b,'data-save');function paint(){var on=saved.indexOf(s)>=0;b.setAttribute('aria-pressed',String(on));b.textContent=on?attr(b,'data-saved-label'):attr(b,'data-save-label');}
-paint();b.addEventListener('click',function(){var i=saved.indexOf(s);if(i>=0){saved.splice(i,1);track('unsave_item',{slug:s});}else{saved.push(s);track('save_item',{slug:s});}store(saved);paint();paintCounts();if(after)after();});}
+paint();b.addEventListener('click',function(){var i=saved.indexOf(s);if(i>=0){saved.splice(i,1);track('unsave_item',{slug:s});}else{saved.push(s);track('save_item',{slug:s});}store(saved);paint();[].forEach.call(d.querySelectorAll('[data-save]'),function(other){if(attr(other,'data-save')!==s)return;var on=saved.indexOf(s)>=0;other.setAttribute('aria-pressed',String(on));other.textContent=on?attr(other,'data-saved-label'):attr(other,'data-save-label');});paintCounts();if(after)after();});}
 [].forEach.call(d.querySelectorAll('[data-save]'),function(b){bindSave(b);});paintCounts();
 async function copyText(b,text){var label=b.textContent;await navigator.clipboard.writeText(text);b.textContent=b.getAttribute('data-copied');setTimeout(function(){b.textContent=label;},1500);}
 /* §4-F: a share button carrying data-game reports game_share (method only) instead of share_item, and its copy fallback copies data-copy-text (the streak line + URL) when set */
