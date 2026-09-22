@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "en",
   "slug": "txcript",
   "url": "https://tesign.com/en/item/txcript/",
@@ -88,7 +88,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 130,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:39:17.744Z",
@@ -106,8 +106,8 @@
       null,
       null,
       null,
-      null,
       5,
+      null,
       null,
       null,
       null,

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "ko",
   "slug": "openknowledge",
   "url": "https://tesign.com/item/openknowledge/",
@@ -123,7 +123,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 4274,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:38:17.683Z",
@@ -135,9 +135,9 @@
     "spark_14d": [
       null,
       null,
-      null,
       13,
       2,
+      null,
       null,
       null,
       null,

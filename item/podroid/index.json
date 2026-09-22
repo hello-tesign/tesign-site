@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "ko",
   "slug": "podroid",
   "url": "https://tesign.com/item/podroid/",
@@ -108,13 +108,13 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 2910,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:23.079Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 12,
+    "star_delta_7d": 9,
     "star_delta_30d": 12,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
@@ -124,10 +124,10 @@
       null,
       null,
       null,
-      null,
       5,
       4,
       3,
+      null,
       null,
       null,
       null,

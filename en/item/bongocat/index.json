@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "en",
   "slug": "bongocat",
   "url": "https://tesign.com/en/item/bongocat/",
@@ -106,7 +106,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 2039,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:52.106Z",
@@ -119,12 +119,12 @@
       null,
       null,
       null,
-      null,
       39,
       null,
       null,
       2,
       2,
+      null,
       null,
       null,
       null,

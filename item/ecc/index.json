@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "ko",
   "slug": "ecc",
   "url": "https://tesign.com/item/ecc/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 264754,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:25.903Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 15,
-    "star_delta_7d": 414,
-    "star_delta_30d": 2661,
+    "star_delta_24h": 21,
+    "star_delta_7d": 413,
+    "star_delta_30d": 2667,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      13,
       38,
       55,
       211,
@@ -137,7 +136,8 @@
       35,
       2,
       2,
-      15
+      21,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

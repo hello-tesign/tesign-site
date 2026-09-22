@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "ko",
   "slug": "lertaro",
   "url": "https://tesign.com/item/lertaro/",
@@ -106,7 +106,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 655,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:38:57.451Z",
@@ -118,13 +118,13 @@
     "spark_14d": [
       null,
       null,
-      null,
       4,
       8,
       null,
       null,
       null,
       2,
+      null,
       null,
       null,
       null,

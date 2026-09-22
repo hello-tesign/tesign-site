@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "en",
   "slug": "terminal-browser",
   "url": "https://tesign.com/en/item/terminal-browser/",
@@ -121,7 +121,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 3182,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:38:36.361Z",
@@ -133,7 +133,6 @@
     "spark_14d": [
       null,
       null,
-      null,
       5,
       null,
       null,
@@ -142,6 +141,7 @@
       2,
       4,
       4,
+      null,
       null,
       null,
       null

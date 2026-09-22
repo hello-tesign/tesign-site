@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "en",
   "slug": "memos",
   "url": "https://tesign.com/en/item/memos/",
@@ -85,7 +85,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 11510,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:14.218Z",
@@ -101,10 +101,10 @@
       null,
       null,
       null,
-      null,
       4,
       7,
       2,
+      null,
       null,
       null,
       null,

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "ko",
   "slug": "openworker",
   "url": "https://tesign.com/item/openworker/",
@@ -114,7 +114,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 18105,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:38:23.277Z",
@@ -126,13 +126,13 @@
     "spark_14d": [
       null,
       null,
-      null,
       2,
       2,
       null,
       null,
       22,
       5,
+      null,
       null,
       null,
       null,

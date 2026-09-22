@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "ko",
   "slug": "colibri",
   "url": "https://tesign.com/item/colibri/",
@@ -125,17 +125,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
-    "stars": 36862,
+    "as_of": "2026-09-22T03:00:00.000Z",
+    "stars": 36864,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:31.324Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 6,
-    "star_delta_7d": 498,
-    "star_delta_30d": 834,
+    "stars_observed_since_check": 2,
+    "star_delta_24h": 14,
+    "star_delta_7d": 468,
+    "star_delta_30d": 842,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       23,
       63,
@@ -148,7 +147,8 @@
       18,
       2,
       null,
-      6
+      9,
+      5
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -158,7 +158,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "all_time": 162,
     "rising": {
       "24h": null,

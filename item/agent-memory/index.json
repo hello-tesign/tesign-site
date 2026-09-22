@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "ko",
   "slug": "agent-memory",
   "url": "https://tesign.com/item/agent-memory/",
@@ -113,7 +113,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 963,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:43.737Z",
@@ -123,11 +123,11 @@
     "star_delta_30d": 232,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      4,
       3,
       2,
       42,
       37,
+      null,
       null,
       null,
       null,

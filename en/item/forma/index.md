@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/forma/
 - JSON: https://tesign.com/en/item/forma/index.json
 - Korean Markdown: https://tesign.com/item/forma/index.md
-- Generated: 2026-09-22 06:54 UTC
+- Generated: 2026-09-22 07:26 UTC
 
 ## Numbers
 
 - 3 stars — checked on GitHub 2026-09-22 00:37 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-21 20:00 UTC)
+- no 7-day star increase observed (GH Archive) (as of 2026-09-22 03:00 UTC)
 - 2 Show HN points — observed 2026-09-20 05:34 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 

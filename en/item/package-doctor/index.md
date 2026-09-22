@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/package-doctor/
 - JSON: https://tesign.com/en/item/package-doctor/index.json
 - Korean Markdown: https://tesign.com/item/package-doctor/index.md
-- Generated: 2026-09-22 06:54 UTC
+- Generated: 2026-09-22 07:26 UTC
 
 ## Numbers
 
 - 8 stars — checked on GitHub 2026-09-19 03:09 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-21 20:00 UTC)
+- no 7-day star increase observed (GH Archive) (as of 2026-09-22 03:00 UTC)
 - 4 Show HN points — observed 2026-09-22 01:35 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 

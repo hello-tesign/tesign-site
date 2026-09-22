@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "en",
   "slug": "spec-kit",
   "url": "https://tesign.com/en/item/spec-kit/",
@@ -146,17 +146,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 138231,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:33.439Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": 6,
-    "star_delta_7d": 91,
+    "star_delta_7d": 89,
     "star_delta_30d": 689,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      4,
       7,
       127,
       241,
@@ -169,7 +168,8 @@
       8,
       null,
       null,
-      6
+      6,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -179,7 +179,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "all_time": 16,
     "rising": {
       "24h": null,

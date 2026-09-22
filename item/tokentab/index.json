@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "ko",
   "slug": "tokentab",
   "url": "https://tesign.com/item/tokentab/",
@@ -112,7 +112,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 1144,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-19T22:58:31.368Z",
@@ -123,10 +123,10 @@
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
-      null,
       12,
       45,
       16,
+      null,
       null,
       null,
       null,

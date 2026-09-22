@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "ko",
   "slug": "comic-chat-ai",
   "url": "https://tesign.com/item/comic-chat-ai/",
@@ -85,7 +85,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 1,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-16T13:42:08.425Z",

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "en",
   "slug": "taste-skill",
   "url": "https://tesign.com/en/item/taste-skill/",
@@ -100,17 +100,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
-    "stars": 89055,
+    "as_of": "2026-09-22T03:00:00.000Z",
+    "stars": 89057,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:53.898Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 95,
-    "star_delta_30d": 590,
+    "stars_observed_since_check": 2,
+    "star_delta_24h": 2,
+    "star_delta_7d": 92,
+    "star_delta_30d": 592,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      4,
       9,
       7,
       68,
@@ -123,7 +122,8 @@
       6,
       null,
       null,
-      null
+      null,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -133,7 +133,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "all_time": 51,
     "rising": {
       "24h": null,

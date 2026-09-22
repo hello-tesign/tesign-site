@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "en",
   "slug": "dlss5-swapper",
   "url": "https://tesign.com/en/item/dlss5-swapper/",
@@ -100,17 +100,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "stars": 6209,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:59.593Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 84,
+    "star_delta_7d": 76,
     "star_delta_30d": 683,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      2,
       null,
       11,
       52,
@@ -122,6 +121,7 @@
       10,
       4,
       2,
+      null,
       null,
       null
     ],

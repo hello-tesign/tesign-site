@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T06:54:18.226Z",
+  "generated_at": "2026-09-22T07:26:19.753Z",
   "lang": "en",
   "slug": "archify",
   "url": "https://tesign.com/en/item/archify/",
@@ -106,17 +106,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-21T20:00:00.000Z",
-    "stars": 69117,
+    "as_of": "2026-09-22T03:00:00.000Z",
+    "stars": 69127,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T00:37:36.280Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 7,
-    "star_delta_7d": 492,
-    "star_delta_30d": 3502,
+    "stars_observed_since_check": 10,
+    "star_delta_24h": 17,
+    "star_delta_7d": 465,
+    "star_delta_30d": 3512,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      33,
       66,
       119,
       350,
@@ -129,7 +128,8 @@
       39,
       2,
       2,
-      7
+      7,
+      10
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -139,7 +139,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-21T20:00:00.000Z",
+    "as_of": "2026-09-22T03:00:00.000Z",
     "all_time": 81,
     "rising": {
       "24h": null,
