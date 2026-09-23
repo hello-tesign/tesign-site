@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/colibri/
 - JSON: https://tesign.com/en/item/colibri/index.json
 - Korean Markdown: https://tesign.com/item/colibri/index.md
-- Generated: 2026-09-22 07:26 UTC
+- Generated: 2026-09-23 02:05 UTC
 
 ## RANKS
 
-- All-time #162 · Rising this week #4 · INFRA #9 (As of 2026-09-22 03:00 UTC)
+- All-time #161 · Rising this week #7 · INFRA #9 (As of 2026-09-22 21:00 UTC)
 
 ## Numbers
 
-- 36,864 stars — checked on GitHub 2026-09-22 00:37 UTC (+2 observed since the check)
-- 7-day +468 observed via GH Archive (as of 2026-09-22 03:00 UTC)
-- 24h +14 ★ · 30d +842 ★ (as of 2026-09-22 03:00 UTC)
+- 37,153 stars — checked on GitHub 2026-09-23 01:48 UTC
+- 7-day +278 observed via GH Archive (as of 2026-09-22 21:00 UTC)
+- 24h +5 ★ · 30d +842 ★ (as of 2026-09-22 21:00 UTC)
 - 937 Show HN points — observed 2026-09-13 15:23 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -34,12 +34,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-22 00:10 UTC
+- Last commit: 2026-09-22 22:13 UTC
 - Latest release: v1.12.0 (2026-09-20)
 - Contributors: 163
-- Open issues (incl. PRs): 132
+- Open issues (incl. PRs): 95
 - Made by: an individual
-- Checked on GitHub: 2026-09-22 00:37 UTC
+- Checked on GitHub: 2026-09-23 01:48 UTC
 
 ## Signals and evidence
 

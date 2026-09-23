@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "en",
   "slug": "pomodoist",
   "url": "https://tesign.com/en/item/pomodoist/",
@@ -116,10 +116,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 439,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 449,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-22T00:38:37.355Z",
+    "stars_checked_at": "2026-09-23T01:49:11.515Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -150,18 +150,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-21T18:18:32.000Z",
+    "pushed_at": "2026-09-22T23:45:41.000Z",
     "owner_type": "User",
-    "open_issues": 17,
+    "open_issues": 13,
     "contributors": 1,
-    "releases_count": 16,
+    "releases_count": 12,
     "latest_release": {
-      "tag": "v1.0.6-rc.6",
-      "published_at": "2026-09-17T19:24:15.000Z",
+      "tag": "v1.1.0-rc.5",
+      "published_at": "2026-09-22T15:15:47.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-09-22T00:38:37.355Z",
-    "core_checked_at": "2026-09-22T00:38:37.355Z"
+    "checked_at": "2026-09-23T01:49:11.515Z",
+    "core_checked_at": "2026-09-23T01:49:11.515Z"
   },
   "signals": [
     {

@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/zcode/
 - JSON: https://tesign.com/en/item/zcode/index.json
 - Korean Markdown: https://tesign.com/item/zcode/index.md
-- Generated: 2026-09-22 07:26 UTC
+- Generated: 2026-09-23 02:05 UTC
 
 ## Numbers
 
-- 5,072 stars — checked on GitHub 2026-09-21 13:07 UTC (+38 observed since the check)
-- 7-day +64 observed via GH Archive (as of 2026-09-22 03:00 UTC)
-- 24h +38 ★ · 30d +64 ★ (as of 2026-09-22 03:00 UTC)
+- 6,312 stars — checked on GitHub 2026-09-23 01:47 UTC
+- 7-day +69 observed via GH Archive (as of 2026-09-22 21:00 UTC)
+- 24h +23 ★ · 30d +69 ★ (as of 2026-09-22 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -30,11 +30,11 @@
 ## ACTIVITY
 
 - Last commit: 2026-09-21 00:02 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-21 13:07 UTC
+- Latest release: no releases
+- Contributors: 2
+- Open issues (incl. PRs): 11
+- Made by: an organization
+- Checked on GitHub: 2026-09-23 01:47 UTC
 
 ## Signals and evidence
 

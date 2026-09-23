@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/tfm-tui/
 - JSON: https://tesign.com/en/item/tfm-tui/index.json
 - Korean Markdown: https://tesign.com/item/tfm-tui/index.md
-- Generated: 2026-09-22 07:26 UTC
+- Generated: 2026-09-23 02:05 UTC
 
 ## Numbers
 
-- 136 stars — checked on GitHub 2026-09-16 03:34 UTC (+3 observed since the check)
-- 7-day +9 observed via GH Archive (as of 2026-09-22 03:00 UTC)
+- 243 stars — checked on GitHub 2026-09-23 01:47 UTC
+- 7-day +5 observed via GH Archive (as of 2026-09-22 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-16 01:52 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-16 03:34 UTC
+- Last commit: 2026-09-22 02:33 UTC
+- Latest release: v0.1.0-beta.0 (2026-09-15)
+- Contributors: 2
+- Open issues (incl. PRs): 0
+- Made by: an individual
+- Checked on GitHub: 2026-09-23 01:47 UTC
 
 ## TESIGN TAKE
 

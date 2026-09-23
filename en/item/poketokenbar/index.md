@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/poketokenbar/
 - JSON: https://tesign.com/en/item/poketokenbar/index.json
 - Korean Markdown: https://tesign.com/item/poketokenbar/index.md
-- Generated: 2026-09-22 07:26 UTC
+- Generated: 2026-09-23 02:05 UTC
 
 ## Numbers
 
-- 457 stars — checked on GitHub 2026-09-22 00:39 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-22 03:00 UTC)
+- 467 stars — checked on GitHub 2026-09-23 01:49 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-22 21:00 UTC)
 - 2 Show HN points — observed 2026-09-13 15:10 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -32,9 +32,9 @@
 - Last commit: 2026-09-18 16:21 UTC
 - Latest release: v2.5.4 (2026-09-12)
 - Contributors: 38
-- Open issues (incl. PRs): 43
+- Open issues (incl. PRs): 46
 - Made by: an individual
-- Checked on GitHub: 2026-09-22 00:39 UTC
+- Checked on GitHub: 2026-09-23 01:49 UTC
 
 ## Signals and evidence
 

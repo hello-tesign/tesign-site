@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-23T02:05:21.873Z",
+  "lang": "en",
+  "slug": "aspark",
+  "url": "https://tesign.com/en/item/aspark/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/aspark/",
+      "json": "https://tesign.com/item/aspark/index.json",
+      "markdown": "https://tesign.com/item/aspark/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/aspark/",
+      "json": "https://tesign.com/en/item/aspark/index.json",
+      "markdown": "https://tesign.com/en/item/aspark/index.md"
+    }
+  },
+  "name": "aSPARK",
+  "use_label": "Gated AI product team for Claude Code",
+  "one_liner": "An agile AI product team for Claude Code that gates every feature through spec, plan, build, review and QA.",
+  "text": {
+    "why": "Hand a whole feature to an AI and scope creeps, or nothing gets verified. aSPARK splits the work across a Product Owner, Designer, Engineering Manager, Developer, Reviewer, QA Tester and Release Manager, and won't let a feature move to the next phase without your explicit gate approval.",
+    "take": "Plenty of tools claim AI-assisted development; requiring a human gate five separate times, with a reviewable paper trail, is what's different here.",
+    "build": [
+      "No service, no account — it installs into a project as Markdown. Running /spark drives the whole loop and leaves spec.md, plan.md, review.md, qa.md and a release log in .spark/; the QA phase opens a real browser and clicks through the running app."
+    ],
+    "who": [
+      {
+        "role": "Solo developers and small teams building with Claude Code who want AI work checked at every phase, not just at the end.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Inside a Claude Code session, run /plugin marketplace add a-lottes/aSPARK then /plugin install aspark@aspark; on a new project, start with /charter."
+      }
+    ],
+    "caveat": [
+      "Requires Claude Code and Git; the browser QA phase (/demo-day) needs a browser integration such as Claude in Chrome or a Playwright MCP server. Newly released, with 24 stars so far."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://aspark.lottes.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai 코딩",
+    "claude code",
+    "품질 관리",
+    "오픈소스"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": null,
+  "source_urls": {
+    "canonical": "https://aspark.lottes.dev/",
+    "github": "https://github.com/a-lottes/aspark",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/a-lottes/aSPARK",
+        "posted_at": "2026-09-22T04:14:39.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49796728"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 22,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-22T07:32:07.339Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 1,
+    "hn_points_observed_at": "2026-09-22T08:42:58.484Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-22T05:18:18.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-22T07:32:07.339Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "2h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/aspark-23216f9ee6.png",
+    "cover": "https://tesign.com/img/aspark-23216f9ee6.png",
+    "cover_width": 1774,
+    "cover_height": 887,
+    "gallery": [
+      "https://tesign.com/img/aspark-23216f9ee6.png"
+    ],
+    "alt": "The aSPARK loop diagram: Specify, Plan, Act, Review and Keep arranged in a circle.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-22T07:01:42.675Z",
+    "source_created_at": "2026-09-22T04:14:39.000Z",
+    "discovery_hours": 2.7843541666666667,
+    "launch_signal_at": "2026-09-22T04:14:39.000Z",
+    "kept_at": "2026-09-23T02:05:15.189Z",
+    "first_published_at": "2026-09-23T02:05:15.311Z",
+    "updated_at": "2026-09-23T02:05:15.271Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

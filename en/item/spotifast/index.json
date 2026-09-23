@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "en",
   "slug": "spotifast",
   "url": "https://tesign.com/en/item/spotifast/",
@@ -121,10 +121,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 4497,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 4528,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-22T00:38:32.606Z",
+    "stars_checked_at": "2026-09-23T01:49:06.856Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -155,18 +155,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-21T20:37:48.000Z",
+    "pushed_at": "2026-09-22T21:44:48.000Z",
     "owner_type": "User",
     "open_issues": 69,
-    "contributors": 46,
-    "releases_count": 21,
+    "contributors": 47,
+    "releases_count": 22,
     "latest_release": {
-      "tag": "v0.9.0",
-      "published_at": "2026-09-21T20:06:39.000Z",
+      "tag": "v0.9.1",
+      "published_at": "2026-09-22T12:18:37.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-22T00:38:32.606Z",
-    "core_checked_at": "2026-09-22T00:38:32.606Z"
+    "checked_at": "2026-09-23T01:49:06.856Z",
+    "core_checked_at": "2026-09-23T01:49:06.856Z"
   },
   "signals": [
     {

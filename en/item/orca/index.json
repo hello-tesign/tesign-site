@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "en",
   "slug": "orca",
   "url": "https://tesign.com/en/item/orca/",
@@ -120,14 +120,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 74693,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 75675,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-22T00:37:40.976Z",
-    "stars_observed_since_check": 8,
-    "star_delta_24h": 26,
-    "star_delta_7d": 314,
-    "star_delta_30d": 1570,
+    "stars_checked_at": "2026-09-23T01:48:13.676Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 18,
+    "star_delta_7d": 244,
+    "star_delta_30d": 1576,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       28,
@@ -143,7 +143,7 @@
       6,
       5,
       16,
-      10
+      16
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -154,18 +154,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-22T00:32:43.000Z",
+    "pushed_at": "2026-09-23T01:46:35.000Z",
     "owner_type": "Organization",
-    "open_issues": 6411,
-    "contributors": 384,
-    "releases_count": 956,
+    "open_issues": 6582,
+    "contributors": 386,
+    "releases_count": 957,
     "latest_release": {
-      "tag": "v1.4.206",
-      "published_at": "2026-09-20T22:50:08.000Z",
+      "tag": "v1.4.207",
+      "published_at": "2026-09-22T09:44:40.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-22T00:37:40.976Z",
-    "core_checked_at": "2026-09-22T00:37:40.976Z"
+    "checked_at": "2026-09-23T01:48:13.676Z",
+    "core_checked_at": "2026-09-23T01:48:13.676Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "ko",
   "slug": "ponytail",
   "url": "https://tesign.com/item/ponytail/",
@@ -109,14 +109,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 143733,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 144455,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-22T00:37:28.594Z",
+    "stars_checked_at": "2026-09-23T01:48:01.272Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 9,
-    "star_delta_7d": 349,
-    "star_delta_30d": 3464,
+    "star_delta_24h": 12,
+    "star_delta_7d": 264,
+    "star_delta_30d": 3474,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       49,
@@ -132,7 +132,7 @@
       null,
       null,
       11,
-      null
+      10
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -142,11 +142,11 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "all_time": 15,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "all_time": 14,
     "rising": {
       "24h": null,
-      "7d": 11,
+      "7d": 8,
       "30d": 3
     },
     "categories": [
@@ -165,7 +165,7 @@
   "activity": {
     "pushed_at": "2026-09-14T14:34:56.000Z",
     "owner_type": "User",
-    "open_issues": 294,
+    "open_issues": 297,
     "contributors": 66,
     "releases_count": 16,
     "latest_release": {
@@ -173,8 +173,8 @@
       "published_at": "2026-09-14T14:38:56.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-22T00:37:28.594Z",
-    "core_checked_at": "2026-09-22T00:37:28.594Z"
+    "checked_at": "2026-09-23T01:48:01.272Z",
+    "core_checked_at": "2026-09-23T01:48:01.272Z"
   },
   "signals": [],
   "images": {

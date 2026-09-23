@@ -1,0 +1,159 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-23T02:05:21.873Z",
+  "lang": "en",
+  "slug": "mac-mouse-fix",
+  "url": "https://tesign.com/en/item/mac-mouse-fix/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/mac-mouse-fix/",
+      "json": "https://tesign.com/item/mac-mouse-fix/index.json",
+      "markdown": "https://tesign.com/item/mac-mouse-fix/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/mac-mouse-fix/",
+      "json": "https://tesign.com/en/item/mac-mouse-fix/index.json",
+      "markdown": "https://tesign.com/en/item/mac-mouse-fix/index.md"
+    }
+  },
+  "name": "Mac Mouse Fix",
+  "use_label": "Add trackpad gestures to any Mac mouse",
+  "one_liner": "Free macOS utility that gives a cheap mouse trackpad-style gestures — three-finger swipes included.",
+  "text": {
+    "why": "macOS gives trackpads great gestures but leaves mice out. Mac Mouse Fix lets any USB or Bluetooth mouse assign trackpad-level actions — Mission Control, Spaces, Smart Zoom — to its scroll wheel and extra buttons.",
+    "take": "There are other mouse utilities, but this one has over ten thousand stars and a level of polish that mirrors Apple's own trackpad gestures closely.",
+    "build": [
+      "A single preferences app that lives in the menu bar. A per-button mapping screen lets you assign click, scroll and drag actions, with adjustable smooth-scrolling and zoom sensitivity."
+    ],
+    "who": [
+      {
+        "role": "Mac users who want trackpad-level convenience from a cheap mouse, or who want mouse buttons mapped their own way.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Download the app from macmousefix.com, grant Accessibility permission when prompted, and assign actions in the Buttons tab."
+      }
+    ],
+    "caveat": [
+      "The source is open but uses a custom \"MMF License\" — you may build on it, but any derivative must keep the same licensing/monetization code intact and can't be resold."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://macmousefix.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "맥 유틸리티",
+    "생산성",
+    "무료",
+    "오픈소스"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/noah-nuebling/mac-mouse-fix?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "Objective-C",
+  "source_urls": {
+    "canonical": "https://macmousefix.com/",
+    "github": "https://github.com/noah-nuebling/mac-mouse-fix",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/noah-nuebling/mac-mouse-fix",
+        "posted_at": "2026-09-16T01:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 10902,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-17T03:25:30.196Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 6,
+    "star_delta_30d": 6,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      6,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-16T18:30:56.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-17T03:25:30.196Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/mac-mouse-fix-ce89c5f51e.png",
+    "cover": "https://tesign.com/img/mac-mouse-fix-ce89c5f51e.png",
+    "cover_width": 800,
+    "cover_height": 720,
+    "gallery": [
+      "https://tesign.com/img/mac-mouse-fix-ce89c5f51e.png",
+      "https://tesign.com/img/mac-mouse-fix-7d6c04c89d.png"
+    ],
+    "alt": "Mac Mouse Fix's Buttons preferences pane, showing dropdown actions assigned to Button 4 and Button 5 for click, scroll and drag.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-17T03:24:56.536Z",
+    "source_created_at": "2019-08-07T22:09:17.000Z",
+    "discovery_hours": 62333.26098222222,
+    "launch_signal_at": "2026-09-16T01:00:00.000Z",
+    "kept_at": "2026-09-23T02:05:15.170Z",
+    "first_published_at": "2026-09-23T02:05:15.311Z",
+    "updated_at": "2026-09-23T02:05:15.267Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

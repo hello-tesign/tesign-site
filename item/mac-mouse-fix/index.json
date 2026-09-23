@@ -1,0 +1,159 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-23T02:05:21.873Z",
+  "lang": "ko",
+  "slug": "mac-mouse-fix",
+  "url": "https://tesign.com/item/mac-mouse-fix/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/mac-mouse-fix/",
+      "json": "https://tesign.com/item/mac-mouse-fix/index.json",
+      "markdown": "https://tesign.com/item/mac-mouse-fix/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/mac-mouse-fix/",
+      "json": "https://tesign.com/en/item/mac-mouse-fix/index.json",
+      "markdown": "https://tesign.com/en/item/mac-mouse-fix/index.md"
+    }
+  },
+  "name": "Mac Mouse Fix",
+  "use_label": "맥 마우스 제스처 추가",
+  "one_liner": "10달러짜리 마우스를 맥의 트랙패드처럼 세 손가락 제스처까지 쓰게 만들어 주는 무료 유틸리티.",
+  "text": {
+    "why": "맥은 트랙패드 제스처는 훌륭하지만 마우스에는 그 기능을 주지 않는다. Mac Mouse Fix는 어떤 USB·블루투스 마우스든 스크롤 휠과 여분 버튼에 스페이스 보기, 미션 컨트롤, 스마트 확대 같은 트랙패드급 동작을 배정해 준다.",
+    "take": "비슷한 마우스 유틸리티는 많지만, 별 만 개를 넘게 받은 인기와 애플 자체 트랙패드 동작을 그대로 흉내 낸 완성도가 다르다.",
+    "build": [
+      "메뉴바에서 여는 환경설정 앱 하나로 동작한다. 버튼별로 클릭·스크롤·드래그 동작을 매핑하는 화면에서 원하는 기능을 지정하고, 부드러운 스크롤과 확대·축소 감도도 조절할 수 있다."
+    ],
+    "who": [
+      {
+        "role": "저렴한 마우스로 트랙패드 같은 편의를 누리고 싶은 맥 사용자, 마우스 버튼을 자기 방식대로 쓰고 싶은 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "macmousefix.com에서 앱을 내려받아 열고, 손쉬운 사용 권한을 허용한 뒤 버튼 탭에서 원하는 동작을 지정한다."
+      }
+    ],
+    "caveat": [
+      "소스는 공개돼 있지만 자체 제작한 \"MMF License\"를 쓴다 — 파생 앱을 만들어도 무방하지만, 원본에 있는 라이선스·유료화 장치를 그대로 유지해야 하고 유료로 되팔 수 없다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://macmousefix.com/"
+  },
+  "ready": "install",
+  "categories": [
+    "productivity"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "맥 유틸리티",
+    "생산성",
+    "무료",
+    "오픈소스"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
+    "url": "https://github.com/noah-nuebling/mac-mouse-fix?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "Objective-C",
+  "source_urls": {
+    "canonical": "https://macmousefix.com/",
+    "github": "https://github.com/noah-nuebling/mac-mouse-fix",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/noah-nuebling/mac-mouse-fix",
+        "posted_at": "2026-09-16T01:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 10902,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-17T03:25:30.196Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 6,
+    "star_delta_30d": 6,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      6,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-16T18:30:56.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-17T03:25:30.196Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/mac-mouse-fix-ce89c5f51e.png",
+    "cover": "https://tesign.com/img/mac-mouse-fix-ce89c5f51e.png",
+    "cover_width": 800,
+    "cover_height": 720,
+    "gallery": [
+      "https://tesign.com/img/mac-mouse-fix-ce89c5f51e.png",
+      "https://tesign.com/img/mac-mouse-fix-7d6c04c89d.png"
+    ],
+    "alt": "Mac Mouse Fix의 버튼 설정 화면. 4번·5번 버튼에 클릭·스크롤·드래그별 동작을 지정하는 드롭다운 목록.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-17T03:24:56.536Z",
+    "source_created_at": "2019-08-07T22:09:17.000Z",
+    "discovery_hours": 62333.26098222222,
+    "launch_signal_at": "2026-09-16T01:00:00.000Z",
+    "kept_at": "2026-09-23T02:05:15.170Z",
+    "first_published_at": "2026-09-23T02:05:15.311Z",
+    "updated_at": "2026-09-23T02:05:15.267Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

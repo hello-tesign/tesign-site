@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "ko",
   "slug": "2049",
   "url": "https://tesign.com/item/2049/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 0,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 2,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-16T05:46:15.686Z",
+    "stars_checked_at": "2026-09-23T01:47:18.482Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -113,20 +113,20 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 1,
-    "hn_points_observed_at": "2026-09-21T04:12:30.698Z",
+    "hn_points_observed_at": "2026-09-22T09:44:11.110Z",
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-16T04:54:40.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
+    "pushed_at": "2026-09-20T02:17:21.000Z",
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 1,
+    "releases_count": 0,
     "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-16T05:46:15.686Z"
+    "checked_at": "2026-09-23T01:47:18.482Z",
+    "core_checked_at": "2026-09-23T01:47:18.482Z"
   },
   "signals": [
     {

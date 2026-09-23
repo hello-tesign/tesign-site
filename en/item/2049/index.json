@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "en",
   "slug": "2049",
   "url": "https://tesign.com/en/item/2049/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 0,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 2,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-16T05:46:15.686Z",
+    "stars_checked_at": "2026-09-23T01:47:18.482Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -113,20 +113,20 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 1,
-    "hn_points_observed_at": "2026-09-21T04:12:30.698Z",
+    "hn_points_observed_at": "2026-09-22T09:44:11.110Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-16T04:54:40.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
+    "pushed_at": "2026-09-20T02:17:21.000Z",
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 1,
+    "releases_count": 0,
     "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-16T05:46:15.686Z"
+    "checked_at": "2026-09-23T01:47:18.482Z",
+    "core_checked_at": "2026-09-23T01:47:18.482Z"
   },
   "signals": [
     {

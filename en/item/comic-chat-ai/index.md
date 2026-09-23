@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/comic-chat-ai/
 - JSON: https://tesign.com/en/item/comic-chat-ai/index.json
 - Korean Markdown: https://tesign.com/item/comic-chat-ai/index.md
-- Generated: 2026-09-22 07:26 UTC
+- Generated: 2026-09-23 02:05 UTC
 
 ## Numbers
 
-- 1 stars — checked on GitHub 2026-09-16 13:42 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-22 03:00 UTC)
-- 3 Show HN points — observed 2026-09-21 04:12 UTC
+- 1 stars — checked on GitHub 2026-09-23 01:47 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-22 21:00 UTC)
+- 3 Show HN points — observed 2026-09-22 08:42 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -30,11 +30,11 @@
 ## ACTIVITY
 
 - Last commit: 2026-09-16 12:23 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-16 13:42 UTC
+- Latest release: v0.1.0 (2026-09-16)
+- Contributors: 1
+- Open issues (incl. PRs): 0
+- Made by: an individual
+- Checked on GitHub: 2026-09-23 01:47 UTC
 
 ## Signals and evidence
 

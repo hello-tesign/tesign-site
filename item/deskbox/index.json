@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "ko",
   "slug": "deskbox",
   "url": "https://tesign.com/item/deskbox/",
@@ -108,10 +108,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 4968,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 5036,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-22T00:38:03.566Z",
+    "stars_checked_at": "2026-09-23T01:48:36.214Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 6,
@@ -141,28 +141,28 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-22T03:00:00.000Z",
+    "as_of": "2026-09-22T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 90
+      "30d": 91
     },
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-21T03:52:30.000Z",
+    "pushed_at": "2026-09-22T12:13:52.000Z",
     "owner_type": "User",
-    "open_issues": 99,
+    "open_issues": 92,
     "contributors": 1,
-    "releases_count": 53,
+    "releases_count": 54,
     "latest_release": {
-      "tag": "v1.5.4",
-      "published_at": "2026-09-18T06:35:56.000Z",
+      "tag": "v1.5.5",
+      "published_at": "2026-09-22T02:19:29.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-22T00:38:03.566Z",
-    "core_checked_at": "2026-09-22T00:38:03.566Z"
+    "checked_at": "2026-09-23T01:48:36.214Z",
+    "core_checked_at": "2026-09-23T01:48:36.214Z"
   },
   "signals": [],
   "images": {

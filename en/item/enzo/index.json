@@ -1,0 +1,164 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-23T02:05:21.873Z",
+  "lang": "en",
+  "slug": "enzo",
+  "url": "https://tesign.com/en/item/enzo/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/enzo/",
+      "json": "https://tesign.com/item/enzo/index.json",
+      "markdown": "https://tesign.com/item/enzo/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/enzo/",
+      "json": "https://tesign.com/en/item/enzo/index.json",
+      "markdown": "https://tesign.com/en/item/enzo/index.md"
+    }
+  },
+  "name": "ENZO",
+  "use_label": "Self-hosted chat UI for 300+ AI models",
+  "one_liner": "A self-hosted chat and agent workspace that puts 300+ AI models behind your own API keys in one screen.",
+  "text": {
+    "why": "ChatGPT-style services are convenient, but the bill and the chat history both live on someone else's server. ENZO is a chat-and-agent workspace where you paste in your own API keys — OpenRouter, Google AI Studio, NVIDIA NIM and more — and every request goes straight from your browser to the provider you picked, with no account or subscription taking a cut in between.",
+    "take": "Self-hosted AI chat tools aren't rare, but being able to try the whole thing from a single Colab link, with no Docker required, lowers the barrier a lot.",
+    "build": [
+      "One Docker command installs the whole thing (docker compose up -d), or try it with no install at all via a Google Colab notebook that boots in about five minutes. It ships a 300+ model catalog, agents that draft their own operating manual from a plain-English task, and 74 bundled skills; keys are encrypted and saved in the browser."
+    ],
+    "who": [
+      {
+        "role": "Anyone who wants to compare multiple AI models without racking up subscriptions, and keep their chat history in their own hands.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "The easiest path is the README's \"Open in Colab\" button — run all cells. To self-host, clone the repo and run docker compose up -d, then open localhost:5001."
+      }
+    ],
+    "caveat": [
+      "You need your own API key from at least one provider (OpenRouter and Google AI Studio both offer free tiers). Running it on Colab caps a free session at roughly 12 hours."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://enzo-hub.duckdns.org/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai 챗봇",
+    "자체 호스팅",
+    "오픈소스",
+    "byok"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://enzo-hub.duckdns.org/",
+    "github": "https://github.com/theguysudo/enzo",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/theguysudo/ENZO",
+        "posted_at": "2026-09-19T23:47:35.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49771118"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 69,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-20T01:19:26.600Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 16,
+    "hn_points_observed_at": "2026-09-22T00:33:54.709Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-20T00:33:37.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-20T01:19:26.600Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "0h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/enzo-459d532820.png",
+    "cover": "https://tesign.com/img/enzo-459d532820.png",
+    "cover_width": 800,
+    "cover_height": 450,
+    "gallery": [
+      "https://tesign.com/img/enzo-459d532820.png"
+    ],
+    "alt": "ENZO's Vault settings screen, showing API key fields for Cloudflare Workers AI and account ID, with a passphrase-lock notice.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-20T00:19:20.647Z",
+    "source_created_at": "2026-09-19T23:47:35.000Z",
+    "discovery_hours": 0.5293463888888889,
+    "launch_signal_at": "2026-09-19T23:47:35.000Z",
+    "kept_at": "2026-09-23T02:05:15.178Z",
+    "first_published_at": "2026-09-23T02:05:15.311Z",
+    "updated_at": "2026-09-23T02:05:15.274Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

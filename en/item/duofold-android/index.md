@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/duofold-android/
 - JSON: https://tesign.com/en/item/duofold-android/index.json
 - Korean Markdown: https://tesign.com/item/duofold-android/index.md
-- Generated: 2026-09-22 07:26 UTC
+- Generated: 2026-09-23 02:05 UTC
 
 ## Numbers
 
-- 164 stars — checked on GitHub 2026-09-22 00:37 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-22 03:00 UTC)
+- 165 stars — checked on GitHub 2026-09-23 01:48 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-22 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,7 +33,7 @@
 - Contributors: 1
 - Open issues (incl. PRs): 4
 - Made by: an individual
-- Checked on GitHub: 2026-09-22 00:37 UTC
+- Checked on GitHub: 2026-09-23 01:48 UTC
 
 ## Signals and evidence
 

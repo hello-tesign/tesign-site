@@ -5,13 +5,13 @@
 - 페이지: https://tesign.com/item/chat-on-steroids/
 - JSON: https://tesign.com/item/chat-on-steroids/index.json
 - 영어 마크다운: https://tesign.com/en/item/chat-on-steroids/index.md
-- 생성 시각: 2026-09-22 07:26 UTC
+- 생성 시각: 2026-09-23 02:05 UTC
 
 ## 숫자
 
-- 별 3,703 — GitHub에서 2026-09-22 00:37 UTC 확인 (+4 확인 이후 관측)
-- 7일 +40은 GH Archive 관측 (기준 2026-09-22 03:00 UTC)
-- 24h +14 ★ · 30d +198 ★ (기준 2026-09-22 03:00 UTC)
+- 별 3,928 — GitHub에서 2026-09-23 01:48 UTC 확인
+- 7일 +35은 GH Archive 관측 (기준 2026-09-22 21:00 UTC)
+- 24h +6 ★ · 30d +198 ★ (기준 2026-09-22 21:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -29,12 +29,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-09-20 20:25 UTC
+- 마지막 커밋: 2026-09-22 11:55 UTC
 - 최근 릴리스: v2.1.14 (2026-09-19)
 - 기여자: 12
-- 열린 이슈 (PR 포함): 88
+- 열린 이슈 (PR 포함): 76
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-22 00:37 UTC
+- GitHub 확인 시각: 2026-09-23 01:48 UTC
 
 ## TESIGN TAKE
 

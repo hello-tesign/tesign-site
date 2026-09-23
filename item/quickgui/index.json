@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "ko",
   "slug": "quickgui",
   "url": "https://tesign.com/item/quickgui/",
@@ -95,10 +95,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 451,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 455,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-22T00:37:58.491Z",
+    "stars_checked_at": "2026-09-23T01:48:31.356Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -139,8 +139,8 @@
       "published_at": "2026-09-20T04:02:59.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-22T00:37:58.491Z",
-    "core_checked_at": "2026-09-22T00:37:58.491Z"
+    "checked_at": "2026-09-23T01:48:31.356Z",
+    "core_checked_at": "2026-09-23T01:48:31.356Z"
   },
   "signals": [],
   "images": {

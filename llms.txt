@@ -4,7 +4,7 @@
 
 ## Start here
 
-- [Today](https://tesign.com/en/): the finite daily selection (10 items; see /en/about/ for how items are chosen)
+- [Today](https://tesign.com/en/): the finite daily selection (6 items; see /en/about/ for how items are chosen)
 - [About](https://tesign.com/en/about/): what TESIGN Radar is and how selection works
 - [FAQ](https://tesign.com/en/faq/)
 - [Explore](https://tesign.com/en/explore/): every kept product with categories, sources and signals
@@ -41,33 +41,34 @@
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 43 observed events in the last 30 days (11 star-threshold crossings, 31 new repositories, 1 rising leaders), as of 2026-09-22T03:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 47 observed events in the last 30 days (13 star-threshold crossings, 33 new repositories, 1 rising leaders), as of 2026-09-22T21:00:00.000Z; method at /en/about/#ranks
 
 ## Numbers
 
-- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2730 ranking-eligible repositories, 164 published items, 154796 candidate products, 17733 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-22T07:26:19.753Z, history clock 2026-09-22T03:00:00.000Z)
+- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2734 ranking-eligible repositories, 170 published items, 155199 candidate products, 17800 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-23T02:05:21.873Z, history clock 2026-09-22T21:00:00.000Z)
 
 ## Compare
 
-- [200 side-by-side comparisons](https://tesign.com/en/compare/): one /en/compare/<a>-vs-<b>/ page per pair of published items from the same category, both with a GitHub star total — stars with their check time, 7- and 30-day gains, licence, platform, last commit, contributors, how to start and the who-lines of each entry; taken category by category by combined stars, at most 200, star totals as of 2026-09-22T03:00:00.000Z
+- [200 side-by-side comparisons](https://tesign.com/en/compare/): one /en/compare/<a>-vs-<b>/ page per pair of published items from the same category, both with a GitHub star total — stars with their check time, 7- and 30-day gains, licence, platform, last commit, contributors, how to start and the who-lines of each entry; taken category by category by combined stars, at most 200, star totals as of 2026-09-22T21:00:00.000Z
 
 ## Repository cards
 
-- [359 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
+- [355 auto-generated repository cards](https://tesign.com/en/top/): one /en/repo/<owner>/<name>/ page per ranked repository without an edited entry (stored GitHub description, README excerpt, licence and numbers only; not edited, not listed here); reached from the rising, all-time and category lists
 
 ## Store hits
 
-- [Store hits · RISING · KR](https://tesign.com/en/store/): 32 apps; up 20+ places in 24 h or rating count +20% (≥ +200) in 7 days, as of 2026-09-22T01:03:26.109Z
-- [Store hits · FREE TOP · KR](https://tesign.com/en/store/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-22T01:03:26.109Z
-- [Store hits · PAID TOP · KR](https://tesign.com/en/store/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-22T01:03:26.109Z
-- [Store hits · RISING · US](https://tesign.com/en/store/us/): 14 apps; up 20+ places in 24 h or rating count +20% (≥ +200) in 7 days, as of 2026-09-22T01:03:26.109Z
-- [Store hits · NEW ENTRIES · US](https://tesign.com/en/store/us/new/): 3 apps; released within 30 days and charted within 7 days of release, as of 2026-09-22T01:03:26.109Z
-- [Store hits · FREE TOP · US](https://tesign.com/en/store/us/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-22T01:03:26.109Z
-- [Store hits · PAID TOP · US](https://tesign.com/en/store/us/paid/): 97 apps; Apple's top-100 paid chart as last observed, as of 2026-09-22T01:03:26.109Z
+- [Store hits · RISING · KR](https://tesign.com/en/store/): 19 apps; up 20+ places in 24 h or rating count +20% (≥ +200) in 7 days, as of 2026-09-22T14:32:03.829Z
+- [Store hits · NEW ENTRIES · KR](https://tesign.com/en/store/new/): 1 apps; released within 30 days and charted within 7 days of release, as of 2026-09-22T14:32:03.829Z
+- [Store hits · FREE TOP · KR](https://tesign.com/en/store/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-22T14:32:03.829Z
+- [Store hits · PAID TOP · KR](https://tesign.com/en/store/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-22T14:32:03.829Z
+- [Store hits · RISING · US](https://tesign.com/en/store/us/): 6 apps; up 20+ places in 24 h or rating count +20% (≥ +200) in 7 days, as of 2026-09-22T14:32:03.829Z
+- [Store hits · NEW ENTRIES · US](https://tesign.com/en/store/us/new/): 2 apps; released within 30 days and charted within 7 days of release, as of 2026-09-22T14:32:03.829Z
+- [Store hits · FREE TOP · US](https://tesign.com/en/store/us/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-22T14:32:03.829Z
+- [Store hits · PAID TOP · US](https://tesign.com/en/store/us/paid/): 99 apps; Apple's top-100 paid chart as last observed, as of 2026-09-22T14:32:03.829Z
 
 ## App Store cards
 
-- [400 auto-generated App Store app cards](https://tesign.com/en/about/): one /en/app/appstore/<id>/ page per app observed on Apple's public KR/US top-100 free/paid charts without an edited entry (Apple's store description, rating, rating count, chart ranks and our observation times only; not edited, not listed here), as of 2026-09-22T01:03:26.109Z
+- [400 auto-generated App Store app cards](https://tesign.com/en/about/): one /en/app/appstore/<id>/ page per app observed on Apple's public KR/US top-100 free/paid charts without an edited entry (Apple's store description, rating, rating count, chart ranks and our observation times only; not edited, not listed here), as of 2026-09-22T14:32:03.829Z
 
 ## RSS
 
@@ -79,9 +80,9 @@
 
 Every published item has a sibling index.json and index.md next to its page: /item/<slug>/index.json and /item/<slug>/index.md in Korean, /en/item/<slug>/index.json and /en/item/<slug>/index.md in English. Keys name the unit (stars, star_delta_7d, hf_likes); every figure sits next to its reference time (as_of, *_at); null means not observed, never zero. Counts are stored observations, not scores. These files are not in the sitemap.
 
-- [Index of every published item (JSON)](https://tesign.com/data/index.json): 164 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-22T07:26:19.753Z); not for search indexes (robots.txt), not in the sitemap
-- [Example: 2049 — Mines of Merge as JSON](https://tesign.com/en/item/2049/index.json): name, use label, one-liner, why / build / who / start / caveat, licence and scope, platform, categories, numbers with as_of, ranks, activity, images, source URLs, generated_at
-- [Example: 2049 — Mines of Merge as Markdown](https://tesign.com/en/item/2049/index.md): the same fields as headed Markdown; Korean at the path without /en
+- [Index of every published item (JSON)](https://tesign.com/data/index.json): 170 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-23T02:05:21.873Z); not for search indexes (robots.txt), not in the sitemap
+- [Example: aSPARK as JSON](https://tesign.com/en/item/aspark/index.json): name, use label, one-liner, why / build / who / start / caveat, licence and scope, platform, categories, numbers with as_of, ranks, activity, images, source URLs, generated_at
+- [Example: aSPARK as Markdown](https://tesign.com/en/item/aspark/index.md): the same fields as headed Markdown; Korean at the path without /en
 
 ## Contact
 
@@ -89,6 +90,12 @@ Every published item has a sibling index.json and index.md next to its page: /it
 
 ## Products (English)
 
+- [aSPARK](https://tesign.com/en/item/aspark/): An agile AI product team for Claude Code that gates every feature through spec, plan, build, review and QA.
+- [ENZO](https://tesign.com/en/item/enzo/): A self-hosted chat and agent workspace that puts 300+ AI models behind your own API keys in one screen.
+- [capcut-cli](https://tesign.com/en/item/capcut-cli/): An unofficial CLI that edits CapCut/JianYing project files directly on your machine — no upload, no account.
+- [Mac Mouse Fix](https://tesign.com/en/item/mac-mouse-fix/): Free macOS utility that gives a cheap mouse trackpad-style gestures — three-finger swipes included.
+- [MVT](https://tesign.com/en/item/mvt/): A forensic toolkit from Amnesty International that lets you check your own phone for signs of spyware.
+- [AutoClip](https://tesign.com/en/item/autoclip/): Drop in a long video and AI finds the highlights, cutting captioned short clips automatically.
 - [2049 — Mines of Merge](https://tesign.com/en/item/2049/): You are the tile: slide by 2048 rules while dodging Minesweeper-style hidden mines down eight depths.
 - [pokertools-arena](https://tesign.com/en/item/pokertools-arena/): Seats several OpenAI-compatible models at the same poker table and lets you watch every decision as a spectator.
 - [Comic Chat for AI](https://tesign.com/en/item/comic-chat-ai/): A revival of Microsoft’s old Comic Chat that automatically draws a ChatGPT conversation as a comic strip.
@@ -256,6 +263,7 @@ Every published item has a sibling index.json and index.md next to its page: /it
 
 ## Daily
 
+- [Daily 2026-09-23](https://tesign.com/en/day/2026-09-23/)
 - [Daily 2026-09-22](https://tesign.com/en/day/2026-09-22/)
 - [Daily 2026-09-21](https://tesign.com/en/day/2026-09-21/)
 - [Daily 2026-09-20](https://tesign.com/en/day/2026-09-20/)

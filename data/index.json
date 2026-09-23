@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "site": "https://tesign.com",
-  "count": 164,
+  "count": 170,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,185 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-22T03:00:00.000Z",
+  "numbers_as_of": "2026-09-22T21:00:00.000Z",
   "items": [
+    {
+      "slug": "aspark",
+      "name": {
+        "ko": "aSPARK",
+        "en": "aSPARK"
+      },
+      "use_label": {
+        "ko": "AI 개발팀 승인 관문",
+        "en": "Gated AI product team for Claude Code"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "ai"
+      ],
+      "updated": "2026-09-23T02:05:15.271Z",
+      "kept_at": "2026-09-23T02:05:15.189Z",
+      "html": {
+        "ko": "https://tesign.com/item/aspark/",
+        "en": "https://tesign.com/en/item/aspark/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/aspark/index.json",
+        "en": "https://tesign.com/en/item/aspark/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/aspark/index.md",
+        "en": "https://tesign.com/en/item/aspark/index.md"
+      }
+    },
+    {
+      "slug": "enzo",
+      "name": {
+        "ko": "ENZO",
+        "en": "ENZO"
+      },
+      "use_label": {
+        "ko": "자체 설치 AI 채팅",
+        "en": "Self-hosted chat UI for 300+ AI models"
+      },
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "updated": "2026-09-23T02:05:15.274Z",
+      "kept_at": "2026-09-23T02:05:15.178Z",
+      "html": {
+        "ko": "https://tesign.com/item/enzo/",
+        "en": "https://tesign.com/en/item/enzo/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/enzo/index.json",
+        "en": "https://tesign.com/en/item/enzo/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/enzo/index.md",
+        "en": "https://tesign.com/en/item/enzo/index.md"
+      }
+    },
+    {
+      "slug": "capcut-cli",
+      "name": {
+        "ko": "capcut-cli",
+        "en": "capcut-cli"
+      },
+      "use_label": {
+        "ko": "캡컷 편집파일 CLI 수정",
+        "en": "Edit CapCut project drafts from a CLI"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "media"
+      ],
+      "updated": "2026-09-23T02:05:15.269Z",
+      "kept_at": "2026-09-23T02:05:15.175Z",
+      "html": {
+        "ko": "https://tesign.com/item/capcut-cli/",
+        "en": "https://tesign.com/en/item/capcut-cli/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/capcut-cli/index.json",
+        "en": "https://tesign.com/en/item/capcut-cli/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/capcut-cli/index.md",
+        "en": "https://tesign.com/en/item/capcut-cli/index.md"
+      }
+    },
+    {
+      "slug": "mac-mouse-fix",
+      "name": {
+        "ko": "Mac Mouse Fix",
+        "en": "Mac Mouse Fix"
+      },
+      "use_label": {
+        "ko": "맥 마우스 제스처 추가",
+        "en": "Add trackpad gestures to any Mac mouse"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-23T02:05:15.267Z",
+      "kept_at": "2026-09-23T02:05:15.170Z",
+      "html": {
+        "ko": "https://tesign.com/item/mac-mouse-fix/",
+        "en": "https://tesign.com/en/item/mac-mouse-fix/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/mac-mouse-fix/index.json",
+        "en": "https://tesign.com/en/item/mac-mouse-fix/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/mac-mouse-fix/index.md",
+        "en": "https://tesign.com/en/item/mac-mouse-fix/index.md"
+      }
+    },
+    {
+      "slug": "mvt",
+      "name": {
+        "ko": "MVT",
+        "en": "MVT"
+      },
+      "use_label": {
+        "ko": "스마트폰 스파이웨어 점검",
+        "en": "Check your phone for spyware traces"
+      },
+      "category": "security",
+      "categories": [
+        "security"
+      ],
+      "updated": "2026-09-23T02:05:15.231Z",
+      "kept_at": "2026-09-23T02:05:15.156Z",
+      "html": {
+        "ko": "https://tesign.com/item/mvt/",
+        "en": "https://tesign.com/en/item/mvt/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/mvt/index.json",
+        "en": "https://tesign.com/en/item/mvt/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/mvt/index.md",
+        "en": "https://tesign.com/en/item/mvt/index.md"
+      }
+    },
+    {
+      "slug": "autoclip",
+      "name": {
+        "ko": "AutoClip",
+        "en": "AutoClip"
+      },
+      "use_label": {
+        "ko": "영상 하이라이트 자동 편집",
+        "en": "Auto-clip highlights from long videos"
+      },
+      "category": "media",
+      "categories": [
+        "media",
+        "ai"
+      ],
+      "updated": "2026-09-23T02:05:15.263Z",
+      "kept_at": "2026-09-23T02:05:15.144Z",
+      "html": {
+        "ko": "https://tesign.com/item/autoclip/",
+        "en": "https://tesign.com/en/item/autoclip/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/autoclip/index.json",
+        "en": "https://tesign.com/en/item/autoclip/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/autoclip/index.md",
+        "en": "https://tesign.com/en/item/autoclip/index.md"
+      }
+    },
     {
       "slug": "2049",
       "name": {

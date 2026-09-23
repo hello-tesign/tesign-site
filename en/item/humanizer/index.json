@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "en",
   "slug": "humanizer",
   "url": "https://tesign.com/en/item/humanizer/",
@@ -109,14 +109,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 51082,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 51428,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-22T00:37:49.325Z",
-    "stars_observed_since_check": 5,
-    "star_delta_24h": 14,
-    "star_delta_7d": 194,
-    "star_delta_30d": 1539,
+    "stars_checked_at": "2026-09-23T01:48:22.199Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 9,
+    "star_delta_7d": 154,
+    "star_delta_30d": 1543,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       24,
@@ -132,7 +132,7 @@
       4,
       2,
       9,
-      5
+      9
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -142,7 +142,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-22T03:00:00.000Z",
+    "as_of": "2026-09-22T21:00:00.000Z",
     "all_time": 127,
     "rising": {
       "24h": null,
@@ -160,7 +160,7 @@
   "activity": {
     "pushed_at": "2026-09-06T20:26:10.000Z",
     "owner_type": "User",
-    "open_issues": 24,
+    "open_issues": 25,
     "contributors": 19,
     "releases_count": 5,
     "latest_release": {
@@ -168,8 +168,8 @@
       "published_at": "2026-09-06T20:26:10.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-22T00:37:49.325Z",
-    "core_checked_at": "2026-09-22T00:37:49.325Z"
+    "checked_at": "2026-09-23T01:48:22.199Z",
+    "core_checked_at": "2026-09-23T01:48:22.199Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "ko",
   "slug": "hibi",
   "url": "https://tesign.com/item/hibi/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 14,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 57,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-21T05:05:25.400Z",
+    "stars_checked_at": "2026-09-23T01:47:23.379Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -113,21 +113,25 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 5,
-    "hn_points_observed_at": "2026-09-22T00:33:54.225Z",
+    "hn_points": 6,
+    "hn_points_observed_at": "2026-09-23T01:24:10.746Z",
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-21T04:47:41.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-21T05:05:25.400Z"
+    "pushed_at": "2026-09-23T01:43:41.000Z",
+    "owner_type": "User",
+    "open_issues": 31,
+    "contributors": 8,
+    "releases_count": 15,
+    "latest_release": {
+      "tag": "nightly-broken-2026-09-22-2513c22-29-1",
+      "published_at": "2026-09-22T18:38:07.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-09-23T01:47:23.379Z",
+    "core_checked_at": "2026-09-23T01:47:23.379Z"
   },
   "signals": [
     {

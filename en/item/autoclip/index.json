@@ -1,0 +1,177 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-23T02:05:21.873Z",
+  "lang": "en",
+  "slug": "autoclip",
+  "url": "https://tesign.com/en/item/autoclip/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/autoclip/",
+      "json": "https://tesign.com/item/autoclip/index.json",
+      "markdown": "https://tesign.com/item/autoclip/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/autoclip/",
+      "json": "https://tesign.com/en/item/autoclip/index.json",
+      "markdown": "https://tesign.com/en/item/autoclip/index.md"
+    }
+  },
+  "name": "AutoClip",
+  "use_label": "Auto-clip highlights from long videos",
+  "one_liner": "Drop in a long video and AI finds the highlights, cutting captioned short clips automatically.",
+  "text": {
+    "why": "Finding the watchable moments in a long interview, lecture or stream replay is tedious work. AutoClip reads the subtitles and audio with AI, scores highlights, writes titles, and cuts captioned short clips and compilations automatically.",
+    "take": "Plenty of tools promise AI video editing; being able to pick desktop, web or CLI from one project, and swap the model provider freely, is the practical part.",
+    "build": [
+      "Available as a desktop app (Mac/Windows), a Docker web UI, or a CLI/MCP pipeline. Feed it a local file or a YouTube/Bilibili link, it prepares subtitles, scores highlight segments with your choice of model (Qwen, an OpenAI-compatible endpoint, Gemini, or a local Ollama/LM Studio model), and cuts clips. Direct publishing to TikTok, YouTube Shorts and more shipped in v1.3.2."
+    ],
+    "who": [
+      {
+        "role": "Content creators who need short clips out of interviews, lectures or stream replays, and podcasters looking to cut editing time.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Download the Mac or Windows build from GitHub Releases, add an API key for your chosen model in settings, and import a video."
+      }
+    ],
+    "caveat": [
+      "AI analysis needs an API key from a model provider such as Qwen or OpenAI (a local Ollama model is free). The interface defaults to Chinese, but has supported 8 languages including Korean since v1.3.1."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://zhouxiaoka.github.io/autoclip_intro"
+  },
+  "ready": "install",
+  "categories": [
+    "media",
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "영상 편집",
+    "ai 클리핑",
+    "콘텐츠 제작",
+    "데스크톱"
+  ],
+  "platform": [
+    "windows",
+    "macos",
+    "web",
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://zhouxiaoka.github.io/autoclip_intro",
+    "github": "https://github.com/zhouxiaoka/autoclip",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/zhouxiaoka/autoclip",
+        "posted_at": "2026-09-21T18:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 8278,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-22T01:32:51.735Z",
+    "stars_observed_since_check": 11,
+    "star_delta_24h": 17,
+    "star_delta_7d": 27,
+    "star_delta_30d": 34,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      8,
+      17
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "media",
+        "label": "MEDIA",
+        "rank": 16
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-21T17:19:32.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-22T01:32:51.735Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/autoclip-4ab9aa959a.jpg",
+    "cover": "https://tesign.com/img/autoclip-4ab9aa959a.jpg",
+    "cover_width": 479,
+    "cover_height": 467,
+    "gallery": [
+      "https://tesign.com/img/autoclip-4ab9aa959a.jpg"
+    ],
+    "alt": "AutoClip's import screen: a drag-and-drop area for video files above an empty project list.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-22T00:32:42.312Z",
+    "source_created_at": "2025-07-08T04:51:15.000Z",
+    "discovery_hours": 10579.69092,
+    "launch_signal_at": "2026-09-21T18:00:00.000Z",
+    "kept_at": "2026-09-23T02:05:15.144Z",
+    "first_published_at": "2026-09-23T02:05:15.311Z",
+    "updated_at": "2026-09-23T02:05:15.263Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

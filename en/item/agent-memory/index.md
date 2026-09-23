@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/agent-memory/
 - JSON: https://tesign.com/en/item/agent-memory/index.json
 - Korean Markdown: https://tesign.com/item/agent-memory/index.md
-- Generated: 2026-09-22 07:26 UTC
+- Generated: 2026-09-23 02:05 UTC
 
 ## Numbers
 
-- 963 stars — checked on GitHub 2026-09-22 00:37 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-22 03:00 UTC)
+- 964 stars — checked on GitHub 2026-09-23 01:48 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-22 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-21 15:47 UTC
+- Last commit: 2026-09-22 17:01 UTC
 - Latest release: no releases
-- Contributors: 3
-- Open issues (incl. PRs): 18
+- Contributors: 5
+- Open issues (incl. PRs): 11
 - Made by: an organization
-- Checked on GitHub: 2026-09-22 00:37 UTC
+- Checked on GitHub: 2026-09-23 01:48 UTC
 
 ## TESIGN TAKE
 

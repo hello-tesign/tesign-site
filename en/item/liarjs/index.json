@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "en",
   "slug": "liarjs",
   "url": "https://tesign.com/en/item/liarjs/",
@@ -86,13 +86,13 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 383,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 416,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-22T00:37:07.019Z",
+    "stars_checked_at": "2026-09-23T01:47:38.774Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 21,
+    "star_delta_24h": null,
+    "star_delta_7d": 11,
     "star_delta_30d": 23,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
@@ -122,12 +122,12 @@
   "activity": {
     "pushed_at": "2026-08-20T07:14:49.000Z",
     "owner_type": "User",
-    "open_issues": 70,
+    "open_issues": 75,
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-22T00:37:07.019Z",
-    "core_checked_at": "2026-09-22T00:37:07.019Z"
+    "checked_at": "2026-09-23T01:47:38.774Z",
+    "core_checked_at": "2026-09-23T01:47:38.774Z"
   },
   "signals": [],
   "images": {

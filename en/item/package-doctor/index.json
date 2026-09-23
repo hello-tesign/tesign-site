@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "en",
   "slug": "package-doctor",
   "url": "https://tesign.com/en/item/package-doctor/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 8,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 9,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-19T03:09:08.818Z",
+    "stars_checked_at": "2026-09-23T01:47:20.346Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,14 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-16T22:00:09.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-19T03:09:08.818Z"
+    "pushed_at": "2026-09-22T15:52:30.000Z",
+    "owner_type": "User",
+    "open_issues": 0,
+    "contributors": 3,
+    "releases_count": 17,
+    "latest_release": {
+      "tag": "v1.0.2",
+      "published_at": "2026-09-16T22:00:16.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-23T01:47:20.346Z",
+    "core_checked_at": "2026-09-23T01:47:20.346Z"
   },
   "signals": [
     {

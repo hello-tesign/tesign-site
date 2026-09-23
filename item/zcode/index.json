@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-22T07:26:19.753Z",
+  "generated_at": "2026-09-23T02:05:21.873Z",
   "lang": "ko",
   "slug": "zcode",
   "url": "https://tesign.com/item/zcode/",
@@ -89,14 +89,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T03:00:00.000Z",
-    "stars": 5072,
+    "as_of": "2026-09-22T21:00:00.000Z",
+    "stars": 6312,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-21T13:07:06.321Z",
-    "stars_observed_since_check": 38,
-    "star_delta_24h": 38,
-    "star_delta_7d": 64,
-    "star_delta_30d": 64,
+    "stars_checked_at": "2026-09-23T01:47:24.294Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 23,
+    "star_delta_7d": 69,
+    "star_delta_30d": 69,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -112,7 +112,7 @@
       null,
       null,
       48,
-      16
+      21
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -124,13 +124,13 @@
   "ranks": null,
   "activity": {
     "pushed_at": "2026-09-21T00:02:36.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
+    "owner_type": "Organization",
+    "open_issues": 11,
+    "contributors": 2,
+    "releases_count": 0,
     "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-21T13:07:06.321Z"
+    "checked_at": "2026-09-23T01:47:24.294Z",
+    "core_checked_at": "2026-09-23T01:47:24.294Z"
   },
   "signals": [
     {

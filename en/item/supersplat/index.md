@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/supersplat/
 - JSON: https://tesign.com/en/item/supersplat/index.json
 - Korean Markdown: https://tesign.com/item/supersplat/index.md
-- Generated: 2026-09-22 07:26 UTC
+- Generated: 2026-09-23 02:05 UTC
 
 ## RANKS
 
-- DESIGN #18 · MEDIA #14 (As of 2026-09-22 03:00 UTC)
+- DESIGN #18 · MEDIA #14 (As of 2026-09-22 21:00 UTC)
 
 ## Numbers
 
-- 10,237 stars — checked on GitHub 2026-09-22 00:37 UTC
-- 7-day +7 observed via GH Archive (as of 2026-09-22 03:00 UTC)
+- 10,247 stars — checked on GitHub 2026-09-23 01:47 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-22 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-21 12:41 UTC
+- Last commit: 2026-09-22 16:42 UTC
 - Latest release: v3.3.1 (2026-09-21)
 - Contributors: 29
 - Open issues (incl. PRs): 112
 - Made by: an organization
-- Checked on GitHub: 2026-09-22 00:37 UTC
+- Checked on GitHub: 2026-09-23 01:47 UTC
 
 ## TESIGN TAKE
 
