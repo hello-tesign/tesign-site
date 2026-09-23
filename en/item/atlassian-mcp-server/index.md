@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/atlassian-mcp-server/
 - JSON: https://tesign.com/en/item/atlassian-mcp-server/index.json
 - Korean Markdown: https://tesign.com/item/atlassian-mcp-server/index.md
-- Generated: 2026-09-23 02:05 UTC
+- Generated: 2026-09-23 04:12 UTC
 
 ## Numbers
 
 - 1,059 stars — checked on GitHub 2026-09-23 01:47 UTC
-- 7-day +11 observed via GH Archive (as of 2026-09-22 21:00 UTC)
+- 7-day +9 observed via GH Archive (as of 2026-09-22 23:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

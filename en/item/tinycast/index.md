@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/tinycast/
 - JSON: https://tesign.com/en/item/tinycast/index.json
 - Korean Markdown: https://tesign.com/item/tinycast/index.md
-- Generated: 2026-09-23 02:05 UTC
+- Generated: 2026-09-23 04:12 UTC
 
 ## RANKS
 
-- Rising this week #13 (As of 2026-09-22 21:00 UTC)
+-  (As of 2026-09-22 23:00 UTC)
 
 ## Numbers
 
 - 7,261 stars — checked on GitHub 2026-09-23 01:49 UTC
-- 7-day +210 observed via GH Archive (as of 2026-09-22 21:00 UTC)
-- 24h +4 ★ · 30d +495 ★ (as of 2026-09-22 21:00 UTC)
+- 7-day +184 observed via GH Archive (as of 2026-09-22 23:00 UTC)
+- 24h +4 ★ · 30d +495 ★ (as of 2026-09-22 23:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

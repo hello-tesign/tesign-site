@@ -5,17 +5,17 @@
 - 페이지: https://tesign.com/item/vorssaint/
 - JSON: https://tesign.com/item/vorssaint/index.json
 - 영어 마크다운: https://tesign.com/en/item/vorssaint/index.md
-- 생성 시각: 2026-09-23 02:05 UTC
+- 생성 시각: 2026-09-23 04:12 UTC
 
 ## 순위
 
-- 생산성 분야 20위 (기준 2026-09-22 21:00 UTC)
+- 생산성 분야 20위 (기준 2026-09-22 23:00 UTC)
 
 ## 숫자
 
 - 별 20,739 — GitHub에서 2026-09-23 01:48 UTC 확인
-- 7일 +42은 GH Archive 관측 (기준 2026-09-22 21:00 UTC)
-- 24h +7 ★ · 30d +610 ★ (기준 2026-09-22 21:00 UTC)
+- 7일 +36은 GH Archive 관측 (기준 2026-09-22 23:00 UTC)
+- 24h +7 ★ · 30d +610 ★ (기준 2026-09-22 23:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실

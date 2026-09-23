@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/words-of-hanoi/
 - JSON: https://tesign.com/item/words-of-hanoi/index.json
 - 영어 마크다운: https://tesign.com/en/item/words-of-hanoi/index.md
-- 생성 시각: 2026-09-23 02:05 UTC
+- 생성 시각: 2026-09-23 04:12 UTC
 
 ## 숫자
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T02:05:21.873Z",
+  "generated_at": "2026-09-23T04:12:15.539Z",
   "lang": "ko",
   "slug": "mvt",
   "url": "https://tesign.com/item/mvt/",
@@ -86,12 +86,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T21:00:00.000Z",
+    "as_of": "2026-09-22T23:00:00.000Z",
     "stars": 13692,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-22T05:41:16.995Z",
     "stars_observed_since_check": 5,
-    "star_delta_24h": 10,
+    "star_delta_24h": 8,
     "star_delta_7d": 16,
     "star_delta_30d": 18,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -119,7 +119,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-22T21:00:00.000Z",
+    "as_of": "2026-09-22T23:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,

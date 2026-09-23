@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T02:05:21.873Z",
+  "generated_at": "2026-09-23T04:12:15.539Z",
   "lang": "en",
   "slug": "vercel-labs-fx",
   "url": "https://tesign.com/en/item/vercel-labs-fx/",
@@ -113,7 +113,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T21:00:00.000Z",
+    "as_of": "2026-09-22T23:00:00.000Z",
     "stars": 3127,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-09-23T01:49:26.876Z",

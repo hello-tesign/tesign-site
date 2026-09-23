@@ -41,15 +41,15 @@
 
 ## Milestones
 
-- [Milestones](https://tesign.com/en/milestones/): 47 observed events in the last 30 days (13 star-threshold crossings, 33 new repositories, 1 rising leaders), as of 2026-09-22T21:00:00.000Z; method at /en/about/#ranks
+- [Milestones](https://tesign.com/en/milestones/): 51 observed events in the last 30 days (14 star-threshold crossings, 36 new repositories, 1 rising leaders), as of 2026-09-22T23:00:00.000Z; method at /en/about/#ranks
 
 ## Numbers
 
-- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2734 ranking-eligible repositories, 170 published items, 155199 candidate products, 17800 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-23T02:05:21.873Z, history clock 2026-09-22T21:00:00.000Z)
+- [Radar in numbers](https://tesign.com/en/numbers/): counts of stored observations only — 2751 ranking-eligible repositories, 170 published items, 155209 candidate products, 17800 repositories with stored star history; star, licence, language, source and category splits, each with its counting rule and reference time (build 2026-09-23T04:12:15.539Z, history clock 2026-09-22T23:00:00.000Z)
 
 ## Compare
 
-- [200 side-by-side comparisons](https://tesign.com/en/compare/): one /en/compare/<a>-vs-<b>/ page per pair of published items from the same category, both with a GitHub star total — stars with their check time, 7- and 30-day gains, licence, platform, last commit, contributors, how to start and the who-lines of each entry; taken category by category by combined stars, at most 200, star totals as of 2026-09-22T21:00:00.000Z
+- [200 side-by-side comparisons](https://tesign.com/en/compare/): one /en/compare/<a>-vs-<b>/ page per pair of published items from the same category, both with a GitHub star total — stars with their check time, 7- and 30-day gains, licence, platform, last commit, contributors, how to start and the who-lines of each entry; taken category by category by combined stars, at most 200, star totals as of 2026-09-22T23:00:00.000Z
 
 ## Repository cards
 
@@ -57,18 +57,18 @@
 
 ## Store hits
 
-- [Store hits · RISING · KR](https://tesign.com/en/store/): 19 apps; up 20+ places in 24 h or rating count +20% (≥ +200) in 7 days, as of 2026-09-22T14:32:03.829Z
-- [Store hits · NEW ENTRIES · KR](https://tesign.com/en/store/new/): 1 apps; released within 30 days and charted within 7 days of release, as of 2026-09-22T14:32:03.829Z
-- [Store hits · FREE TOP · KR](https://tesign.com/en/store/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-22T14:32:03.829Z
-- [Store hits · PAID TOP · KR](https://tesign.com/en/store/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-22T14:32:03.829Z
-- [Store hits · RISING · US](https://tesign.com/en/store/us/): 6 apps; up 20+ places in 24 h or rating count +20% (≥ +200) in 7 days, as of 2026-09-22T14:32:03.829Z
-- [Store hits · NEW ENTRIES · US](https://tesign.com/en/store/us/new/): 2 apps; released within 30 days and charted within 7 days of release, as of 2026-09-22T14:32:03.829Z
-- [Store hits · FREE TOP · US](https://tesign.com/en/store/us/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-22T14:32:03.829Z
-- [Store hits · PAID TOP · US](https://tesign.com/en/store/us/paid/): 99 apps; Apple's top-100 paid chart as last observed, as of 2026-09-22T14:32:03.829Z
+- [Store hits · RISING · KR](https://tesign.com/en/store/): 15 apps; up 20+ places in 24 h or rating count +20% (≥ +200) in 7 days, as of 2026-09-23T02:32:42.218Z
+- [Store hits · NEW ENTRIES · KR](https://tesign.com/en/store/new/): 1 apps; released within 30 days and charted within 7 days of release, as of 2026-09-23T02:32:42.218Z
+- [Store hits · FREE TOP · KR](https://tesign.com/en/store/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-23T02:32:42.218Z
+- [Store hits · PAID TOP · KR](https://tesign.com/en/store/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-23T02:32:42.218Z
+- [Store hits · RISING · US](https://tesign.com/en/store/us/): 16 apps; up 20+ places in 24 h or rating count +20% (≥ +200) in 7 days, as of 2026-09-23T02:32:42.218Z
+- [Store hits · NEW ENTRIES · US](https://tesign.com/en/store/us/new/): 3 apps; released within 30 days and charted within 7 days of release, as of 2026-09-23T02:32:42.218Z
+- [Store hits · FREE TOP · US](https://tesign.com/en/store/us/free/): 100 apps; Apple's top-100 free chart as last observed, as of 2026-09-23T02:32:42.218Z
+- [Store hits · PAID TOP · US](https://tesign.com/en/store/us/paid/): 100 apps; Apple's top-100 paid chart as last observed, as of 2026-09-23T02:32:42.218Z
 
 ## App Store cards
 
-- [400 auto-generated App Store app cards](https://tesign.com/en/about/): one /en/app/appstore/<id>/ page per app observed on Apple's public KR/US top-100 free/paid charts without an edited entry (Apple's store description, rating, rating count, chart ranks and our observation times only; not edited, not listed here), as of 2026-09-22T14:32:03.829Z
+- [400 auto-generated App Store app cards](https://tesign.com/en/about/): one /en/app/appstore/<id>/ page per app observed on Apple's public KR/US top-100 free/paid charts without an edited entry (Apple's store description, rating, rating count, chart ranks and our observation times only; not edited, not listed here), as of 2026-09-23T02:32:42.218Z
 
 ## RSS
 
@@ -80,7 +80,7 @@
 
 Every published item has a sibling index.json and index.md next to its page: /item/<slug>/index.json and /item/<slug>/index.md in Korean, /en/item/<slug>/index.json and /en/item/<slug>/index.md in English. Keys name the unit (stars, star_delta_7d, hf_likes); every figure sits next to its reference time (as_of, *_at); null means not observed, never zero. Counts are stored observations, not scores. These files are not in the sitemap.
 
-- [Index of every published item (JSON)](https://tesign.com/data/index.json): 170 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-23T02:05:21.873Z); not for search indexes (robots.txt), not in the sitemap
+- [Index of every published item (JSON)](https://tesign.com/data/index.json): 170 items — slug, name (ko/en), use label, category, last update and the URL of each item's HTML, JSON and Markdown; regenerated every build (2026-09-23T04:12:15.539Z); not for search indexes (robots.txt), not in the sitemap
 - [Example: aSPARK as JSON](https://tesign.com/en/item/aspark/index.json): name, use label, one-liner, why / build / who / start / caveat, licence and scope, platform, categories, numbers with as_of, ranks, activity, images, source URLs, generated_at
 - [Example: aSPARK as Markdown](https://tesign.com/en/item/aspark/index.md): the same fields as headed Markdown; Korean at the path without /en
 

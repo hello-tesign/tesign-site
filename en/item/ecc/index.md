@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/ecc/
 - JSON: https://tesign.com/en/item/ecc/index.json
 - Korean Markdown: https://tesign.com/item/ecc/index.md
-- Generated: 2026-09-23 02:05 UTC
+- Generated: 2026-09-23 04:12 UTC
 
 ## Numbers
 
 - 265,475 stars — checked on GitHub 2026-09-23 01:47 UTC
-- 7-day +290 observed via GH Archive (as of 2026-09-22 21:00 UTC)
-- 24h +7 ★ · 30d +2,670 ★ (as of 2026-09-22 21:00 UTC)
+- 7-day +267 observed via GH Archive (as of 2026-09-22 23:00 UTC)
+- 24h +3 ★ · 30d +2,670 ★ (as of 2026-09-22 23:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
