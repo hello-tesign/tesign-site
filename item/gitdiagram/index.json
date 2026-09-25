@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "ko",
   "slug": "gitdiagram",
   "url": "https://tesign.com/item/gitdiagram/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 16935,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 17069,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:47:51.371Z",
+    "stars_checked_at": "2026-09-25T02:58:09.264Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 6,
@@ -101,8 +101,8 @@
       null,
       null,
       null,
-      null,
       6,
+      null,
       null,
       null,
       null,
@@ -118,14 +118,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-22T18:58:59.000Z",
+    "pushed_at": "2026-09-25T02:51:03.000Z",
     "owner_type": "User",
     "open_issues": 43,
     "contributors": 4,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-23T01:47:51.371Z",
-    "core_checked_at": "2026-09-23T01:47:51.371Z"
+    "checked_at": "2026-09-25T02:58:09.264Z",
+    "core_checked_at": "2026-09-25T02:58:09.264Z"
   },
   "signals": [],
   "images": {

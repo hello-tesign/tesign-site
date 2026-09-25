@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "pi-desktop",
   "url": "https://tesign.com/en/item/pi-desktop/",
@@ -105,17 +105,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 5228,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 5601,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:48:23.095Z",
+    "stars_checked_at": "2026-09-25T02:58:41.235Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 21,
-    "star_delta_30d": 338,
+    "star_delta_24h": 2,
+    "star_delta_7d": 6,
+    "star_delta_30d": 340,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      14,
       49,
       130,
       80,
@@ -128,7 +127,8 @@
       null,
       null,
       2,
-      null
+      null,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -138,7 +138,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-22T23:00:00.000Z",
+    "as_of": "2026-09-23T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -148,18 +148,18 @@
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-23T01:17:07.000Z",
+    "pushed_at": "2026-09-25T01:30:09.000Z",
     "owner_type": "User",
-    "open_issues": 142,
-    "contributors": 62,
-    "releases_count": 74,
+    "open_issues": 171,
+    "contributors": 68,
+    "releases_count": 78,
     "latest_release": {
-      "tag": "v0.15.4-beta.2",
-      "published_at": "2026-09-22T21:12:25.000Z",
-      "prerelease": true
+      "tag": "v0.15.7",
+      "published_at": "2026-09-24T21:41:05.000Z",
+      "prerelease": false
     },
-    "checked_at": "2026-09-23T01:48:23.095Z",
-    "core_checked_at": "2026-09-23T01:48:23.095Z"
+    "checked_at": "2026-09-25T02:58:41.235Z",
+    "core_checked_at": "2026-09-25T02:58:41.235Z"
   },
   "signals": [],
   "images": {

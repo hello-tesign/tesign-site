@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "site": "https://tesign.com",
-  "count": 170,
+  "count": 176,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,185 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-22T23:00:00.000Z",
+  "numbers_as_of": "2026-09-23T20:00:00.000Z",
   "items": [
+    {
+      "slug": "carbon-erp",
+      "name": {
+        "ko": "Carbon",
+        "en": "Carbon"
+      },
+      "use_label": {
+        "ko": "제조업 오픈소스 ERP",
+        "en": "Open-source ERP for manufacturers"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-25T03:06:58.023Z",
+      "kept_at": "2026-09-25T03:06:57.977Z",
+      "html": {
+        "ko": "https://tesign.com/item/carbon-erp/",
+        "en": "https://tesign.com/en/item/carbon-erp/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/carbon-erp/index.json",
+        "en": "https://tesign.com/en/item/carbon-erp/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/carbon-erp/index.md",
+        "en": "https://tesign.com/en/item/carbon-erp/index.md"
+      }
+    },
+    {
+      "slug": "drop-sandbox",
+      "name": {
+        "ko": "Drop",
+        "en": "Drop"
+      },
+      "use_label": {
+        "ko": "리눅스 프로그램 격리",
+        "en": "Sandbox programs and agents on Linux"
+      },
+      "category": "security",
+      "categories": [
+        "security",
+        "dev-tools"
+      ],
+      "updated": "2026-09-25T03:06:58.031Z",
+      "kept_at": "2026-09-25T03:06:57.971Z",
+      "html": {
+        "ko": "https://tesign.com/item/drop-sandbox/",
+        "en": "https://tesign.com/en/item/drop-sandbox/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/drop-sandbox/index.json",
+        "en": "https://tesign.com/en/item/drop-sandbox/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/drop-sandbox/index.md",
+        "en": "https://tesign.com/en/item/drop-sandbox/index.md"
+      }
+    },
+    {
+      "slug": "puter-ai-builder",
+      "name": {
+        "ko": "AI Builder",
+        "en": "AI Builder"
+      },
+      "use_label": {
+        "ko": "말로 만드는 웹사이트",
+        "en": "Build a site or app by describing it"
+      },
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "updated": "2026-09-25T03:06:58.019Z",
+      "kept_at": "2026-09-25T03:06:57.917Z",
+      "html": {
+        "ko": "https://tesign.com/item/puter-ai-builder/",
+        "en": "https://tesign.com/en/item/puter-ai-builder/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/puter-ai-builder/index.json",
+        "en": "https://tesign.com/en/item/puter-ai-builder/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/puter-ai-builder/index.md",
+        "en": "https://tesign.com/en/item/puter-ai-builder/index.md"
+      }
+    },
+    {
+      "slug": "fluxcast",
+      "name": {
+        "ko": "FluxCast",
+        "en": "FluxCast"
+      },
+      "use_label": {
+        "ko": "리눅스 화면 TV로 보내기",
+        "en": "Cast a Linux desktop to your TV"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-25T03:06:58.025Z",
+      "kept_at": "2026-09-25T03:06:57.913Z",
+      "html": {
+        "ko": "https://tesign.com/item/fluxcast/",
+        "en": "https://tesign.com/en/item/fluxcast/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/fluxcast/index.json",
+        "en": "https://tesign.com/en/item/fluxcast/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/fluxcast/index.md",
+        "en": "https://tesign.com/en/item/fluxcast/index.md"
+      }
+    },
+    {
+      "slug": "whiteboard",
+      "name": {
+        "ko": "Whiteboard",
+        "en": "Whiteboard"
+      },
+      "use_label": {
+        "ko": "에이전트와 함께 설계",
+        "en": "Design software with your coding agent"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools",
+        "design"
+      ],
+      "updated": "2026-09-25T03:06:57.985Z",
+      "kept_at": "2026-09-25T03:06:57.911Z",
+      "html": {
+        "ko": "https://tesign.com/item/whiteboard/",
+        "en": "https://tesign.com/en/item/whiteboard/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/whiteboard/index.json",
+        "en": "https://tesign.com/en/item/whiteboard/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/whiteboard/index.md",
+        "en": "https://tesign.com/en/item/whiteboard/index.md"
+      }
+    },
+    {
+      "slug": "wechatbridge",
+      "name": {
+        "ko": "WeChatBridge",
+        "en": "WeChatBridge"
+      },
+      "use_label": {
+        "ko": "위챗 대화를 AI로 전달",
+        "en": "Forward WeChat chats to AI agents"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity",
+        "ai"
+      ],
+      "updated": "2026-09-25T03:06:58.028Z",
+      "kept_at": "2026-09-25T03:06:57.899Z",
+      "html": {
+        "ko": "https://tesign.com/item/wechatbridge/",
+        "en": "https://tesign.com/en/item/wechatbridge/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/wechatbridge/index.json",
+        "en": "https://tesign.com/en/item/wechatbridge/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/wechatbridge/index.md",
+        "en": "https://tesign.com/en/item/wechatbridge/index.md"
+      }
+    },
     {
       "slug": "aspark",
       "name": {

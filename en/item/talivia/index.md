@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/talivia/
 - JSON: https://tesign.com/en/item/talivia/index.json
 - Korean Markdown: https://tesign.com/item/talivia/index.md
-- Generated: 2026-09-23 04:12 UTC
+- Generated: 2026-09-25 03:06 UTC
 
 ## RANKS
 
-- COMMERCE #6 (As of 2026-09-22 23:00 UTC)
+- COMMERCE #6 (As of 2026-09-23 20:00 UTC)
 
 ## Numbers
 
-- 2,394 stars — checked on GitHub 2026-09-23 01:48 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-22 23:00 UTC)
+- 2,393 stars — checked on GitHub 2026-09-25 02:59 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-16 07:37 UTC
-- Latest release: no releases
+- Last commit: 2026-09-24 11:09 UTC
+- Latest release: v1.0.0 (2026-09-24)
 - Contributors: 1
 - Open issues (incl. PRs): 0
 - Made by: an organization
-- Checked on GitHub: 2026-09-23 01:48 UTC
+- Checked on GitHub: 2026-09-25 02:59 UTC
 
 ## Signals and evidence
 

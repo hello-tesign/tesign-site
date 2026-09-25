@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "forma",
   "url": "https://tesign.com/en/item/forma/",
@@ -137,10 +137,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
+    "as_of": "2026-09-23T20:00:00.000Z",
     "stars": 3,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:47:56.644Z",
+    "stars_checked_at": "2026-09-25T02:58:14.505Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -181,8 +181,8 @@
       "published_at": "2026-09-02T00:01:52.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-23T01:47:56.644Z",
-    "core_checked_at": "2026-09-23T01:47:56.644Z"
+    "checked_at": "2026-09-25T02:58:14.505Z",
+    "core_checked_at": "2026-09-25T02:58:14.505Z"
   },
   "signals": [
     {

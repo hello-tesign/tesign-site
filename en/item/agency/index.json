@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "agency",
   "url": "https://tesign.com/en/item/agency/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 399,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 402,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:48:15.676Z",
+    "stars_checked_at": "2026-09-25T02:58:33.562Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -125,8 +125,8 @@
     "spark_14d": [
       null,
       null,
-      null,
       7,
+      null,
       null,
       null,
       null,
@@ -149,12 +149,12 @@
   "activity": {
     "pushed_at": "2026-09-11T23:08:14.000Z",
     "owner_type": "Organization",
-    "open_issues": 7,
+    "open_issues": 8,
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-23T01:48:15.676Z",
-    "core_checked_at": "2026-09-23T01:48:15.676Z"
+    "checked_at": "2026-09-25T02:58:33.562Z",
+    "core_checked_at": "2026-09-25T02:58:33.562Z"
   },
   "signals": [],
   "images": {

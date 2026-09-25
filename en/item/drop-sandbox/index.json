@@ -1,0 +1,157 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-25T03:06:58.885Z",
+  "lang": "en",
+  "slug": "drop-sandbox",
+  "url": "https://tesign.com/en/item/drop-sandbox/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/drop-sandbox/",
+      "json": "https://tesign.com/item/drop-sandbox/index.json",
+      "markdown": "https://tesign.com/item/drop-sandbox/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/drop-sandbox/",
+      "json": "https://tesign.com/en/item/drop-sandbox/index.json",
+      "markdown": "https://tesign.com/en/item/drop-sandbox/index.md"
+    }
+  },
+  "name": "Drop",
+  "use_label": "Sandbox programs and agents on Linux",
+  "one_liner": "A Linux sandbox that isolates untrusted programs and coding agents while keeping your usual work environment.",
+  "text": {
+    "why": "Running third-party programs or coding agents under your own account means one compromised dependency can compromise the whole system. Drop gives you disposable isolated environments that are as easy as a Python virtualenv.",
+    "take": "Isolation tools are usually annoying enough that people stop using them; this one keeps your normal environment so there is little reason not to.",
+    "build": [
+      "Instead of a new OS it reuses your existing distribution, so installed programs work inside the sandbox, your username is kept, and only the configuration files you select are readable. drop init creates an environment and drop run enters it."
+    ],
+    "who": [
+      {
+        "role": "Developers who run coding agents or unfamiliar tools on Linux.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Follow the install guide at droprun.sh, then run drop init and drop run in your project folder."
+      }
+    ],
+    "caveat": [
+      "Linux only. The configuration files you select stay readable inside the sandbox, so check what you expose."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://droprun.sh/"
+  },
+  "ready": "install",
+  "categories": [
+    "security",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "리눅스",
+    "샌드박스",
+    "보안",
+    "cli"
+  ],
+  "platform": [
+    "linux",
+    "cli"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Apache-2.0 (github.com/wrr/drop)",
+    "url": null,
+    "note": "Apache-2.0 (github.com/wrr/drop)",
+    "open_source": null
+  },
+  "language": null,
+  "source_urls": {
+    "canonical": "https://droprun.sh/",
+    "github": null,
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://droprun.sh/",
+        "posted_at": "2026-09-22T13:52:47.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49801329"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": null,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": null,
+    "stars_observed_since_check": null,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 173,
+    "hn_points_observed_at": "2026-09-23T10:33:47.726Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": null,
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "0h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/drop-sandbox-a039835568.png",
+    "cover": "https://tesign.com/img/drop-sandbox-a039835568.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/drop-sandbox-a039835568.png"
+    ],
+    "alt": "The Drop site: a terminal example running drop init and drop run bash.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-22T14:31:49.193Z",
+    "source_created_at": "2026-09-22T13:52:47.000Z",
+    "discovery_hours": 0.6506091666666667,
+    "launch_signal_at": "2026-09-22T13:52:47.000Z",
+    "kept_at": "2026-09-25T03:06:57.971Z",
+    "first_published_at": "2026-09-25T03:06:58.071Z",
+    "updated_at": "2026-09-25T03:06:58.031Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

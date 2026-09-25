@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/yue/
 - JSON: https://tesign.com/en/item/yue/index.json
 - Korean Markdown: https://tesign.com/item/yue/index.md
-- Generated: 2026-09-23 04:12 UTC
+- Generated: 2026-09-25 03:06 UTC
 
 ## RANKS
 
-- MEDIA #15 (As of 2026-09-22 23:00 UTC)
+- MEDIA #14 (As of 2026-09-23 20:00 UTC)
 
 ## Numbers
 
-- 10,079 stars — checked on GitHub 2026-09-23 01:48 UTC
-- 7-day +63 observed via GH Archive (as of 2026-09-22 23:00 UTC)
+- 10,267 stars — checked on GitHub 2026-09-25 02:58 UTC
+- 7-day +12 observed via GH Archive (as of 2026-09-23 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-22 15:57 UTC
+- Last commit: 2026-09-23 04:08 UTC
 - Latest release: yue2-v0.1.6 (2026-09-09)
 - Contributors: 10
-- Open issues (incl. PRs): 33
+- Open issues (incl. PRs): 35
 - Made by: an organization
-- Checked on GitHub: 2026-09-23 01:48 UTC
+- Checked on GitHub: 2026-09-25 02:58 UTC
 
 ## TESIGN TAKE
 

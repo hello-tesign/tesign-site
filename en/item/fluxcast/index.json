@@ -1,0 +1,164 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-25T03:06:58.885Z",
+  "lang": "en",
+  "slug": "fluxcast",
+  "url": "https://tesign.com/en/item/fluxcast/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/fluxcast/",
+      "json": "https://tesign.com/item/fluxcast/index.json",
+      "markdown": "https://tesign.com/item/fluxcast/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/fluxcast/",
+      "json": "https://tesign.com/en/item/fluxcast/index.json",
+      "markdown": "https://tesign.com/en/item/fluxcast/index.md"
+    }
+  },
+  "name": "FluxCast",
+  "use_label": "Cast a Linux desktop to your TV",
+  "one_liner": "A small tray app that casts your Linux desktop to a smart TV, no cable needed.",
+  "text": {
+    "why": "Windows and macOS cast to a TV out of the box; on Linux a working option is hard to find. The author says they built it after nothing worked for watching movies from a Linux laptop on the TV.",
+    "take": "The README states plainly which modes work and which do not, which is what earns the trust.",
+    "build": [
+      "Casts over Miracast (WFD), DLNA or Chromecast. The tray app follows the system language, and on KDE/GNOME Wayland it captures the screen through the desktop's screen-share dialog (xdg-desktop-portal)."
+    ],
+    "who": [
+      {
+        "role": "Linux laptop users who want to watch video or show a presentation on a TV.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Follow the install guide in the docs at fluxcast.dev, then pick your TV from the tray."
+      }
+    ],
+    "caveat": [
+      "Per the README, only WFD (Miracast) is validated as release-ready; DLNA is a fallback, and Cast is experimental and did not work on the tested Samsung TV. It is tuned for wlroots-class setups such as Hyprland."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://fluxcast.dev/"
+  },
+  "ready": "install",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "리눅스",
+    "화면 전송",
+    "스마트 tv",
+    "오픈소스"
+  ],
+  "platform": [
+    "linux"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://fluxcast.dev/",
+    "github": "https://github.com/ilyap358/fluxcast",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/IlyaP358/fluxcast",
+        "posted_at": "2026-09-24T19:19:48.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49835593"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 403,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-25T02:56:56.411Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 1,
+    "hn_points_observed_at": "2026-09-25T02:48:12.128Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-22T18:27:55.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-25T02:56:56.411Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "7h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/fluxcast-0e4fd51fd0.png",
+    "cover": "https://tesign.com/img/fluxcast-0e4fd51fd0.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/fluxcast-0e4fd51fd0.png"
+    ],
+    "alt": "The FluxCast site: 'Wirelessly cast your Linux Desktop' with repository and documentation buttons.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-25T02:48:12.128Z",
+    "source_created_at": "2026-09-24T19:19:48.000Z",
+    "discovery_hours": 7.4733688888888885,
+    "launch_signal_at": "2026-09-24T19:19:48.000Z",
+    "kept_at": "2026-09-25T03:06:57.913Z",
+    "first_published_at": "2026-09-25T03:06:58.071Z",
+    "updated_at": "2026-09-25T03:06:58.025Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

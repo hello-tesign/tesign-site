@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "talivia",
   "url": "https://tesign.com/en/item/talivia/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 2394,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 2393,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:48:59.457Z",
+    "stars_checked_at": "2026-09-25T02:59:16.703Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -144,7 +144,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-22T23:00:00.000Z",
+    "as_of": "2026-09-23T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -160,14 +160,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-16T07:37:27.000Z",
+    "pushed_at": "2026-09-24T11:09:04.000Z",
     "owner_type": "Organization",
     "open_issues": 0,
     "contributors": 1,
-    "releases_count": 0,
-    "latest_release": null,
-    "checked_at": "2026-09-23T01:48:59.457Z",
-    "core_checked_at": "2026-09-23T01:48:59.457Z"
+    "releases_count": 1,
+    "latest_release": {
+      "tag": "v1.0.0",
+      "published_at": "2026-09-24T11:12:18.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-25T02:59:16.703Z",
+    "core_checked_at": "2026-09-25T02:59:16.703Z"
   },
   "signals": [
     {

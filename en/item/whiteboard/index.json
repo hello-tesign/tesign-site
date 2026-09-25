@@ -1,0 +1,166 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-25T03:06:58.885Z",
+  "lang": "en",
+  "slug": "whiteboard",
+  "url": "https://tesign.com/en/item/whiteboard/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/whiteboard/",
+      "json": "https://tesign.com/item/whiteboard/index.json",
+      "markdown": "https://tesign.com/item/whiteboard/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/whiteboard/",
+      "json": "https://tesign.com/en/item/whiteboard/index.json",
+      "markdown": "https://tesign.com/en/item/whiteboard/index.md"
+    }
+  },
+  "name": "Whiteboard",
+  "use_label": "Design software with your coding agent",
+  "one_liner": "A desktop canvas where your coding agent draws diagrams of the software it is building, next to the code.",
+  "text": {
+    "why": "When an agent rewrites a lot of code, following how the pieces connect from text alone is hard. Whiteboard puts people and agents on one canvas to design the structure together: the agent draws the flow, and you can ask it in plain words to redraw it another way.",
+    "take": "Instead of reading an agent's explanation as text, you get a diagram — and you keep the conversation going on the diagram itself.",
+    "build": [
+      "A desktop app for macOS and Fedora. Connect a coding agent such as Claude Code or Codex from the welcome screen, and the agent uses an SDK to draw on the in-app canvas. The write-up, the flow diagram and the code it describes sit side by side."
+    ],
+    "who": [
+      {
+        "role": "Developers and teams who design and review larger changes together with a coding agent.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Download the app from install.dev.fast, open it, and connect Claude Code or Codex from the welcome screen."
+      }
+    ],
+    "caveat": [
+      "Per the README, downloads exist only for macOS and Fedora. It is only useful alongside a coding agent you already run."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://whiteboard.dev.fast/"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools",
+    "design"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai 코딩",
+    "설계",
+    "다이어그램",
+    "데스크톱"
+  ],
+  "platform": [
+    "macos",
+    "linux"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://whiteboard.dev.fast/",
+    "github": "https://github.com/devdotfast/whiteboard",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/devdotfast/whiteboard",
+        "posted_at": "2026-09-24T17:21:36.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49833867"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 523,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-25T02:57:03.016Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 213,
+    "hn_points_observed_at": "2026-09-25T02:48:12.128Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-25T02:21:16.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-25T02:57:03.016Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "9h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/whiteboard-14d94ed112.png",
+    "cover": "https://tesign.com/img/whiteboard-14d94ed112.png",
+    "cover_width": 1186,
+    "cover_height": 643,
+    "gallery": [
+      "https://tesign.com/img/whiteboard-14d94ed112.png"
+    ],
+    "alt": "Whiteboard: a design write-up with a flow diagram in the middle, the code on the right, and the agent conversation at lower left.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-25T02:48:12.128Z",
+    "source_created_at": "2026-09-24T17:21:36.000Z",
+    "discovery_hours": 9.44336888888889,
+    "launch_signal_at": "2026-09-24T17:21:36.000Z",
+    "kept_at": "2026-09-25T03:06:57.911Z",
+    "first_published_at": "2026-09-25T03:06:58.071Z",
+    "updated_at": "2026-09-25T03:06:57.985Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

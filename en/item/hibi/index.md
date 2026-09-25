@@ -5,20 +5,19 @@
 - Page: https://tesign.com/en/item/hibi/
 - JSON: https://tesign.com/en/item/hibi/index.json
 - Korean Markdown: https://tesign.com/item/hibi/index.md
-- Generated: 2026-09-23 04:12 UTC
+- Generated: 2026-09-25 03:06 UTC
 
 ## Numbers
 
-- 57 stars — checked on GitHub 2026-09-23 01:47 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-22 23:00 UTC)
+- 67 stars — checked on GitHub 2026-09-25 02:57 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
 - 6 Show HN points — observed 2026-09-23 01:24 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
 
-- LICENSE: AGPL-3.0 (copyleft) — https://spdx.org/licenses/AGPL-3.0.html
-- USAGE: Release source if you redistribute or host it as a service.
-- OPEN SOURCE: YES
+- LICENSE: Licence unconfirmed
+- USAGE: Unconfirmed — check before use.
 - LANGUAGE: TypeScript
 - PLATFORM: windows · macos · linux
 - CATEGORY: PRODUCTIVITY
@@ -29,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-23 01:43 UTC
-- Latest release: nightly-broken-2026-09-22-2513c22-29-1 (2026-09-22) · pre-release
-- Contributors: 8
-- Open issues (incl. PRs): 31
+- Last commit: 2026-09-25 02:49 UTC
+- Latest release: nightly-green (2026-09-23) · pre-release
+- Contributors: 9
+- Open issues (incl. PRs): 36
 - Made by: an individual
-- Checked on GitHub: 2026-09-23 01:47 UTC
+- Checked on GitHub: 2026-09-25 02:57 UTC
 
 ## Signals and evidence
 

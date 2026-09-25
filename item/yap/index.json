@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "ko",
   "slug": "yap",
   "url": "https://tesign.com/item/yap/",
@@ -103,14 +103,20 @@
         "url": "https://github.com/FrigadeHQ/yap",
         "posted_at": "2026-07-27T18:36:02.000Z",
         "hn_url": "https://news.ycombinator.com/item?id=49073834"
+      },
+      {
+        "source": "showhn",
+        "url": "https://frigade.com/yap",
+        "posted_at": "2026-09-24T00:26:18.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49824589"
       }
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 416,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 430,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:49:37.702Z",
+    "stars_checked_at": "2026-09-25T02:59:56.733Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -141,18 +147,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-15T00:08:43.000Z",
+    "pushed_at": "2026-09-24T00:31:24.000Z",
     "owner_type": "Organization",
     "open_issues": 8,
     "contributors": 6,
-    "releases_count": 13,
+    "releases_count": 14,
     "latest_release": {
-      "tag": "v0.1.12",
-      "published_at": "2026-09-15T00:08:43.000Z",
+      "tag": "v0.1.13",
+      "published_at": "2026-09-24T00:31:25.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-23T01:49:37.702Z",
-    "core_checked_at": "2026-09-23T01:49:37.702Z"
+    "checked_at": "2026-09-25T02:59:56.733Z",
+    "core_checked_at": "2026-09-25T02:59:56.733Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "genoffice",
   "url": "https://tesign.com/en/item/genoffice/",
@@ -112,17 +112,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 7518,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 7681,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:49:02.410Z",
+    "stars_checked_at": "2026-09-25T02:59:19.797Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 6,
     "star_delta_30d": 336,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       22,
       10,
@@ -131,6 +130,7 @@
       3,
       2,
       4,
+      null,
       null,
       null,
       null,
@@ -145,7 +145,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-22T23:00:00.000Z",
+    "as_of": "2026-09-23T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -155,18 +155,18 @@
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-22T14:53:08.000Z",
+    "pushed_at": "2026-09-24T08:40:26.000Z",
     "owner_type": "Organization",
-    "open_issues": 59,
-    "contributors": 27,
+    "open_issues": 128,
+    "contributors": 28,
     "releases_count": 29,
     "latest_release": {
       "tag": "v0.10.1038",
       "published_at": "2026-09-22T14:53:08.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-23T01:49:02.410Z",
-    "core_checked_at": "2026-09-23T01:49:02.410Z"
+    "checked_at": "2026-09-25T02:59:19.797Z",
+    "core_checked_at": "2026-09-25T02:59:19.797Z"
   },
   "signals": [
     {

@@ -5,12 +5,12 @@
 - 페이지: https://tesign.com/item/slotstream/
 - JSON: https://tesign.com/item/slotstream/index.json
 - 영어 마크다운: https://tesign.com/en/item/slotstream/index.md
-- 생성 시각: 2026-09-23 04:12 UTC
+- 생성 시각: 2026-09-25 03:06 UTC
 
 ## 숫자
 
-- 별 391 — GitHub에서 2026-09-23 01:49 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-09-22 23:00 UTC)
+- 별 395 — GitHub에서 2026-09-25 02:59 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-09-23 20:00 UTC)
 - Show HN 240점 — 2026-09-13 13:59 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
@@ -29,12 +29,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-09-22 22:37 UTC
-- 최근 릴리스: v0.2.23 (2026-09-22)
-- 기여자: 3
-- 열린 이슈 (PR 포함): 16
+- 마지막 커밋: 2026-09-24 22:56 UTC
+- 최근 릴리스: v0.2.25 (2026-09-24)
+- 기여자: 5
+- 열린 이슈 (PR 포함): 5
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-23 01:49 UTC
+- GitHub 확인 시각: 2026-09-25 02:59 UTC
 
 ## 선정 신호와 근거
 

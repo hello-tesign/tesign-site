@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "ko",
   "slug": "openmausbot",
   "url": "https://tesign.com/item/openmausbot/",
@@ -115,17 +115,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 3254,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 3549,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:49:14.305Z",
+    "stars_checked_at": "2026-09-25T02:59:33.078Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 7,
+    "star_delta_7d": null,
     "star_delta_30d": 116,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       2,
       6,
       5,
@@ -133,6 +132,7 @@
       null,
       50,
       7,
+      null,
       null,
       null,
       null,
@@ -149,18 +149,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-22T17:45:31.000Z",
+    "pushed_at": "2026-09-25T02:28:50.000Z",
     "owner_type": "User",
-    "open_issues": 326,
-    "contributors": 87,
-    "releases_count": 43,
+    "open_issues": 305,
+    "contributors": 95,
+    "releases_count": 45,
     "latest_release": {
-      "tag": "v0.1.85",
-      "published_at": "2026-09-20T22:45:02.000Z",
+      "tag": "v0.1.87",
+      "published_at": "2026-09-24T16:46:13.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-23T01:49:14.305Z",
-    "core_checked_at": "2026-09-23T01:49:14.305Z"
+    "checked_at": "2026-09-25T02:59:33.078Z",
+    "core_checked_at": "2026-09-25T02:59:33.078Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "hibi",
   "url": "https://tesign.com/en/item/hibi/",
@@ -63,12 +63,12 @@
     "linux"
   ],
   "license": {
-    "spdx": "AGPL-3.0",
-    "scope": "copyleft",
-    "scope_text": "Release source if you redistribute or host it as a service.",
-    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": "https://github.com/schmayterling/hibi?tab=License-1-ov-file",
     "note": null,
-    "open_source": true
+    "open_source": null
   },
   "language": "TypeScript",
   "source_urls": {
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 57,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 67,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:47:23.379Z",
+    "stars_checked_at": "2026-09-25T02:57:42.161Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-23T01:43:41.000Z",
+    "pushed_at": "2026-09-25T02:49:57.000Z",
     "owner_type": "User",
-    "open_issues": 31,
-    "contributors": 8,
-    "releases_count": 15,
+    "open_issues": 36,
+    "contributors": 9,
+    "releases_count": 20,
     "latest_release": {
-      "tag": "nightly-broken-2026-09-22-2513c22-29-1",
-      "published_at": "2026-09-22T18:38:07.000Z",
+      "tag": "nightly-green",
+      "published_at": "2026-09-23T18:37:01.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-09-23T01:47:23.379Z",
-    "core_checked_at": "2026-09-23T01:47:23.379Z"
+    "checked_at": "2026-09-25T02:57:42.161Z",
+    "core_checked_at": "2026-09-25T02:57:42.161Z"
   },
   "signals": [
     {

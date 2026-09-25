@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "ko",
   "slug": "hermes-agent",
   "url": "https://tesign.com/item/hermes-agent/",
@@ -119,17 +119,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 248122,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 248753,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:48:20.348Z",
+    "stars_checked_at": "2026-09-25T02:58:38.497Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 3,
-    "star_delta_7d": 68,
+    "star_delta_24h": null,
+    "star_delta_7d": 36,
     "star_delta_30d": 1109,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      7,
       19,
       135,
       91,
@@ -142,7 +141,8 @@
       null,
       null,
       2,
-      3
+      3,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -152,7 +152,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-22T23:00:00.000Z",
+    "as_of": "2026-09-23T20:00:00.000Z",
     "all_time": 2,
     "rising": {
       "24h": null,
@@ -173,18 +173,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-23T01:43:49.000Z",
+    "pushed_at": "2026-09-25T02:57:01.000Z",
     "owner_type": "Organization",
-    "open_issues": 44068,
-    "contributors": 3875,
-    "releases_count": 35,
+    "open_issues": 43429,
+    "contributors": 3963,
+    "releases_count": 36,
     "latest_release": {
-      "tag": "v2026.9.21",
-      "published_at": "2026-09-21T18:10:55.000Z",
+      "tag": "v2026.9.24",
+      "published_at": "2026-09-24T10:09:38.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-23T01:48:20.348Z",
-    "core_checked_at": "2026-09-23T01:48:20.348Z"
+    "checked_at": "2026-09-25T02:58:38.497Z",
+    "core_checked_at": "2026-09-25T02:58:38.497Z"
   },
   "signals": [],
   "images": {

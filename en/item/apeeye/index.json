@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "apeeye",
   "url": "https://tesign.com/en/item/apeeye/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
+    "as_of": "2026-09-23T20:00:00.000Z",
     "stars": 7,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:49:50.862Z",
+    "stars_checked_at": "2026-09-25T03:00:11.162Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -113,7 +113,7 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 2,
-    "hn_points_observed_at": "2026-09-22T05:42:34.633Z",
+    "hn_points_observed_at": "2026-09-23T04:28:03.330Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
@@ -125,8 +125,8 @@
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-23T01:49:50.862Z",
-    "core_checked_at": "2026-09-23T01:49:50.862Z"
+    "checked_at": "2026-09-25T03:00:11.162Z",
+    "core_checked_at": "2026-09-25T03:00:11.162Z"
   },
   "signals": [
     {

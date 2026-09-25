@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/conduit/
 - JSON: https://tesign.com/en/item/conduit/index.json
 - Korean Markdown: https://tesign.com/item/conduit/index.md
-- Generated: 2026-09-23 04:12 UTC
+- Generated: 2026-09-25 03:06 UTC
 
 ## Numbers
 
-- 380 stars — checked on GitHub 2026-09-23 01:49 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-22 23:00 UTC)
+- 384 stars — checked on GitHub 2026-09-25 03:00 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
 - 3 Show HN points — observed 2026-09-13 15:58 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -34,7 +34,7 @@
 - Contributors: 3
 - Open issues (incl. PRs): 36
 - Made by: an individual
-- Checked on GitHub: 2026-09-23 01:49 UTC
+- Checked on GitHub: 2026-09-25 03:00 UTC
 
 ## Signals and evidence
 

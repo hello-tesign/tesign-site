@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "ko",
   "slug": "diagram-design",
   "url": "https://tesign.com/item/diagram-design/",
@@ -113,17 +113,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 42019,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 42343,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:48:12.628Z",
+    "stars_checked_at": "2026-09-25T02:58:30.404Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 57,
+    "star_delta_7d": 34,
     "star_delta_30d": 1433,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      67,
       103,
       199,
       84,
@@ -136,6 +135,7 @@
       2,
       null,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -146,8 +146,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "all_time": 155,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "all_time": 154,
     "rising": {
       "24h": null,
       "7d": null,
@@ -164,12 +164,12 @@
   "activity": {
     "pushed_at": "2026-09-19T17:47:52.000Z",
     "owner_type": "User",
-    "open_issues": 37,
+    "open_issues": 39,
     "contributors": 42,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-23T01:48:12.628Z",
-    "core_checked_at": "2026-09-23T01:48:12.628Z"
+    "checked_at": "2026-09-25T02:58:30.404Z",
+    "core_checked_at": "2026-09-25T02:58:30.404Z"
   },
   "signals": [],
   "images": {

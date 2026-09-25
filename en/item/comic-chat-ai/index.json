@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "comic-chat-ai",
   "url": "https://tesign.com/en/item/comic-chat-ai/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
+    "as_of": "2026-09-23T20:00:00.000Z",
     "stars": 1,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:47:19.428Z",
+    "stars_checked_at": "2026-09-25T02:57:38.268Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -114,7 +114,7 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 3,
-    "hn_points_observed_at": "2026-09-22T08:42:59.189Z",
+    "hn_points_observed_at": "2026-09-23T07:31:17.725Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
@@ -130,8 +130,8 @@
       "published_at": "2026-09-16T12:19:12.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-23T01:47:19.428Z",
-    "core_checked_at": "2026-09-23T01:47:19.428Z"
+    "checked_at": "2026-09-25T02:57:38.268Z",
+    "core_checked_at": "2026-09-25T02:57:38.268Z"
   },
   "signals": [
     {

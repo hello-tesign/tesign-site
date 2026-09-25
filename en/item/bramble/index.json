@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "bramble",
   "url": "https://tesign.com/en/item/bramble/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 394,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 395,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:49:41.414Z",
+    "stars_checked_at": "2026-09-25T03:00:00.972Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,7 +148,7 @@
   "activity": {
     "pushed_at": "2026-09-23T01:05:34.000Z",
     "owner_type": "User",
-    "open_issues": 20,
+    "open_issues": 22,
     "contributors": 8,
     "releases_count": 114,
     "latest_release": {
@@ -156,8 +156,8 @@
       "published_at": "2026-09-20T01:17:36.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-23T01:49:41.414Z",
-    "core_checked_at": "2026-09-23T01:49:41.414Z"
+    "checked_at": "2026-09-25T03:00:00.972Z",
+    "core_checked_at": "2026-09-25T03:00:00.972Z"
   },
   "signals": [
     {

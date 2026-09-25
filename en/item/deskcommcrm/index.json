@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "deskcommcrm",
   "url": "https://tesign.com/en/item/deskcommcrm/",
@@ -115,17 +115,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 3517,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 3723,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:48:14.615Z",
+    "stars_checked_at": "2026-09-25T02:58:32.550Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 36,
+    "star_delta_7d": 2,
     "star_delta_30d": 302,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       14,
       79,
       127,
@@ -135,6 +134,7 @@
       34,
       null,
       2,
+      null,
       null,
       null,
       null,
@@ -148,12 +148,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-22T23:00:00.000Z",
+    "as_of": "2026-09-23T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 62
+      "30d": 63
     },
     "categories": [
       {
@@ -164,18 +164,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-22T19:35:58.000Z",
+    "pushed_at": "2026-09-25T01:32:05.000Z",
     "owner_type": "User",
-    "open_issues": 122,
-    "contributors": 89,
-    "releases_count": 57,
+    "open_issues": 124,
+    "contributors": 103,
+    "releases_count": 63,
     "latest_release": {
-      "tag": "v1.42.0",
-      "published_at": "2026-09-22T17:30:05.000Z",
+      "tag": "v1.48.0",
+      "published_at": "2026-09-25T00:27:31.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-23T01:48:14.615Z",
-    "core_checked_at": "2026-09-23T01:48:14.615Z"
+    "checked_at": "2026-09-25T02:58:32.550Z",
+    "core_checked_at": "2026-09-25T02:58:32.550Z"
   },
   "signals": [],
   "images": {

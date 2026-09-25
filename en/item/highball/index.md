@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/highball/
 - JSON: https://tesign.com/en/item/highball/index.json
 - Korean Markdown: https://tesign.com/item/highball/index.md
-- Generated: 2026-09-23 04:12 UTC
+- Generated: 2026-09-25 03:06 UTC
 
 ## RANKS
 
-- GAMES #9 (As of 2026-09-22 23:00 UTC)
+- GAMES #9 (As of 2026-09-23 20:00 UTC)
 
 ## Numbers
 
-- 1,018 stars — checked on GitHub 2026-09-23 01:48 UTC
-- 7-day +2 observed via GH Archive (as of 2026-09-22 23:00 UTC)
+- 1,066 stars — checked on GitHub 2026-09-25 02:58 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
 - 5 Show HN points — observed 2026-09-13 14:07 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -33,12 +33,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-22 17:23 UTC
+- Last commit: 2026-09-24 22:16 UTC
 - Latest release: v0.9.36 (2026-09-22) · pre-release
 - Contributors: 7
 - Open issues (incl. PRs): 34
 - Made by: an individual
-- Checked on GitHub: 2026-09-23 01:48 UTC
+- Checked on GitHub: 2026-09-25 02:58 UTC
 
 ## Signals and evidence
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-23T04:12:15.539Z",
+  "generated_at": "2026-09-25T03:06:58.885Z",
   "lang": "en",
   "slug": "deskbox",
   "url": "https://tesign.com/en/item/deskbox/",
@@ -108,17 +108,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-22T23:00:00.000Z",
-    "stars": 5036,
+    "as_of": "2026-09-23T20:00:00.000Z",
+    "stars": 5161,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-23T01:48:36.214Z",
+    "stars_checked_at": "2026-09-25T02:58:54.683Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 6,
+    "star_delta_7d": 4,
     "star_delta_30d": 215,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      5,
       null,
       12,
       51,
@@ -128,6 +127,7 @@
       2,
       2,
       2,
+      null,
       null,
       null,
       null,
@@ -141,7 +141,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-22T23:00:00.000Z",
+    "as_of": "2026-09-23T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -151,9 +151,9 @@
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-22T12:13:52.000Z",
+    "pushed_at": "2026-09-25T01:27:30.000Z",
     "owner_type": "User",
-    "open_issues": 92,
+    "open_issues": 78,
     "contributors": 1,
     "releases_count": 54,
     "latest_release": {
@@ -161,8 +161,8 @@
       "published_at": "2026-09-22T02:19:29.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-23T01:48:36.214Z",
-    "core_checked_at": "2026-09-23T01:48:36.214Z"
+    "checked_at": "2026-09-25T02:58:54.683Z",
+    "core_checked_at": "2026-09-25T02:58:54.683Z"
   },
   "signals": [],
   "images": {
