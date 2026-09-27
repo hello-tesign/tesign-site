@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "en",
   "slug": "spec-kit",
   "url": "https://tesign.com/en/item/spec-kit/",
@@ -146,30 +146,30 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 138799,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 139016,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:58:23.782Z",
+    "stars_checked_at": "2026-09-27T02:15:56.682Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 35,
-    "star_delta_30d": 691,
+    "star_delta_24h": null,
+    "star_delta_7d": 8,
+    "star_delta_30d": 606,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      127,
-      241,
-      64,
       null,
       null,
-      28,
-      36,
-      13,
-      8,
+      null,
+      null,
+      null,
+      null,
       null,
       null,
       6,
       null,
-      2
+      2,
+      null,
+      null,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -179,18 +179,18 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "all_time": 16,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "all_time": 15,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 18
+      "30d": 17
     },
     "categories": [
       {
         "category": "ai",
         "label": "AI",
-        "rank": 14
+        "rank": 13
       },
       {
         "category": "dev-tools",
@@ -200,18 +200,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-24T21:55:38.000Z",
+    "pushed_at": "2026-09-25T20:31:03.000Z",
     "owner_type": "Organization",
-    "open_issues": 287,
+    "open_issues": 281,
     "contributors": 305,
-    "releases_count": 225,
+    "releases_count": 226,
     "latest_release": {
-      "tag": "v1.0.11",
-      "published_at": "2026-09-24T01:35:37.000Z",
+      "tag": "v1.0.12",
+      "published_at": "2026-09-25T17:48:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-25T02:58:23.782Z",
-    "core_checked_at": "2026-09-25T02:58:23.782Z"
+    "checked_at": "2026-09-27T02:15:56.682Z",
+    "core_checked_at": "2026-09-27T02:15:56.682Z"
   },
   "signals": [],
   "images": {

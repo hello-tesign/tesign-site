@@ -5,19 +5,19 @@
 - Page: https://tesign.com/en/item/openclip/
 - JSON: https://tesign.com/en/item/openclip/index.json
 - Korean Markdown: https://tesign.com/item/openclip/index.md
-- Generated: 2026-09-25 03:06 UTC
+- Generated: 2026-09-27 02:29 UTC
 
 ## Numbers
 
-- 521 stars — checked on GitHub 2026-09-25 02:59 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
+- 539 stars — checked on GitHub 2026-09-27 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-26 19:00 UTC)
 - 5 Show HN points — observed 2026-09-13 13:55 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
 
-- LICENSE: MIT (permissive) — https://spdx.org/licenses/MIT.html
-- USAGE: Use, change and redistribute, commercially too. Keep the notice.
+- LICENSE: AGPL-3.0 (copyleft) — https://spdx.org/licenses/AGPL-3.0.html
+- USAGE: Release source if you redistribute or host it as a service.
 - OPEN SOURCE: YES
 - LANGUAGE: Swift
 - PLATFORM: macos
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-25 02:04 UTC
+- Last commit: 2026-09-26 17:11 UTC
 - Latest release: v1.6.2 (2026-09-20)
-- Contributors: 11
+- Contributors: 12
 - Open issues (incl. PRs): 16
 - Made by: an individual
-- Checked on GitHub: 2026-09-25 02:59 UTC
+- Checked on GitHub: 2026-09-27 02:17 UTC
 
 ## Signals and evidence
 

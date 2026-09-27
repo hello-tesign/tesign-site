@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "site": "https://tesign.com",
   "count": 176,
   "convention": {
@@ -21,7 +21,7 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-23T20:00:00.000Z",
+  "numbers_as_of": "2026-09-26T19:00:00.000Z",
   "items": [
     {
       "slug": "carbon-erp",

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "ko",
   "slug": "oauthcli",
   "url": "https://tesign.com/item/oauthcli/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
+    "as_of": "2026-09-26T19:00:00.000Z",
     "stars": 2,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:59:04.035Z",
+    "stars_checked_at": "2026-09-27T02:16:34.750Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -156,8 +156,8 @@
       "published_at": "2026-09-12T21:02:05.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-25T02:59:04.035Z",
-    "core_checked_at": "2026-09-25T02:59:04.035Z"
+    "checked_at": "2026-09-27T02:16:34.750Z",
+    "core_checked_at": "2026-09-27T02:16:34.750Z"
   },
   "signals": [
     {

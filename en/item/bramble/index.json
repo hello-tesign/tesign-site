@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "en",
   "slug": "bramble",
   "url": "https://tesign.com/en/item/bramble/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 395,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 399,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T03:00:00.972Z",
+    "stars_checked_at": "2026-09-27T02:17:28.540Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -146,18 +146,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-23T01:05:34.000Z",
+    "pushed_at": "2026-09-27T00:24:41.000Z",
     "owner_type": "User",
     "open_issues": 22,
     "contributors": 8,
-    "releases_count": 114,
+    "releases_count": 118,
     "latest_release": {
-      "tag": "0.9.0-desktop",
-      "published_at": "2026-09-20T01:17:36.000Z",
+      "tag": "1.27.0-firefox",
+      "published_at": "2026-09-27T00:07:51.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-25T03:00:00.972Z",
-    "core_checked_at": "2026-09-25T03:00:00.972Z"
+    "checked_at": "2026-09-27T02:17:28.540Z",
+    "core_checked_at": "2026-09-27T02:17:28.540Z"
   },
   "signals": [
     {

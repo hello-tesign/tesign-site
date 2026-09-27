@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "en",
   "slug": "openmontage",
   "url": "https://tesign.com/en/item/openmontage/",
@@ -114,29 +114,29 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 61193,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 61425,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:58:46.800Z",
+    "stars_checked_at": "2026-09-27T02:16:18.813Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 22,
-    "star_delta_30d": 492,
+    "star_delta_7d": 2,
+    "star_delta_30d": 419,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      15,
-      80,
-      152,
       null,
       null,
-      27,
-      28,
-      16,
-      2,
+      null,
+      null,
+      null,
+      null,
       null,
       null,
       null,
       2,
+      null,
+      null,
+      null,
       null
     ],
     "hf_likes": null,
@@ -147,12 +147,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "all_time": 104,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "all_time": 101,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 35
+      "30d": 29
     },
     "categories": [
       {
@@ -165,12 +165,12 @@
   "activity": {
     "pushed_at": "2026-09-06T05:02:34.000Z",
     "owner_type": "User",
-    "open_issues": 331,
+    "open_issues": 329,
     "contributors": 52,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-25T02:58:46.800Z",
-    "core_checked_at": "2026-09-25T02:58:46.800Z"
+    "checked_at": "2026-09-27T02:16:18.813Z",
+    "core_checked_at": "2026-09-27T02:16:18.813Z"
   },
   "signals": [],
   "images": {

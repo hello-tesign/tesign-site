@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/inspo/
 - JSON: https://tesign.com/en/item/inspo/index.json
 - Korean Markdown: https://tesign.com/item/inspo/index.md
-- Generated: 2026-09-25 03:06 UTC
+- Generated: 2026-09-27 02:29 UTC
 
 ## Numbers
 
-- 757 stars — checked on GitHub 2026-09-25 02:57 UTC
-- 7-day +7 observed via GH Archive (as of 2026-09-23 20:00 UTC)
+- 779 stars — checked on GitHub 2026-09-27 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-26 19:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-15 16:09 UTC
+- Last commit: 2026-09-25 19:32 UTC
 - Latest release: no releases
-- Contributors: 2
+- Contributors: 3
 - Open issues (incl. PRs): 0
 - Made by: an individual
-- Checked on GitHub: 2026-09-25 02:57 UTC
+- Checked on GitHub: 2026-09-27 02:15 UTC
 
 ## TESIGN TAKE
 

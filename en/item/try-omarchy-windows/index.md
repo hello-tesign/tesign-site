@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/try-omarchy-windows/
 - JSON: https://tesign.com/en/item/try-omarchy-windows/index.json
 - Korean Markdown: https://tesign.com/item/try-omarchy-windows/index.md
-- Generated: 2026-09-25 03:06 UTC
+- Generated: 2026-09-27 02:29 UTC
 
 ## Numbers
 
-- 477 stars — checked on GitHub 2026-09-25 02:57 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
-- 5 Show HN points — observed 2026-09-23 01:24 UTC
+- 486 stars — checked on GitHub 2026-09-27 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-26 19:00 UTC)
+- 5 Show HN points — observed 2026-09-26 10:15 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-24 14:28 UTC
-- Latest release: v0.3.0 (2026-09-24)
+- Last commit: 2026-09-27 01:46 UTC
+- Latest release: v0.5.0 (2026-09-27)
 - Contributors: 7
-- Open issues (incl. PRs): 12
+- Open issues (incl. PRs): 8
 - Made by: an organization
-- Checked on GitHub: 2026-09-25 02:57 UTC
+- Checked on GitHub: 2026-09-27 02:15 UTC
 
 ## Signals and evidence
 

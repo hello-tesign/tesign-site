@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "en",
   "slug": "dsh-desktop",
   "url": "https://tesign.com/en/item/dsh-desktop/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 28890,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 29085,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:59:23.310Z",
+    "stars_checked_at": "2026-09-27T02:16:52.699Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -145,18 +145,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-24T16:45:48.000Z",
+    "pushed_at": "2026-09-25T22:27:38.000Z",
     "owner_type": "Organization",
-    "open_issues": 366,
+    "open_issues": 323,
     "contributors": 55,
-    "releases_count": 23,
+    "releases_count": 26,
     "latest_release": {
-      "tag": "v2.0.14-next",
-      "published_at": "2026-09-24T16:04:46.000Z",
+      "tag": "v2.0.15-next",
+      "published_at": "2026-09-25T20:49:17.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-25T02:59:23.310Z",
-    "core_checked_at": "2026-09-25T02:59:23.310Z"
+    "checked_at": "2026-09-27T02:16:52.699Z",
+    "core_checked_at": "2026-09-27T02:16:52.699Z"
   },
   "signals": [
     {

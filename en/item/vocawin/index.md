@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/vocawin/
 - JSON: https://tesign.com/en/item/vocawin/index.json
 - Korean Markdown: https://tesign.com/item/vocawin/index.md
-- Generated: 2026-09-25 03:06 UTC
+- Generated: 2026-09-27 02:29 UTC
 
 ## Numbers
 
-- 75 stars — checked on GitHub 2026-09-25 02:58 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
+- 75 stars — checked on GitHub 2026-09-27 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-26 19:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-24 09:06 UTC
-- Latest release: nightly (2026-09-24) · pre-release
+- Last commit: 2026-09-26 21:58 UTC
+- Latest release: v0.2.0-beta (2026-09-26)
 - Contributors: 3
-- Open issues (incl. PRs): 5
+- Open issues (incl. PRs): 7
 - Made by: an organization
-- Checked on GitHub: 2026-09-25 02:58 UTC
+- Checked on GitHub: 2026-09-27 02:15 UTC
 
 ## TESIGN TAKE
 

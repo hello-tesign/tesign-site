@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "en",
   "slug": "ruffle",
   "url": "https://tesign.com/en/item/ruffle/",
@@ -88,14 +88,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 18572,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 18582,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:57:45.387Z",
+    "stars_checked_at": "2026-09-27T02:15:19.249Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 5,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -103,7 +103,7 @@
       null,
       null,
       null,
-      5,
+      null,
       null,
       null,
       null,
@@ -121,7 +121,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-23T20:00:00.000Z",
+    "as_of": "2026-09-26T19:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -142,18 +142,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-25T00:14:12.000Z",
+    "pushed_at": "2026-09-27T00:17:39.000Z",
     "owner_type": "Organization",
-    "open_issues": 5642,
-    "contributors": 231,
-    "releases_count": 1844,
+    "open_issues": 5643,
+    "contributors": 232,
+    "releases_count": 1846,
     "latest_release": {
-      "tag": "nightly-2026-09-25",
-      "published_at": "2026-09-25T00:14:18.000Z",
+      "tag": "nightly-2026-09-27",
+      "published_at": "2026-09-27T00:17:43.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-09-25T02:57:45.387Z",
-    "core_checked_at": "2026-09-25T02:57:45.387Z"
+    "checked_at": "2026-09-27T02:15:19.249Z",
+    "core_checked_at": "2026-09-27T02:15:19.249Z"
   },
   "signals": [],
   "images": {

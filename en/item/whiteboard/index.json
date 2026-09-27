@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "en",
   "slug": "whiteboard",
   "url": "https://tesign.com/en/item/whiteboard/",
@@ -82,18 +82,24 @@
         "url": "https://github.com/devdotfast/whiteboard",
         "posted_at": "2026-09-24T17:21:36.000Z",
         "hn_url": "https://news.ycombinator.com/item?id=49833867"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/devdotfast/whiteboard",
+        "posted_at": "2026-09-24T23:00:00.000Z",
+        "hn_url": null
       }
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 523,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 1635,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:57:03.016Z",
+    "stars_checked_at": "2026-09-27T02:15:03.040Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": null,
-    "star_delta_30d": null,
+    "star_delta_24h": 4,
+    "star_delta_7d": 15,
+    "star_delta_30d": 15,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -107,33 +113,42 @@
       null,
       null,
       null,
-      null,
-      null,
-      null
+      2,
+      11,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 213,
-    "hn_points_observed_at": "2026-09-25T02:48:12.128Z",
+    "hn_points": 410,
+    "hn_points_observed_at": "2026-09-27T00:15:46.413Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-25T02:21:16.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-25T02:57:03.016Z"
+    "pushed_at": "2026-09-26T17:53:13.000Z",
+    "owner_type": "Organization",
+    "open_issues": 34,
+    "contributors": 8,
+    "releases_count": 15,
+    "latest_release": {
+      "tag": "v0.1.3",
+      "published_at": "2026-09-26T03:13:47.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-27T02:15:03.040Z",
+    "core_checked_at": "2026-09-27T02:15:03.040Z"
   },
   "signals": [
     {
       "kind": "new",
       "label": "NEW",
       "value": "9h OLD WHEN SEEN"
+    },
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "Show HN + GitHub"
     }
   ],
   "images": {

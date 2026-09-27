@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "ko",
   "slug": "whiteboard",
   "url": "https://tesign.com/item/whiteboard/",
@@ -82,18 +82,24 @@
         "url": "https://github.com/devdotfast/whiteboard",
         "posted_at": "2026-09-24T17:21:36.000Z",
         "hn_url": "https://news.ycombinator.com/item?id=49833867"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/devdotfast/whiteboard",
+        "posted_at": "2026-09-24T23:00:00.000Z",
+        "hn_url": null
       }
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 523,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 1635,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:57:03.016Z",
+    "stars_checked_at": "2026-09-27T02:15:03.040Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": null,
-    "star_delta_30d": null,
+    "star_delta_24h": 4,
+    "star_delta_7d": 15,
+    "star_delta_30d": 15,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -107,33 +113,42 @@
       null,
       null,
       null,
-      null,
-      null,
-      null
+      2,
+      11,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 213,
-    "hn_points_observed_at": "2026-09-25T02:48:12.128Z",
+    "hn_points": 410,
+    "hn_points_observed_at": "2026-09-27T00:15:46.413Z",
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-25T02:21:16.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-25T02:57:03.016Z"
+    "pushed_at": "2026-09-26T17:53:13.000Z",
+    "owner_type": "Organization",
+    "open_issues": 34,
+    "contributors": 8,
+    "releases_count": 15,
+    "latest_release": {
+      "tag": "v0.1.3",
+      "published_at": "2026-09-26T03:13:47.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-27T02:15:03.040Z",
+    "core_checked_at": "2026-09-27T02:15:03.040Z"
   },
   "signals": [
     {
       "kind": "new",
       "label": "신규",
       "value": "생성 9h 만에 포착"
+    },
+    {
+      "kind": "cross",
+      "label": "교차 신호",
+      "value": "Show HN + GitHub"
     }
   ],
   "images": {

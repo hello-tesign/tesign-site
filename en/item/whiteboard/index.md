@@ -5,13 +5,14 @@
 - Page: https://tesign.com/en/item/whiteboard/
 - JSON: https://tesign.com/en/item/whiteboard/index.json
 - Korean Markdown: https://tesign.com/item/whiteboard/index.md
-- Generated: 2026-09-25 03:06 UTC
+- Generated: 2026-09-27 02:29 UTC
 
 ## Numbers
 
-- 523 stars — checked on GitHub 2026-09-25 02:57 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
-- 213 Show HN points — observed 2026-09-25 02:48 UTC
+- 1,635 stars — checked on GitHub 2026-09-27 02:15 UTC
+- 7-day +15 observed via GH Archive (as of 2026-09-26 19:00 UTC)
+- 24h +4 ★ · 30d +15 ★ (as of 2026-09-26 19:00 UTC)
+- 410 Show HN points — observed 2026-09-27 00:15 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -24,21 +25,22 @@
 - CATEGORY: DEV TOOLS · DESIGN
 - Tags: ai 코딩 · 설계 · 다이어그램 · 데스크톱
 - How to start: Install to use
-- SOURCES: Show HN https://github.com/devdotfast/whiteboard
+- SOURCES: Show HN https://github.com/devdotfast/whiteboard · GitHub https://github.com/devdotfast/whiteboard
 - INSTALL: https://whiteboard.dev.fast/
 
 ## ACTIVITY
 
-- Last commit: 2026-09-25 02:21 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-25 02:57 UTC
+- Last commit: 2026-09-26 17:53 UTC
+- Latest release: v0.1.3 (2026-09-26)
+- Contributors: 8
+- Open issues (incl. PRs): 34
+- Made by: an organization
+- Checked on GitHub: 2026-09-27 02:15 UTC
 
 ## Signals and evidence
 
 - NEW · 9h OLD WHEN SEEN
+- CROSS-SIGNAL · Show HN + GitHub
 
 ## TESIGN TAKE
 

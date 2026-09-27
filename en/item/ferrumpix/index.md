@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/ferrumpix/
 - JSON: https://tesign.com/en/item/ferrumpix/index.json
 - Korean Markdown: https://tesign.com/item/ferrumpix/index.md
-- Generated: 2026-09-25 03:06 UTC
+- Generated: 2026-09-27 02:29 UTC
 
 ## Numbers
 
-- 674 stars — checked on GitHub 2026-09-25 02:59 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
+- 681 stars — checked on GitHub 2026-09-27 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-26 19:00 UTC)
 - 2 Show HN points — observed 2026-09-13 14:16 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-24 21:29 UTC
-- Latest release: 0.9.50-4 (2026-09-23)
+- Last commit: 2026-09-26 21:35 UTC
+- Latest release: 0.9.52-5 (2026-09-25)
 - Contributors: 3
 - Open issues (incl. PRs): 3
 - Made by: an individual
-- Checked on GitHub: 2026-09-25 02:59 UTC
+- Checked on GitHub: 2026-09-27 02:17 UTC
 
 ## Signals and evidence
 

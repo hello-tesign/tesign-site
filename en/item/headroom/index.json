@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "en",
   "slug": "headroom",
   "url": "https://tesign.com/en/item/headroom/",
@@ -114,24 +114,24 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 73738,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 73893,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:58:52.816Z",
+    "stars_checked_at": "2026-09-27T02:16:24.513Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 9,
-    "star_delta_30d": 296,
+    "star_delta_7d": null,
+    "star_delta_30d": 256,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      17,
-      60,
-      42,
       null,
       null,
-      25,
-      8,
-      7,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
       null,
       null,
       null,
@@ -147,28 +147,28 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "all_time": 74,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "all_time": 72,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 66
+      "30d": 58
     },
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-25T01:54:45.000Z",
+    "pushed_at": "2026-09-26T22:39:11.000Z",
     "owner_type": "Organization",
-    "open_issues": 582,
-    "contributors": 288,
-    "releases_count": 170,
+    "open_issues": 543,
+    "contributors": 289,
+    "releases_count": 172,
     "latest_release": {
-      "tag": "v0.38.0",
-      "published_at": "2026-09-21T23:48:52.000Z",
+      "tag": "v0.39.1",
+      "published_at": "2026-09-26T20:31:39.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-25T02:58:52.816Z",
-    "core_checked_at": "2026-09-25T02:58:52.816Z"
+    "checked_at": "2026-09-27T02:16:24.513Z",
+    "core_checked_at": "2026-09-27T02:16:24.513Z"
   },
   "signals": [],
   "images": {

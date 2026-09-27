@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "en",
   "slug": "vorssaint",
   "url": "https://tesign.com/en/item/vorssaint/",
@@ -108,30 +108,30 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 21256,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 21464,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:58:55.609Z",
+    "stars_checked_at": "2026-09-27T02:16:27.319Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 8,
-    "star_delta_7d": 32,
-    "star_delta_30d": 615,
+    "star_delta_24h": null,
+    "star_delta_7d": 17,
+    "star_delta_30d": 566,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      19,
-      73,
-      45,
       null,
       null,
-      22,
-      12,
-      11,
-      4,
-      2,
+      null,
+      null,
+      null,
+      null,
+      null,
       null,
       null,
       7,
-      8
+      8,
+      2,
+      null,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -141,12 +141,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-23T20:00:00.000Z",
+    "as_of": "2026-09-26T19:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 23
+      "30d": 18
     },
     "categories": [
       {
@@ -157,18 +157,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-25T01:59:35.000Z",
+    "pushed_at": "2026-09-27T01:47:53.000Z",
     "owner_type": "User",
-    "open_issues": 534,
-    "contributors": 116,
-    "releases_count": 81,
+    "open_issues": 571,
+    "contributors": 120,
+    "releases_count": 84,
     "latest_release": {
-      "tag": "v3.4.0-beta.4",
-      "published_at": "2026-09-23T10:07:22.000Z",
+      "tag": "v3.4.0-beta.7",
+      "published_at": "2026-09-26T21:38:26.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-09-25T02:58:55.609Z",
-    "core_checked_at": "2026-09-25T02:58:55.609Z"
+    "checked_at": "2026-09-27T02:16:27.319Z",
+    "core_checked_at": "2026-09-27T02:16:27.319Z"
   },
   "signals": [],
   "images": {

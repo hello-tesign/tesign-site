@@ -5,19 +5,19 @@
 - 페이지: https://tesign.com/item/openclip/
 - JSON: https://tesign.com/item/openclip/index.json
 - 영어 마크다운: https://tesign.com/en/item/openclip/index.md
-- 생성 시각: 2026-09-25 03:06 UTC
+- 생성 시각: 2026-09-27 02:29 UTC
 
 ## 숫자
 
-- 별 521 — GitHub에서 2026-09-25 02:59 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-09-23 20:00 UTC)
+- 별 539 — GitHub에서 2026-09-27 02:17 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-09-26 19:00 UTC)
 - Show HN 5점 — 2026-09-13 13:55 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
 
-- 라이선스: MIT (허용적) — https://spdx.org/licenses/MIT.html
-- 사용 범위: 상업 이용·수정·재배포 가능. 저작권 고지는 유지.
+- 라이선스: AGPL-3.0 (카피레프트) — https://spdx.org/licenses/AGPL-3.0.html
+- 사용 범위: 사용·수정은 자유. 배포는 물론 네트워크 서비스로 제공해도 소스 공개.
 - 오픈소스: 예
 - 언어: Swift
 - 플랫폼: macos
@@ -29,12 +29,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-09-25 02:04 UTC
+- 마지막 커밋: 2026-09-26 17:11 UTC
 - 최근 릴리스: v1.6.2 (2026-09-20)
-- 기여자: 11
+- 기여자: 12
 - 열린 이슈 (PR 포함): 16
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-25 02:59 UTC
+- GitHub 확인 시각: 2026-09-27 02:17 UTC
 
 ## 선정 신호와 근거
 

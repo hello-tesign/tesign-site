@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/gitfut/
 - JSON: https://tesign.com/en/item/gitfut/index.json
 - Korean Markdown: https://tesign.com/item/gitfut/index.md
-- Generated: 2026-09-25 03:06 UTC
+- Generated: 2026-09-27 02:29 UTC
 
 ## RANKS
 
-- SOCIAL #17 (As of 2026-09-23 20:00 UTC)
+- SOCIAL #17 (As of 2026-09-26 19:00 UTC)
 
 ## Numbers
 
-- 2,613 stars — checked on GitHub 2026-09-25 02:59 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-23 20:00 UTC)
+- 2,616 stars — checked on GitHub 2026-09-27 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-26 19:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -35,9 +35,9 @@
 - Last commit: 2026-08-05 23:28 UTC
 - Latest release: no releases
 - Contributors: 9
-- Open issues (incl. PRs): 49
+- Open issues (incl. PRs): 50
 - Made by: an individual
-- Checked on GitHub: 2026-09-25 02:59 UTC
+- Checked on GitHub: 2026-09-27 02:16 UTC
 
 ## Signals and evidence
 

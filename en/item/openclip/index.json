@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-25T03:06:58.885Z",
+  "generated_at": "2026-09-27T02:29:58.986Z",
   "lang": "en",
   "slug": "openclip",
   "url": "https://tesign.com/en/item/openclip/",
@@ -85,10 +85,10 @@
     "macos"
   ],
   "license": {
-    "spdx": "MIT",
-    "scope": "permissive",
-    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
-    "url": "https://spdx.org/licenses/MIT.html",
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Release source if you redistribute or host it as a service.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
     "note": null,
     "open_source": true
   },
@@ -120,14 +120,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-23T20:00:00.000Z",
-    "stars": 521,
+    "as_of": "2026-09-26T19:00:00.000Z",
+    "stars": 539,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-25T02:59:41.824Z",
+    "stars_checked_at": "2026-09-27T02:17:10.793Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 56,
+    "star_delta_30d": 52,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -135,7 +135,7 @@
       null,
       null,
       null,
-      4,
+      null,
       null,
       null,
       null,
@@ -154,18 +154,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-25T02:04:15.000Z",
+    "pushed_at": "2026-09-26T17:11:56.000Z",
     "owner_type": "User",
     "open_issues": 16,
-    "contributors": 11,
+    "contributors": 12,
     "releases_count": 13,
     "latest_release": {
       "tag": "v1.6.2",
       "published_at": "2026-09-20T05:39:32.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-25T02:59:41.824Z",
-    "core_checked_at": "2026-09-25T02:59:41.824Z"
+    "checked_at": "2026-09-27T02:17:10.793Z",
+    "core_checked_at": "2026-09-27T02:17:10.793Z"
   },
   "signals": [
     {

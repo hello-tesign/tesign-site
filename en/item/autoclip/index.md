@@ -5,17 +5,16 @@
 - Page: https://tesign.com/en/item/autoclip/
 - JSON: https://tesign.com/en/item/autoclip/index.json
 - Korean Markdown: https://tesign.com/item/autoclip/index.md
-- Generated: 2026-09-25 03:06 UTC
+- Generated: 2026-09-27 02:29 UTC
 
 ## RANKS
 
-- MEDIA #16 (As of 2026-09-23 20:00 UTC)
+- MEDIA #16 (As of 2026-09-26 19:00 UTC)
 
 ## Numbers
 
-- 8,891 stars — checked on GitHub 2026-09-25 02:57 UTC
-- 7-day +29 observed via GH Archive (as of 2026-09-23 20:00 UTC)
-- 24h +2 ★ · 30d +36 ★ (as of 2026-09-23 20:00 UTC)
+- 8,962 stars — checked on GitHub 2026-09-27 02:15 UTC
+- 7-day +29 observed via GH Archive (as of 2026-09-26 19:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-24 21:04 UTC
-- Latest release: v1.3.4 (2026-09-24)
+- Last commit: 2026-09-26 21:04 UTC
+- Latest release: v1.3.5 (2026-09-25)
 - Contributors: 4
-- Open issues (incl. PRs): 35
+- Open issues (incl. PRs): 52
 - Made by: an individual
-- Checked on GitHub: 2026-09-25 02:57 UTC
+- Checked on GitHub: 2026-09-27 02:15 UTC
 
 ## TESIGN TAKE
 
