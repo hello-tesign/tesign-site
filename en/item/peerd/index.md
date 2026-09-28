@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/peerd/
 - JSON: https://tesign.com/en/item/peerd/index.json
 - Korean Markdown: https://tesign.com/item/peerd/index.md
-- Generated: 2026-09-27 02:29 UTC
+- Generated: 2026-09-28 02:29 UTC
 
 ## Numbers
 
-- 415 stars — checked on GitHub 2026-09-27 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-26 19:00 UTC)
+- 415 stars — checked on GitHub 2026-09-28 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-27 21:00 UTC)
 - 75 Show HN points — observed 2026-09-13 15:49 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-26 14:32 UTC
+- Last commit: 2026-09-27 17:22 UTC
 - Latest release: v0.7.3 (2026-08-20)
 - Contributors: 9
-- Open issues (incl. PRs): 17
+- Open issues (incl. PRs): 18
 - Made by: an individual
-- Checked on GitHub: 2026-09-27 02:17 UTC
+- Checked on GitHub: 2026-09-28 02:17 UTC
 
 ## Signals and evidence
 

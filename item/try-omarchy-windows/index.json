@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-27T02:29:58.986Z",
+  "generated_at": "2026-09-28T02:29:57.811Z",
   "lang": "ko",
   "slug": "try-omarchy-windows",
   "url": "https://tesign.com/item/try-omarchy-windows/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-26T19:00:00.000Z",
-    "stars": 486,
+    "as_of": "2026-09-27T21:00:00.000Z",
+    "stars": 493,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-27T02:15:15.270Z",
+    "stars_checked_at": "2026-09-28T02:15:14.947Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -113,24 +113,24 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 5,
-    "hn_points_observed_at": "2026-09-26T10:15:29.800Z",
+    "hn_points_observed_at": "2026-09-27T15:57:38.437Z",
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-27T01:46:47.000Z",
+    "pushed_at": "2026-09-27T07:16:16.000Z",
     "owner_type": "Organization",
-    "open_issues": 8,
+    "open_issues": 5,
     "contributors": 7,
-    "releases_count": 25,
+    "releases_count": 26,
     "latest_release": {
-      "tag": "v0.5.0",
-      "published_at": "2026-09-27T01:29:19.000Z",
+      "tag": "v0.6.0",
+      "published_at": "2026-09-27T07:00:01.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-27T02:15:15.270Z",
-    "core_checked_at": "2026-09-27T02:15:15.270Z"
+    "checked_at": "2026-09-28T02:15:14.947Z",
+    "core_checked_at": "2026-09-28T02:15:14.947Z"
   },
   "signals": [
     {

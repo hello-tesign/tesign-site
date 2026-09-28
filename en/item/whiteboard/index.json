@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-27T02:29:58.986Z",
+  "generated_at": "2026-09-28T02:29:57.811Z",
   "lang": "en",
   "slug": "whiteboard",
   "url": "https://tesign.com/en/item/whiteboard/",
@@ -92,12 +92,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-26T19:00:00.000Z",
-    "stars": 1635,
+    "as_of": "2026-09-27T21:00:00.000Z",
+    "stars": 1908,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-27T02:15:03.040Z",
+    "stars_checked_at": "2026-09-28T02:15:01.877Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 4,
+    "star_delta_24h": null,
     "star_delta_7d": 15,
     "star_delta_30d": 15,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -112,23 +112,23 @@
       null,
       null,
       null,
-      null,
       2,
       11,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 410,
-    "hn_points_observed_at": "2026-09-27T00:15:46.413Z",
+    "hn_points": 416,
+    "hn_points_observed_at": "2026-09-28T01:24:20.765Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-26T17:53:13.000Z",
+    "pushed_at": "2026-09-28T01:57:20.000Z",
     "owner_type": "Organization",
-    "open_issues": 34,
+    "open_issues": 28,
     "contributors": 8,
     "releases_count": 15,
     "latest_release": {
@@ -136,8 +136,8 @@
       "published_at": "2026-09-26T03:13:47.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-27T02:15:03.040Z",
-    "core_checked_at": "2026-09-27T02:15:03.040Z"
+    "checked_at": "2026-09-28T02:15:01.877Z",
+    "core_checked_at": "2026-09-28T02:15:01.877Z"
   },
   "signals": [
     {

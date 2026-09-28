@@ -5,16 +5,17 @@
 - 페이지: https://tesign.com/item/humanizer/
 - JSON: https://tesign.com/item/humanizer/index.json
 - 영어 마크다운: https://tesign.com/en/item/humanizer/index.md
-- 생성 시각: 2026-09-27 02:29 UTC
+- 생성 시각: 2026-09-28 02:29 UTC
 
 ## 순위
 
-- 역대 123위 · 생산성 분야 10위 (기준 2026-09-26 19:00 UTC)
+- 역대 123위 · 생산성 분야 10위 (기준 2026-09-27 21:00 UTC)
 
 ## 숫자
 
-- 별 52,183 — GitHub에서 2026-09-27 02:16 UTC 확인
-- 7일 +20은 GH Archive 관측 (기준 2026-09-26 19:00 UTC)
+- 별 52,383 — GitHub에서 2026-09-28 02:16 UTC 확인
+- 7일 +22은 GH Archive 관측 (기준 2026-09-27 21:00 UTC)
+- 24h +2 ★ · 30d +1,353 ★ (기준 2026-09-27 21:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -35,9 +36,9 @@
 - 마지막 커밋: 2026-09-06 20:26 UTC
 - 최근 릴리스: v3.0.0 (2026-09-06)
 - 기여자: 19
-- 열린 이슈 (PR 포함): 25
+- 열린 이슈 (PR 포함): 26
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-27 02:16 UTC
+- GitHub 확인 시각: 2026-09-28 02:16 UTC
 
 ## TESIGN TAKE
 

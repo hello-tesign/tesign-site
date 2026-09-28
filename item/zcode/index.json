@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-27T02:29:58.986Z",
+  "generated_at": "2026-09-28T02:29:57.811Z",
   "lang": "ko",
   "slug": "zcode",
   "url": "https://tesign.com/item/zcode/",
@@ -89,14 +89,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-26T19:00:00.000Z",
-    "stars": 6839,
+    "as_of": "2026-09-27T21:00:00.000Z",
+    "stars": 6902,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-27T02:15:17.184Z",
+    "stars_checked_at": "2026-09-28T02:15:16.890Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 69,
-    "star_delta_30d": 69,
+    "star_delta_7d": 46,
+    "star_delta_30d": 46,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -106,9 +106,9 @@
       null,
       null,
       null,
-      null,
-      48,
+      25,
       21,
+      null,
       null,
       null,
       null,
@@ -133,8 +133,8 @@
       "published_at": "2026-09-24T10:54:12.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-27T02:15:17.184Z",
-    "core_checked_at": "2026-09-27T02:15:17.184Z"
+    "checked_at": "2026-09-28T02:15:16.890Z",
+    "core_checked_at": "2026-09-28T02:15:16.890Z"
   },
   "signals": [
     {
