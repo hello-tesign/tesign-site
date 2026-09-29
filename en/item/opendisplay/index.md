@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/opendisplay/
 - JSON: https://tesign.com/en/item/opendisplay/index.json
 - Korean Markdown: https://tesign.com/item/opendisplay/index.md
-- Generated: 2026-09-28 02:29 UTC
+- Generated: 2026-09-29 02:28 UTC
 
 ## RANKS
 
-- HARDWARE #2 (As of 2026-09-27 21:00 UTC)
+- HARDWARE #2 (As of 2026-09-28 21:00 UTC)
 
 ## Numbers
 
-- 4,841 stars — checked on GitHub 2026-09-28 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-27 21:00 UTC)
+- 4,871 stars — checked on GitHub 2026-09-29 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-28 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -35,9 +35,9 @@
 - Last commit: 2026-09-23 08:53 UTC
 - Latest release: v1.22.0 (2026-09-23)
 - Contributors: 6
-- Open issues (incl. PRs): 154
+- Open issues (incl. PRs): 159
 - Made by: an individual
-- Checked on GitHub: 2026-09-28 02:16 UTC
+- Checked on GitHub: 2026-09-29 02:16 UTC
 
 ## TESIGN TAKE
 

@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-28T02:29:57.811Z",
+  "generated_at": "2026-09-29T02:28:04.402Z",
   "site": "https://tesign.com",
-  "count": 176,
+  "count": 185,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,271 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-27T21:00:00.000Z",
+  "numbers_as_of": "2026-09-28T21:00:00.000Z",
   "items": [
+    {
+      "slug": "lofi-cities",
+      "name": {
+        "ko": "Lofi Cities",
+        "en": "Lofi Cities"
+      },
+      "use_label": {
+        "ko": "도시 밤 풍경 로파이",
+        "en": "Pixel-art city nights with lofi music"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-29T02:28:00.708Z",
+      "kept_at": "2026-09-29T02:28:00.646Z",
+      "html": {
+        "ko": "https://tesign.com/item/lofi-cities/",
+        "en": "https://tesign.com/en/item/lofi-cities/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/lofi-cities/index.json",
+        "en": "https://tesign.com/en/item/lofi-cities/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/lofi-cities/index.md",
+        "en": "https://tesign.com/en/item/lofi-cities/index.md"
+      }
+    },
+    {
+      "slug": "shotcandy",
+      "name": {
+        "ko": "Shotcandy",
+        "en": "Shotcandy"
+      },
+      "use_label": {
+        "ko": "스크린샷 예쁘게 꾸미기",
+        "en": "Turn screenshots into share-ready images"
+      },
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "updated": "2026-09-29T02:28:00.689Z",
+      "kept_at": "2026-09-29T02:28:00.611Z",
+      "html": {
+        "ko": "https://tesign.com/item/shotcandy/",
+        "en": "https://tesign.com/en/item/shotcandy/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/shotcandy/index.json",
+        "en": "https://tesign.com/en/item/shotcandy/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/shotcandy/index.md",
+        "en": "https://tesign.com/en/item/shotcandy/index.md"
+      }
+    },
+    {
+      "slug": "roborock-local-server",
+      "name": {
+        "ko": "Roborock Local Server",
+        "en": "Roborock Local Server"
+      },
+      "use_label": {
+        "ko": "로봇청소기 인터넷 없이",
+        "en": "Run a Roborock vacuum without the cloud"
+      },
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "updated": "2026-09-29T02:28:00.699Z",
+      "kept_at": "2026-09-29T02:28:00.592Z",
+      "html": {
+        "ko": "https://tesign.com/item/roborock-local-server/",
+        "en": "https://tesign.com/en/item/roborock-local-server/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/roborock-local-server/index.json",
+        "en": "https://tesign.com/en/item/roborock-local-server/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/roborock-local-server/index.md",
+        "en": "https://tesign.com/en/item/roborock-local-server/index.md"
+      }
+    },
+    {
+      "slug": "reladraw",
+      "name": {
+        "ko": "reladraw",
+        "en": "reladraw"
+      },
+      "use_label": {
+        "ko": "배치를 정하는 도표 언어",
+        "en": "Diagram language with your own layout"
+      },
+      "category": "design",
+      "categories": [
+        "design",
+        "dev-tools"
+      ],
+      "updated": "2026-09-29T02:28:00.701Z",
+      "kept_at": "2026-09-29T02:28:00.587Z",
+      "html": {
+        "ko": "https://tesign.com/item/reladraw/",
+        "en": "https://tesign.com/en/item/reladraw/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/reladraw/index.json",
+        "en": "https://tesign.com/en/item/reladraw/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/reladraw/index.md",
+        "en": "https://tesign.com/en/item/reladraw/index.md"
+      }
+    },
+    {
+      "slug": "liveworld",
+      "name": {
+        "ko": "LiveWorld",
+        "en": "LiveWorld"
+      },
+      "use_label": {
+        "ko": "세계 라이브캠 지구본",
+        "en": "Browse the world's live cams on a globe"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-09-29T02:28:00.693Z",
+      "kept_at": "2026-09-29T02:28:00.551Z",
+      "html": {
+        "ko": "https://tesign.com/item/liveworld/",
+        "en": "https://tesign.com/en/item/liveworld/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/liveworld/index.json",
+        "en": "https://tesign.com/en/item/liveworld/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/liveworld/index.md",
+        "en": "https://tesign.com/en/item/liveworld/index.md"
+      }
+    },
+    {
+      "slug": "seasonmap",
+      "name": {
+        "ko": "SeasonMap",
+        "en": "SeasonMap"
+      },
+      "use_label": {
+        "ko": "이번 달 여행지 찾기",
+        "en": "See where to travel this month"
+      },
+      "category": "data",
+      "categories": [
+        "data"
+      ],
+      "updated": "2026-09-29T02:28:00.691Z",
+      "kept_at": "2026-09-29T02:28:00.530Z",
+      "html": {
+        "ko": "https://tesign.com/item/seasonmap/",
+        "en": "https://tesign.com/en/item/seasonmap/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/seasonmap/index.json",
+        "en": "https://tesign.com/en/item/seasonmap/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/seasonmap/index.md",
+        "en": "https://tesign.com/en/item/seasonmap/index.md"
+      }
+    },
+    {
+      "slug": "window-sweaters",
+      "name": {
+        "ko": "Window Sweaters",
+        "en": "Window Sweaters"
+      },
+      "use_label": {
+        "ko": "맥 창에 뜨개 테두리",
+        "en": "Knitted borders for your Mac windows"
+      },
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "updated": "2026-09-29T02:28:00.703Z",
+      "kept_at": "2026-09-29T02:28:00.527Z",
+      "html": {
+        "ko": "https://tesign.com/item/window-sweaters/",
+        "en": "https://tesign.com/en/item/window-sweaters/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/window-sweaters/index.json",
+        "en": "https://tesign.com/en/item/window-sweaters/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/window-sweaters/index.md",
+        "en": "https://tesign.com/en/item/window-sweaters/index.md"
+      }
+    },
+    {
+      "slug": "ui-ux-pro-max-skill",
+      "name": {
+        "ko": "UI UX Pro Max",
+        "en": "UI UX Pro Max"
+      },
+      "use_label": {
+        "ko": "AI 코딩에 디자인 감각",
+        "en": "Design sense for AI coding tools"
+      },
+      "category": "design",
+      "categories": [
+        "design",
+        "ai"
+      ],
+      "updated": "2026-09-29T02:28:00.659Z",
+      "kept_at": "2026-09-29T02:28:00.513Z",
+      "html": {
+        "ko": "https://tesign.com/item/ui-ux-pro-max-skill/",
+        "en": "https://tesign.com/en/item/ui-ux-pro-max-skill/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/ui-ux-pro-max-skill/index.json",
+        "en": "https://tesign.com/en/item/ui-ux-pro-max-skill/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/ui-ux-pro-max-skill/index.md",
+        "en": "https://tesign.com/en/item/ui-ux-pro-max-skill/index.md"
+      }
+    },
+    {
+      "slug": "iloader",
+      "name": {
+        "ko": "iloader",
+        "en": "iloader"
+      },
+      "use_label": {
+        "ko": "아이폰 사이드로딩 도우미",
+        "en": "Sideload apps onto your iPhone easily"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-09-29T02:28:00.697Z",
+      "kept_at": "2026-09-29T02:28:00.507Z",
+      "html": {
+        "ko": "https://tesign.com/item/iloader/",
+        "en": "https://tesign.com/en/item/iloader/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/iloader/index.json",
+        "en": "https://tesign.com/en/item/iloader/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/iloader/index.md",
+        "en": "https://tesign.com/en/item/iloader/index.md"
+      }
+    },
     {
       "slug": "carbon-erp",
       "name": {

@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/deskbox/
 - JSON: https://tesign.com/en/item/deskbox/index.json
 - Korean Markdown: https://tesign.com/item/deskbox/index.md
-- Generated: 2026-09-28 02:29 UTC
+- Generated: 2026-09-29 02:28 UTC
 
 ## RANKS
 
--  (As of 2026-09-27 21:00 UTC)
+-  (As of 2026-09-28 21:00 UTC)
 
 ## Numbers
 
-- 5,633 stars — checked on GitHub 2026-09-28 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-27 21:00 UTC)
+- 5,795 stars — checked on GitHub 2026-09-29 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-28 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-26 19:30 UTC
+- Last commit: 2026-09-29 02:03 UTC
 - Latest release: v1.5.5 (2026-09-22)
 - Contributors: 1
-- Open issues (incl. PRs): 90
+- Open issues (incl. PRs): 92
 - Made by: an individual
-- Checked on GitHub: 2026-09-28 02:16 UTC
+- Checked on GitHub: 2026-09-29 02:16 UTC
 
 ## TESIGN TAKE
 

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/hibi/
 - JSON: https://tesign.com/en/item/hibi/index.json
 - Korean Markdown: https://tesign.com/item/hibi/index.md
-- Generated: 2026-09-28 02:29 UTC
+- Generated: 2026-09-29 02:28 UTC
 
 ## Numbers
 
-- 74 stars — checked on GitHub 2026-09-28 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-27 21:00 UTC)
+- 75 stars — checked on GitHub 2026-09-29 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-28 21:00 UTC)
 - 6 Show HN points — observed 2026-09-27 15:57 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-27 18:41 UTC
-- Latest release: nightly-broken-2026-09-27-1f8ad05-38-1 (2026-09-27) · pre-release
+- Last commit: 2026-09-29 00:14 UTC
+- Latest release: nightly-broken-2026-09-28-1f8ad05-39-1 (2026-09-28) · pre-release
 - Contributors: 9
-- Open issues (incl. PRs): 30
+- Open issues (incl. PRs): 31
 - Made by: an individual
-- Checked on GitHub: 2026-09-28 02:15 UTC
+- Checked on GitHub: 2026-09-29 02:15 UTC
 
 ## Signals and evidence
 

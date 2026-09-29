@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/capcut-cli/
 - JSON: https://tesign.com/en/item/capcut-cli/index.json
 - Korean Markdown: https://tesign.com/item/capcut-cli/index.md
-- Generated: 2026-09-28 02:29 UTC
+- Generated: 2026-09-29 02:28 UTC
 
 ## Numbers
 
-- 790 stars — checked on GitHub 2026-09-28 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-27 21:00 UTC)
+- 802 stars — checked on GitHub 2026-09-29 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-28 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-27 01:55 UTC
+- Last commit: 2026-09-28 07:42 UTC
 - Latest release: v0.26.0 (2026-09-25)
 - Contributors: 11
 - Open issues (incl. PRs): 3
 - Made by: an individual
-- Checked on GitHub: 2026-09-28 02:15 UTC
+- Checked on GitHub: 2026-09-29 02:15 UTC
 
 ## TESIGN TAKE
 

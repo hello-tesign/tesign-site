@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-28T02:29:57.811Z",
+  "generated_at": "2026-09-29T02:28:04.402Z",
   "lang": "en",
   "slug": "diagram-design",
   "url": "https://tesign.com/en/item/diagram-design/",
@@ -113,12 +113,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-27T21:00:00.000Z",
-    "stars": 42591,
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": 42679,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-28T02:16:03.318Z",
+    "stars_checked_at": "2026-09-29T02:16:15.623Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
+    "star_delta_24h": 2,
     "star_delta_7d": 4,
     "star_delta_30d": 1320,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -130,13 +130,13 @@
       null,
       null,
       null,
-      2,
       null,
       null,
       2,
       null,
       null,
-      null
+      null,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -146,7 +146,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-27T21:00:00.000Z",
+    "as_of": "2026-09-28T21:00:00.000Z",
     "all_time": 151,
     "rising": {
       "24h": null,
@@ -157,19 +157,19 @@
       {
         "category": "design",
         "label": "DESIGN",
-        "rank": 7
+        "rank": 8
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-27T04:49:56.000Z",
+    "pushed_at": "2026-09-29T02:02:03.000Z",
     "owner_type": "User",
-    "open_issues": 49,
-    "contributors": 42,
+    "open_issues": 30,
+    "contributors": 44,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-28T02:16:03.318Z",
-    "core_checked_at": "2026-09-28T02:16:03.318Z"
+    "checked_at": "2026-09-29T02:16:15.623Z",
+    "core_checked_at": "2026-09-29T02:16:15.623Z"
   },
   "signals": [],
   "images": {

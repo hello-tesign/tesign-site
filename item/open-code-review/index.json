@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-28T02:29:57.811Z",
+  "generated_at": "2026-09-29T02:28:04.402Z",
   "lang": "ko",
   "slug": "open-code-review",
   "url": "https://tesign.com/item/open-code-review/",
@@ -119,14 +119,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-27T21:00:00.000Z",
-    "stars": 41955,
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": 42321,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-28T02:15:58.705Z",
+    "stars_checked_at": "2026-09-29T02:16:09.550Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 55,
-    "star_delta_30d": 165,
+    "star_delta_7d": 27,
+    "star_delta_30d": 137,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -136,12 +136,12 @@
       null,
       null,
       null,
-      18,
-      20,
+      10,
       8,
       5,
       2,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -152,7 +152,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-27T21:00:00.000Z",
+    "as_of": "2026-09-28T21:00:00.000Z",
     "all_time": 154,
     "rising": {
       "24h": null,
@@ -168,18 +168,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-24T09:59:47.000Z",
+    "pushed_at": "2026-09-28T09:09:11.000Z",
     "owner_type": "Organization",
-    "open_issues": 236,
+    "open_issues": 242,
     "contributors": 192,
-    "releases_count": 133,
+    "releases_count": 134,
     "latest_release": {
-      "tag": "v1.12.9",
-      "published_at": "2026-09-22T11:17:44.000Z",
+      "tag": "v1.12.10",
+      "published_at": "2026-09-28T07:47:36.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-28T02:15:58.705Z",
-    "core_checked_at": "2026-09-28T02:15:58.705Z"
+    "checked_at": "2026-09-29T02:16:09.550Z",
+    "core_checked_at": "2026-09-29T02:16:09.550Z"
   },
   "signals": [],
   "images": {

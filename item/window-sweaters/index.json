@@ -1,0 +1,164 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-29T02:28:04.402Z",
+  "lang": "ko",
+  "slug": "window-sweaters",
+  "url": "https://tesign.com/item/window-sweaters/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/window-sweaters/",
+      "json": "https://tesign.com/item/window-sweaters/index.json",
+      "markdown": "https://tesign.com/item/window-sweaters/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/window-sweaters/",
+      "json": "https://tesign.com/en/item/window-sweaters/index.json",
+      "markdown": "https://tesign.com/en/item/window-sweaters/index.md"
+    }
+  },
+  "name": "Window Sweaters",
+  "use_label": "맥 창에 뜨개 테두리",
+  "one_liner": "맥의 창마다 뜨개질한 스웨터 같은 테두리를 입혀 주는 메뉴바 앱.",
+  "text": {
+    "why": "쓸모보다 기분을 위한 앱이다. 매일 보는 창에 따뜻한 느낌을 더해 책상 화면을 조금 더 아늑하게 만든다.",
+    "take": "그냥 귀엽다. 그 이상의 이유가 필요 없는 앱이다.",
+    "build": [
+      "창 둘레에 뜨개 무늬 테두리를 그린다. 파인더·클로드·코덱스·스포티파이·노션·피그마 같은 앱의 색을 딴 무늬와, 앱 색에 크림색 지그재그를 넣은 무늬 두 가지 방식이 있다."
+    ],
+    "who": [
+      {
+        "role": "맥 화면을 꾸미는 걸 좋아하는 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "홈브루로 brew trust saragordic/tap 후 brew install --cask saragordic/tap/window-sweaters를 실행한다. 저장소 주소를 코딩 에이전트에 주고 설치를 부탁해도 된다고 README가 안내한다."
+      }
+    ],
+    "caveat": [
+      "맥 전용이며 장식 외의 기능은 없다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://github.com/saragordic/window-sweaters"
+  },
+  "ready": "install",
+  "categories": [
+    "design"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "맥",
+    "꾸미기",
+    "메뉴바",
+    "오픈소스"
+  ],
+  "platform": [
+    "macos"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포하면 소스 공개 의무(카피레프트).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "C",
+  "source_urls": {
+    "canonical": "https://github.com/saragordic/window-sweaters",
+    "github": "https://github.com/saragordic/window-sweaters",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/saragordic/window-sweaters",
+        "posted_at": "2026-09-15T17:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": 137,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-15T23:33:43.045Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-15T22:51:32.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-15T23:33:43.045Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 21h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/window-sweaters-2739470123.png",
+    "cover": "https://tesign.com/img/window-sweaters-2739470123.png",
+    "cover_width": 4480,
+    "cover_height": 2640,
+    "gallery": [
+      "https://tesign.com/img/window-sweaters-2739470123.png"
+    ],
+    "alt": "Window Sweaters가 그린 테두리 모음. 파인더·팀즈·클로드·코덱스·스포티파이·노션·왓츠앱·피그마 색의 뜨개 테두리가 두 가지 무늬로 나열돼 있다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-15T23:33:09.628Z",
+    "source_created_at": "2026-09-15T01:51:36.000Z",
+    "discovery_hours": 21.692674444444446,
+    "launch_signal_at": "2026-09-15T17:00:00.000Z",
+    "kept_at": "2026-09-29T02:28:00.527Z",
+    "first_published_at": "2026-09-29T02:28:00.745Z",
+    "updated_at": "2026-09-29T02:28:00.703Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-28T02:29:57.811Z",
+  "generated_at": "2026-09-29T02:28:04.402Z",
   "lang": "ko",
   "slug": "monica",
   "url": "https://tesign.com/item/monica/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-27T21:00:00.000Z",
-    "stars": 1037,
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": 1040,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-28T02:15:21.114Z",
+    "stars_checked_at": "2026-09-29T02:15:27.161Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,7 +118,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-27T21:00:00.000Z",
+    "as_of": "2026-09-28T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -134,18 +134,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-26T02:53:30.000Z",
+    "pushed_at": "2026-09-28T21:42:46.000Z",
     "owner_type": "Organization",
-    "open_issues": 9,
-    "contributors": 14,
-    "releases_count": 81,
+    "open_issues": 8,
+    "contributors": 15,
+    "releases_count": 82,
     "latest_release": {
-      "tag": "preview",
-      "published_at": "2026-04-17T04:49:31.000Z",
-      "prerelease": true
+      "tag": "V1.0.314",
+      "published_at": "2026-09-28T15:30:52.000Z",
+      "prerelease": false
     },
-    "checked_at": "2026-09-28T02:15:21.114Z",
-    "core_checked_at": "2026-09-28T02:15:21.114Z"
+    "checked_at": "2026-09-29T02:15:27.161Z",
+    "core_checked_at": "2026-09-29T02:15:27.161Z"
   },
   "signals": [],
   "images": {

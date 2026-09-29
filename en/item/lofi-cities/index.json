@@ -1,0 +1,155 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-29T02:28:04.402Z",
+  "lang": "en",
+  "slug": "lofi-cities",
+  "url": "https://tesign.com/en/item/lofi-cities/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/lofi-cities/",
+      "json": "https://tesign.com/item/lofi-cities/index.json",
+      "markdown": "https://tesign.com/item/lofi-cities/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/lofi-cities/",
+      "json": "https://tesign.com/en/item/lofi-cities/index.json",
+      "markdown": "https://tesign.com/en/item/lofi-cities/index.md"
+    }
+  },
+  "name": "Lofi Cities",
+  "use_label": "Pixel-art city nights with lofi music",
+  "one_liner": "Pixel-art city nights with lofi music generated in your browser — a backdrop for working.",
+  "text": {
+    "why": "Sometimes you want a quiet backdrop while working or studying. Lofi Cities shows scenes like a rainy Paris attic, with the city's local time and weather.",
+    "take": "No install — one tab you leave on while you work.",
+    "build": [
+      "Pick a city and the pixel-art scene and local time change, with weather and tour (city rotation) options. The music is generated in the browser, and it shows how many people are watching now."
+    ],
+    "who": [
+      {
+        "role": "Anyone who keeps calm music and visuals on while working or studying.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Open loficities.com and press play."
+      }
+    ],
+    "caveat": [
+      "The site carries a paid job-ads strip along the top (cropped from our image). Source availability and licence could not be confirmed."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://loficities.com/"
+  },
+  "ready": "browser",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "로파이",
+    "음악",
+    "픽셀 아트",
+    "설치 없이"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": null,
+    "note": null,
+    "open_source": null
+  },
+  "language": null,
+  "source_urls": {
+    "canonical": "https://loficities.com/",
+    "github": null,
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://loficities.com/",
+        "posted_at": "2026-09-27T18:44:30.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49869574"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": null,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": null,
+    "stars_observed_since_check": null,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 304,
+    "hn_points_observed_at": "2026-09-28T20:10:04.489Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": null,
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "4h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/lofi-cities-8300aa9bfd.png",
+    "cover": "https://tesign.com/img/lofi-cities-8300aa9bfd.png",
+    "cover_width": 2400,
+    "cover_height": 1200,
+    "gallery": [
+      "https://tesign.com/img/lofi-cities-8300aa9bfd.png"
+    ],
+    "alt": "Lofi Cities' Paris scene: a pixel-art attic with the Eiffel Tower through a rainy window, playback controls below.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-27T23:08:23.802Z",
+    "source_created_at": "2026-09-27T18:44:30.000Z",
+    "discovery_hours": 4.398278333333334,
+    "launch_signal_at": "2026-09-27T18:44:30.000Z",
+    "kept_at": "2026-09-29T02:28:00.646Z",
+    "first_published_at": "2026-09-29T02:28:00.745Z",
+    "updated_at": "2026-09-29T02:28:00.708Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

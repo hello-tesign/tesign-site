@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-28T02:29:57.811Z",
+  "generated_at": "2026-09-29T02:28:04.402Z",
   "lang": "ko",
   "slug": "easel",
   "url": "https://tesign.com/item/easel/",
@@ -120,10 +120,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-27T21:00:00.000Z",
-    "stars": 1870,
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": 2193,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-28T02:16:21.164Z",
+    "stars_checked_at": "2026-09-29T02:16:35.319Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -152,20 +152,35 @@
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
-  "ranks": null,
+  "ranks": {
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "social",
+        "label": "소셜",
+        "rank": 20
+      }
+    ]
+  },
   "activity": {
-    "pushed_at": "2026-09-24T03:12:47.000Z",
+    "pushed_at": "2026-09-28T17:24:04.000Z",
     "owner_type": "Organization",
-    "open_issues": 13,
-    "contributors": 9,
+    "open_issues": 9,
+    "contributors": 12,
     "releases_count": 4,
     "latest_release": {
       "tag": "v0.2.1",
       "published_at": "2026-09-24T03:18:26.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-28T02:16:21.164Z",
-    "core_checked_at": "2026-09-28T02:16:21.164Z"
+    "checked_at": "2026-09-29T02:16:35.319Z",
+    "core_checked_at": "2026-09-29T02:16:35.319Z"
   },
   "signals": [],
   "images": {

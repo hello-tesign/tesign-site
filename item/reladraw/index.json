@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-29T02:28:04.402Z",
+  "lang": "ko",
+  "slug": "reladraw",
+  "url": "https://tesign.com/item/reladraw/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/reladraw/",
+      "json": "https://tesign.com/item/reladraw/index.json",
+      "markdown": "https://tesign.com/item/reladraw/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/reladraw/",
+      "json": "https://tesign.com/en/item/reladraw/index.json",
+      "markdown": "https://tesign.com/en/item/reladraw/index.md"
+    }
+  },
+  "name": "reladraw",
+  "use_label": "배치를 정하는 도표 언어",
+  "one_liner": "상자와 선을 글로 적되, 어디에 놓을지는 내가 정하는 다이어그램 언어.",
+  "text": {
+    "why": "Mermaid 같은 도구는 배치를 자동으로 정해 원하는 그림이 안 나오고, draw.io는 하나하나 끌어 놓아야 해서 번거롭다. reladraw는 글로 쓰는 편함과 원하는 자리에 놓는 자유 사이를 노린다.",
+    "take": "에이전트가 그림을 그릴 때도 좌표를 계산할 필요 없이 관계만 적으면 된다는 점이 요즘 쓰임에 맞다.",
+    "build": [
+      "상자와 연결선을 글로 적고, '무엇의 오른쪽·아래' 같은 관계로 위치를 지정한다. 브라우저에서 바로 써 볼 수 있고, 저장소에 서버 구성도 같은 예제가 있다."
+    ],
+    "who": [
+      {
+        "role": "설계도·구성도를 자주 그리는 개발자와 기획자.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "reladraw.github.io/reladraw에서 브라우저로 바로 써 본다."
+      }
+    ],
+    "caveat": [
+      "새 문법을 익혀야 한다. 공개된 지 얼마 안 된 프로젝트다."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://reladraw.github.io/reladraw"
+  },
+  "ready": "browser",
+  "categories": [
+    "design",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "다이어그램",
+    "문서",
+    "개발 도구",
+    "설치 없이"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 고지 유지, 바꾼 부분은 표시.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://reladraw.github.io/reladraw",
+    "github": "https://github.com/reladraw/reladraw",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/reladraw/reladraw",
+        "posted_at": "2026-09-26T17:10:40.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49858513"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": 564,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-27T10:41:21.259Z",
+    "stars_observed_since_check": 2,
+    "star_delta_24h": 2,
+    "star_delta_7d": 5,
+    "star_delta_30d": 5,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      3,
+      2,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 402,
+    "hn_points_observed_at": "2026-09-28T20:10:05.794Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-27T05:50:41.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-27T10:41:21.259Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 9h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/reladraw-d111ad8903.png",
+    "cover": "https://tesign.com/img/reladraw-d111ad8903.png",
+    "cover_width": 2072,
+    "cover_height": 695,
+    "gallery": [
+      "https://tesign.com/img/reladraw-d111ad8903.png"
+    ],
+    "alt": "reladraw로 그린 구성도. 외장 하드, 홈 서버, 데스크톱·노트북, 클라우드 동기화가 화살표로 이어져 있다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-27T02:14:12.246Z",
+    "source_created_at": "2026-09-26T17:10:40.000Z",
+    "discovery_hours": 9.058957222222222,
+    "launch_signal_at": "2026-09-26T17:10:40.000Z",
+    "kept_at": "2026-09-29T02:28:00.587Z",
+    "first_published_at": "2026-09-29T02:28:00.745Z",
+    "updated_at": "2026-09-29T02:28:00.701Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

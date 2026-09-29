@@ -1,0 +1,155 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-29T02:28:04.402Z",
+  "lang": "en",
+  "slug": "seasonmap",
+  "url": "https://tesign.com/en/item/seasonmap/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/seasonmap/",
+      "json": "https://tesign.com/item/seasonmap/index.json",
+      "markdown": "https://tesign.com/item/seasonmap/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/seasonmap/",
+      "json": "https://tesign.com/en/item/seasonmap/index.json",
+      "markdown": "https://tesign.com/en/item/seasonmap/index.md"
+    }
+  },
+  "name": "SeasonMap",
+  "use_label": "See where to travel this month",
+  "one_liner": "A world map that shows where it is good to travel this month, based on climate data.",
+  "text": {
+    "why": "Weather sites tell you what Lisbon is like in June, not where it is good this month. SeasonMap marks what is in season and out of season on the map for the month you pick, and says why.",
+    "take": "It flips 'what is it like there' into 'where is good now' and shows it on one map.",
+    "build": [
+      "Pick a month and an activity such as city walking, and places on the world map change colour for in-season or out-of-season; the site lists 293 well-known places in season for September city walking."
+    ],
+    "who": [
+      {
+        "role": "Travellers choosing where and when to go.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Open seasonmap.app, pick a month and an activity, and press 'Open the map'."
+      }
+    ],
+    "caveat": [
+      "Per the site, everything is open for the first five minutes with no account; there is a separate pricing page. Source availability and licence could not be confirmed."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://seasonmap.app/"
+  },
+  "ready": "browser",
+  "categories": [
+    "data"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "여행",
+    "지도",
+    "날씨",
+    "설치 없이"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "Unconfirmed — check before use.",
+    "url": null,
+    "note": null,
+    "open_source": null
+  },
+  "language": null,
+  "source_urls": {
+    "canonical": "https://seasonmap.app/",
+    "github": null,
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://seasonmap.app",
+        "posted_at": "2026-09-16T15:43:07.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49728781"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": null,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": null,
+    "stars_observed_since_check": null,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 23,
+    "hn_points_observed_at": "2026-09-23T06:30:26.467Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": null,
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "7h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/seasonmap-58eeacd96d.png",
+    "cover": "https://tesign.com/img/seasonmap-58eeacd96d.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/seasonmap-58eeacd96d.png"
+    ],
+    "alt": "SeasonMap: 'Where it's good in September', a month picker, and a world map with in-season places as green dots.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-16T23:24:07.582Z",
+    "source_created_at": "2026-09-16T15:43:07.000Z",
+    "discovery_hours": 7.683495,
+    "launch_signal_at": "2026-09-16T15:43:07.000Z",
+    "kept_at": "2026-09-29T02:28:00.530Z",
+    "first_published_at": "2026-09-29T02:28:00.745Z",
+    "updated_at": "2026-09-29T02:28:00.691Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-28T02:29:57.811Z",
+  "generated_at": "2026-09-29T02:28:04.402Z",
   "lang": "en",
   "slug": "pi-desktop",
   "url": "https://tesign.com/en/item/pi-desktop/",
@@ -105,14 +105,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-27T21:00:00.000Z",
-    "stars": 5937,
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": 6034,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-28T02:16:13.676Z",
+    "stars_checked_at": "2026-09-29T02:16:27.261Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 6,
-    "star_delta_30d": 299,
+    "star_delta_7d": 4,
+    "star_delta_30d": 297,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -122,11 +122,11 @@
       null,
       null,
       null,
-      2,
       null,
       2,
       null,
       2,
+      null,
       null,
       null
     ],
@@ -138,28 +138,28 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-27T21:00:00.000Z",
+    "as_of": "2026-09-28T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 48
+      "30d": 47
     },
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-28T00:37:48.000Z",
+    "pushed_at": "2026-09-29T00:09:23.000Z",
     "owner_type": "User",
-    "open_issues": 190,
-    "contributors": 71,
-    "releases_count": 80,
+    "open_issues": 201,
+    "contributors": 75,
+    "releases_count": 81,
     "latest_release": {
-      "tag": "v0.15.9",
-      "published_at": "2026-09-27T19:56:23.000Z",
+      "tag": "v0.15.10",
+      "published_at": "2026-09-28T12:38:13.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-28T02:16:13.676Z",
-    "core_checked_at": "2026-09-28T02:16:13.676Z"
+    "checked_at": "2026-09-29T02:16:27.261Z",
+    "core_checked_at": "2026-09-29T02:16:27.261Z"
   },
   "signals": [],
   "images": {

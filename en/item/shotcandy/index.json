@@ -1,0 +1,164 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-29T02:28:04.402Z",
+  "lang": "en",
+  "slug": "shotcandy",
+  "url": "https://tesign.com/en/item/shotcandy/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/shotcandy/",
+      "json": "https://tesign.com/item/shotcandy/index.json",
+      "markdown": "https://tesign.com/item/shotcandy/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/shotcandy/",
+      "json": "https://tesign.com/en/item/shotcandy/index.json",
+      "markdown": "https://tesign.com/en/item/shotcandy/index.md"
+    }
+  },
+  "name": "Shotcandy",
+  "use_label": "Turn screenshots into share-ready images",
+  "one_liner": "Paste a plain screenshot and get a share-ready image in seconds — free, in the browser.",
+  "text": {
+    "why": "Dressing up a product screenshot for social posts or slides by hand is tedious. Shotcandy shows the styled result the moment you paste, and every style preview uses your own image rather than a sample.",
+    "take": "Similar services usually add a watermark or lock styles behind a paywall; this one is fully free and MIT-licensed.",
+    "build": [
+      "It runs entirely in the browser, so nothing is uploaded. Screen recordings become share-ready videos too. No account, no paywall, no watermark."
+    ],
+    "who": [
+      {
+        "role": "Marketers, designers and solo founders who share product screenshots often.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Open shotcandy.app and paste a screenshot (⌘V on a Mac)."
+      }
+    ],
+    "caveat": [
+      "The repository is new (23 stars)."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://shotcandy.vercel.app/"
+  },
+  "ready": "browser",
+  "categories": [
+    "design"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "스크린샷",
+    "디자인",
+    "무료",
+    "브라우저"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://shotcandy.vercel.app/",
+    "github": "https://github.com/btahir/shotcandy",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/btahir/shotcandy",
+        "posted_at": "2026-09-27T21:35:45.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49871097"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": 11,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-28T01:22:47.411Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-28T20:10:04.509Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-27T18:22:00.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-28T01:22:47.411Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "1h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/shotcandy-69159f5a8f.webp",
+    "cover": "https://tesign.com/img/shotcandy-69159f5a8f.webp",
+    "cover_width": 1760,
+    "cover_height": 902,
+    "gallery": [
+      "https://tesign.com/img/shotcandy-69159f5a8f.webp"
+    ],
+    "alt": "Shotcandy before and after: a plain dashboard screenshot on the left, restyled on an orange background at an angle on the right.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-27T23:08:23.802Z",
+    "source_created_at": "2026-09-27T21:35:45.000Z",
+    "discovery_hours": 1.5441116666666668,
+    "launch_signal_at": "2026-09-27T21:35:45.000Z",
+    "kept_at": "2026-09-29T02:28:00.611Z",
+    "first_published_at": "2026-09-29T02:28:00.745Z",
+    "updated_at": "2026-09-29T02:28:00.689Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

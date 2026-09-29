@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-29T02:28:04.402Z",
+  "lang": "en",
+  "slug": "reladraw",
+  "url": "https://tesign.com/en/item/reladraw/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/reladraw/",
+      "json": "https://tesign.com/item/reladraw/index.json",
+      "markdown": "https://tesign.com/item/reladraw/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/reladraw/",
+      "json": "https://tesign.com/en/item/reladraw/index.json",
+      "markdown": "https://tesign.com/en/item/reladraw/index.md"
+    }
+  },
+  "name": "reladraw",
+  "use_label": "Diagram language with your own layout",
+  "one_liner": "A text language for diagrams where you decide where things go.",
+  "text": {
+    "why": "Mermaid and friends choose the layout for you, and draw.io means dragging every box by hand. reladraw sits between: the convenience of text with the freedom to place things.",
+    "take": "Agents can draw with it too, by stating relationships instead of computing coordinates.",
+    "build": [
+      "You write boxes and connections as text and place them relative to each other. It runs in the browser, and the repository includes examples such as a server architecture diagram."
+    ],
+    "who": [
+      {
+        "role": "Developers and planners who draw architecture diagrams often.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Try it in the browser at reladraw.github.io/reladraw."
+      }
+    ],
+    "caveat": [
+      "There is a new syntax to learn, and the project is young."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://reladraw.github.io/reladraw"
+  },
+  "ready": "browser",
+  "categories": [
+    "design",
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "다이어그램",
+    "문서",
+    "개발 도구",
+    "설치 없이"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://reladraw.github.io/reladraw",
+    "github": "https://github.com/reladraw/reladraw",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/reladraw/reladraw",
+        "posted_at": "2026-09-26T17:10:40.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49858513"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-28T21:00:00.000Z",
+    "stars": 564,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-27T10:41:21.259Z",
+    "stars_observed_since_check": 2,
+    "star_delta_24h": 2,
+    "star_delta_7d": 5,
+    "star_delta_30d": 5,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      3,
+      2,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 402,
+    "hn_points_observed_at": "2026-09-28T20:10:05.794Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-27T05:50:41.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-27T10:41:21.259Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "9h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/reladraw-d111ad8903.png",
+    "cover": "https://tesign.com/img/reladraw-d111ad8903.png",
+    "cover_width": 2072,
+    "cover_height": 695,
+    "gallery": [
+      "https://tesign.com/img/reladraw-d111ad8903.png"
+    ],
+    "alt": "A diagram drawn with reladraw: external drive, home server, desktops and laptops linked to cloud sync with arrows.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-27T02:14:12.246Z",
+    "source_created_at": "2026-09-26T17:10:40.000Z",
+    "discovery_hours": 9.058957222222222,
+    "launch_signal_at": "2026-09-26T17:10:40.000Z",
+    "kept_at": "2026-09-29T02:28:00.587Z",
+    "first_published_at": "2026-09-29T02:28:00.745Z",
+    "updated_at": "2026-09-29T02:28:00.701Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}
