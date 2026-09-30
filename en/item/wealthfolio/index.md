@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/wealthfolio/
 - JSON: https://tesign.com/en/item/wealthfolio/index.json
 - Korean Markdown: https://tesign.com/item/wealthfolio/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## RANKS
 
@@ -13,7 +13,7 @@
 
 ## Numbers
 
-- 9,072 stars — checked on GitHub 2026-09-29 02:17 UTC
+- 9,083 stars — checked on GitHub 2026-09-30 02:17 UTC
 - no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-29 01:15 UTC
+- Last commit: 2026-09-30 00:49 UTC
 - Latest release: v3.9.1 (2026-09-27)
-- Contributors: 77
-- Open issues (incl. PRs): 479
+- Contributors: 78
+- Open issues (incl. PRs): 481
 - Made by: an organization
-- Checked on GitHub: 2026-09-29 02:17 UTC
+- Checked on GitHub: 2026-09-30 02:17 UTC
 
 ## TESIGN TAKE
 

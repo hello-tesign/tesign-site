@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "supercmo-skills",
   "url": "https://tesign.com/en/item/supercmo-skills/",
@@ -86,9 +86,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 54,
+    "stars": 62,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T08:15:07.857Z",
+    "stars_checked_at": "2026-09-30T02:18:01.582Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -120,13 +120,17 @@
   "ranks": null,
   "activity": {
     "pushed_at": "2026-08-28T13:28:52.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-29T08:15:07.857Z"
+    "owner_type": "Organization",
+    "open_issues": 8,
+    "contributors": 3,
+    "releases_count": 19,
+    "latest_release": {
+      "tag": "v0.1.24",
+      "published_at": "2026-08-28T13:28:52.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-30T02:18:01.582Z",
+    "core_checked_at": "2026-09-30T02:18:01.582Z"
   },
   "signals": [
     {

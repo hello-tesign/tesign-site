@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "hydra-download-manager",
   "url": "https://tesign.com/en/item/hydra-download-manager/",
@@ -114,9 +114,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 772,
+    "stars": 788,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:17:40.516Z",
+    "stars_checked_at": "2026-09-30T02:17:35.027Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,9 +147,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-28T13:05:31.000Z",
+    "pushed_at": "2026-09-29T11:20:04.000Z",
     "owner_type": "User",
-    "open_issues": 21,
+    "open_issues": 20,
     "contributors": 10,
     "releases_count": 34,
     "latest_release": {
@@ -157,8 +157,8 @@
       "published_at": "2026-09-28T07:42:58.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-09-29T02:17:40.516Z",
-    "core_checked_at": "2026-09-29T02:17:40.516Z"
+    "checked_at": "2026-09-30T02:17:35.027Z",
+    "core_checked_at": "2026-09-30T02:17:35.027Z"
   },
   "signals": [
     {

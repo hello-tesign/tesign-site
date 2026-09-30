@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/anydoc/
 - JSON: https://tesign.com/en/item/anydoc/index.json
 - Korean Markdown: https://tesign.com/item/anydoc/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## RANKS
 
@@ -13,7 +13,7 @@
 
 ## Numbers
 
-- 22,181 stars — checked on GitHub 2026-09-29 02:16 UTC (+2 observed since the check)
+- 22,271 stars — checked on GitHub 2026-09-30 02:16 UTC
 - 7-day +2 observed via GH Archive (as of 2026-09-29 17:00 UTC)
 - 24h +2 ★ · 30d +100 ★ (as of 2026-09-29 17:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
@@ -36,9 +36,9 @@
 - Last commit: 2026-08-28 02:13 UTC
 - Latest release: v0.2.4 (2026-08-27)
 - Contributors: 5
-- Open issues (incl. PRs): 100
+- Open issues (incl. PRs): 101
 - Made by: an organization
-- Checked on GitHub: 2026-09-29 02:16 UTC
+- Checked on GitHub: 2026-09-30 02:16 UTC
 
 ## TESIGN TAKE
 

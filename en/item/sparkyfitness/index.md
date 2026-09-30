@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/sparkyfitness/
 - JSON: https://tesign.com/en/item/sparkyfitness/index.json
 - Korean Markdown: https://tesign.com/item/sparkyfitness/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## RANKS
 
@@ -13,7 +13,7 @@
 
 ## Numbers
 
-- 6,154 stars — checked on GitHub 2026-09-29 02:17 UTC
+- 6,157 stars — checked on GitHub 2026-09-30 02:17 UTC
 - no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -31,12 +31,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-28 22:09 UTC
+- Last commit: 2026-09-30 00:27 UTC
 - Latest release: v1.7.3 (2026-09-28)
-- Contributors: 144
-- Open issues (incl. PRs): 156
+- Contributors: 146
+- Open issues (incl. PRs): 154
 - Made by: an individual
-- Checked on GitHub: 2026-09-29 02:17 UTC
+- Checked on GitHub: 2026-09-30 02:17 UTC
 
 ## TESIGN TAKE
 

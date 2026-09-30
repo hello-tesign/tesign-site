@@ -5,11 +5,11 @@
 - Page: https://tesign.com/en/item/openclip/
 - JSON: https://tesign.com/en/item/openclip/index.json
 - Korean Markdown: https://tesign.com/item/openclip/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## Numbers
 
-- 556 stars — checked on GitHub 2026-09-29 02:17 UTC
+- 562 stars — checked on GitHub 2026-09-30 02:17 UTC
 - no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
 - 5 Show HN points — observed 2026-09-13 13:55 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-28 14:52 UTC
+- Last commit: 2026-09-29 18:56 UTC
 - Latest release: v1.7.1 (2026-09-28)
 - Contributors: 14
-- Open issues (incl. PRs): 16
+- Open issues (incl. PRs): 17
 - Made by: an individual
-- Checked on GitHub: 2026-09-29 02:17 UTC
+- Checked on GitHub: 2026-09-30 02:17 UTC
 
 ## Signals and evidence
 

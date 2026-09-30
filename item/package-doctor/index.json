@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "package-doctor",
   "url": "https://tesign.com/item/package-doctor/",
@@ -88,7 +88,7 @@
     "as_of": "2026-09-29T17:00:00.000Z",
     "stars": 23,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:15:18.439Z",
+    "stars_checked_at": "2026-09-30T02:15:23.836Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-09-24T21:13:46.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:15:18.439Z",
-    "core_checked_at": "2026-09-29T02:15:18.439Z"
+    "checked_at": "2026-09-30T02:15:23.836Z",
+    "core_checked_at": "2026-09-30T02:15:23.836Z"
   },
   "signals": [
     {

@@ -5,11 +5,11 @@
 - Page: https://tesign.com/en/item/puter-ai-builder/
 - JSON: https://tesign.com/en/item/puter-ai-builder/index.json
 - Korean Markdown: https://tesign.com/item/puter-ai-builder/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## Numbers
 
-- 133 stars — checked on GitHub 2026-09-29 02:15 UTC
+- 138 stars — checked on GitHub 2026-09-30 02:15 UTC
 - no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
 - 4 Show HN points — observed 2026-09-29 09:20 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-28 17:47 UTC
+- Last commit: 2026-09-29 10:55 UTC
 - Latest release: no releases
 - Contributors: 2
-- Open issues (incl. PRs): 3
+- Open issues (incl. PRs): 2
 - Made by: an organization
-- Checked on GitHub: 2026-09-29 02:15 UTC
+- Checked on GitHub: 2026-09-30 02:15 UTC
 
 ## Signals and evidence
 

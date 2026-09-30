@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/mvt/
 - JSON: https://tesign.com/en/item/mvt/index.json
 - Korean Markdown: https://tesign.com/item/mvt/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## RANKS
 
@@ -13,7 +13,7 @@
 
 ## Numbers
 
-- 14,984 stars — checked on GitHub 2026-09-29 02:15 UTC
+- 15,021 stars — checked on GitHub 2026-09-30 02:15 UTC
 - 7-day +7 observed via GH Archive (as of 2026-09-29 17:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -31,12 +31,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-28 18:17 UTC
+- Last commit: 2026-09-30 00:40 UTC
 - Latest release: v2026.9.28 (2026-09-28)
-- Contributors: 82
-- Open issues (incl. PRs): 56
+- Contributors: 83
+- Open issues (incl. PRs): 57
 - Made by: an organization
-- Checked on GitHub: 2026-09-29 02:15 UTC
+- Checked on GitHub: 2026-09-30 02:15 UTC
 
 ## TESIGN TAKE
 

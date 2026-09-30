@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "deskcommcrm",
   "url": "https://tesign.com/item/deskcommcrm/",
@@ -116,9 +116,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 4218,
+    "stars": 4270,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:17.761Z",
+    "stars_checked_at": "2026-09-30T02:16:18.603Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -164,18 +164,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-29T02:10:54.000Z",
+    "pushed_at": "2026-09-30T01:48:55.000Z",
     "owner_type": "User",
-    "open_issues": 140,
-    "contributors": 114,
-    "releases_count": 79,
+    "open_issues": 156,
+    "contributors": 115,
+    "releases_count": 88,
     "latest_release": {
-      "tag": "v1.62.0",
-      "published_at": "2026-09-28T23:15:18.000Z",
+      "tag": "v1.64.1",
+      "published_at": "2026-09-30T00:19:45.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:16:17.761Z",
-    "core_checked_at": "2026-09-29T02:16:17.761Z"
+    "checked_at": "2026-09-30T02:16:18.603Z",
+    "core_checked_at": "2026-09-30T02:16:18.603Z"
   },
   "signals": [],
   "images": {

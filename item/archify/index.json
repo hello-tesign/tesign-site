@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "archify",
   "url": "https://tesign.com/item/archify/",
@@ -107,13 +107,13 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 73606,
+    "stars": 74322,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:11.511Z",
-    "stars_observed_since_check": 11,
+    "stars_checked_at": "2026-09-30T02:16:12.805Z",
+    "stars_observed_since_check": 0,
     "star_delta_24h": 11,
     "star_delta_7d": 22,
-    "star_delta_30d": 2930,
+    "star_delta_30d": 2916,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -122,7 +122,7 @@
       null,
       null,
       null,
-      14,
+      null,
       null,
       4,
       5,
@@ -140,7 +140,7 @@
   },
   "ranks": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "all_time": 73,
+    "all_time": 72,
     "rising": {
       "24h": null,
       "7d": null,
@@ -160,9 +160,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-28T15:45:30.000Z",
+    "pushed_at": "2026-09-30T01:52:31.000Z",
     "owner_type": "User",
-    "open_issues": 184,
+    "open_issues": 201,
     "contributors": 75,
     "releases_count": 20,
     "latest_release": {
@@ -170,8 +170,8 @@
       "published_at": "2026-09-28T15:33:07.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:16:11.511Z",
-    "core_checked_at": "2026-09-29T02:16:11.511Z"
+    "checked_at": "2026-09-30T02:16:12.805Z",
+    "core_checked_at": "2026-09-30T02:16:12.805Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "comic-chat-ai",
   "url": "https://tesign.com/item/comic-chat-ai/",
@@ -88,7 +88,7 @@
     "as_of": "2026-09-29T17:00:00.000Z",
     "stars": 1,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:15:17.439Z",
+    "stars_checked_at": "2026-09-30T02:15:22.864Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-09-16T12:19:12.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:15:17.439Z",
-    "core_checked_at": "2026-09-29T02:15:17.439Z"
+    "checked_at": "2026-09-30T02:15:22.864Z",
+    "core_checked_at": "2026-09-30T02:15:22.864Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "trycompai-crm",
   "url": "https://tesign.com/en/item/trycompai-crm/",
@@ -112,9 +112,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 10951,
+    "stars": 10972,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:17:06.512Z",
+    "stars_checked_at": "2026-09-30T02:17:03.538Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -170,8 +170,8 @@
       "published_at": "2026-08-21T14:24:51.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:17:06.512Z",
-    "core_checked_at": "2026-09-29T02:17:06.512Z"
+    "checked_at": "2026-09-30T02:17:03.538Z",
+    "core_checked_at": "2026-09-30T02:17:03.538Z"
   },
   "signals": [
     {

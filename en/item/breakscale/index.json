@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "breakscale",
   "url": "https://tesign.com/en/item/breakscale/",
@@ -114,9 +114,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 1207,
+    "stars": 1213,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:17:28.406Z",
+    "stars_checked_at": "2026-09-30T02:17:23.193Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -162,14 +162,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-28T23:10:03.000Z",
+    "pushed_at": "2026-09-29T14:33:44.000Z",
     "owner_type": "User",
     "open_issues": 11,
     "contributors": 14,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-29T02:17:28.406Z",
-    "core_checked_at": "2026-09-29T02:17:28.406Z"
+    "checked_at": "2026-09-30T02:17:23.193Z",
+    "core_checked_at": "2026-09-30T02:17:23.193Z"
   },
   "signals": [
     {

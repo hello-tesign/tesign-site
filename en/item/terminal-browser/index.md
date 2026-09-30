@@ -5,11 +5,11 @@
 - Page: https://tesign.com/en/item/terminal-browser/
 - JSON: https://tesign.com/en/item/terminal-browser/index.json
 - Korean Markdown: https://tesign.com/item/terminal-browser/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## Numbers
 
-- 3,496 stars — checked on GitHub 2026-09-29 02:17 UTC
+- 3,519 stars — checked on GitHub 2026-09-30 02:17 UTC
 - no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
 - 4 Show HN points — observed 2026-09-13 14:00 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
@@ -19,7 +19,7 @@
 - LICENSE: MIT (permissive) — https://spdx.org/licenses/MIT.html
 - USAGE: Use, change and redistribute, commercially too. Keep the notice.
 - OPEN SOURCE: YES
-- LANGUAGE: TypeScript
+- LANGUAGE: Rust
 - PLATFORM: macos · linux · cli
 - CATEGORY: DEV TOOLS · AI
 - Tags: terminal · browser · chromium · kitty-graphics · coding-agents · rust
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-29 01:24 UTC
-- Latest release: v0.11.1 (2026-09-17)
+- Last commit: 2026-09-30 00:51 UTC
+- Latest release: v0.13.0 (2026-09-29)
 - Contributors: 6
 - Open issues (incl. PRs): 72
 - Made by: an organization
-- Checked on GitHub: 2026-09-29 02:17 UTC
+- Checked on GitHub: 2026-09-30 02:17 UTC
 
 ## Signals and evidence
 

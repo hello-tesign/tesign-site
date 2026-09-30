@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "humanizer",
   "url": "https://tesign.com/item/humanizer/",
@@ -110,13 +110,13 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 52673,
+    "stars": 52907,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:26.241Z",
+    "stars_checked_at": "2026-09-30T02:16:26.291Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": 2,
-    "star_delta_7d": 8,
-    "star_delta_30d": 1344,
+    "star_delta_7d": 6,
+    "star_delta_30d": 1337,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -125,7 +125,7 @@
       null,
       null,
       null,
-      7,
+      null,
       null,
       null,
       2,
@@ -168,8 +168,8 @@
       "published_at": "2026-09-28T05:55:12.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:16:26.241Z",
-    "core_checked_at": "2026-09-29T02:16:26.241Z"
+    "checked_at": "2026-09-30T02:16:26.291Z",
+    "core_checked_at": "2026-09-30T02:16:26.291Z"
   },
   "signals": [],
   "images": {

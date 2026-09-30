@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/taste-skill/
 - JSON: https://tesign.com/item/taste-skill/index.json
 - 영어 마크다운: https://tesign.com/en/item/taste-skill/index.md
-- 생성 시각: 2026-09-30 01:13 UTC
+- 생성 시각: 2026-09-30 02:30 UTC
 
 ## 순위
 
@@ -13,7 +13,7 @@
 
 ## 숫자
 
-- 별 90,943 — GitHub에서 2026-09-29 02:16 UTC 확인
+- 별 91,265 — GitHub에서 2026-09-30 02:16 UTC 확인
 - 7일 +2은 GH Archive 관측 (기준 2026-09-29 17:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
@@ -35,9 +35,9 @@
 - 마지막 커밋: 2026-09-26 09:01 UTC
 - 최근 릴리스: 릴리스 없음
 - 기여자: 8
-- 열린 이슈 (PR 포함): 72
+- 열린 이슈 (PR 포함): 73
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-29 02:16 UTC
+- GitHub 확인 시각: 2026-09-30 02:16 UTC
 
 ## TESIGN TAKE
 

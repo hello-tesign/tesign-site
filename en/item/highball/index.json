@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "highball",
   "url": "https://tesign.com/en/item/highball/",
@@ -112,9 +112,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 1105,
+    "stars": 1118,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:23.228Z",
+    "stars_checked_at": "2026-09-30T02:16:23.314Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -160,9 +160,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-28T17:45:18.000Z",
+    "pushed_at": "2026-09-29T21:28:51.000Z",
     "owner_type": "User",
-    "open_issues": 35,
+    "open_issues": 38,
     "contributors": 8,
     "releases_count": 94,
     "latest_release": {
@@ -170,8 +170,8 @@
       "published_at": "2026-09-28T17:42:09.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-09-29T02:16:23.228Z",
-    "core_checked_at": "2026-09-29T02:16:23.228Z"
+    "checked_at": "2026-09-30T02:16:23.314Z",
+    "core_checked_at": "2026-09-30T02:16:23.314Z"
   },
   "signals": [
     {

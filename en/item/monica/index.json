@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "monica",
   "url": "https://tesign.com/en/item/monica/",
@@ -88,7 +88,7 @@
     "as_of": "2026-09-29T17:00:00.000Z",
     "stars": 1040,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:15:27.161Z",
+    "stars_checked_at": "2026-09-30T02:15:32.001Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -136,7 +136,7 @@
   "activity": {
     "pushed_at": "2026-09-28T21:42:46.000Z",
     "owner_type": "Organization",
-    "open_issues": 8,
+    "open_issues": 7,
     "contributors": 15,
     "releases_count": 82,
     "latest_release": {
@@ -144,8 +144,8 @@
       "published_at": "2026-09-28T15:30:52.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:15:27.161Z",
-    "core_checked_at": "2026-09-29T02:15:27.161Z"
+    "checked_at": "2026-09-30T02:15:32.001Z",
+    "core_checked_at": "2026-09-30T02:15:32.001Z"
   },
   "signals": [],
   "images": {

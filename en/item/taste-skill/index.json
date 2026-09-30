@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "taste-skill",
   "url": "https://tesign.com/en/item/taste-skill/",
@@ -101,13 +101,13 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 90943,
+    "stars": 91265,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:31.272Z",
+    "stars_checked_at": "2026-09-30T02:16:30.930Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
-    "star_delta_30d": 499,
+    "star_delta_30d": 497,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -116,7 +116,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -151,12 +151,12 @@
   "activity": {
     "pushed_at": "2026-09-26T09:01:50.000Z",
     "owner_type": "User",
-    "open_issues": 72,
+    "open_issues": 73,
     "contributors": 8,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-29T02:16:31.272Z",
-    "core_checked_at": "2026-09-29T02:16:31.272Z"
+    "checked_at": "2026-09-30T02:16:30.930Z",
+    "core_checked_at": "2026-09-30T02:16:30.930Z"
   },
   "signals": [],
   "images": {

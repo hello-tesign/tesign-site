@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "openmouse",
   "url": "https://tesign.com/en/item/openmouse/",
@@ -114,9 +114,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 2075,
+    "stars": 2111,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:17:25.455Z",
+    "stars_checked_at": "2026-09-30T02:17:20.208Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -167,14 +167,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-27T18:58:06.000Z",
+    "pushed_at": "2026-09-29T08:26:53.000Z",
     "owner_type": "Organization",
-    "open_issues": 108,
+    "open_issues": 131,
     "contributors": 42,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-29T02:17:25.455Z",
-    "core_checked_at": "2026-09-29T02:17:25.455Z"
+    "checked_at": "2026-09-30T02:17:20.208Z",
+    "core_checked_at": "2026-09-30T02:17:20.208Z"
   },
   "signals": [
     {

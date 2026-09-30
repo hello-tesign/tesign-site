@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "sparkyfitness",
   "url": "https://tesign.com/item/sparkyfitness/",
@@ -125,9 +125,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 6154,
+    "stars": 6157,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:17:59.756Z",
+    "stars_checked_at": "2026-09-30T02:17:54.886Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -173,18 +173,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-28T22:09:09.000Z",
+    "pushed_at": "2026-09-30T00:27:01.000Z",
     "owner_type": "User",
-    "open_issues": 156,
-    "contributors": 144,
+    "open_issues": 154,
+    "contributors": 146,
     "releases_count": 108,
     "latest_release": {
       "tag": "v1.7.3",
       "published_at": "2026-09-28T02:01:28.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:17:59.756Z",
-    "core_checked_at": "2026-09-29T02:17:59.756Z"
+    "checked_at": "2026-09-30T02:17:54.886Z",
+    "core_checked_at": "2026-09-30T02:17:54.886Z"
   },
   "signals": [],
   "images": {

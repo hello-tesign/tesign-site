@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "podroid",
   "url": "https://tesign.com/en/item/podroid/",
@@ -109,9 +109,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 3032,
+    "stars": 3062,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:15:56.086Z",
+    "stars_checked_at": "2026-09-30T02:15:57.969Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -152,8 +152,8 @@
       "published_at": "2026-09-21T14:06:42.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:15:56.086Z",
-    "core_checked_at": "2026-09-29T02:15:56.086Z"
+    "checked_at": "2026-09-30T02:15:57.969Z",
+    "core_checked_at": "2026-09-30T02:15:57.969Z"
   },
   "signals": [],
   "images": {

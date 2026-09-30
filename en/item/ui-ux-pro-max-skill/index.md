@@ -5,15 +5,15 @@
 - Page: https://tesign.com/en/item/ui-ux-pro-max-skill/
 - JSON: https://tesign.com/en/item/ui-ux-pro-max-skill/index.json
 - Korean Markdown: https://tesign.com/item/ui-ux-pro-max-skill/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## RANKS
 
-- All-time #21 · AI #16 · DESIGN #1 (As of 2026-09-29 17:00 UTC)
+- All-time #19 · AI #16 · DESIGN #1 (As of 2026-09-29 17:00 UTC)
 
 ## Numbers
 
-- 127,237 stars — checked on GitHub 2026-09-13 10:30 UTC (+3 observed since the check)
+- 131,643 stars — checked on GitHub 2026-09-30 02:15 UTC
 - no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-10 06:53 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-13 10:30 UTC
+- Last commit: 2026-09-27 11:30 UTC
+- Latest release: v2.15.0 (2026-08-13)
+- Contributors: 95
+- Open issues (incl. PRs): 82
+- Made by: an organization
+- Checked on GitHub: 2026-09-30 02:15 UTC
 
 ## TESIGN TAKE
 

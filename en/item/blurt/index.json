@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "blurt",
   "url": "https://tesign.com/en/item/blurt/",
@@ -88,7 +88,7 @@
     "as_of": "2026-09-29T17:00:00.000Z",
     "stars": 56,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:15:30.246Z",
+    "stars_checked_at": "2026-09-30T02:15:35.193Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-29T01:28:34.000Z",
+    "pushed_at": "2026-09-30T01:50:04.000Z",
     "owner_type": "Organization",
-    "open_issues": 2,
+    "open_issues": 1,
     "contributors": 8,
-    "releases_count": 29,
+    "releases_count": 31,
     "latest_release": {
-      "tag": "v0.1.56",
-      "published_at": "2026-09-22T05:08:13.000Z",
-      "prerelease": false
+      "tag": "sparkle-staging",
+      "published_at": "2026-09-30T01:37:41.000Z",
+      "prerelease": true
     },
-    "checked_at": "2026-09-29T02:15:30.246Z",
-    "core_checked_at": "2026-09-29T02:15:30.246Z"
+    "checked_at": "2026-09-30T02:15:35.193Z",
+    "core_checked_at": "2026-09-30T02:15:35.193Z"
   },
   "signals": [],
   "images": {

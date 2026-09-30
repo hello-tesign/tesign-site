@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "ponytail",
   "url": "https://tesign.com/item/ponytail/",
@@ -110,13 +110,13 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 147591,
+    "stars": 148270,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:02.206Z",
-    "stars_observed_since_check": 6,
+    "stars_checked_at": "2026-09-30T02:16:04.852Z",
+    "stars_observed_since_check": 0,
     "star_delta_24h": 9,
-    "star_delta_7d": 29,
-    "star_delta_30d": 3105,
+    "star_delta_7d": 23,
+    "star_delta_30d": 3093,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -125,7 +125,7 @@
       null,
       null,
       null,
-      12,
+      null,
       2,
       4,
       4,
@@ -165,7 +165,7 @@
   "activity": {
     "pushed_at": "2026-09-14T14:34:56.000Z",
     "owner_type": "User",
-    "open_issues": 310,
+    "open_issues": 312,
     "contributors": 66,
     "releases_count": 16,
     "latest_release": {
@@ -173,8 +173,8 @@
       "published_at": "2026-09-14T14:38:56.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:16:02.206Z",
-    "core_checked_at": "2026-09-29T02:16:02.206Z"
+    "checked_at": "2026-09-30T02:16:04.852Z",
+    "core_checked_at": "2026-09-30T02:16:04.852Z"
   },
   "signals": [],
   "images": {

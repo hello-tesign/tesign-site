@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "mvt",
   "url": "https://tesign.com/en/item/mvt/",
@@ -87,13 +87,13 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 14984,
+    "stars": 15021,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:15:11.520Z",
+    "stars_checked_at": "2026-09-30T02:15:18.048Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 7,
-    "star_delta_30d": 14,
+    "star_delta_30d": 9,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -102,7 +102,7 @@
       null,
       null,
       null,
-      5,
+      null,
       7,
       null,
       null,
@@ -135,18 +135,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-28T18:17:46.000Z",
+    "pushed_at": "2026-09-30T00:40:06.000Z",
     "owner_type": "Organization",
-    "open_issues": 56,
-    "contributors": 82,
+    "open_issues": 57,
+    "contributors": 83,
     "releases_count": 27,
     "latest_release": {
       "tag": "v2026.9.28",
       "published_at": "2026-09-28T09:07:02.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:15:11.520Z",
-    "core_checked_at": "2026-09-29T02:15:11.520Z"
+    "checked_at": "2026-09-30T02:15:18.048Z",
+    "core_checked_at": "2026-09-30T02:15:18.048Z"
   },
   "signals": [],
   "images": {

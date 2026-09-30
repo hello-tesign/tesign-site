@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "caveman",
   "url": "https://tesign.com/item/caveman/",
@@ -108,13 +108,13 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 108221,
+    "stars": 108405,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:25.336Z",
+    "stars_checked_at": "2026-09-30T02:16:25.376Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 473,
+    "star_delta_30d": 470,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -123,7 +123,7 @@
       null,
       null,
       null,
-      3,
+      null,
       null,
       null,
       null,
@@ -161,9 +161,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-28T16:47:05.000Z",
+    "pushed_at": "2026-09-29T07:44:17.000Z",
     "owner_type": "User",
-    "open_issues": 141,
+    "open_issues": 144,
     "contributors": 61,
     "releases_count": 35,
     "latest_release": {
@@ -171,8 +171,8 @@
       "published_at": "2026-09-15T04:01:16.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:16:25.336Z",
-    "core_checked_at": "2026-09-29T02:16:25.336Z"
+    "checked_at": "2026-09-30T02:16:25.376Z",
+    "core_checked_at": "2026-09-30T02:16:25.376Z"
   },
   "signals": [],
   "images": {

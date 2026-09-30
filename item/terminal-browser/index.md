@@ -5,11 +5,11 @@
 - 페이지: https://tesign.com/item/terminal-browser/
 - JSON: https://tesign.com/item/terminal-browser/index.json
 - 영어 마크다운: https://tesign.com/en/item/terminal-browser/index.md
-- 생성 시각: 2026-09-30 01:13 UTC
+- 생성 시각: 2026-09-30 02:30 UTC
 
 ## 숫자
 
-- 별 3,496 — GitHub에서 2026-09-29 02:17 UTC 확인
+- 별 3,519 — GitHub에서 2026-09-30 02:17 UTC 확인
 - 7일 별 증가 관측 없음 (GH Archive) (기준 2026-09-29 17:00 UTC)
 - Show HN 4점 — 2026-09-13 14:00 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
@@ -19,7 +19,7 @@
 - 라이선스: MIT (허용적) — https://spdx.org/licenses/MIT.html
 - 사용 범위: 상업 이용·수정·재배포 가능. 저작권 고지는 유지.
 - 오픈소스: 예
-- 언어: TypeScript
+- 언어: Rust
 - 플랫폼: macos · linux · cli
 - 분류: 개발 도구 · AI
 - 태그: terminal · browser · chromium · kitty-graphics · coding-agents · rust
@@ -29,12 +29,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-09-29 01:24 UTC
-- 최근 릴리스: v0.11.1 (2026-09-17)
+- 마지막 커밋: 2026-09-30 00:51 UTC
+- 최근 릴리스: v0.13.0 (2026-09-29)
 - 기여자: 6
 - 열린 이슈 (PR 포함): 72
 - 만든 이: 조직
-- GitHub 확인 시각: 2026-09-29 02:17 UTC
+- GitHub 확인 시각: 2026-09-30 02:17 UTC
 
 ## 선정 신호와 근거
 

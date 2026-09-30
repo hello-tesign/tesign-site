@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "headroom",
   "url": "https://tesign.com/en/item/headroom/",
@@ -115,9 +115,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 74037,
+    "stars": 74111,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:39.421Z",
+    "stars_checked_at": "2026-09-30T02:16:38.874Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,27 +148,27 @@
   },
   "ranks": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "all_time": 72,
+    "all_time": 73,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 57
+      "30d": 56
     },
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-09-29T01:07:33.000Z",
+    "pushed_at": "2026-09-29T23:33:05.000Z",
     "owner_type": "Organization",
-    "open_issues": 546,
-    "contributors": 289,
+    "open_issues": 547,
+    "contributors": 294,
     "releases_count": 172,
     "latest_release": {
       "tag": "v0.39.1",
       "published_at": "2026-09-26T20:31:39.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:16:39.421Z",
-    "core_checked_at": "2026-09-29T02:16:39.421Z"
+    "checked_at": "2026-09-30T02:16:38.874Z",
+    "core_checked_at": "2026-09-30T02:16:38.874Z"
   },
   "signals": [],
   "images": {

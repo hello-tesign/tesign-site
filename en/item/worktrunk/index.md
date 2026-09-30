@@ -5,11 +5,11 @@
 - Page: https://tesign.com/en/item/worktrunk/
 - JSON: https://tesign.com/en/item/worktrunk/index.json
 - Korean Markdown: https://tesign.com/item/worktrunk/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## Numbers
 
-- 8,451 stars — checked on GitHub 2026-09-29 02:16 UTC
+- 8,506 stars — checked on GitHub 2026-09-30 02:16 UTC
 - no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -27,12 +27,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-29 02:11 UTC
+- Last commit: 2026-09-29 19:30 UTC
 - Latest release: v0.80.0 (2026-09-27)
 - Contributors: 77
 - Open issues (incl. PRs): 49
 - Made by: an individual
-- Checked on GitHub: 2026-09-29 02:16 UTC
+- Checked on GitHub: 2026-09-30 02:16 UTC
 
 ## TESIGN TAKE
 

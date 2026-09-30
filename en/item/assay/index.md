@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/assay/
 - JSON: https://tesign.com/en/item/assay/index.json
 - Korean Markdown: https://tesign.com/item/assay/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## Numbers
 
-- 98 stars — checked on GitHub 2026-09-28 18:04 UTC
+- 100 stars — checked on GitHub 2026-09-30 02:15 UTC
 - no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
-- 1 Show HN points — observed 2026-09-28 18:07 UTC
+- 1 Show HN points — observed 2026-09-30 01:45 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-28 16:06 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-28 18:04 UTC
+- Last commit: 2026-09-29 19:47 UTC
+- Latest release: v0.2.2 (2026-09-29)
+- Contributors: 1
+- Open issues (incl. PRs): 0
+- Made by: an individual
+- Checked on GitHub: 2026-09-30 02:15 UTC
 
 ## Signals and evidence
 

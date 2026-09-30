@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "easel",
   "url": "https://tesign.com/en/item/easel/",
@@ -121,9 +121,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 2193,
+    "stars": 2443,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:35.319Z",
+    "stars_checked_at": "2026-09-30T02:16:34.984Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -164,14 +164,14 @@
       {
         "category": "social",
         "label": "SOCIAL",
-        "rank": 20
+        "rank": 19
       }
     ]
   },
   "activity": {
     "pushed_at": "2026-09-28T17:24:04.000Z",
     "owner_type": "Organization",
-    "open_issues": 9,
+    "open_issues": 23,
     "contributors": 12,
     "releases_count": 4,
     "latest_release": {
@@ -179,8 +179,8 @@
       "published_at": "2026-09-24T03:18:26.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:16:35.319Z",
-    "core_checked_at": "2026-09-29T02:16:35.319Z"
+    "checked_at": "2026-09-30T02:16:34.984Z",
+    "core_checked_at": "2026-09-30T02:16:34.984Z"
   },
   "signals": [],
   "images": {

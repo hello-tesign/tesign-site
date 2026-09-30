@@ -5,11 +5,11 @@
 - 페이지: https://tesign.com/item/mangodisk/
 - JSON: https://tesign.com/item/mangodisk/index.json
 - 영어 마크다운: https://tesign.com/en/item/mangodisk/index.md
-- 생성 시각: 2026-09-30 01:13 UTC
+- 생성 시각: 2026-09-30 02:30 UTC
 
 ## 숫자
 
-- 별 3,432 — GitHub에서 2026-09-29 02:17 UTC 확인
+- 별 3,479 — GitHub에서 2026-09-30 02:17 UTC 확인
 - 7일 별 증가 관측 없음 (GH Archive) (기준 2026-09-29 17:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
@@ -28,12 +28,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-09-28 06:26 UTC
+- 마지막 커밋: 2026-09-29 23:23 UTC
 - 최근 릴리스: v1.1.4 (2026-09-25)
 - 기여자: 5
-- 열린 이슈 (PR 포함): 12
+- 열린 이슈 (PR 포함): 13
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-09-29 02:17 UTC
+- GitHub 확인 시각: 2026-09-30 02:17 UTC
 
 ## 선정 신호와 근거
 

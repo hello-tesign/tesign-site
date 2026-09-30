@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "liarjs",
   "url": "https://tesign.com/en/item/liarjs/",
@@ -87,9 +87,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 517,
+    "stars": 525,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:15:36.851Z",
+    "stars_checked_at": "2026-09-30T02:15:41.374Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -126,8 +126,8 @@
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-29T02:15:36.851Z",
-    "core_checked_at": "2026-09-29T02:15:36.851Z"
+    "checked_at": "2026-09-30T02:15:41.374Z",
+    "core_checked_at": "2026-09-30T02:15:41.374Z"
   },
   "signals": [],
   "images": {

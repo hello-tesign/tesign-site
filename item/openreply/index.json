@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "openreply",
   "url": "https://tesign.com/item/openreply/",
@@ -112,9 +112,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 2471,
+    "stars": 2475,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:17:35.276Z",
+    "stars_checked_at": "2026-09-30T02:17:29.922Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -167,12 +167,12 @@
   "activity": {
     "pushed_at": "2026-09-28T21:58:55.000Z",
     "owner_type": "User",
-    "open_issues": 9,
+    "open_issues": 10,
     "contributors": 25,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-29T02:17:35.276Z",
-    "core_checked_at": "2026-09-29T02:17:35.276Z"
+    "checked_at": "2026-09-30T02:17:29.922Z",
+    "core_checked_at": "2026-09-30T02:17:29.922Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "yue",
   "url": "https://tesign.com/item/yue/",
@@ -116,9 +116,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 10522,
+    "stars": 10596,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:06.375Z",
+    "stars_checked_at": "2026-09-30T02:16:08.759Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -167,15 +167,15 @@
     "pushed_at": "2026-09-29T02:04:56.000Z",
     "owner_type": "Organization",
     "open_issues": 34,
-    "contributors": 11,
+    "contributors": 12,
     "releases_count": 2,
     "latest_release": {
       "tag": "yue2-music-v1.2.0",
       "published_at": "2026-09-25T10:24:27.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:16:06.375Z",
-    "core_checked_at": "2026-09-29T02:16:06.375Z"
+    "checked_at": "2026-09-30T02:16:08.759Z",
+    "core_checked_at": "2026-09-30T02:16:08.759Z"
   },
   "signals": [],
   "images": {

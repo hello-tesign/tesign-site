@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "decimen-optical-transfer",
   "url": "https://tesign.com/en/item/decimen-optical-transfer/",
@@ -116,9 +116,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 6825,
+    "stars": 6829,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:17:04.369Z",
+    "stars_checked_at": "2026-09-30T02:17:01.499Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -174,8 +174,8 @@
       "published_at": "2026-08-20T00:46:56.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:17:04.369Z",
-    "core_checked_at": "2026-09-29T02:17:04.369Z"
+    "checked_at": "2026-09-30T02:17:01.499Z",
+    "core_checked_at": "2026-09-30T02:17:01.499Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "gitfut",
   "url": "https://tesign.com/item/gitfut/",
@@ -106,9 +106,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 2617,
+    "stars": 2619,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:17:00.379Z",
+    "stars_checked_at": "2026-09-30T02:16:57.573Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -160,8 +160,8 @@
     "contributors": 9,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-29T02:17:00.379Z",
-    "core_checked_at": "2026-09-29T02:17:00.379Z"
+    "checked_at": "2026-09-30T02:16:57.573Z",
+    "core_checked_at": "2026-09-30T02:16:57.573Z"
   },
   "signals": [
     {

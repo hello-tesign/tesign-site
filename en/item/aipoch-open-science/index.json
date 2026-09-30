@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "aipoch-open-science",
   "url": "https://tesign.com/en/item/aipoch-open-science/",
@@ -113,10 +113,10 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 5176,
+    "stars": 5298,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:17:19.253Z",
-    "stars_observed_since_check": 2,
+    "stars_checked_at": "2026-09-30T02:17:16.196Z",
+    "stars_observed_since_check": 0,
     "star_delta_24h": 2,
     "star_delta_7d": 2,
     "star_delta_30d": 159,
@@ -161,18 +161,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-29T02:02:53.000Z",
+    "pushed_at": "2026-09-30T02:10:59.000Z",
     "owner_type": "Organization",
-    "open_issues": 35,
+    "open_issues": 43,
     "contributors": 21,
     "releases_count": 67,
     "latest_release": {
-      "tag": "v0.34.0",
-      "published_at": "2026-09-28T23:54:47.000Z",
-      "prerelease": false
+      "tag": "nightly",
+      "published_at": "2026-09-03T06:24:52.000Z",
+      "prerelease": true
     },
-    "checked_at": "2026-09-29T02:17:19.253Z",
-    "core_checked_at": "2026-09-29T02:17:19.253Z"
+    "checked_at": "2026-09-30T02:17:16.196Z",
+    "core_checked_at": "2026-09-30T02:17:16.196Z"
   },
   "signals": [
     {

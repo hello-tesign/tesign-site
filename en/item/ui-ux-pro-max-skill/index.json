@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "ui-ux-pro-max-skill",
   "url": "https://tesign.com/en/item/ui-ux-pro-max-skill/",
@@ -86,13 +86,13 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 127237,
+    "stars": 131643,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-13T10:30:35.256Z",
-    "stars_observed_since_check": 3,
+    "stars_checked_at": "2026-09-30T02:15:03.330Z",
+    "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 509,
+    "star_delta_30d": 506,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -101,7 +101,7 @@
       null,
       null,
       null,
-      3,
+      null,
       null,
       null,
       null,
@@ -119,7 +119,7 @@
   },
   "ranks": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "all_time": 21,
+    "all_time": 19,
     "rising": {
       "24h": null,
       "7d": null,
@@ -139,14 +139,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-10T06:53:40.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-13T10:30:35.256Z"
+    "pushed_at": "2026-09-27T11:30:41.000Z",
+    "owner_type": "Organization",
+    "open_issues": 82,
+    "contributors": 95,
+    "releases_count": 41,
+    "latest_release": {
+      "tag": "v2.15.0",
+      "published_at": "2026-08-13T17:10:40.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-09-30T02:15:03.330Z",
+    "core_checked_at": "2026-09-30T02:15:03.330Z"
   },
   "signals": [],
   "images": {

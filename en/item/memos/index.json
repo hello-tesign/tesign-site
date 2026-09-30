@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "en",
   "slug": "memos",
   "url": "https://tesign.com/en/item/memos/",
@@ -86,9 +86,9 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 11627,
+    "stars": 11648,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:15:44.197Z",
+    "stars_checked_at": "2026-09-30T02:15:48.704Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,9 +119,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-23T05:55:52.000Z",
+    "pushed_at": "2026-09-29T03:09:34.000Z",
     "owner_type": "Organization",
-    "open_issues": 115,
+    "open_issues": 114,
     "contributors": 104,
     "releases_count": 59,
     "latest_release": {
@@ -129,8 +129,8 @@
       "published_at": "2026-09-23T05:24:20.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-29T02:15:44.197Z",
-    "core_checked_at": "2026-09-29T02:15:44.197Z"
+    "checked_at": "2026-09-30T02:15:48.704Z",
+    "core_checked_at": "2026-09-30T02:15:48.704Z"
   },
   "signals": [],
   "images": {

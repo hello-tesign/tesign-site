@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T01:13:13.905Z",
+  "generated_at": "2026-09-30T02:30:01.333Z",
   "lang": "ko",
   "slug": "deepseek-harness",
   "url": "https://tesign.com/item/deepseek-harness/",
@@ -100,13 +100,13 @@
   },
   "numbers": {
     "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 238858,
+    "stars": 240149,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-29T02:16:32.274Z",
-    "stars_observed_since_check": 12,
+    "stars_checked_at": "2026-09-30T02:16:32.157Z",
+    "stars_observed_since_check": 0,
     "star_delta_24h": 14,
-    "star_delta_7d": 53,
-    "star_delta_30d": 2176,
+    "star_delta_7d": 51,
+    "star_delta_30d": 2155,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -115,8 +115,8 @@
       null,
       null,
       null,
-      19,
-      7,
+      null,
+      5,
       6,
       11,
       4,
@@ -153,18 +153,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-28T12:35:34.000Z",
+    "pushed_at": "2026-09-29T09:41:57.000Z",
     "owner_type": "Organization",
     "open_issues": 0,
-    "contributors": 54,
-    "releases_count": 23,
+    "contributors": 55,
+    "releases_count": 24,
     "latest_release": {
-      "tag": "dsh-v0.2.0-rc.1",
-      "published_at": "2026-09-28T12:36:21.000Z",
+      "tag": "dsh-v0.2.0-rc.2",
+      "published_at": "2026-09-29T09:42:36.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-09-29T02:16:32.274Z",
-    "core_checked_at": "2026-09-29T02:16:32.274Z"
+    "checked_at": "2026-09-30T02:16:32.157Z",
+    "core_checked_at": "2026-09-30T02:16:32.157Z"
   },
   "signals": [],
   "images": {

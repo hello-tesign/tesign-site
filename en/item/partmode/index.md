@@ -5,11 +5,11 @@
 - Page: https://tesign.com/en/item/partmode/
 - JSON: https://tesign.com/en/item/partmode/index.json
 - Korean Markdown: https://tesign.com/item/partmode/index.md
-- Generated: 2026-09-30 01:13 UTC
+- Generated: 2026-09-30 02:30 UTC
 
 ## Numbers
 
-- 513 stars — checked on GitHub 2026-09-29 02:17 UTC
+- 513 stars — checked on GitHub 2026-09-30 02:17 UTC
 - no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -33,7 +33,7 @@
 - Contributors: 1
 - Open issues (incl. PRs): 11
 - Made by: an organization
-- Checked on GitHub: 2026-09-29 02:17 UTC
+- Checked on GitHub: 2026-09-30 02:17 UTC
 
 ## Signals and evidence
 
