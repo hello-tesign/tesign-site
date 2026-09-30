@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/subsweep/
 - JSON: https://tesign.com/en/item/subsweep/index.json
 - Korean Markdown: https://tesign.com/item/subsweep/index.md
-- Generated: 2026-09-29 02:28 UTC
+- Generated: 2026-09-30 01:13 UTC
 
 ## Numbers
 

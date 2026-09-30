@@ -5,16 +5,17 @@
 - Page: https://tesign.com/en/item/archify/
 - JSON: https://tesign.com/en/item/archify/index.json
 - Korean Markdown: https://tesign.com/item/archify/index.md
-- Generated: 2026-09-29 02:28 UTC
+- Generated: 2026-09-30 01:13 UTC
 
 ## RANKS
 
-- All-time #73 · DEV TOOLS #18 · DESIGN #3 (As of 2026-09-28 21:00 UTC)
+- All-time #73 · DEV TOOLS #18 · DESIGN #3 (As of 2026-09-29 17:00 UTC)
 
 ## Numbers
 
-- 73,595 stars — checked on GitHub 2026-09-29 02:16 UTC
-- 7-day +25 observed via GH Archive (as of 2026-09-28 21:00 UTC)
+- 73,606 stars — checked on GitHub 2026-09-29 02:16 UTC (+11 observed since the check)
+- 7-day +22 observed via GH Archive (as of 2026-09-29 17:00 UTC)
+- 24h +11 ★ · 30d +2,930 ★ (as of 2026-09-29 17:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

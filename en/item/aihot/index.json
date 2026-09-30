@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-30T01:13:13.905Z",
+  "lang": "en",
+  "slug": "aihot",
+  "url": "https://tesign.com/en/item/aihot/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/aihot/",
+      "json": "https://tesign.com/item/aihot/index.json",
+      "markdown": "https://tesign.com/item/aihot/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/aihot/",
+      "json": "https://tesign.com/en/item/aihot/index.json",
+      "markdown": "https://tesign.com/en/item/aihot/index.md"
+    }
+  },
+  "name": "AIHOT",
+  "use_label": "Build your own industry news site",
+  "one_liner": "A site framework that gathers news and writes a daily digest by itself — swap in your sources and standards to make it your industry's hot-topics site.",
+  "text": {
+    "why": "Only people inside an industry — law, HR, finance — know which news matters. The author runs the AI hot-topics site aihot.news and open-sourced all of it: the site, back office, selection pipeline, prompts and pass thresholds, so anyone can retarget it to their own field.",
+    "take": "It publishes the selection standards and the prompts themselves, so how items are chosen is fully visible.",
+    "build": [
+      "It collects from RSS, web pages, APIs, X and official accounts, keeps one copy of each item, pre-screens with a large language model, then scores twice independently and keeps only what clears the bar. It writes titles and summaries in Chinese, clusters reports of the same event, and publishes a daily digest at 08:00 plus weekly and monthly reports. You change behaviour by editing the prompts in industry/prompts/."
+    ],
+    "who": [
+      {
+        "role": "People who want to run a news-digest site for their own industry.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Follow the README's run guide to start the repository, then change the sources and prompts to fit your industry."
+      }
+    ],
+    "caveat": [
+      "Docs and the site are Chinese-first (the README is in Chinese). It relies on a large language model, so you must arrange model access and cost yourself; which model and what cost could not be confirmed here."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://aihot.news/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "ai",
+    "data"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "뉴스",
+    "자동화",
+    "자체 호스팅",
+    "오픈소스"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://aihot.news/",
+    "github": "https://github.com/kkkkhazix/aihot",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/kkkkhazix/aihot",
+        "posted_at": "2026-09-29T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-29T17:00:00.000Z",
+    "stars": 1617,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-29T06:15:02.873Z",
+    "stars_observed_since_check": 16,
+    "star_delta_24h": 50,
+    "star_delta_7d": 50,
+    "star_delta_30d": 50,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      50
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-29T00:06:43.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-29T06:15:02.873Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "5h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/aihot-ae8c811d7e.png",
+    "cover": "https://tesign.com/img/aihot-ae8c811d7e.png",
+    "cover_width": 2560,
+    "cover_height": 1120,
+    "gallery": [
+      "https://tesign.com/img/aihot-ae8c811d7e.png"
+    ],
+    "alt": "AIHOT's pipeline diagram: collect, pre-screen, double scoring, write, cluster and publish, in six steps.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-29T05:15:02.263Z",
+    "source_created_at": "2026-09-28T23:40:05.000Z",
+    "discovery_hours": 5.582573055555556,
+    "launch_signal_at": "2026-09-29T00:00:00.000Z",
+    "kept_at": "2026-09-30T01:13:09.296Z",
+    "first_published_at": "2026-09-30T01:13:09.425Z",
+    "updated_at": "2026-09-30T01:13:09.381Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

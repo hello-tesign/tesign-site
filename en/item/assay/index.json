@@ -1,0 +1,164 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-30T01:13:13.905Z",
+  "lang": "en",
+  "slug": "assay",
+  "url": "https://tesign.com/en/item/assay/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/assay/",
+      "json": "https://tesign.com/item/assay/index.json",
+      "markdown": "https://tesign.com/item/assay/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/assay/",
+      "json": "https://tesign.com/en/item/assay/index.json",
+      "markdown": "https://tesign.com/en/item/assay/index.md"
+    }
+  },
+  "name": "assay",
+  "use_label": "Auto-check a web page for bugs",
+  "one_liner": "Drives your web page in a real browser and tells you what broke.",
+  "text": {
+    "why": "Writing tests is a chore, so many changes ship unchecked. assay finds every control on the page, uses all of them, and reports what went wrong.",
+    "take": "Because it needs no AI and gives repeatable results, it suits re-running after every fix.",
+    "build": [
+      "It opens the page in Chromium and builds its checks from the controls it finds. If pressing a tag filter twice leaves the list filtered, it reports that with before and after views. No test code, no LLM, no API key, and every run gives the same result. A skill for coding agents is included."
+    ],
+    "who": [
+      {
+        "role": "Developers who want to check their own web pages before shipping.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Install with pip install assay-ui and run it on the address of the page you want to check."
+      }
+    ],
+    "caveat": [
+      "Needs Python and Chromium. Recently released, with 98 stars."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://pypi.org/project/assay-ui"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "웹 점검",
+    "테스트",
+    "cli",
+    "오픈소스"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "HTML",
+  "source_urls": {
+    "canonical": "https://pypi.org/project/assay-ui",
+    "github": "https://github.com/awss1i/assay",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/awss1i/assay",
+        "posted_at": "2026-09-28T16:09:31.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49880278"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-29T17:00:00.000Z",
+    "stars": 98,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-28T18:04:30.555Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 1,
+    "hn_points_observed_at": "2026-09-28T18:07:52.318Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-28T16:06:07.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-28T18:04:30.555Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "1h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/assay-6ba8ab1032.png",
+    "cover": "https://tesign.com/img/assay-6ba8ab1032.png",
+    "cover_width": 1840,
+    "cover_height": 1256,
+    "gallery": [
+      "https://tesign.com/img/assay-6ba8ab1032.png"
+    ],
+    "alt": "An assay result: a failure report that a tag filter pressed twice left the first click in effect, with before and after page views.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-28T17:45:22.685Z",
+    "source_created_at": "2026-09-28T16:09:31.000Z",
+    "discovery_hours": 1.5976902777777777,
+    "launch_signal_at": "2026-09-28T16:09:31.000Z",
+    "kept_at": "2026-09-30T01:13:09.326Z",
+    "first_published_at": "2026-09-30T01:13:09.425Z",
+    "updated_at": "2026-09-30T01:13:09.378Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

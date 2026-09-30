@@ -5,12 +5,13 @@
 - Page: https://tesign.com/en/item/pdfcn/
 - JSON: https://tesign.com/en/item/pdfcn/index.json
 - Korean Markdown: https://tesign.com/item/pdfcn/index.md
-- Generated: 2026-09-29 02:28 UTC
+- Generated: 2026-09-30 01:13 UTC
 
 ## Numbers
 
-- 2,264 stars — checked on GitHub 2026-09-29 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-28 21:00 UTC)
+- 2,268 stars — checked on GitHub 2026-09-29 02:16 UTC (+4 observed since the check)
+- 7-day +4 observed via GH Archive (as of 2026-09-29 17:00 UTC)
+- 24h +4 ★ · 30d +96 ★ (as of 2026-09-29 17:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

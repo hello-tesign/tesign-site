@@ -5,13 +5,12 @@
 - Page: https://tesign.com/en/item/reladraw/
 - JSON: https://tesign.com/en/item/reladraw/index.json
 - Korean Markdown: https://tesign.com/item/reladraw/index.md
-- Generated: 2026-09-29 02:28 UTC
+- Generated: 2026-09-30 01:13 UTC
 
 ## Numbers
 
 - 564 stars — checked on GitHub 2026-09-27 10:41 UTC (+2 observed since the check)
-- 7-day +5 observed via GH Archive (as of 2026-09-28 21:00 UTC)
-- 24h +2 ★ · 30d +5 ★ (as of 2026-09-28 21:00 UTC)
+- 7-day +5 observed via GH Archive (as of 2026-09-29 17:00 UTC)
 - 402 Show HN points — observed 2026-09-28 20:10 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 

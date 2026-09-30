@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-09-29T02:28:04.402Z",
+  "generated_at": "2026-09-30T01:13:13.905Z",
   "site": "https://tesign.com",
-  "count": 185,
+  "count": 189,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,126 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-28T21:00:00.000Z",
+  "numbers_as_of": "2026-09-29T17:00:00.000Z",
   "items": [
+    {
+      "slug": "scissor-studio",
+      "name": {
+        "ko": "Scissor",
+        "en": "Scissor"
+      },
+      "use_label": {
+        "ko": "무료 벡터 디자인 편집기",
+        "en": "Free vector editor in your browser"
+      },
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "updated": "2026-09-30T01:13:09.346Z",
+      "kept_at": "2026-09-30T01:13:09.337Z",
+      "html": {
+        "ko": "https://tesign.com/item/scissor-studio/",
+        "en": "https://tesign.com/en/item/scissor-studio/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/scissor-studio/index.json",
+        "en": "https://tesign.com/en/item/scissor-studio/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/scissor-studio/index.md",
+        "en": "https://tesign.com/en/item/scissor-studio/index.md"
+      }
+    },
+    {
+      "slug": "supercmo-skills",
+      "name": {
+        "ko": "SuperCMO Skills",
+        "en": "SuperCMO Skills"
+      },
+      "use_label": {
+        "ko": "AI 광고 영상·이미지 제작",
+        "en": "AI agent makes ad videos and images"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "media"
+      ],
+      "updated": "2026-09-30T01:13:09.384Z",
+      "kept_at": "2026-09-30T01:13:09.329Z",
+      "html": {
+        "ko": "https://tesign.com/item/supercmo-skills/",
+        "en": "https://tesign.com/en/item/supercmo-skills/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/supercmo-skills/index.json",
+        "en": "https://tesign.com/en/item/supercmo-skills/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/supercmo-skills/index.md",
+        "en": "https://tesign.com/en/item/supercmo-skills/index.md"
+      }
+    },
+    {
+      "slug": "assay",
+      "name": {
+        "ko": "assay",
+        "en": "assay"
+      },
+      "use_label": {
+        "ko": "웹페이지 자동 점검",
+        "en": "Auto-check a web page for bugs"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-09-30T01:13:09.378Z",
+      "kept_at": "2026-09-30T01:13:09.326Z",
+      "html": {
+        "ko": "https://tesign.com/item/assay/",
+        "en": "https://tesign.com/en/item/assay/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/assay/index.json",
+        "en": "https://tesign.com/en/item/assay/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/assay/index.md",
+        "en": "https://tesign.com/en/item/assay/index.md"
+      }
+    },
+    {
+      "slug": "aihot",
+      "name": {
+        "ko": "AIHOT",
+        "en": "AIHOT"
+      },
+      "use_label": {
+        "ko": "내 업계 핫이슈 사이트",
+        "en": "Build your own industry news site"
+      },
+      "category": "ai",
+      "categories": [
+        "ai",
+        "data"
+      ],
+      "updated": "2026-09-30T01:13:09.381Z",
+      "kept_at": "2026-09-30T01:13:09.296Z",
+      "html": {
+        "ko": "https://tesign.com/item/aihot/",
+        "en": "https://tesign.com/en/item/aihot/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/aihot/index.json",
+        "en": "https://tesign.com/en/item/aihot/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/aihot/index.md",
+        "en": "https://tesign.com/en/item/aihot/index.md"
+      }
+    },
     {
       "slug": "lofi-cities",
       "name": {

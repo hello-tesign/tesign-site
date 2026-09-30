@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-30T01:13:13.905Z",
+  "lang": "ko",
+  "slug": "supercmo-skills",
+  "url": "https://tesign.com/item/supercmo-skills/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/supercmo-skills/",
+      "json": "https://tesign.com/item/supercmo-skills/index.json",
+      "markdown": "https://tesign.com/item/supercmo-skills/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/supercmo-skills/",
+      "json": "https://tesign.com/en/item/supercmo-skills/index.json",
+      "markdown": "https://tesign.com/en/item/supercmo-skills/index.md"
+    }
+  },
+  "name": "SuperCMO Skills",
+  "use_label": "AI 광고 영상·이미지 제작",
+  "one_liner": "제품 사진과 짧은 설명만 주면 AI 에이전트가 홍보 영상·광고 이미지까지 만들어 주는 마케팅 스킬 모음.",
+  "text": {
+    "why": "작은 가게가 광고 영상 하나 만들려면 촬영·출연·편집이 모두 필요하다. SuperCMO는 에이전트에게 제품 사진과 설명만 주면 제품 정보를 뽑고 알맞은 이미지·영상 모델을 고르고 AI 출연자를 정해 편집까지 마친 결과물을 내게 한다.",
+    "take": "닫힌 AI 마케팅 서비스의 오픈소스 대안을 표방한다.",
+    "build": [
+      "Claude, Cursor, Codex, Hermes 같은 에이전트에 설치하는 스킬이다. 예시로 티셔츠의 'GRWM 릴스', 텀블러의 3D 만화풍 광고, 에너지 드링크 제품 광고 영상을 요청하는 문장이 소개돼 있다. 설치는 npx github:SupercmoHQ/superCMO-skills --all 한 줄이다."
+    ],
+    "who": [
+      {
+        "role": "제품 사진은 있는데 광고 영상을 만들 여력이 없는 소상공인·마케터.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "쓰는 에이전트에서 npx github:SupercmoHQ/superCMO-skills --all로 설치한 뒤, 제품 사진과 함께 만들 광고를 말로 적는다."
+      }
+    ],
+    "caveat": [
+      "결과물을 만드는 AI 이미지·영상 모델의 이용료와 결과 품질은 이 소개에서 확인하지 못했다. 별 62개로 공개된 지 얼마 안 됐다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://getsupercmo.ai/"
+  },
+  "ready": "install",
+  "categories": [
+    "ai",
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "마케팅",
+    "ai 영상",
+    "스킬",
+    "오픈소스"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 고지 유지, 바꾼 부분은 표시.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Python",
+  "source_urls": {
+    "canonical": "https://getsupercmo.ai/",
+    "github": "https://github.com/supercmohq/supercmo-skills",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/SupercmoHQ/superCMO-skills",
+        "posted_at": "2026-09-29T06:11:45.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49888905"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-29T17:00:00.000Z",
+    "stars": 54,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-29T08:15:07.857Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-29T07:18:58.050Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-08-28T13:28:52.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-29T08:15:07.857Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 1h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/supercmo-skills-c5b4668b6e.png",
+    "cover": "https://tesign.com/img/supercmo-skills-c5b4668b6e.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/supercmo-skills-c5b4668b6e.png"
+    ],
+    "alt": "SuperCMO 사이트 첫 화면. 'Creative Production Skills for AI Agents' 문구와 Apache-2.0 표시, 설치 명령 상자.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-09-29T07:15:09.185Z",
+    "source_created_at": "2026-09-29T06:11:45.000Z",
+    "discovery_hours": 1.0567180555555555,
+    "launch_signal_at": "2026-09-29T06:11:45.000Z",
+    "kept_at": "2026-09-30T01:13:09.329Z",
+    "first_published_at": "2026-09-30T01:13:09.425Z",
+    "updated_at": "2026-09-30T01:13:09.384Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

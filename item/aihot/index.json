@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-09-30T01:13:13.905Z",
+  "lang": "ko",
+  "slug": "aihot",
+  "url": "https://tesign.com/item/aihot/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/aihot/",
+      "json": "https://tesign.com/item/aihot/index.json",
+      "markdown": "https://tesign.com/item/aihot/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/aihot/",
+      "json": "https://tesign.com/en/item/aihot/index.json",
+      "markdown": "https://tesign.com/en/item/aihot/index.md"
+    }
+  },
+  "name": "AIHOT",
+  "use_label": "내 업계 핫이슈 사이트",
+  "one_liner": "정보원과 선정 기준만 바꾸면 내 업계의 '오늘의 핫이슈' 사이트가 되는, 스스로 뉴스를 모아 일보를 쓰는 사이트 뼈대.",
+  "text": {
+    "why": "법률·인사·금융처럼 업계마다 무엇이 중요한 소식인지는 그 업계 사람만 안다. 만든 사람은 AI 핫이슈 사이트(aihot.news)를 직접 운영하며, 사이트·관리 화면·선정 과정·프롬프트 원문과 입선 기준까지 통째로 공개해 각자 자기 업계용으로 바꾸게 했다.",
+    "take": "선정 기준과 프롬프트 원문까지 모두 공개해 '어떻게 골랐는지'를 그대로 보여 준다는 점이 다르다.",
+    "build": [
+      "RSS·웹페이지·API·X·공식 계정 등에서 자료를 모아 같은 글은 하나만 남기고, 대형 언어 모델로 먼저 거른 뒤 같은 잣대로 독립적으로 두 번 점수를 매겨 기준을 넘긴 것만 뽑는다. 중국어 제목과 요약을 쓰고, 같은 사건은 하나로 묶으며, 매일 8시 일보와 주간·월간 보고서를 낸다. 프롬프트는 industry/prompts/ 폴더의 글을 고치면 된다."
+    ],
+    "who": [
+      {
+        "role": "자기 업계의 소식 모음 사이트를 직접 운영해 보려는 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "README의 '跑起来'(실행) 안내를 따라 저장소를 실행하고, 정보원과 프롬프트를 자기 업계에 맞게 바꾼다."
+      }
+    ],
+    "caveat": [
+      "설명과 화면이 중국어 중심이다(README는 중국어). 대형 언어 모델을 쓰므로 모델 사용 준비와 비용은 직접 챙겨야 하며, 필요한 모델과 비용은 이 소개에서 확인하지 못했다."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://aihot.news/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "ai",
+    "data"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "뉴스",
+    "자동화",
+    "자체 호스팅",
+    "오픈소스"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://aihot.news/",
+    "github": "https://github.com/kkkkhazix/aihot",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/kkkkhazix/aihot",
+        "posted_at": "2026-09-29T00:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-09-29T17:00:00.000Z",
+    "stars": 1617,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-29T06:15:02.873Z",
+    "stars_observed_since_check": 16,
+    "star_delta_24h": 50,
+    "star_delta_7d": 50,
+    "star_delta_30d": 50,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      50
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-29T00:06:43.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-29T06:15:02.873Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 5h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/aihot-ae8c811d7e.png",
+    "cover": "https://tesign.com/img/aihot-ae8c811d7e.png",
+    "cover_width": 2560,
+    "cover_height": 1120,
+    "gallery": [
+      "https://tesign.com/img/aihot-ae8c811d7e.png"
+    ],
+    "alt": "AIHOT의 처리 과정 도표. 수집, 사전 선별, 두 번 채점, 작성, 묶기, 일보 발행의 여섯 단계가 나란히 그려져 있다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-29T05:15:02.263Z",
+    "source_created_at": "2026-09-28T23:40:05.000Z",
+    "discovery_hours": 5.582573055555556,
+    "launch_signal_at": "2026-09-29T00:00:00.000Z",
+    "kept_at": "2026-09-30T01:13:09.296Z",
+    "first_published_at": "2026-09-30T01:13:09.425Z",
+    "updated_at": "2026-09-30T01:13:09.381Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}
