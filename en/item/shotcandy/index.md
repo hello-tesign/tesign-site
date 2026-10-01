@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/shotcandy/
 - JSON: https://tesign.com/en/item/shotcandy/index.json
 - Korean Markdown: https://tesign.com/item/shotcandy/index.md
-- Generated: 2026-09-30 02:30 UTC
+- Generated: 2026-10-01 02:30 UTC
 
 ## Numbers
 
-- 30 stars — checked on GitHub 2026-09-30 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
-- 2 Show HN points — observed 2026-09-28 20:10 UTC
+- 33 stars — checked on GitHub 2026-10-01 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-30 20:00 UTC)
+- 2 Show HN points — observed 2026-09-30 23:00 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-28 19:51 UTC
+- Last commit: 2026-09-30 18:24 UTC
 - Latest release: no releases
 - Contributors: 1
-- Open issues (incl. PRs): 1
+- Open issues (incl. PRs): 0
 - Made by: an individual
-- Checked on GitHub: 2026-09-30 02:15 UTC
+- Checked on GitHub: 2026-10-01 02:15 UTC
 
 ## Signals and evidence
 

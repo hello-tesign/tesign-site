@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "en",
   "slug": "roborock-local-server",
   "url": "https://tesign.com/en/item/roborock-local-server/",
@@ -82,10 +82,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 805,
+    "as_of": "2026-09-30T20:00:00.000Z",
+    "stars": 819,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T02:15:08.203Z",
+    "stars_checked_at": "2026-10-01T02:15:07.819Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -109,14 +109,14 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 1,
-    "hn_points_observed_at": "2026-09-29T10:20:49.836Z",
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-09-30T06:49:01.092Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-30T01:00:42.000Z",
+    "pushed_at": "2026-10-01T00:34:18.000Z",
     "owner_type": "Organization",
     "open_issues": 27,
     "contributors": 18,
@@ -126,8 +126,8 @@
       "published_at": "2026-09-27T02:22:14.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-30T02:15:08.203Z",
-    "core_checked_at": "2026-09-30T02:15:08.203Z"
+    "checked_at": "2026-10-01T02:15:07.819Z",
+    "core_checked_at": "2026-10-01T02:15:07.819Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "ko",
   "slug": "carbon-erp",
   "url": "https://tesign.com/item/carbon-erp/",
@@ -84,7 +84,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
+    "as_of": "2026-09-30T20:00:00.000Z",
     "stars": null,
     "stars_unit": "GitHub stars",
     "stars_checked_at": null,
@@ -112,7 +112,7 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 54,
-    "hn_points_observed_at": "2026-09-29T06:18:24.308Z",
+    "hn_points_observed_at": "2026-09-30T07:49:35.177Z",
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },

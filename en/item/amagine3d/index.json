@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "en",
   "slug": "amagine3d",
   "url": "https://tesign.com/en/item/amagine3d/",
@@ -117,10 +117,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 6282,
+    "as_of": "2026-09-30T20:00:00.000Z",
+    "stars": 6293,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T02:16:33.996Z",
+    "stars_checked_at": "2026-10-01T02:16:34.341Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -157,8 +157,8 @@
     "contributors": 4,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-30T02:16:33.996Z",
-    "core_checked_at": "2026-09-30T02:16:33.996Z"
+    "checked_at": "2026-10-01T02:16:34.341Z",
+    "core_checked_at": "2026-10-01T02:16:34.341Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "en",
   "slug": "caveman",
   "url": "https://tesign.com/en/item/caveman/",
@@ -84,12 +84,12 @@
     "cli"
   ],
   "license": {
-    "spdx": null,
-    "scope": "unknown",
-    "scope_text": "Unconfirmed — check before use.",
-    "url": "https://github.com/juliusbrussee/caveman?tab=License-1-ov-file",
+    "spdx": "Apache-2.0",
+    "scope": "permissive",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
     "note": null,
-    "open_source": null
+    "open_source": true
   },
   "language": "Go",
   "source_urls": {
@@ -107,14 +107,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 108405,
+    "as_of": "2026-09-30T20:00:00.000Z",
+    "stars": 108601,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T02:16:25.376Z",
+    "stars_checked_at": "2026-10-01T02:16:25.853Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": null,
-    "star_delta_30d": 470,
+    "star_delta_24h": 12,
+    "star_delta_7d": 12,
+    "star_delta_30d": 482,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -130,7 +130,7 @@
       null,
       null,
       null,
-      null
+      12
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -140,7 +140,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-29T17:00:00.000Z",
+    "as_of": "2026-09-30T20:00:00.000Z",
     "all_time": 30,
     "rising": {
       "24h": null,
@@ -161,18 +161,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-29T07:44:17.000Z",
+    "pushed_at": "2026-09-30T22:32:04.000Z",
     "owner_type": "User",
-    "open_issues": 144,
+    "open_issues": 153,
     "contributors": 61,
-    "releases_count": 35,
+    "releases_count": 42,
     "latest_release": {
-      "tag": "v2.7.0",
-      "published_at": "2026-09-15T04:01:16.000Z",
+      "tag": "v3.0.0",
+      "published_at": "2026-09-30T19:25:17.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-30T02:16:25.376Z",
-    "core_checked_at": "2026-09-30T02:16:25.376Z"
+    "checked_at": "2026-10-01T02:16:25.853Z",
+    "core_checked_at": "2026-10-01T02:16:25.853Z"
   },
   "signals": [],
   "images": {

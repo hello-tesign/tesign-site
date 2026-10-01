@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "ko",
   "slug": "nuclei",
   "url": "https://tesign.com/item/nuclei/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 31628,
+    "as_of": "2026-09-30T20:00:00.000Z",
+    "stars": 31648,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T02:15:37.342Z",
+    "stars_checked_at": "2026-10-01T02:15:38.680Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,7 +118,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-09-29T17:00:00.000Z",
+    "as_of": "2026-09-30T20:00:00.000Z",
     "all_time": 227,
     "rising": {
       "24h": null,
@@ -134,9 +134,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-29T21:34:55.000Z",
+    "pushed_at": "2026-09-30T20:48:05.000Z",
     "owner_type": "Organization",
-    "open_issues": 115,
+    "open_issues": 122,
     "contributors": 280,
     "releases_count": 147,
     "latest_release": {
@@ -144,8 +144,8 @@
       "published_at": "2026-08-08T12:21:32.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-30T02:15:37.342Z",
-    "core_checked_at": "2026-09-30T02:15:37.342Z"
+    "checked_at": "2026-10-01T02:15:38.680Z",
+    "core_checked_at": "2026-10-01T02:15:38.680Z"
   },
   "signals": [],
   "images": {

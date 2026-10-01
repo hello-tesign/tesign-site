@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "en",
   "slug": "partmode",
   "url": "https://tesign.com/en/item/partmode/",
@@ -116,10 +116,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
+    "as_of": "2026-09-30T20:00:00.000Z",
     "stars": 513,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T02:17:04.492Z",
+    "stars_checked_at": "2026-10-01T02:17:05.799Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -160,8 +160,8 @@
       "published_at": "2026-08-10T16:36:53.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-09-30T02:17:04.492Z",
-    "core_checked_at": "2026-09-30T02:17:04.492Z"
+    "checked_at": "2026-10-01T02:17:05.799Z",
+    "core_checked_at": "2026-10-01T02:17:05.799Z"
   },
   "signals": [
     {

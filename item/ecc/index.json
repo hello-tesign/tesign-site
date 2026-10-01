@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "ko",
   "slug": "ecc",
   "url": "https://tesign.com/item/ecc/",
@@ -114,14 +114,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 269673,
+    "as_of": "2026-09-30T20:00:00.000Z",
+    "stars": 270233,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T02:16:01.955Z",
+    "stars_checked_at": "2026-10-01T02:16:02.007Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 13,
-    "star_delta_7d": 35,
-    "star_delta_30d": 2282,
+    "star_delta_24h": 14,
+    "star_delta_7d": 51,
+    "star_delta_30d": 2298,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -131,13 +131,13 @@
       null,
       null,
       null,
-      6,
       2,
       8,
       2,
       null,
       6,
-      11
+      19,
+      14
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -148,18 +148,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-30T01:24:05.000Z",
+    "pushed_at": "2026-09-30T18:45:04.000Z",
     "owner_type": "User",
-    "open_issues": 202,
+    "open_issues": 215,
     "contributors": 399,
-    "releases_count": 17,
+    "releases_count": 18,
     "latest_release": {
-      "tag": "v2.2.1",
-      "published_at": "2026-09-08T17:52:08.000Z",
+      "tag": "v2.2.2",
+      "published_at": "2026-09-30T19:04:52.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-30T02:16:01.955Z",
-    "core_checked_at": "2026-09-30T02:16:01.955Z"
+    "checked_at": "2026-10-01T02:16:02.007Z",
+    "core_checked_at": "2026-10-01T02:16:02.007Z"
   },
   "signals": [],
   "images": {

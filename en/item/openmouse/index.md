@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/openmouse/
 - JSON: https://tesign.com/en/item/openmouse/index.json
 - Korean Markdown: https://tesign.com/item/openmouse/index.md
-- Generated: 2026-09-30 02:30 UTC
+- Generated: 2026-10-01 02:30 UTC
 
 ## RANKS
 
-- GAMES #8 · HARDWARE #3 (As of 2026-09-29 17:00 UTC)
+- GAMES #8 · HARDWARE #3 (As of 2026-09-30 20:00 UTC)
 
 ## Numbers
 
-- 2,111 stars — checked on GitHub 2026-09-30 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
+- 2,127 stars — checked on GitHub 2026-10-01 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-30 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-29 08:26 UTC
+- Last commit: 2026-09-30 22:43 UTC
 - Latest release: no releases
-- Contributors: 42
-- Open issues (incl. PRs): 131
+- Contributors: 44
+- Open issues (incl. PRs): 150
 - Made by: an organization
-- Checked on GitHub: 2026-09-30 02:17 UTC
+- Checked on GitHub: 2026-10-01 02:17 UTC
 
 ## Signals and evidence
 

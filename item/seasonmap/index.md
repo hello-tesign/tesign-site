@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/seasonmap/
 - JSON: https://tesign.com/item/seasonmap/index.json
 - 영어 마크다운: https://tesign.com/en/item/seasonmap/index.md
-- 생성 시각: 2026-09-30 02:30 UTC
+- 생성 시각: 2026-10-01 02:30 UTC
 
 ## 숫자
 

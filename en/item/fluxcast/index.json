@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "en",
   "slug": "fluxcast",
   "url": "https://tesign.com/en/item/fluxcast/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
+    "as_of": "2026-09-30T20:00:00.000Z",
     "stars": 424,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T02:15:11.978Z",
+    "stars_checked_at": "2026-10-01T02:15:12.156Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -112,7 +112,7 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 1,
-    "hn_points_observed_at": "2026-09-28T22:12:09.263Z",
+    "hn_points_observed_at": "2026-10-01T02:02:35.107Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
@@ -128,8 +128,8 @@
       "published_at": "2026-09-22T18:27:56.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-30T02:15:11.978Z",
-    "core_checked_at": "2026-09-30T02:15:11.978Z"
+    "checked_at": "2026-10-01T02:15:12.156Z",
+    "core_checked_at": "2026-10-01T02:15:12.156Z"
   },
   "signals": [
     {

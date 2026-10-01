@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "ko",
   "slug": "rakazo",
   "url": "https://tesign.com/item/rakazo/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 3067,
+    "as_of": "2026-09-30T20:00:00.000Z",
+    "stars": 3173,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T02:17:13.172Z",
+    "stars_checked_at": "2026-10-01T02:17:14.447Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -145,18 +145,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-29T23:16:06.000Z",
+    "pushed_at": "2026-10-01T00:16:39.000Z",
     "owner_type": "User",
-    "open_issues": 24,
-    "contributors": 72,
+    "open_issues": 27,
+    "contributors": 73,
     "releases_count": 8,
     "latest_release": {
       "tag": "v0.1.6",
       "published_at": "2026-09-08T05:47:07.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-09-30T02:17:13.172Z",
-    "core_checked_at": "2026-09-30T02:17:13.172Z"
+    "checked_at": "2026-10-01T02:17:14.447Z",
+    "core_checked_at": "2026-10-01T02:17:14.447Z"
   },
   "signals": [
     {

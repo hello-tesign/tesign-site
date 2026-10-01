@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/iloader/
 - JSON: https://tesign.com/en/item/iloader/index.json
 - Korean Markdown: https://tesign.com/item/iloader/index.md
-- Generated: 2026-09-30 02:30 UTC
+- Generated: 2026-10-01 02:30 UTC
 
 ## Numbers
 
-- 3,660 stars — checked on GitHub 2026-09-30 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-29 17:00 UTC)
+- 3,670 stars — checked on GitHub 2026-10-01 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-09-30 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,9 +31,9 @@
 - Last commit: 2026-09-23 21:25 UTC
 - Latest release: v2.3.4 (2026-09-23)
 - Contributors: 48
-- Open issues (incl. PRs): 287
+- Open issues (incl. PRs): 289
 - Made by: an individual
-- Checked on GitHub: 2026-09-30 02:15 UTC
+- Checked on GitHub: 2026-10-01 02:15 UTC
 
 ## TESIGN TAKE
 

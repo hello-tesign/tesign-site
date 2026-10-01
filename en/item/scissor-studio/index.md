@@ -5,11 +5,11 @@
 - Page: https://tesign.com/en/item/scissor-studio/
 - JSON: https://tesign.com/en/item/scissor-studio/index.json
 - Korean Markdown: https://tesign.com/item/scissor-studio/index.md
-- Generated: 2026-09-30 02:30 UTC
+- Generated: 2026-10-01 02:30 UTC
 
 ## Numbers
 
-- 113 Show HN points — observed 2026-09-29 06:18 UTC
+- 139 Show HN points — observed 2026-09-30 23:00 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

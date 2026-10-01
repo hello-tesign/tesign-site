@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-09-30T02:30:01.333Z",
+  "generated_at": "2026-10-01T02:30:01.699Z",
   "lang": "en",
   "slug": "openstock",
   "url": "https://tesign.com/en/item/openstock/",
@@ -84,14 +84,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-29T17:00:00.000Z",
-    "stars": 19489,
+    "as_of": "2026-09-30T20:00:00.000Z",
+    "stars": 19509,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T02:17:55.819Z",
+    "stars_checked_at": "2026-10-01T02:17:56.932Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 4,
+    "star_delta_7d": null,
+    "star_delta_30d": 2,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -101,7 +101,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -117,7 +117,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-29T17:00:00.000Z",
+    "as_of": "2026-09-30T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -135,12 +135,12 @@
   "activity": {
     "pushed_at": "2026-09-28T08:21:51.000Z",
     "owner_type": "Organization",
-    "open_issues": 37,
+    "open_issues": 38,
     "contributors": 16,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-09-30T02:17:55.819Z",
-    "core_checked_at": "2026-09-30T02:17:55.819Z"
+    "checked_at": "2026-10-01T02:17:56.932Z",
+    "core_checked_at": "2026-10-01T02:17:56.932Z"
   },
   "signals": [],
   "images": {
