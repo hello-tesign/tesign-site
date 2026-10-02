@@ -1,0 +1,170 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-02T03:18:05.921Z",
+  "lang": "ko",
+  "slug": "vynody",
+  "url": "https://tesign.com/item/vynody/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/vynody/",
+      "json": "https://tesign.com/item/vynody/index.json",
+      "markdown": "https://tesign.com/item/vynody/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/vynody/",
+      "json": "https://tesign.com/en/item/vynody/index.json",
+      "markdown": "https://tesign.com/en/item/vynody/index.md"
+    }
+  },
+  "name": "Vynody",
+  "use_label": "예쁜 로컬 음악 플레이어",
+  "one_liner": "내 컴퓨터와 폰에 있는 음악 파일을 듣는 가볍고 보기 좋은 플레이어. 글자 단위로 흐르는 가사와 같은 와이파이 안 곡 동기화를 지원한다.",
+  "text": {
+    "why": "내려받아 둔 음악을 들을 앱은 기기마다 모양과 기능이 제각각이다. Vynody는 윈도·맥·리눅스·iOS·안드로이드에서 같은 화면으로 쓰게 하는 것을 목표로 한다고 밝힌다.",
+    "take": "윈도에서는 다른 소리와 섞이지 않는 WASAPI 전용 모드로 출력할 수 있다.",
+    "build": [
+      "곡 정보·앨범 표지 자동 채우기(AcoustID·MusicBrainz), LRCLIB 가사 검색, AI로 글자 단위 가사 만들기, 같은 네트워크의 기기끼리 곡·재생목록 동기화, Navidrome·Jellyfin·WebDAV·SMB 연결, 스펙트럼 표시를 넣었다."
+    ],
+    "who": [
+      {
+        "role": "스트리밍 대신 내려받은 음악 파일을 듣는 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "저장소의 Releases에서 내 기기용 파일을 받는다. 윈도 스토어와 앱 스토어(맥·iOS) 버전도 있다."
+      }
+    ],
+    "caveat": [
+      "GPL-3.0 라이선스다. AI로 작성한 코드(바이브 코딩)로 만들었다고 밝히며, 별 약 130개의 신생 프로젝트다. AI 가사 생성이 어떤 서비스를 쓰는지는 README만으로는 확인하지 못했다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://axel10.github.io/vynody_site"
+  },
+  "ready": "install",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "음악",
+    "플레이어",
+    "오픈소스"
+  ],
+  "platform": [
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "android"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포하면 소스 공개 의무(카피레프트).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Dart",
+  "source_urls": {
+    "canonical": "https://axel10.github.io/vynody_site",
+    "github": "https://github.com/axel10/vynody",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/axel10/vynody",
+        "posted_at": "2026-10-01T12:13:53.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49920648"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 133,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-10-01T13:45:23.193Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 3,
+    "hn_points_observed_at": "2026-10-01T13:09:23.023Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-10-01T00:27:28.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-10-01T13:45:23.193Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 0h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/vynody-d30bd38fb5.jpg",
+    "cover": "https://tesign.com/img/vynody-d30bd38fb5.jpg",
+    "cover_width": 2559,
+    "cover_height": 1525,
+    "gallery": [
+      "https://tesign.com/img/vynody-d30bd38fb5.jpg",
+      "https://tesign.com/img/vynody-b21fde6ade.jpg",
+      "https://tesign.com/img/vynody-5c24adb27c.jpg",
+      "https://tesign.com/img/vynody-72f91ece1e.jpg"
+    ],
+    "alt": "Vynody 재생 화면. 왼쪽에 앨범 표지, 오른쪽에 곡 제목, 파형 진행 막대, 재생 단추가 보이고 아래에 음 스펙트럼이 깔려 있다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-10-01T12:46:46.451Z",
+    "source_created_at": "2026-10-01T12:13:53.000Z",
+    "discovery_hours": 0.5481808333333333,
+    "launch_signal_at": "2026-10-01T12:13:53.000Z",
+    "kept_at": "2026-10-02T03:18:04.772Z",
+    "first_published_at": "2026-10-02T03:18:04.874Z",
+    "updated_at": "2026-10-02T03:18:04.834Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-01T02:30:01.699Z",
+  "generated_at": "2026-10-02T03:18:05.921Z",
   "lang": "ko",
   "slug": "roborock-local-server",
   "url": "https://tesign.com/item/roborock-local-server/",
@@ -82,10 +82,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-30T20:00:00.000Z",
-    "stars": 819,
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 834,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-01T02:15:07.819Z",
+    "stars_checked_at": "2026-10-02T02:15:05.730Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -110,15 +110,15 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 2,
-    "hn_points_observed_at": "2026-09-30T06:49:01.092Z",
+    "hn_points_observed_at": "2026-10-01T03:03:21.141Z",
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-01T00:34:18.000Z",
+    "pushed_at": "2026-10-01T17:17:40.000Z",
     "owner_type": "Organization",
-    "open_issues": 27,
+    "open_issues": 29,
     "contributors": 18,
     "releases_count": 13,
     "latest_release": {
@@ -126,8 +126,8 @@
       "published_at": "2026-09-27T02:22:14.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-01T02:15:07.819Z",
-    "core_checked_at": "2026-10-01T02:15:07.819Z"
+    "checked_at": "2026-10-02T02:15:05.730Z",
+    "core_checked_at": "2026-10-02T02:15:05.730Z"
   },
   "signals": [
     {

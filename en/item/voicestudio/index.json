@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-01T02:30:01.699Z",
+  "generated_at": "2026-10-02T03:18:05.921Z",
   "lang": "en",
   "slug": "voicestudio",
   "url": "https://tesign.com/en/item/voicestudio/",
@@ -118,17 +118,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-30T20:00:00.000Z",
-    "stars": 50514,
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 51420,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-01T02:16:03.911Z",
+    "stars_checked_at": "2026-10-02T02:16:01.944Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 119,
-    "star_delta_7d": 266,
-    "star_delta_30d": 2045,
+    "star_delta_24h": 44,
+    "star_delta_7d": 312,
+    "star_delta_30d": 2086,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -141,7 +140,8 @@
       23,
       32,
       84,
-      110
+      116,
+      40
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -151,7 +151,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-30T20:00:00.000Z",
+    "as_of": "2026-10-01T22:00:00.000Z",
     "all_time": 126,
     "rising": {
       "24h": null,
@@ -167,26 +167,20 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-29T15:45:28.000Z",
+    "pushed_at": "2026-10-02T01:57:44.000Z",
     "owner_type": "User",
-    "open_issues": 77,
-    "contributors": 79,
+    "open_issues": 50,
+    "contributors": 94,
     "releases_count": 42,
     "latest_release": {
       "tag": "v0.5.6",
       "published_at": "2026-09-23T08:53:32.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-01T02:16:03.911Z",
-    "core_checked_at": "2026-10-01T02:16:03.911Z"
+    "checked_at": "2026-10-02T02:16:01.944Z",
+    "core_checked_at": "2026-10-02T02:16:01.944Z"
   },
-  "signals": [
-    {
-      "kind": "rising",
-      "label": "RISING",
-      "value": "+119 ★ / 24h"
-    }
-  ],
+  "signals": [],
   "images": {
     "og": "https://tesign.com/img/voicestudio-745990c230.png",
     "cover": "https://tesign.com/img/voicestudio-745990c230.png",

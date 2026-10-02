@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/voicestudio/
 - JSON: https://tesign.com/en/item/voicestudio/index.json
 - Korean Markdown: https://tesign.com/item/voicestudio/index.md
-- Generated: 2026-10-01 02:30 UTC
+- Generated: 2026-10-02 03:18 UTC
 
 ## RANKS
 
-- All-time #126 · Rising this week #1 · MEDIA #3 (As of 2026-09-30 20:00 UTC)
+- All-time #126 · Rising this week #1 · MEDIA #3 (As of 2026-10-01 22:00 UTC)
 
 ## Numbers
 
-- 50,514 stars — checked on GitHub 2026-10-01 02:16 UTC
-- 7-day +266 observed via GH Archive (as of 2026-09-30 20:00 UTC)
-- 24h +119 ★ · 30d +2,045 ★ (as of 2026-09-30 20:00 UTC)
+- 51,420 stars — checked on GitHub 2026-10-02 02:16 UTC
+- 7-day +312 observed via GH Archive (as of 2026-10-01 22:00 UTC)
+- 24h +44 ★ · 30d +2,086 ★ (as of 2026-10-01 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,16 +33,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-29 15:45 UTC
+- Last commit: 2026-10-02 01:57 UTC
 - Latest release: v0.5.6 (2026-09-23)
-- Contributors: 79
-- Open issues (incl. PRs): 77
+- Contributors: 94
+- Open issues (incl. PRs): 50
 - Made by: an individual
-- Checked on GitHub: 2026-10-01 02:16 UTC
-
-## Signals and evidence
-
-- RISING · +119 ★ / 24h
+- Checked on GitHub: 2026-10-02 02:16 UTC
 
 ## TESIGN TAKE
 

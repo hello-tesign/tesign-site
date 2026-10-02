@@ -1,0 +1,174 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-02T03:18:05.921Z",
+  "lang": "en",
+  "slug": "diplay",
+  "url": "https://tesign.com/en/item/diplay/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/diplay/",
+      "json": "https://tesign.com/item/diplay/index.json",
+      "markdown": "https://tesign.com/item/diplay/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/diplay/",
+      "json": "https://tesign.com/en/item/diplay/index.json",
+      "markdown": "https://tesign.com/en/item/diplay/index.md"
+    }
+  },
+  "name": "DiPlay",
+  "use_label": "CarPlay for BYD Android head units",
+  "one_liner": "An independent CarPlay receiver for compatible BYD Android head units, wired and wireless.",
+  "text": {
+    "why": "Some drivers have an iPhone but an Android-based car screen with no CarPlay. DiPlay is installed on the car and shows your iPhone's maps, music and messages, and says it needs no jailbreak, dongle, Mac or account.",
+    "take": "It installs separately alongside DiAuto (run one projection app at a time).",
+    "build": [
+      "Wired USB and wireless CarPlay, BYD dashboard guidance arrows, distance and street names on verified firmware, car hotspot support, and icon, text, resolution and frame-rate settings. The app is available in English, Chinese, Arabic, Russian and Spanish."
+    ],
+    "who": [
+      {
+        "role": "iPhone users who drive a BYD.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Install it on the car, not the iPhone, following the Install and connect guide on the website."
+      }
+    ],
+    "caveat": [
+      "Licensed GPL-3.0. Not an Apple-certified product: it bundles an experimental accessory identity recovered from public Carlinkit firmware, and the README says its private key is extractable. Other brands are unsupported, the head unit must allow APK installs, this is a public preview (0.2.8) with occasional audio cutouts, and DRM video such as Apple TV+ is not supported."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://shihabal3amri.github.io/DiPlay"
+  },
+  "ready": "install",
+  "categories": [
+    "hardware"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "자동차",
+    "카플레이",
+    "byd",
+    "오픈소스"
+  ],
+  "platform": [
+    "android"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Use freely. Release your source if you redistribute (copyleft).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Kotlin",
+  "source_urls": {
+    "canonical": "https://shihabal3amri.github.io/DiPlay",
+    "github": "https://github.com/shihabal3amri/diplay",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/shihabal3amri/diplay",
+        "posted_at": "2026-09-29T13:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 1091,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-30T04:43:13.384Z",
+    "stars_observed_since_check": 19,
+    "star_delta_24h": 5,
+    "star_delta_7d": 38,
+    "star_delta_30d": 38,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      31,
+      5
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": {
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "hardware",
+        "label": "HARDWARE",
+        "rank": 4
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-29T17:19:12.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-30T04:43:13.384Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/diplay-6277706c3b.png",
+    "cover": "https://tesign.com/img/diplay-6277706c3b.png",
+    "cover_width": 1920,
+    "cover_height": 1080,
+    "gallery": [
+      "https://tesign.com/img/diplay-6277706c3b.png",
+      "https://tesign.com/img/diplay-c826311b9e.png"
+    ],
+    "alt": "The DiPlay home screen: 'A familiar drive.', a Connect phone button for wireless CarPlay, Connect with USB and Settings, on a dark background.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-30T04:42:55.776Z",
+    "source_created_at": "2026-09-24T15:36:38.000Z",
+    "discovery_hours": 133.10493777777776,
+    "launch_signal_at": "2026-09-29T13:00:00.000Z",
+    "kept_at": "2026-10-02T03:18:04.786Z",
+    "first_published_at": "2026-10-02T03:18:04.874Z",
+    "updated_at": "2026-10-02T03:18:04.843Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

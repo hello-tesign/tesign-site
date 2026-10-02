@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/easel/
 - JSON: https://tesign.com/en/item/easel/index.json
 - Korean Markdown: https://tesign.com/item/easel/index.md
-- Generated: 2026-10-01 02:30 UTC
+- Generated: 2026-10-02 03:18 UTC
 
 ## RANKS
 
-- SOCIAL #18 (As of 2026-09-30 20:00 UTC)
+- SOCIAL #16 (As of 2026-10-01 22:00 UTC)
 
 ## Numbers
 
-- 2,608 stars — checked on GitHub 2026-10-01 02:16 UTC
-- 7-day +3 observed via GH Archive (as of 2026-09-30 20:00 UTC)
-- 24h +3 ★ · 30d +48 ★ (as of 2026-09-30 20:00 UTC)
+- 2,818 stars — checked on GitHub 2026-10-02 02:16 UTC
+- 7-day +5 observed via GH Archive (as of 2026-10-01 22:00 UTC)
+- 24h +2 ★ · 30d +50 ★ (as of 2026-10-01 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,12 +33,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-30 03:55 UTC
+- Last commit: 2026-10-01 11:36 UTC
 - Latest release: v0.2.1 (2026-09-24)
-- Contributors: 12
-- Open issues (incl. PRs): 26
+- Contributors: 13
+- Open issues (incl. PRs): 19
 - Made by: an organization
-- Checked on GitHub: 2026-10-01 02:16 UTC
+- Checked on GitHub: 2026-10-02 02:16 UTC
 
 ## TESIGN TAKE
 

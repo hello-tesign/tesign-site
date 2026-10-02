@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-01T02:30:01.699Z",
+  "generated_at": "2026-10-02T03:18:05.921Z",
   "lang": "en",
   "slug": "colibri",
   "url": "https://tesign.com/en/item/colibri/",
@@ -125,14 +125,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-30T20:00:00.000Z",
-    "stars": 38683,
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 38884,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-01T02:16:07.865Z",
+    "stars_checked_at": "2026-10-02T02:16:05.725Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 5,
-    "star_delta_7d": 5,
-    "star_delta_30d": 341,
+    "star_delta_24h": 2,
+    "star_delta_7d": 7,
+    "star_delta_30d": 343,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -146,8 +146,8 @@
       null,
       null,
       null,
-      null,
       3,
+      2,
       2
     ],
     "hf_likes": null,
@@ -158,25 +158,25 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-30T20:00:00.000Z",
-    "all_time": 154,
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "all_time": 153,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 37
+      "30d": 38
     },
     "categories": [
       {
         "category": "infra",
         "label": "INFRA",
-        "rank": 9
+        "rank": 8
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-30T23:43:00.000Z",
+    "pushed_at": "2026-10-02T02:00:38.000Z",
     "owner_type": "User",
-    "open_issues": 99,
+    "open_issues": 57,
     "contributors": 193,
     "releases_count": 19,
     "latest_release": {
@@ -184,8 +184,8 @@
       "published_at": "2026-09-24T22:10:40.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-01T02:16:07.865Z",
-    "core_checked_at": "2026-10-01T02:16:07.865Z"
+    "checked_at": "2026-10-02T02:16:05.725Z",
+    "core_checked_at": "2026-10-02T02:16:05.725Z"
   },
   "signals": [
     {

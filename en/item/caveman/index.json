@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-01T02:30:01.699Z",
+  "generated_at": "2026-10-02T03:18:05.921Z",
   "lang": "en",
   "slug": "caveman",
   "url": "https://tesign.com/en/item/caveman/",
@@ -107,14 +107,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-30T20:00:00.000Z",
-    "stars": 108601,
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 108749,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-01T02:16:25.853Z",
+    "stars_checked_at": "2026-10-02T02:16:23.542Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 12,
-    "star_delta_7d": 12,
-    "star_delta_30d": 482,
+    "star_delta_24h": null,
+    "star_delta_7d": 14,
+    "star_delta_30d": 484,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -129,8 +129,8 @@
       null,
       null,
       null,
-      null,
-      12
+      14,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -140,7 +140,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-30T20:00:00.000Z",
+    "as_of": "2026-10-01T22:00:00.000Z",
     "all_time": 30,
     "rising": {
       "24h": null,
@@ -161,9 +161,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-30T22:32:04.000Z",
+    "pushed_at": "2026-10-01T19:57:24.000Z",
     "owner_type": "User",
-    "open_issues": 153,
+    "open_issues": 157,
     "contributors": 61,
     "releases_count": 42,
     "latest_release": {
@@ -171,8 +171,8 @@
       "published_at": "2026-09-30T19:25:17.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-01T02:16:25.853Z",
-    "core_checked_at": "2026-10-01T02:16:25.853Z"
+    "checked_at": "2026-10-02T02:16:23.542Z",
+    "core_checked_at": "2026-10-02T02:16:23.542Z"
   },
   "signals": [],
   "images": {

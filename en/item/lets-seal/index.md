@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/lets-seal/
 - JSON: https://tesign.com/en/item/lets-seal/index.json
 - Korean Markdown: https://tesign.com/item/lets-seal/index.md
-- Generated: 2026-10-01 02:30 UTC
+- Generated: 2026-10-02 03:18 UTC
 
 ## Numbers
 
-- 372 stars — checked on GitHub 2026-10-01 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-30 20:00 UTC)
+- 372 stars — checked on GitHub 2026-10-02 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-01 22:00 UTC)
 - 94 Show HN points — observed 2026-09-13 14:52 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-28 23:55 UTC
+- Last commit: 2026-10-01 11:42 UTC
 - Latest release: v0.1.0 (2026-07-23)
 - Contributors: 2
-- Open issues (incl. PRs): 18
+- Open issues (incl. PRs): 19
 - Made by: an individual
-- Checked on GitHub: 2026-10-01 02:17 UTC
+- Checked on GitHub: 2026-10-02 02:17 UTC
 
 ## Signals and evidence
 

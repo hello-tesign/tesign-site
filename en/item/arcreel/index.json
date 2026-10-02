@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-01T02:30:01.699Z",
+  "generated_at": "2026-10-02T03:18:05.921Z",
   "lang": "en",
   "slug": "arcreel",
   "url": "https://tesign.com/en/item/arcreel/",
@@ -85,12 +85,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-30T20:00:00.000Z",
-    "stars": 5256,
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 5261,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-01T02:15:52.087Z",
+    "stars_checked_at": "2026-10-02T02:15:49.812Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
+    "star_delta_24h": null,
     "star_delta_7d": 2,
     "star_delta_30d": 2,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -107,8 +107,8 @@
       null,
       null,
       null,
-      null,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-01T01:27:02.000Z",
+    "pushed_at": "2026-10-01T16:53:37.000Z",
     "owner_type": "Organization",
-    "open_issues": 127,
-    "contributors": 21,
+    "open_issues": 117,
+    "contributors": 22,
     "releases_count": 60,
     "latest_release": {
       "tag": "v0.31.0",
       "published_at": "2026-09-23T05:54:19.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-01T02:15:52.087Z",
-    "core_checked_at": "2026-10-01T02:15:52.087Z"
+    "checked_at": "2026-10-02T02:15:49.812Z",
+    "core_checked_at": "2026-10-02T02:15:49.812Z"
   },
   "signals": [],
   "images": {

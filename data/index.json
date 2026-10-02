@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-10-01T02:30:01.699Z",
+  "generated_at": "2026-10-02T03:18:05.921Z",
   "site": "https://tesign.com",
-  "count": 189,
+  "count": 199,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,298 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-09-30T20:00:00.000Z",
+  "numbers_as_of": "2026-10-01T22:00:00.000Z",
   "items": [
+    {
+      "slug": "paperweight",
+      "name": {
+        "ko": "Paperweight",
+        "en": "Paperweight"
+      },
+      "use_label": {
+        "ko": "내 이메일 흔적 찾기",
+        "en": "Map your digital footprint from email"
+      },
+      "category": "security",
+      "categories": [
+        "security"
+      ],
+      "updated": "2026-10-02T03:18:04.847Z",
+      "kept_at": "2026-10-02T03:18:04.789Z",
+      "html": {
+        "ko": "https://tesign.com/item/paperweight/",
+        "en": "https://tesign.com/en/item/paperweight/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/paperweight/index.json",
+        "en": "https://tesign.com/en/item/paperweight/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/paperweight/index.md",
+        "en": "https://tesign.com/en/item/paperweight/index.md"
+      }
+    },
+    {
+      "slug": "diplay",
+      "name": {
+        "ko": "DiPlay",
+        "en": "DiPlay"
+      },
+      "use_label": {
+        "ko": "BYD 차량용 카플레이",
+        "en": "CarPlay for BYD Android head units"
+      },
+      "category": "hardware",
+      "categories": [
+        "hardware"
+      ],
+      "updated": "2026-10-02T03:18:04.843Z",
+      "kept_at": "2026-10-02T03:18:04.786Z",
+      "html": {
+        "ko": "https://tesign.com/item/diplay/",
+        "en": "https://tesign.com/en/item/diplay/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/diplay/index.json",
+        "en": "https://tesign.com/en/item/diplay/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/diplay/index.md",
+        "en": "https://tesign.com/en/item/diplay/index.md"
+      }
+    },
+    {
+      "slug": "fframes",
+      "name": {
+        "ko": "fframes",
+        "en": "fframes"
+      },
+      "use_label": {
+        "ko": "GPU로 빠른 영상 제작",
+        "en": "Fast GPU video, written in Rust and SVG"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-10-02T03:18:04.840Z",
+      "kept_at": "2026-10-02T03:18:04.781Z",
+      "html": {
+        "ko": "https://tesign.com/item/fframes/",
+        "en": "https://tesign.com/en/item/fframes/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/fframes/index.json",
+        "en": "https://tesign.com/en/item/fframes/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/fframes/index.md",
+        "en": "https://tesign.com/en/item/fframes/index.md"
+      }
+    },
+    {
+      "slug": "explainroo",
+      "name": {
+        "ko": "explainroo",
+        "en": "explainroo"
+      },
+      "use_label": {
+        "ko": "AI가 만드는 설명 영상",
+        "en": "AI-made explainer videos, offline"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-10-02T03:18:04.837Z",
+      "kept_at": "2026-10-02T03:18:04.778Z",
+      "html": {
+        "ko": "https://tesign.com/item/explainroo/",
+        "en": "https://tesign.com/en/item/explainroo/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/explainroo/index.json",
+        "en": "https://tesign.com/en/item/explainroo/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/explainroo/index.md",
+        "en": "https://tesign.com/en/item/explainroo/index.md"
+      }
+    },
+    {
+      "slug": "vynody",
+      "name": {
+        "ko": "Vynody",
+        "en": "Vynody"
+      },
+      "use_label": {
+        "ko": "예쁜 로컬 음악 플레이어",
+        "en": "Pretty cross-platform music player"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-10-02T03:18:04.834Z",
+      "kept_at": "2026-10-02T03:18:04.772Z",
+      "html": {
+        "ko": "https://tesign.com/item/vynody/",
+        "en": "https://tesign.com/en/item/vynody/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/vynody/index.json",
+        "en": "https://tesign.com/en/item/vynody/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/vynody/index.md",
+        "en": "https://tesign.com/en/item/vynody/index.md"
+      }
+    },
+    {
+      "slug": "coucou",
+      "name": {
+        "ko": "Coucou",
+        "en": "Coucou"
+      },
+      "use_label": {
+        "ko": "AI 코딩 상태 알림이",
+        "en": "Notch companion for AI coding agents"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-10-02T03:18:04.831Z",
+      "kept_at": "2026-10-02T03:18:04.768Z",
+      "html": {
+        "ko": "https://tesign.com/item/coucou/",
+        "en": "https://tesign.com/en/item/coucou/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/coucou/index.json",
+        "en": "https://tesign.com/en/item/coucou/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/coucou/index.md",
+        "en": "https://tesign.com/en/item/coucou/index.md"
+      }
+    },
+    {
+      "slug": "edgeever",
+      "name": {
+        "ko": "EdgeEver",
+        "en": "EdgeEver"
+      },
+      "use_label": {
+        "ko": "에버노트 대안 노트 앱",
+        "en": "Self-hosted Evernote alternative"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-10-02T03:18:04.828Z",
+      "kept_at": "2026-10-02T03:18:04.763Z",
+      "html": {
+        "ko": "https://tesign.com/item/edgeever/",
+        "en": "https://tesign.com/en/item/edgeever/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/edgeever/index.json",
+        "en": "https://tesign.com/en/item/edgeever/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/edgeever/index.md",
+        "en": "https://tesign.com/en/item/edgeever/index.md"
+      }
+    },
+    {
+      "slug": "rawmakase",
+      "name": {
+        "ko": "RAWmakase",
+        "en": "RAWmakase"
+      },
+      "use_label": {
+        "ko": "무료 RAW 사진 편집기",
+        "en": "Free RAW photo editor"
+      },
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "updated": "2026-10-02T03:18:04.825Z",
+      "kept_at": "2026-10-02T03:18:04.759Z",
+      "html": {
+        "ko": "https://tesign.com/item/rawmakase/",
+        "en": "https://tesign.com/en/item/rawmakase/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/rawmakase/index.json",
+        "en": "https://tesign.com/en/item/rawmakase/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/rawmakase/index.md",
+        "en": "https://tesign.com/en/item/rawmakase/index.md"
+      }
+    },
+    {
+      "slug": "searxng",
+      "name": {
+        "ko": "SearXNG",
+        "en": "SearXNG"
+      },
+      "use_label": {
+        "ko": "추적 없는 검색 엔진",
+        "en": "Search engine that doesn't track you"
+      },
+      "category": "productivity",
+      "categories": [
+        "productivity"
+      ],
+      "updated": "2026-10-02T03:18:04.821Z",
+      "kept_at": "2026-10-02T03:18:04.755Z",
+      "html": {
+        "ko": "https://tesign.com/item/searxng/",
+        "en": "https://tesign.com/en/item/searxng/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/searxng/index.json",
+        "en": "https://tesign.com/en/item/searxng/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/searxng/index.md",
+        "en": "https://tesign.com/en/item/searxng/index.md"
+      }
+    },
+    {
+      "slug": "smarttube",
+      "name": {
+        "ko": "SmartTube",
+        "en": "SmartTube"
+      },
+      "use_label": {
+        "ko": "TV용 무료 영상 앱",
+        "en": "Free video app for Android TV"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-10-02T03:18:04.811Z",
+      "kept_at": "2026-10-02T03:18:04.736Z",
+      "html": {
+        "ko": "https://tesign.com/item/smarttube/",
+        "en": "https://tesign.com/en/item/smarttube/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/smarttube/index.json",
+        "en": "https://tesign.com/en/item/smarttube/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/smarttube/index.md",
+        "en": "https://tesign.com/en/item/smarttube/index.md"
+      }
+    },
     {
       "slug": "scissor-studio",
       "name": {

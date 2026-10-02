@@ -1,0 +1,174 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-02T03:18:05.921Z",
+  "lang": "ko",
+  "slug": "smarttube",
+  "url": "https://tesign.com/item/smarttube/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/smarttube/",
+      "json": "https://tesign.com/item/smarttube/index.json",
+      "markdown": "https://tesign.com/item/smarttube/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/smarttube/",
+      "json": "https://tesign.com/en/item/smarttube/index.json",
+      "markdown": "https://tesign.com/en/item/smarttube/index.md"
+    }
+  },
+  "name": "SmartTube",
+  "use_label": "TV용 무료 영상 앱",
+  "one_liner": "안드로이드 TV와 TV 박스에서 쓰는 무료 오픈소스 영상 앱. 광고 구간 건너뛰기와 8K 재생을 지원한다고 밝힌다.",
+  "text": {
+    "why": "TV에서 보는 영상 앱은 리모컨으로 쓰기 불편하거나 구글 서비스가 있어야 하는 경우가 많다. SmartTube는 TV 화면과 리모컨에 맞춘 화면으로 공개된 영상 출처를 둘러보고 재생하게 하고, 구글 서비스 없이도 동작한다고 밝힌다.",
+    "take": "구글 서비스 없는 오래된 안드로이드 TV(안드로이드 4.3부터)까지 지원 범위에 든다고 적혀 있다.",
+    "build": [
+      "깔끔한 TV용 화면에 재생 속도 조절, 60fps·HDR·8K 재생, 실시간 채팅 보기, 단추 모양 바꾸기, 광고 구간(SponsorBlock) 건너뛰기가 들어 있다. 앱에는 변경 내역을 보여 주는 자동 업데이트가 있다."
+    ],
+    "who": [
+      {
+        "role": "안드로이드 TV나 TV 박스로 영상을 보는 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "TV에 다운로더 앱을 깔고 README에 적힌 주소를 입력해 설치 파일을 받는다. 앱 스토어에서는 받지 않는다."
+      }
+    ],
+    "caveat": [
+      "휴대폰·태블릿과 삼성 타이젠, LG webOS, 애플 TV는 지원하지 않고, 2025년 10월 이후 나온 파이어TV(VegaOS)에서도 쓸 수 없다. 댓글 기능은 불안정하다. 제작자의 개발 환경이 악성코드에 감염된 적이 있어 일부 빌드가 영향을 받았을 수 있다고 공지돼 있으니 README 안내를 먼저 읽어야 한다. 앱 스토어나 APK 사이트에서 받은 파일은 위험하다고 경고한다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://smarttubeapp.github.io/"
+  },
+  "ready": "install",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "안드로이드 tv",
+    "영상",
+    "오픈소스"
+  ],
+  "platform": [
+    "android"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Java",
+  "source_urls": {
+    "canonical": "https://smarttubeapp.github.io/",
+    "github": "https://github.com/yuliskov/smarttube",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/yuliskov/smarttube",
+        "posted_at": "2026-09-12T22:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 33280,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-13T09:30:06.054Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": 126,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": {
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "all_time": 215,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "media",
+        "label": "미디어",
+        "rank": 6
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-13T00:11:44.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-13T09:30:06.054Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/smarttube-d365c2d98a.png",
+    "cover": "https://tesign.com/img/smarttube-d365c2d98a.png",
+    "cover_width": 1920,
+    "cover_height": 1080,
+    "gallery": [
+      "https://tesign.com/img/smarttube-d365c2d98a.png",
+      "https://tesign.com/img/smarttube-e1df593434.jpg",
+      "https://tesign.com/img/smarttube-806c9de33b.png"
+    ],
+    "alt": "SmartTube 홈 화면. 왼쪽에 홈·쇼츠·인기·키즈 같은 메뉴가 있고 오른쪽에 추천 영상 목록이 있다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-13T07:43:34.171Z",
+    "source_created_at": "2020-07-28T12:53:52.000Z",
+    "discovery_hours": 53706.828380833336,
+    "launch_signal_at": "2026-09-12T22:00:00.000Z",
+    "kept_at": "2026-10-02T03:18:04.736Z",
+    "first_published_at": "2026-10-02T03:18:04.874Z",
+    "updated_at": "2026-10-02T03:18:04.811Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-01T02:30:01.699Z",
+  "generated_at": "2026-10-02T03:18:05.921Z",
   "lang": "en",
   "slug": "anydoc",
   "url": "https://tesign.com/en/item/anydoc/",
@@ -110,14 +110,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-30T20:00:00.000Z",
-    "stars": 22312,
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 22363,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-01T02:16:38.206Z",
+    "stars_checked_at": "2026-10-02T02:16:35.670Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 100,
+    "star_delta_24h": 2,
+    "star_delta_7d": 4,
+    "star_delta_30d": 102,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -131,7 +131,7 @@
       null,
       null,
       null,
-      null,
+      2,
       2,
       null
     ],
@@ -143,7 +143,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-30T20:00:00.000Z",
+    "as_of": "2026-10-01T22:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -154,7 +154,7 @@
       {
         "category": "productivity",
         "label": "PRODUCTIVITY",
-        "rank": 19
+        "rank": 20
       }
     ]
   },
@@ -169,8 +169,8 @@
       "published_at": "2026-08-27T19:14:19.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-01T02:16:38.206Z",
-    "core_checked_at": "2026-10-01T02:16:38.206Z"
+    "checked_at": "2026-10-02T02:16:35.670Z",
+    "core_checked_at": "2026-10-02T02:16:35.670Z"
   },
   "signals": [],
   "images": {

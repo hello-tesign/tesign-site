@@ -1,0 +1,176 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-02T03:18:05.921Z",
+  "lang": "ko",
+  "slug": "explainroo",
+  "url": "https://tesign.com/item/explainroo/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/explainroo/",
+      "json": "https://tesign.com/item/explainroo/index.json",
+      "markdown": "https://tesign.com/item/explainroo/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/explainroo/",
+      "json": "https://tesign.com/en/item/explainroo/index.json",
+      "markdown": "https://tesign.com/en/item/explainroo/index.md"
+    }
+  },
+  "name": "explainroo",
+  "use_label": "AI가 만드는 설명 영상",
+  "one_liner": "AI 코딩 에이전트가 설명 영상을 만들어 주는 무료 오픈소스. 목소리·타이밍·영상 합성이 모두 내 컴퓨터에서 돈다.",
+  "text": {
+    "why": "짧은 설명 영상 하나를 만들려고 목소리 녹음과 편집, 영상 도구를 따로 다루기는 부담스럽다. explainroo는 에이전트에게 주제를 말하면 대본과 그림을 쓰게 하고, 나머지를 알아서 처리해 MP4 파일을 준다.",
+    "take": "저장소 주소와 주제만 에이전트에게 알려 주면 시작할 수 있다.",
+    "build": [
+      "에이전트가 대본(script.md)과 장면(scenes.js) 두 파일을 쓰면, 오픈 음성 모델 Kokoro가 읽어 주고 Whisper가 단어별 타이밍을 맞춰 그림이 말에 맞춰 나타난다. 계정도 API 키도 필요 없다. 종이·칠판·청사진 등 화면 스타일 예시가 있다."
+    ],
+    "who": [
+      {
+        "role": "제품·개념 설명 영상을 직접 만들고 싶은 사람, 코딩 에이전트 사용자.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "README의 안내 문장을 에이전트에게 붙여 넣고 주제를 적는다. 에이전트가 저장소를 받아 AGENTS.md를 따라 진행한다."
+      }
+    ],
+    "caveat": [
+      "코딩 에이전트가 필요하고, 지금은 Claude Code와 Opus 5.5에서 가장 잘 동작한다고 적혀 있다. 별 약 300개로 공개된 지 얼마 안 됐다."
+    ]
+  },
+  "cta": {
+    "type": "create",
+    "label": "CREATE",
+    "url": "https://explainroo.com/"
+  },
+  "ready": null,
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "영상",
+    "ai 에이전트",
+    "오픈소스"
+  ],
+  "platform": [
+    "cli"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "JavaScript",
+  "source_urls": {
+    "canonical": "https://explainroo.com/",
+    "github": "https://github.com/vincentsch/explainroo",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/vincentsch/explainroo",
+        "posted_at": "2026-09-30T13:13:27.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49908484"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/vincentsch/explainroo",
+        "posted_at": "2026-09-30T15:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 19,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-30T15:44:17.355Z",
+    "stars_observed_since_check": 5,
+    "star_delta_24h": 5,
+    "star_delta_7d": 7,
+    "star_delta_30d": 7,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      5
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 4,
+    "hn_points_observed_at": "2026-10-01T11:08:09.398Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-09-30T12:50:51.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-30T15:44:17.355Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 1h 만에 포착"
+    },
+    {
+      "kind": "cross",
+      "label": "교차 신호",
+      "value": "Show HN + GitHub"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/explainroo-99df211dc0.webp",
+    "cover": "https://tesign.com/img/explainroo-99df211dc0.webp",
+    "cover_width": 1800,
+    "cover_height": 907,
+    "gallery": [
+      "https://tesign.com/img/explainroo-99df211dc0.webp",
+      "https://tesign.com/img/explainroo-1e06e7bb39.webp",
+      "https://tesign.com/img/explainroo-190b08469f.png"
+    ],
+    "alt": "explainroo 화면 스타일 다섯 가지 예시. 종이(커피 내리기), 클린(영업 파이프라인), 칠판(냉장고), 청사진(API), 미드나이트(캐시).",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-30T14:44:54.707Z",
+    "source_created_at": "2026-09-30T13:13:27.000Z",
+    "discovery_hours": 1.5243630555555556,
+    "launch_signal_at": "2026-09-30T13:13:27.000Z",
+    "kept_at": "2026-10-02T03:18:04.778Z",
+    "first_published_at": "2026-10-02T03:18:04.874Z",
+    "updated_at": "2026-10-02T03:18:04.837Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-02T03:18:05.921Z",
+  "lang": "ko",
+  "slug": "diplay",
+  "url": "https://tesign.com/item/diplay/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/diplay/",
+      "json": "https://tesign.com/item/diplay/index.json",
+      "markdown": "https://tesign.com/item/diplay/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/diplay/",
+      "json": "https://tesign.com/en/item/diplay/index.json",
+      "markdown": "https://tesign.com/en/item/diplay/index.md"
+    }
+  },
+  "name": "DiPlay",
+  "use_label": "BYD 차량용 카플레이",
+  "one_liner": "BYD 차량의 안드로이드 헤드유닛에서 아이폰 카플레이를 쓰게 하는 독립 앱. 유선과 무선을 모두 지원한다.",
+  "text": {
+    "why": "아이폰을 쓰는데 차 화면이 안드로이드 기반이라 카플레이를 못 쓰는 경우가 있다. DiPlay는 차에 설치하는 앱으로, 탈옥이나 동글, 맥, 계정 없이 아이폰의 지도·음악·메시지를 차 화면에 띄운다고 밝힌다.",
+    "take": "기존 DiAuto 앱과 따로 설치해 함께 둘 수 있다(동시에 하나만 실행).",
+    "build": [
+      "유선 USB와 무선 카플레이, 검증된 펌웨어에서 BYD 계기판의 길 안내 화살표·거리·도로명 표시, 차 핫스팟 지원, 아이콘·글자 크기·해상도·프레임 설정이 있다. 영어·중국어·아랍어·러시아어·스페인어 등 앱 화면을 지원한다."
+    ],
+    "who": [
+      {
+        "role": "BYD 차량을 타는 아이폰 사용자.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "아이폰이 아니라 차에 설치한다. 웹사이트의 설치 안내(Install and connect)를 따른다."
+      }
+    ],
+    "caveat": [
+      "GPL-3.0 라이선스. 애플 인증 제품이 아니며, 공개 카링크 펌웨어에서 추출한 실험적 인증 정보를 쓰는데 개인 키가 추출될 수 있다고 README가 직접 밝힌다. BYD 외 차량은 지원 대상이 아니고, 차의 헤드유닛이 APK 설치를 허용해야 한다. 공개 미리보기(0.2.8)이며 소리가 가끔 끊긴다. DRM 영상(애플 TV+)은 재생되지 않는다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://shihabal3amri.github.io/DiPlay"
+  },
+  "ready": "install",
+  "categories": [
+    "hardware"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "자동차",
+    "카플레이",
+    "byd",
+    "오픈소스"
+  ],
+  "platform": [
+    "android"
+  ],
+  "license": {
+    "spdx": "GPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포하면 소스 공개 의무(카피레프트).",
+    "url": "https://spdx.org/licenses/GPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Kotlin",
+  "source_urls": {
+    "canonical": "https://shihabal3amri.github.io/DiPlay",
+    "github": "https://github.com/shihabal3amri/diplay",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/shihabal3amri/diplay",
+        "posted_at": "2026-09-29T13:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 1091,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-09-30T04:43:13.384Z",
+    "stars_observed_since_check": 19,
+    "star_delta_24h": 5,
+    "star_delta_7d": 38,
+    "star_delta_30d": 38,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      31,
+      5
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": {
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "all_time": null,
+    "rising": {
+      "24h": null,
+      "7d": null,
+      "30d": null
+    },
+    "categories": [
+      {
+        "category": "hardware",
+        "label": "하드웨어",
+        "rank": 4
+      }
+    ]
+  },
+  "activity": {
+    "pushed_at": "2026-09-29T17:19:12.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-09-30T04:43:13.384Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/diplay-6277706c3b.png",
+    "cover": "https://tesign.com/img/diplay-6277706c3b.png",
+    "cover_width": 1920,
+    "cover_height": 1080,
+    "gallery": [
+      "https://tesign.com/img/diplay-6277706c3b.png",
+      "https://tesign.com/img/diplay-c826311b9e.png"
+    ],
+    "alt": "DiPlay 시작 화면. 'A familiar drive.' 문구, 무선 카플레이 '폰 연결' 단추, USB로 연결, 설정 단추가 어두운 배경에 있다.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-09-30T04:42:55.776Z",
+    "source_created_at": "2026-09-24T15:36:38.000Z",
+    "discovery_hours": 133.10493777777776,
+    "launch_signal_at": "2026-09-29T13:00:00.000Z",
+    "kept_at": "2026-10-02T03:18:04.786Z",
+    "first_published_at": "2026-10-02T03:18:04.874Z",
+    "updated_at": "2026-10-02T03:18:04.843Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

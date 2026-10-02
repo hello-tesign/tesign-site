@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/fluxcast/
 - JSON: https://tesign.com/en/item/fluxcast/index.json
 - Korean Markdown: https://tesign.com/item/fluxcast/index.md
-- Generated: 2026-10-01 02:30 UTC
+- Generated: 2026-10-02 03:18 UTC
 
 ## Numbers
 
-- 424 stars — checked on GitHub 2026-10-01 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-09-30 20:00 UTC)
+- 425 stars — checked on GitHub 2026-10-02 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-01 22:00 UTC)
 - 1 Show HN points — observed 2026-10-01 02:02 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-29 17:13 UTC
-- Latest release: v0.2.7 (2026-09-22)
-- Contributors: 22
-- Open issues (incl. PRs): 37
+- Last commit: 2026-10-01 22:18 UTC
+- Latest release: v0.2.8 (2026-10-01)
+- Contributors: 24
+- Open issues (incl. PRs): 34
 - Made by: an individual
-- Checked on GitHub: 2026-10-01 02:15 UTC
+- Checked on GitHub: 2026-10-02 02:15 UTC
 
 ## Signals and evidence
 

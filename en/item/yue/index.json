@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-01T02:30:01.699Z",
+  "generated_at": "2026-10-02T03:18:05.921Z",
   "lang": "en",
   "slug": "yue",
   "url": "https://tesign.com/en/item/yue/",
@@ -115,12 +115,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-09-30T20:00:00.000Z",
-    "stars": 10651,
+    "as_of": "2026-10-01T22:00:00.000Z",
+    "stars": 10694,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-01T02:16:08.875Z",
+    "stars_checked_at": "2026-10-02T02:16:06.750Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
+    "star_delta_24h": null,
     "star_delta_7d": 2,
     "star_delta_30d": 158,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -137,8 +137,8 @@
       null,
       null,
       null,
-      null,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -148,7 +148,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-09-30T20:00:00.000Z",
+    "as_of": "2026-10-01T22:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -159,14 +159,14 @@
       {
         "category": "media",
         "label": "MEDIA",
-        "rank": 14
+        "rank": 15
       }
     ]
   },
   "activity": {
     "pushed_at": "2026-09-29T02:04:56.000Z",
     "owner_type": "Organization",
-    "open_issues": 35,
+    "open_issues": 36,
     "contributors": 12,
     "releases_count": 2,
     "latest_release": {
@@ -174,8 +174,8 @@
       "published_at": "2026-09-25T10:24:27.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-01T02:16:08.875Z",
-    "core_checked_at": "2026-10-01T02:16:08.875Z"
+    "checked_at": "2026-10-02T02:16:06.750Z",
+    "core_checked_at": "2026-10-02T02:16:06.750Z"
   },
   "signals": [],
   "images": {
