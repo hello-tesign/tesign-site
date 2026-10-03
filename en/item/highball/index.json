@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "en",
   "slug": "highball",
   "url": "https://tesign.com/en/item/highball/",
@@ -111,14 +111,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
-    "stars": 1135,
+    "as_of": "2026-10-02T21:00:00.000Z",
+    "stars": 1250,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-02T02:16:21.566Z",
+    "stars_checked_at": "2026-10-03T02:16:28.943Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": null,
-    "star_delta_30d": 19,
+    "star_delta_24h": 3,
+    "star_delta_7d": 3,
+    "star_delta_30d": 22,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -134,7 +134,7 @@
       null,
       null,
       null,
-      null
+      3
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -144,7 +144,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-01T22:00:00.000Z",
+    "as_of": "2026-10-02T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -160,18 +160,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-01T18:53:11.000Z",
+    "pushed_at": "2026-10-03T01:04:00.000Z",
     "owner_type": "User",
-    "open_issues": 38,
+    "open_issues": 39,
     "contributors": 9,
-    "releases_count": 96,
+    "releases_count": 98,
     "latest_release": {
-      "tag": "v0.10.2",
-      "published_at": "2026-10-01T08:55:01.000Z",
-      "prerelease": false
+      "tag": "v0.10.4",
+      "published_at": "2026-10-02T22:53:03.000Z",
+      "prerelease": true
     },
-    "checked_at": "2026-10-02T02:16:21.566Z",
-    "core_checked_at": "2026-10-02T02:16:21.566Z"
+    "checked_at": "2026-10-03T02:16:28.943Z",
+    "core_checked_at": "2026-10-03T02:16:28.943Z"
   },
   "signals": [
     {

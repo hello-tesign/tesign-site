@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "ko",
   "slug": "birdview",
   "url": "https://tesign.com/item/birdview/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
-    "stars": 685,
+    "as_of": "2026-10-02T21:00:00.000Z",
+    "stars": 687,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-02T02:16:44.524Z",
+    "stars_checked_at": "2026-10-03T02:16:51.860Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,9 +148,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-29T18:56:06.000Z",
+    "pushed_at": "2026-10-02T05:26:02.000Z",
     "owner_type": "User",
-    "open_issues": 4,
+    "open_issues": 2,
     "contributors": 2,
     "releases_count": 6,
     "latest_release": {
@@ -158,8 +158,8 @@
       "published_at": "2026-09-22T01:12:54.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-02T02:16:44.524Z",
-    "core_checked_at": "2026-10-02T02:16:44.524Z"
+    "checked_at": "2026-10-03T02:16:51.860Z",
+    "core_checked_at": "2026-10-03T02:16:51.860Z"
   },
   "signals": [
     {

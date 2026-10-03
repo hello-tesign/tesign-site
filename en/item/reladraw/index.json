@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "en",
   "slug": "reladraw",
   "url": "https://tesign.com/en/item/reladraw/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
-    "stars": 1008,
+    "as_of": "2026-10-02T21:00:00.000Z",
+    "stars": 1031,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-02T02:15:03.767Z",
+    "stars_checked_at": "2026-10-03T02:15:13.902Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 5,
@@ -102,9 +102,9 @@
       null,
       null,
       null,
-      null,
       3,
       2,
+      null,
       null,
       null,
       null,
@@ -112,16 +112,16 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 407,
-    "hn_points_observed_at": "2026-10-01T00:01:09.184Z",
+    "hn_points": 409,
+    "hn_points_observed_at": "2026-10-02T07:53:39.425Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-01T21:26:46.000Z",
+    "pushed_at": "2026-10-03T00:15:38.000Z",
     "owner_type": "Organization",
-    "open_issues": 2,
+    "open_issues": 5,
     "contributors": 1,
     "releases_count": 17,
     "latest_release": {
@@ -129,8 +129,8 @@
       "published_at": "2026-09-30T23:54:22.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-02T02:15:03.767Z",
-    "core_checked_at": "2026-10-02T02:15:03.767Z"
+    "checked_at": "2026-10-03T02:15:13.902Z",
+    "core_checked_at": "2026-10-03T02:15:13.902Z"
   },
   "signals": [
     {

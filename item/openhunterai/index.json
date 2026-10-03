@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "ko",
   "slug": "openhunterai",
   "url": "https://tesign.com/item/openhunterai/",
@@ -119,10 +119,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
-    "stars": 329,
+    "as_of": "2026-10-02T21:00:00.000Z",
+    "stars": 330,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-02T02:15:55.375Z",
+    "stars_checked_at": "2026-10-03T02:16:03.110Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -163,8 +163,8 @@
       "published_at": "2026-09-07T17:52:35.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-02T02:15:55.375Z",
-    "core_checked_at": "2026-10-02T02:15:55.375Z"
+    "checked_at": "2026-10-03T02:16:03.110Z",
+    "core_checked_at": "2026-10-03T02:16:03.110Z"
   },
   "signals": [],
   "images": {

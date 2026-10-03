@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "en",
   "slug": "diplay",
   "url": "https://tesign.com/en/item/diplay/",
@@ -84,14 +84,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
-    "stars": 1091,
+    "as_of": "2026-10-02T21:00:00.000Z",
+    "stars": 2493,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T04:43:13.384Z",
-    "stars_observed_since_check": 19,
-    "star_delta_24h": 5,
-    "star_delta_7d": 38,
-    "star_delta_30d": 38,
+    "stars_checked_at": "2026-10-03T02:15:03.108Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 15,
+    "star_delta_7d": 53,
+    "star_delta_30d": 53,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -104,10 +104,10 @@
       null,
       null,
       null,
-      null,
       2,
       31,
-      5
+      7,
+      13
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -117,7 +117,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-01T22:00:00.000Z",
+    "as_of": "2026-10-02T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -128,19 +128,23 @@
       {
         "category": "hardware",
         "label": "HARDWARE",
-        "rank": 4
+        "rank": 3
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-29T17:19:12.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-30T04:43:13.384Z"
+    "pushed_at": "2026-10-02T22:26:25.000Z",
+    "owner_type": "User",
+    "open_issues": 66,
+    "contributors": 11,
+    "releases_count": 7,
+    "latest_release": {
+      "tag": "v0.2.10",
+      "published_at": "2026-10-02T22:10:25.000Z",
+      "prerelease": true
+    },
+    "checked_at": "2026-10-03T02:15:03.108Z",
+    "core_checked_at": "2026-10-03T02:15:03.108Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "ko",
   "slug": "terminal-browser",
   "url": "https://tesign.com/item/terminal-browser/",
@@ -99,7 +99,7 @@
     "note": null,
     "open_source": true
   },
-  "language": "Rust",
+  "language": "TypeScript",
   "source_urls": {
     "canonical": "https://terminal-browser.com/",
     "github": "https://github.com/zenbu-labs/terminal-browser",
@@ -121,10 +121,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
-    "stars": 3583,
+    "as_of": "2026-10-02T21:00:00.000Z",
+    "stars": 3606,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-02T02:17:14.668Z",
+    "stars_checked_at": "2026-10-03T02:17:20.845Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -155,9 +155,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-01T23:48:05.000Z",
+    "pushed_at": "2026-10-03T01:32:50.000Z",
     "owner_type": "Organization",
-    "open_issues": 75,
+    "open_issues": 78,
     "contributors": 6,
     "releases_count": 47,
     "latest_release": {
@@ -165,8 +165,8 @@
       "published_at": "2026-10-02T00:09:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-02T02:17:14.668Z",
-    "core_checked_at": "2026-10-02T02:17:14.668Z"
+    "checked_at": "2026-10-03T02:17:20.845Z",
+    "core_checked_at": "2026-10-03T02:17:20.845Z"
   },
   "signals": [
     {

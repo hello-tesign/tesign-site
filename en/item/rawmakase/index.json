@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "en",
   "slug": "rawmakase",
   "url": "https://tesign.com/en/item/rawmakase/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
-    "stars": 166,
+    "as_of": "2026-10-02T21:00:00.000Z",
+    "stars": 212,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-09-30T11:44:01.369Z",
+    "stars_checked_at": "2026-10-03T02:15:04.974Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
@@ -106,28 +106,32 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null,
       null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 8,
-    "hn_points_observed_at": "2026-10-01T07:05:49.305Z",
+    "hn_points_observed_at": "2026-10-02T04:51:43.699Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-30T11:39:31.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-09-30T11:44:01.369Z"
+    "pushed_at": "2026-10-02T23:04:18.000Z",
+    "owner_type": "User",
+    "open_issues": 10,
+    "contributors": 6,
+    "releases_count": 13,
+    "latest_release": {
+      "tag": "v0.1.12",
+      "published_at": "2026-10-02T18:06:27.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-10-03T02:15:04.974Z",
+    "core_checked_at": "2026-10-03T02:15:04.974Z"
   },
   "signals": [
     {

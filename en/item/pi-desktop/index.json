@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "en",
   "slug": "pi-desktop",
   "url": "https://tesign.com/en/item/pi-desktop/",
@@ -105,14 +105,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
-    "stars": 6230,
+    "as_of": "2026-10-02T21:00:00.000Z",
+    "stars": 6268,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-02T02:16:25.378Z",
+    "stars_checked_at": "2026-10-03T02:16:33.629Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 295,
+    "star_delta_7d": null,
+    "star_delta_30d": 293,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -122,7 +122,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -138,7 +138,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-01T22:00:00.000Z",
+    "as_of": "2026-10-02T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -148,9 +148,9 @@
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-10-02T01:07:41.000Z",
+    "pushed_at": "2026-10-03T00:38:36.000Z",
     "owner_type": "User",
-    "open_issues": 203,
+    "open_issues": 202,
     "contributors": 81,
     "releases_count": 83,
     "latest_release": {
@@ -158,8 +158,8 @@
       "published_at": "2026-10-01T16:44:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-02T02:16:25.378Z",
-    "core_checked_at": "2026-10-02T02:16:25.378Z"
+    "checked_at": "2026-10-03T02:16:33.629Z",
+    "core_checked_at": "2026-10-03T02:16:33.629Z"
   },
   "signals": [],
   "images": {

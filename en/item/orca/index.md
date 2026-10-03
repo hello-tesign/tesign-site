@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/orca/
 - JSON: https://tesign.com/en/item/orca/index.json
 - Korean Markdown: https://tesign.com/item/orca/index.md
-- Generated: 2026-10-02 03:18 UTC
+- Generated: 2026-10-03 02:30 UTC
 
 ## Numbers
 
-- 83,240 stars — checked on GitHub 2026-10-02 02:16 UTC
-- 7-day +66 observed via GH Archive (as of 2026-10-01 22:00 UTC)
-- 24h +16 ★ · 30d +1,290 ★ (as of 2026-10-01 22:00 UTC)
+- 83,907 stars — checked on GitHub 2026-10-03 02:16 UTC
+- 7-day +91 observed via GH Archive (as of 2026-10-02 21:00 UTC)
+- 24h +25 ★ · 30d +1,309 ★ (as of 2026-10-02 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-02 02:16 UTC
-- Latest release: v1.4.218 (2026-09-30)
+- Last commit: 2026-10-03 02:16 UTC
+- Latest release: mobile-android-v0.0.52 (2026-10-03) · pre-release
 - Contributors: 400
-- Open issues (incl. PRs): 7,307
+- Open issues (incl. PRs): 7,482
 - Made by: an organization
-- Checked on GitHub: 2026-10-02 02:16 UTC
+- Checked on GitHub: 2026-10-03 02:16 UTC
 
 ## TESIGN TAKE
 

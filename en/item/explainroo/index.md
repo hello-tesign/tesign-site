@@ -5,14 +5,13 @@
 - Page: https://tesign.com/en/item/explainroo/
 - JSON: https://tesign.com/en/item/explainroo/index.json
 - Korean Markdown: https://tesign.com/item/explainroo/index.md
-- Generated: 2026-10-02 03:18 UTC
+- Generated: 2026-10-03 02:30 UTC
 
 ## Numbers
 
-- 19 stars — checked on GitHub 2026-09-30 15:44 UTC (+5 observed since the check)
-- 7-day +7 observed via GH Archive (as of 2026-10-01 22:00 UTC)
-- 24h +5 ★ · 30d +7 ★ (as of 2026-10-01 22:00 UTC)
-- 4 Show HN points — observed 2026-10-01 11:08 UTC
+- 320 stars — checked on GitHub 2026-10-03 02:15 UTC
+- 7-day +7 observed via GH Archive (as of 2026-10-02 21:00 UTC)
+- 5 Show HN points — observed 2026-10-02 07:53 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-09-30 12:50 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-09-30 15:44 UTC
+- Last commit: 2026-10-01 14:15 UTC
+- Latest release: v0.1.0 (2026-09-30)
+- Contributors: 1
+- Open issues (incl. PRs): 0
+- Made by: an individual
+- Checked on GitHub: 2026-10-03 02:15 UTC
 
 ## Signals and evidence
 

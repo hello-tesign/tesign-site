@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "en",
   "slug": "look4sat",
   "url": "https://tesign.com/en/item/look4sat/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
-    "stars": 1501,
+    "as_of": "2026-10-02T21:00:00.000Z",
+    "stars": 1503,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-02T02:15:50.868Z",
+    "stars_checked_at": "2026-10-03T02:15:59.060Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -117,7 +117,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-01T22:00:00.000Z",
+    "as_of": "2026-10-02T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -143,8 +143,8 @@
       "published_at": "2026-09-27T13:29:46.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-02T02:15:50.868Z",
-    "core_checked_at": "2026-10-02T02:15:50.868Z"
+    "checked_at": "2026-10-03T02:15:59.060Z",
+    "core_checked_at": "2026-10-03T02:15:59.060Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-02T03:18:05.921Z",
+  "generated_at": "2026-10-03T02:30:00.171Z",
   "lang": "en",
   "slug": "quickgui",
   "url": "https://tesign.com/en/item/quickgui/",
@@ -95,10 +95,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-01T22:00:00.000Z",
+    "as_of": "2026-10-02T21:00:00.000Z",
     "stars": 467,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-02T02:16:33.772Z",
+    "stars_checked_at": "2026-10-03T02:16:42.010Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,9 +129,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-20T04:02:10.000Z",
+    "pushed_at": "2026-10-02T14:50:56.000Z",
     "owner_type": "User",
-    "open_issues": 4,
+    "open_issues": 5,
     "contributors": 3,
     "releases_count": 5,
     "latest_release": {
@@ -139,8 +139,8 @@
       "published_at": "2026-09-20T04:02:59.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-02T02:16:33.772Z",
-    "core_checked_at": "2026-10-02T02:16:33.772Z"
+    "checked_at": "2026-10-03T02:16:42.010Z",
+    "core_checked_at": "2026-10-03T02:16:42.010Z"
   },
   "signals": [],
   "images": {

@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/vynody/
 - JSON: https://tesign.com/en/item/vynody/index.json
 - Korean Markdown: https://tesign.com/item/vynody/index.md
-- Generated: 2026-10-02 03:18 UTC
+- Generated: 2026-10-03 02:30 UTC
 
 ## Numbers
 
-- 133 stars — checked on GitHub 2026-10-01 13:45 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-01 22:00 UTC)
-- 3 Show HN points — observed 2026-10-01 13:09 UTC
+- 134 stars — checked on GitHub 2026-10-03 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-02 21:00 UTC)
+- 4 Show HN points — observed 2026-10-02 09:54 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-01 00:27 UTC
-- Latest release: [unconfirmed]
-- Contributors: [unconfirmed]
-- Open issues (incl. PRs): [unconfirmed]
-- Made by: [unconfirmed]
-- Checked on GitHub: 2026-10-01 13:45 UTC
+- Last commit: 2026-10-02 15:01 UTC
+- Latest release: 2.15.0 (2026-10-02)
+- Contributors: 5
+- Open issues (incl. PRs): 19
+- Made by: an individual
+- Checked on GitHub: 2026-10-03 02:15 UTC
 
 ## Signals and evidence
 
