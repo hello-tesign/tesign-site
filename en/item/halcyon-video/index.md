@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/halcyon-video/
 - JSON: https://tesign.com/en/item/halcyon-video/index.json
 - Korean Markdown: https://tesign.com/item/halcyon-video/index.md
-- Generated: 2026-10-03 02:30 UTC
+- Generated: 2026-10-04 02:29 UTC
 
 ## Numbers
 
-- 907 stars — checked on GitHub 2026-10-03 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-02 21:00 UTC)
+- 908 stars — checked on GitHub 2026-10-04 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-03 09:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-03 02:08 UTC
-- Latest release: v0.22.0 (2026-09-23)
+- Last commit: 2026-10-04 01:44 UTC
+- Latest release: v0.23.0 (2026-10-04)
 - Contributors: 4
-- Open issues (incl. PRs): 89
+- Open issues (incl. PRs): 81
 - Made by: an organization
-- Checked on GitHub: 2026-10-03 02:17 UTC
+- Checked on GitHub: 2026-10-04 02:17 UTC
 
 ## Signals and evidence
 

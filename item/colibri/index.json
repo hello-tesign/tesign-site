@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "ko",
   "slug": "colibri",
   "url": "https://tesign.com/item/colibri/",
@@ -125,17 +125,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "stars": 39101,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "stars": 39349,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:16:13.422Z",
+    "stars_checked_at": "2026-10-04T02:16:12.904Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 4,
-    "star_delta_7d": 11,
-    "star_delta_30d": 347,
+    "star_delta_24h": 6,
+    "star_delta_7d": 13,
+    "star_delta_30d": 349,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -148,7 +147,8 @@
       3,
       2,
       2,
-      4
+      4,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -158,12 +158,12 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "all_time": 153,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "all_time": 151,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 38
+      "30d": 36
     },
     "categories": [
       {
@@ -174,9 +174,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-03T00:35:07.000Z",
+    "pushed_at": "2026-10-04T02:12:09.000Z",
     "owner_type": "User",
-    "open_issues": 59,
+    "open_issues": 74,
     "contributors": 193,
     "releases_count": 19,
     "latest_release": {
@@ -184,8 +184,8 @@
       "published_at": "2026-09-24T22:10:40.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-03T02:16:13.422Z",
-    "core_checked_at": "2026-10-03T02:16:13.422Z"
+    "checked_at": "2026-10-04T02:16:12.904Z",
+    "core_checked_at": "2026-10-04T02:16:12.904Z"
   },
   "signals": [
     {

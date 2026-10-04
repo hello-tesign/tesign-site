@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "en",
   "slug": "deepseek-harness",
   "url": "https://tesign.com/en/item/deepseek-harness/",
@@ -99,14 +99,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "stars": 242395,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "stars": 242915,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:16:38.455Z",
+    "stars_checked_at": "2026-10-04T02:16:37.100Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 13,
-    "star_delta_7d": 109,
-    "star_delta_30d": 2203,
+    "star_delta_24h": 28,
+    "star_delta_7d": 123,
+    "star_delta_30d": 2217,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -116,13 +116,13 @@
       null,
       null,
       null,
-      4,
       6,
       5,
       18,
       50,
       13,
-      13
+      13,
+      18
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -132,7 +132,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-02T21:00:00.000Z",
+    "as_of": "2026-10-03T09:00:00.000Z",
     "all_time": 2,
     "rising": {
       "24h": null,
@@ -153,18 +153,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-03T00:01:28.000Z",
+    "pushed_at": "2026-10-03T06:02:48.000Z",
     "owner_type": "Organization",
     "open_issues": 0,
     "contributors": 55,
-    "releases_count": 24,
+    "releases_count": 25,
     "latest_release": {
-      "tag": "dsh-v0.2.0-rc.2",
-      "published_at": "2026-09-29T09:42:36.000Z",
+      "tag": "dsh-v0.2.1-alpha.1",
+      "published_at": "2026-10-03T06:42:19.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-03T02:16:38.455Z",
-    "core_checked_at": "2026-10-03T02:16:38.455Z"
+    "checked_at": "2026-10-04T02:16:37.100Z",
+    "core_checked_at": "2026-10-04T02:16:37.100Z"
   },
   "signals": [],
   "images": {

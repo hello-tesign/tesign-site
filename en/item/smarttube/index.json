@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "en",
   "slug": "smarttube",
   "url": "https://tesign.com/en/item/smarttube/",
@@ -83,10 +83,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "stars": 34447,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "stars": 34499,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:15:01.038Z",
+    "stars_checked_at": "2026-10-04T02:15:00.789Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -116,7 +116,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-02T21:00:00.000Z",
+    "as_of": "2026-10-03T09:00:00.000Z",
     "all_time": 207,
     "rising": {
       "24h": null,
@@ -132,9 +132,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-02T00:58:25.000Z",
+    "pushed_at": "2026-10-04T00:52:54.000Z",
     "owner_type": "User",
-    "open_issues": 758,
+    "open_issues": 760,
     "contributors": 37,
     "releases_count": 1017,
     "latest_release": {
@@ -142,8 +142,8 @@
       "published_at": "2026-09-23T23:20:23.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-03T02:15:01.038Z",
-    "core_checked_at": "2026-10-03T02:15:01.038Z"
+    "checked_at": "2026-10-04T02:15:00.789Z",
+    "core_checked_at": "2026-10-04T02:15:00.789Z"
   },
   "signals": [],
   "images": {

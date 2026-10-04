@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "ko",
   "slug": "vynody",
   "url": "https://tesign.com/item/vynody/",
@@ -87,10 +87,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
+    "as_of": "2026-10-03T09:00:00.000Z",
     "stars": 134,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:15:09.894Z",
+    "stars_checked_at": "2026-10-04T02:15:09.529Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -115,24 +115,24 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 4,
-    "hn_points_observed_at": "2026-10-02T09:54:56.646Z",
+    "hn_points_observed_at": "2026-10-03T06:52:07.369Z",
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-02T15:01:06.000Z",
+    "pushed_at": "2026-10-03T13:53:28.000Z",
     "owner_type": "User",
-    "open_issues": 19,
+    "open_issues": 20,
     "contributors": 5,
     "releases_count": 121,
     "latest_release": {
-      "tag": "2.15.0",
-      "published_at": "2026-10-02T15:01:06.000Z",
+      "tag": "2.15.1",
+      "published_at": "2026-10-03T13:53:28.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-03T02:15:09.894Z",
-    "core_checked_at": "2026-10-03T02:15:09.894Z"
+    "checked_at": "2026-10-04T02:15:09.529Z",
+    "core_checked_at": "2026-10-04T02:15:09.529Z"
   },
   "signals": [
     {

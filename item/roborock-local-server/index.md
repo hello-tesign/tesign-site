@@ -5,13 +5,13 @@
 - 페이지: https://tesign.com/item/roborock-local-server/
 - JSON: https://tesign.com/item/roborock-local-server/index.json
 - 영어 마크다운: https://tesign.com/en/item/roborock-local-server/index.md
-- 생성 시각: 2026-10-03 02:30 UTC
+- 생성 시각: 2026-10-04 02:29 UTC
 
 ## 숫자
 
-- 별 850 — GitHub에서 2026-10-03 02:15 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-02 21:00 UTC)
-- Show HN 2점 — 2026-10-02 05:52 UTC 관측
+- 별 859 — GitHub에서 2026-10-04 02:15 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-03 09:00 UTC)
+- Show HN 2점 — 2026-10-03 07:52 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -32,9 +32,9 @@
 - 마지막 커밋: 2026-10-02 12:49 UTC
 - 최근 릴리스: v1.2.0 (2026-09-27)
 - 기여자: 19
-- 열린 이슈 (PR 포함): 29
+- 열린 이슈 (PR 포함): 30
 - 만든 이: 조직
-- GitHub 확인 시각: 2026-10-03 02:15 UTC
+- GitHub 확인 시각: 2026-10-04 02:15 UTC
 
 ## 선정 신호와 근거
 

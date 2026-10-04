@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "en",
   "slug": "humanizer",
   "url": "https://tesign.com/en/item/humanizer/",
@@ -109,17 +109,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "stars": 53606,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "stars": 53783,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:16:32.735Z",
+    "stars_checked_at": "2026-10-04T02:16:31.548Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 13,
-    "star_delta_30d": 1344,
+    "star_delta_24h": 5,
+    "star_delta_7d": 18,
+    "star_delta_30d": 1347,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -132,7 +131,8 @@
       6,
       5,
       null,
-      null
+      null,
+      5
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -142,7 +142,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-02T21:00:00.000Z",
+    "as_of": "2026-10-03T09:00:00.000Z",
     "all_time": 121,
     "rising": {
       "24h": null,
@@ -168,8 +168,8 @@
       "published_at": "2026-09-28T05:55:12.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-03T02:16:32.735Z",
-    "core_checked_at": "2026-10-03T02:16:32.735Z"
+    "checked_at": "2026-10-04T02:16:31.548Z",
+    "core_checked_at": "2026-10-04T02:16:31.548Z"
   },
   "signals": [],
   "images": {

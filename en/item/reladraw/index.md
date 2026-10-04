@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/reladraw/
 - JSON: https://tesign.com/en/item/reladraw/index.json
 - Korean Markdown: https://tesign.com/item/reladraw/index.md
-- Generated: 2026-10-03 02:30 UTC
+- Generated: 2026-10-04 02:29 UTC
 
 ## Numbers
 
-- 1,031 stars — checked on GitHub 2026-10-03 02:15 UTC
-- 7-day +5 observed via GH Archive (as of 2026-10-02 21:00 UTC)
-- 409 Show HN points — observed 2026-10-02 07:53 UTC
+- 1,044 stars — checked on GitHub 2026-10-04 02:15 UTC
+- 7-day +2 observed via GH Archive (as of 2026-10-03 09:00 UTC)
+- 411 Show HN points — observed 2026-10-03 08:53 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-03 00:15 UTC
-- Latest release: v0.15.0 (2026-09-30)
+- Last commit: 2026-10-03 15:39 UTC
+- Latest release: v0.16.0 (2026-10-03)
 - Contributors: 1
 - Open issues (incl. PRs): 5
 - Made by: an organization
-- Checked on GitHub: 2026-10-03 02:15 UTC
+- Checked on GitHub: 2026-10-04 02:15 UTC
 
 ## Signals and evidence
 

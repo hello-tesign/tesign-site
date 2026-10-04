@@ -5,12 +5,12 @@
 - 페이지: https://tesign.com/item/edgeever/
 - JSON: https://tesign.com/item/edgeever/index.json
 - 영어 마크다운: https://tesign.com/en/item/edgeever/index.md
-- 생성 시각: 2026-10-03 02:30 UTC
+- 생성 시각: 2026-10-04 02:29 UTC
 
 ## 숫자
 
-- 별 1,968 — GitHub에서 2026-10-03 02:15 UTC 확인
-- 7일 +5은 GH Archive 관측 (기준 2026-10-02 21:00 UTC)
+- 별 1,995 — GitHub에서 2026-10-04 02:15 UTC 확인
+- 7일 +5은 GH Archive 관측 (기준 2026-10-03 09:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -28,12 +28,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-10-03 02:00 UTC
-- 최근 릴리스: v1.98.0 (2026-10-02)
-- 기여자: 9
-- 열린 이슈 (PR 포함): 39
+- 마지막 커밋: 2026-10-03 16:01 UTC
+- 최근 릴리스: v1.99.1 (2026-10-03)
+- 기여자: 10
+- 열린 이슈 (PR 포함): 30
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-10-03 02:15 UTC
+- GitHub 확인 시각: 2026-10-04 02:15 UTC
 
 ## TESIGN TAKE
 

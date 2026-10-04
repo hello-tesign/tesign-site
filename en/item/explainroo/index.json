@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "en",
   "slug": "explainroo",
   "url": "https://tesign.com/en/item/explainroo/",
@@ -89,10 +89,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "stars": 320,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "stars": 363,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:15:07.936Z",
+    "stars_checked_at": "2026-10-04T02:15:07.626Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 7,
@@ -109,15 +109,15 @@
       null,
       null,
       null,
-      null,
       2,
       5,
+      null,
       null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 5,
-    "hn_points_observed_at": "2026-10-02T07:53:38.713Z",
+    "hn_points": 6,
+    "hn_points_observed_at": "2026-10-03T04:50:41.524Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
@@ -125,7 +125,7 @@
   "activity": {
     "pushed_at": "2026-10-01T14:15:38.000Z",
     "owner_type": "User",
-    "open_issues": 0,
+    "open_issues": 1,
     "contributors": 1,
     "releases_count": 1,
     "latest_release": {
@@ -133,8 +133,8 @@
       "published_at": "2026-09-30T12:30:56.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-03T02:15:07.936Z",
-    "core_checked_at": "2026-10-03T02:15:07.936Z"
+    "checked_at": "2026-10-04T02:15:07.626Z",
+    "core_checked_at": "2026-10-04T02:15:07.626Z"
   },
   "signals": [
     {

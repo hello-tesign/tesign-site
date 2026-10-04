@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "ko",
   "slug": "viserys-agent",
   "url": "https://tesign.com/item/viserys-agent/",
@@ -98,10 +98,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
+    "as_of": "2026-10-03T09:00:00.000Z",
     "stars": 556,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:16:36.686Z",
+    "stars_checked_at": "2026-10-04T02:16:35.258Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -138,8 +138,8 @@
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-03T02:16:36.686Z",
-    "core_checked_at": "2026-10-03T02:16:36.686Z"
+    "checked_at": "2026-10-04T02:16:35.258Z",
+    "core_checked_at": "2026-10-04T02:16:35.258Z"
   },
   "signals": [
     {

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/tinycast/
 - JSON: https://tesign.com/en/item/tinycast/index.json
 - Korean Markdown: https://tesign.com/item/tinycast/index.md
-- Generated: 2026-10-03 02:30 UTC
+- Generated: 2026-10-04 02:29 UTC
 
 ## Numbers
 
-- 7,950 stars — checked on GitHub 2026-10-03 02:17 UTC
-- 7-day +4 observed via GH Archive (as of 2026-10-02 21:00 UTC)
+- 7,996 stars — checked on GitHub 2026-10-04 02:17 UTC
+- 7-day +4 observed via GH Archive (as of 2026-10-03 09:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -27,12 +27,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-02 18:18 UTC
+- Last commit: 2026-10-03 21:06 UTC
 - Latest release: v0.11.12 (2026-10-02)
-- Contributors: 59
-- Open issues (incl. PRs): 21
+- Contributors: 61
+- Open issues (incl. PRs): 33
 - Made by: an individual
-- Checked on GitHub: 2026-10-03 02:17 UTC
+- Checked on GitHub: 2026-10-04 02:17 UTC
 
 ## Signals and evidence
 

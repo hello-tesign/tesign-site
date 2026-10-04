@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "ko",
   "slug": "vocawin",
   "url": "https://tesign.com/item/vocawin/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
+    "as_of": "2026-10-03T09:00:00.000Z",
     "stars": 74,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:15:54.215Z",
+    "stars_checked_at": "2026-10-04T02:15:53.453Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-02T10:41:18.000Z",
+    "pushed_at": "2026-10-03T20:29:07.000Z",
     "owner_type": "Organization",
-    "open_issues": 6,
+    "open_issues": 5,
     "contributors": 4,
-    "releases_count": 7,
+    "releases_count": 8,
     "latest_release": {
-      "tag": "nightly",
-      "published_at": "2026-10-02T10:41:18.000Z",
-      "prerelease": true
+      "tag": "v0.2.1-beta",
+      "published_at": "2026-10-03T20:25:03.000Z",
+      "prerelease": false
     },
-    "checked_at": "2026-10-03T02:15:54.215Z",
-    "core_checked_at": "2026-10-03T02:15:54.215Z"
+    "checked_at": "2026-10-04T02:15:53.453Z",
+    "core_checked_at": "2026-10-04T02:15:53.453Z"
   },
   "signals": [],
   "images": {

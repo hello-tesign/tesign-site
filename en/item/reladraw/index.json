@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "en",
   "slug": "reladraw",
   "url": "https://tesign.com/en/item/reladraw/",
@@ -85,14 +85,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "stars": 1031,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "stars": 1044,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:15:13.902Z",
+    "stars_checked_at": "2026-10-04T02:15:13.411Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 5,
-    "star_delta_30d": 5,
+    "star_delta_7d": 2,
+    "star_delta_30d": 2,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -102,8 +102,8 @@
       null,
       null,
       null,
-      3,
       2,
+      null,
       null,
       null,
       null,
@@ -112,25 +112,25 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 409,
-    "hn_points_observed_at": "2026-10-02T07:53:39.425Z",
+    "hn_points": 411,
+    "hn_points_observed_at": "2026-10-03T08:53:16.337Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-03T00:15:38.000Z",
+    "pushed_at": "2026-10-03T15:39:56.000Z",
     "owner_type": "Organization",
     "open_issues": 5,
     "contributors": 1,
-    "releases_count": 17,
+    "releases_count": 18,
     "latest_release": {
-      "tag": "v0.15.0",
-      "published_at": "2026-09-30T23:54:22.000Z",
+      "tag": "v0.16.0",
+      "published_at": "2026-10-03T15:40:45.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-03T02:15:13.902Z",
-    "core_checked_at": "2026-10-03T02:15:13.902Z"
+    "checked_at": "2026-10-04T02:15:13.411Z",
+    "core_checked_at": "2026-10-04T02:15:13.411Z"
   },
   "signals": [
     {

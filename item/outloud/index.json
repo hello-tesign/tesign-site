@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "ko",
   "slug": "outloud",
   "url": "https://tesign.com/item/outloud/",
@@ -88,10 +88,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "stars": 10,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "stars": 11,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:18:03.530Z",
+    "stars_checked_at": "2026-10-04T02:18:01.456Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -124,7 +124,7 @@
   "activity": {
     "pushed_at": "2026-10-02T13:18:45.000Z",
     "owner_type": "Organization",
-    "open_issues": 0,
+    "open_issues": 4,
     "contributors": 1,
     "releases_count": 1,
     "latest_release": {
@@ -132,8 +132,8 @@
       "published_at": "2026-09-17T12:45:16.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-03T02:18:03.530Z",
-    "core_checked_at": "2026-10-03T02:18:03.530Z"
+    "checked_at": "2026-10-04T02:18:01.456Z",
+    "core_checked_at": "2026-10-04T02:18:01.456Z"
   },
   "signals": [
     {

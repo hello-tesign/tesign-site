@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-03T02:30:00.171Z",
+  "generated_at": "2026-10-04T02:29:59.773Z",
   "lang": "en",
   "slug": "ui-ux-pro-max-skill",
   "url": "https://tesign.com/en/item/ui-ux-pro-max-skill/",
@@ -85,17 +85,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "stars": 132579,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "stars": 132823,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T02:15:11.849Z",
+    "stars_checked_at": "2026-10-04T02:15:11.467Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 4,
-    "star_delta_7d": 27,
-    "star_delta_30d": 531,
+    "star_delta_24h": 6,
+    "star_delta_7d": 31,
+    "star_delta_30d": 535,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -108,6 +107,7 @@
       5,
       18,
       null,
+      4,
       4
     ],
     "hf_likes": null,
@@ -118,8 +118,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-02T21:00:00.000Z",
-    "all_time": 18,
+    "as_of": "2026-10-03T09:00:00.000Z",
+    "all_time": 17,
     "rising": {
       "24h": null,
       "7d": null,
@@ -129,7 +129,7 @@
       {
         "category": "ai",
         "label": "AI",
-        "rank": 16
+        "rank": 15
       },
       {
         "category": "design",
@@ -139,18 +139,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-27T11:30:41.000Z",
+    "pushed_at": "2026-10-03T16:05:26.000Z",
     "owner_type": "Organization",
     "open_issues": 81,
-    "contributors": 95,
+    "contributors": 96,
     "releases_count": 41,
     "latest_release": {
       "tag": "v2.15.0",
       "published_at": "2026-08-13T17:10:40.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-03T02:15:11.849Z",
-    "core_checked_at": "2026-10-03T02:15:11.849Z"
+    "checked_at": "2026-10-04T02:15:11.467Z",
+    "core_checked_at": "2026-10-04T02:15:11.467Z"
   },
   "signals": [],
   "images": {
