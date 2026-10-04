@@ -5,13 +5,13 @@
 - 페이지: https://tesign.com/item/ecc/
 - JSON: https://tesign.com/item/ecc/index.json
 - 영어 마크다운: https://tesign.com/en/item/ecc/index.md
-- 생성 시각: 2026-10-04 02:29 UTC
+- 생성 시각: 2026-10-04 15:21 UTC
 
 ## 숫자
 
-- 별 272,295 — GitHub에서 2026-10-04 02:16 UTC 확인
-- 7일 +94은 GH Archive 관측 (기준 2026-10-03 09:00 UTC)
-- 24h +43 ★ · 30d +2,334 ★ (기준 2026-10-03 09:00 UTC)
+- 별 272,301 — GitHub에서 2026-10-04 02:16 UTC 확인 (+6 확인 이후 관측)
+- 7일 +125은 GH Archive 관측 (기준 2026-10-04 10:00 UTC)
+- 24h +26 ★ · 30d +2,177 ★ (기준 2026-10-04 10:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실

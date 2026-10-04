@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T02:29:59.773Z",
+  "generated_at": "2026-10-04T15:21:13.201Z",
   "lang": "ko",
   "slug": "coucou",
   "url": "https://tesign.com/item/coucou/",
@@ -86,12 +86,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-03T09:00:00.000Z",
+    "as_of": "2026-10-04T10:00:00.000Z",
     "stars": 3236,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-04T02:15:08.464Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 20,
+    "star_delta_24h": null,
     "star_delta_7d": 89,
     "star_delta_30d": 89,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -105,11 +105,11 @@
       null,
       null,
       null,
-      null,
       53,
       13,
       12,
-      11
+      11,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

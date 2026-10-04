@@ -1,0 +1,166 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-04T15:21:13.201Z",
+  "lang": "ko",
+  "slug": "audionaut",
+  "url": "https://tesign.com/item/audionaut/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/audionaut/",
+      "json": "https://tesign.com/item/audionaut/index.json",
+      "markdown": "https://tesign.com/item/audionaut/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/audionaut/",
+      "json": "https://tesign.com/en/item/audionaut/index.json",
+      "markdown": "https://tesign.com/en/item/audionaut/index.md"
+    }
+  },
+  "name": "Audionaut",
+  "use_label": "AI와 쓰는 오디오 편집",
+  "one_liner": "AI 에이전트가 MCP로 조종할 수 있는 무료 오픈소스 다중 트랙 오디오 편집기. 음악·팟캐스트 편집과 녹음에 쓴다.",
+  "text": {
+    "why": "음악이나 팟캐스트를 자르고 이어 붙일 때 전문 작업 프로그램은 무겁고 복잡하다. Audionaut는 정밀한 자르기, 트랙별 재생목록, 여러 채널, 깔끔한 내보내기를 가볍게 제공한다고 밝힌다.",
+    "take": "README의 예시처럼 '16마디마다 클립을 잘라 줘' 하고 에이전트에게 말로 시킬 수 있다.",
+    "build": [
+      "C++와 JUCE로 만든 데스크톱 앱이며 윈도·맥·리눅스에서 돈다. Claude 같은 에이전트에 MCP로 연결하면 열어 둔 프로젝트를 편집해 주고, 편집마다 되돌리기 한 단계로 남는다. 박자·구간 분석 기능도 있다."
+    ],
+    "who": [
+      {
+        "role": "팟캐스트·음악·녹음 소리를 가볍게 편집하고 싶은 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "audionaut.app에서 앱을 받고, 에이전트 연결은 README의 claude mcp add 명령을 쓴다(Node.js 18 이상)."
+      }
+    ],
+    "caveat": [
+      "GPL-3.0(이후 버전 포함)과 상업용 라이선스의 이중 라이선스다. 기여하려면 기여자 라이선스 동의서(CLA)가 필요하다. 맥에서는 프로젝트를 Music 폴더에 두라고 안내한다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://audionaut.app/"
+  },
+  "ready": "install",
+  "categories": [
+    "media"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "오디오",
+    "편집기",
+    "mcp",
+    "오픈소스"
+  ],
+  "platform": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "license": {
+    "spdx": null,
+    "scope": "unknown",
+    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
+    "url": "https://github.com/kvoltmer/audionaut?tab=License-1-ov-file",
+    "note": null,
+    "open_source": null
+  },
+  "language": "C++",
+  "source_urls": {
+    "canonical": "https://audionaut.app/",
+    "github": "https://github.com/kvoltmer/audionaut",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/kvoltmer/Audionaut",
+        "posted_at": "2026-10-02T08:05:48.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49931031"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-04T10:00:00.000Z",
+    "stars": 3,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-10-02T08:50:19.293Z",
+    "stars_observed_since_check": 2,
+    "star_delta_24h": null,
+    "star_delta_7d": 2,
+    "star_delta_30d": 2,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      2,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 145,
+    "hn_points_observed_at": "2026-10-04T02:38:41.867Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-10-01T20:44:10.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-10-02T08:50:19.293Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 0h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/audionaut-cd43002711.png",
+    "cover": "https://tesign.com/img/audionaut-cd43002711.png",
+    "cover_width": 1000,
+    "cover_height": 626,
+    "gallery": [
+      "https://tesign.com/img/audionaut-cd43002711.png"
+    ],
+    "alt": "Audionaut 편집 화면. 위쪽에 스테레오 파형 트랙, 아래 터미널에서 Claude가 'cut clip every 16 bars' 명령을 받는 모습.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-10-02T08:49:47.803Z",
+    "source_created_at": "2026-10-02T08:05:48.000Z",
+    "discovery_hours": 0.7332786111111111,
+    "launch_signal_at": "2026-10-02T08:05:48.000Z",
+    "kept_at": "2026-10-04T15:21:08.170Z",
+    "first_published_at": "2026-10-04T15:21:08.362Z",
+    "updated_at": "2026-10-04T15:21:08.288Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-04T15:21:13.201Z",
+  "lang": "en",
+  "slug": "artbucket",
+  "url": "https://tesign.com/en/item/artbucket/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/artbucket/",
+      "json": "https://tesign.com/item/artbucket/index.json",
+      "markdown": "https://tesign.com/item/artbucket/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/artbucket/",
+      "json": "https://tesign.com/en/item/artbucket/index.json",
+      "markdown": "https://tesign.com/en/item/artbucket/index.md"
+    }
+  },
+  "name": "Artbucket",
+  "use_label": "Brand asset manager for people & agents",
+  "one_liner": "Open-source brand asset management that gives people, AI agents and code the same answer about logos, rules and rights.",
+  "text": {
+    "why": "Which logo is current, and may this photo run in paid social in Germany? Artbucket keeps assets, rules, rights and releases together and answers 'May I use this?'.",
+    "take": "The web app uses only the public API, so anything it does can be scripted.",
+    "build": [
+      "A web app, MCP server, REST API, CLI and Git share the same data. npx artbucket check reports an expired licence and the replacement asset, and agents connect over MCP with a chosen permission (Suggest, Read or Edit)."
+    ],
+    "who": [
+      {
+        "role": "Marketing and design teams who manage brand assets and usage rights.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Run it yourself with pnpm and Docker, or use the Artbucket Cloud link in the README."
+      }
+    ],
+    "caveat": [
+      "AGPL-3.0: a modified version offered as a service must share its source. A new project with 5 stars; the hosted Cloud pricing was not checked."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://artbucket.io/"
+  },
+  "ready": "self-host",
+  "categories": [
+    "design"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "브랜드",
+    "자산 관리",
+    "mcp",
+    "오픈소스"
+  ],
+  "platform": [
+    "web",
+    "cli"
+  ],
+  "license": {
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "Release source if you redistribute or host it as a service.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://artbucket.io/",
+    "github": "https://github.com/pwnera/artbucket",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/pwnera/artbucket",
+        "posted_at": "2026-10-04T07:49:50.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49951620"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-04T10:00:00.000Z",
+    "stars": 5,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-10-04T08:34:53.885Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 1,
+    "hn_points_observed_at": "2026-10-04T08:43:02.262Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-10-04T07:57:30.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-10-04T08:34:53.885Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "0h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/artbucket-cf359c9076.webp",
+    "cover": "https://tesign.com/img/artbucket-cf359c9076.webp",
+    "cover_width": 2104,
+    "cover_height": 1416,
+    "gallery": [
+      "https://tesign.com/img/artbucket-cf359c9076.webp",
+      "https://tesign.com/img/artbucket-d2532c4a55.png"
+    ],
+    "alt": "The Artbucket library: image, PDF and video cards in a 'Big Buck Bunny' collection with Type, Tags, Status and License filters.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-10-04T08:34:39.952Z",
+    "source_created_at": "2026-10-04T07:49:50.000Z",
+    "discovery_hours": 0.7472088888888889,
+    "launch_signal_at": "2026-10-04T07:49:50.000Z",
+    "kept_at": "2026-10-04T15:21:08.224Z",
+    "first_published_at": "2026-10-04T15:21:08.362Z",
+    "updated_at": "2026-10-04T15:21:08.305Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

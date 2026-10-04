@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T02:29:59.773Z",
+  "generated_at": "2026-10-04T15:21:13.201Z",
   "lang": "en",
   "slug": "rawmakase",
   "url": "https://tesign.com/en/item/rawmakase/",
@@ -86,7 +86,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-03T09:00:00.000Z",
+    "as_of": "2026-10-04T10:00:00.000Z",
     "stars": 219,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-04T02:15:04.621Z",
@@ -104,8 +104,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null,
       null,
       null,
@@ -114,7 +114,7 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 8,
-    "hn_points_observed_at": "2026-10-03T03:49:54.989Z",
+    "hn_points_observed_at": "2026-10-04T04:40:28.565Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },

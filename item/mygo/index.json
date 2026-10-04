@@ -1,0 +1,160 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-04T15:21:13.201Z",
+  "lang": "ko",
+  "slug": "mygo",
+  "url": "https://tesign.com/item/mygo/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/mygo/",
+      "json": "https://tesign.com/item/mygo/index.json",
+      "markdown": "https://tesign.com/item/mygo/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/mygo/",
+      "json": "https://tesign.com/en/item/mygo/index.json",
+      "markdown": "https://tesign.com/en/item/mygo/index.md"
+    }
+  },
+  "name": "MyGo",
+  "use_label": "Go로 데스크톱 앱",
+  "one_liner": "웹 화면이나 네이티브 화면 중 골라 고(Go) 언어로 데스크톱 앱을 만드는 도구. 앱 하나가 몇 MB짜리 파일 하나로 나온다.",
+  "text": {
+    "why": "데스크톱 앱을 만들려면 크기가 큰 웹 틀을 통째로 싣는 경우가 많다. MyGo는 운영체제에 이미 있는 웹뷰를 쓰거나 GPU로 직접 그리는 화면을 써서, 작고 메모리를 덜 쓰는 앱을 만들게 한다고 밝힌다.",
+    "take": "웹 방식과 네이티브 방식을 한 앱 안에서 섞어 쓸 수 있다.",
+    "build": [
+      "cgo 없이 순수 Go라서 어느 컴퓨터에서든 모든 플랫폼용으로 빌드할 수 있다. 웹 화면은 Go 코드에서 만든 타입 있는 TypeScript 클라이언트로 Go 함수를 부르고, 네이티브 화면용 위젯·레이아웃·접근성도 갖췄다. 창, 메뉴, 트레이, 알림, 단축키와 설치 파일 제작, 서명, 자동 업데이트까지 넣었다."
+    ],
+    "who": [
+      {
+        "role": "Go로 가벼운 데스크톱 앱을 만들고 싶은 개발자.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "웹사이트 안내대로 bunx mygo-cli init my-app 명령으로 새 프로젝트를 만든다."
+      }
+    ],
+    "caveat": [
+      "버전 0.2.6의 초기 프로젝트이고 별 약 320개다. macOS·리눅스·윈도를 지원한다고 적혀 있다."
+    ]
+  },
+  "cta": {
+    "type": "use_package",
+    "label": "USE PACKAGE",
+    "url": "https://mygo.egoist.dev/"
+  },
+  "ready": "developer",
+  "categories": [
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "go",
+    "데스크톱 앱",
+    "개발 도구",
+    "오픈소스"
+  ],
+  "platform": [
+    "macos",
+    "windows",
+    "linux"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Go",
+  "source_urls": {
+    "canonical": "https://mygo.egoist.dev/",
+    "github": "https://github.com/egoist/mygo",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/egoist/mygo",
+        "posted_at": "2026-10-03T10:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-04T10:00:00.000Z",
+    "stars": 246,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-10-04T03:34:36.972Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 3,
+    "star_delta_7d": 6,
+    "star_delta_30d": 6,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      6,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-10-04T03:23:00.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-10-04T03:34:36.972Z"
+  },
+  "signals": [],
+  "images": {
+    "og": "https://tesign.com/img/mygo-aa17cc355f.png",
+    "cover": "https://tesign.com/img/mygo-aa17cc355f.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/mygo-aa17cc355f.png"
+    ],
+    "alt": "MyGo 소개 페이지. 'Go로 만드는 데스크톱 앱. 작고 빠르고 타입이 있다' 문구와 시작 명령어.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-10-04T02:34:33.957Z",
+    "source_created_at": "2026-09-26T15:21:37.000Z",
+    "discovery_hours": 179.21582138888888,
+    "launch_signal_at": "2026-10-03T10:00:00.000Z",
+    "kept_at": "2026-10-04T15:21:08.134Z",
+    "first_published_at": "2026-10-04T15:21:08.362Z",
+    "updated_at": "2026-10-04T15:21:08.255Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

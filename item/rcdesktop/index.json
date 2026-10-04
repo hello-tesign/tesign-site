@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-04T15:21:13.201Z",
+  "lang": "ko",
+  "slug": "rcdesktop",
+  "url": "https://tesign.com/item/rcdesktop/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/rcdesktop/",
+      "json": "https://tesign.com/item/rcdesktop/index.json",
+      "markdown": "https://tesign.com/item/rcdesktop/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/rcdesktop/",
+      "json": "https://tesign.com/en/item/rcdesktop/index.json",
+      "markdown": "https://tesign.com/en/item/rcdesktop/index.md"
+    }
+  },
+  "name": "RC Desktop",
+  "use_label": "WSL 컨테이너 관리",
+  "one_liner": "윈도 11의 WSL 컨테이너(wslc)를 도커 데스크톱처럼 화면에서 관리하는 작은 앱.",
+  "text": {
+    "why": "WSL 컨테이너를 쓰려면 명령어를 직접 쳐야 한다. RC Desktop은 도커 데스크톱 같은 화면에서 컨테이너를 보고 켜고 끄게 하면서, 전자(Electron) 앱 없이 가볍게 시작되도록 만들었다고 밝힌다.",
+    "take": "만든 사람이 자기 용도로 시작한 앱이라 가볍고 단순하다.",
+    "build": [
+      "컨테이너 시작·중지·재시작·삭제, 로그와 inspect 보기, 이미지·볼륨·네트워크 목록을 지원한다. 새 컨테이너는 입력 양식, docker-compose 파일, docker run 명령 붙여 넣기 세 방식으로 만들고, 컴포즈 묶음을 한 번에 켜고 끈다."
+    ],
+    "who": [
+      {
+        "role": "윈도 11에서 WSL 컨테이너를 쓰는 개발자.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "저장소 또는 프로젝트 웹페이지에서 윈도용 파일을 받는다."
+      }
+    ],
+    "caveat": [
+      "윈도 전용이고, 만든 사람이 '초기 단계로 거친 부분이 있다'고 직접 밝힌다. 별 2개의 신생 프로젝트다."
+    ]
+  },
+  "cta": {
+    "type": "install",
+    "label": "INSTALL",
+    "url": "https://ricardoborges.github.io/rcdesktop"
+  },
+  "ready": "install",
+  "categories": [
+    "dev-tools"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "컨테이너",
+    "윈도",
+    "개발 도구",
+    "오픈소스"
+  ],
+  "platform": [
+    "windows"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "Rust",
+  "source_urls": {
+    "canonical": "https://ricardoborges.github.io/rcdesktop",
+    "github": "https://github.com/ricardoborges/rcdesktop",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/ricardoborges/rcdesktop",
+        "posted_at": "2026-10-03T22:51:08.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49948544"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-04T10:00:00.000Z",
+    "stars": 1,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-10-04T01:34:06.446Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 2,
+    "hn_points_observed_at": "2026-10-04T00:35:34.258Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-10-03T21:46:31.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-10-04T01:34:06.446Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 1h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/rcdesktop-cf8c953cb5.png",
+    "cover": "https://tesign.com/img/rcdesktop-cf8c953cb5.png",
+    "cover_width": 1102,
+    "cover_height": 677,
+    "gallery": [
+      "https://tesign.com/img/rcdesktop-cf8c953cb5.png",
+      "https://tesign.com/img/rcdesktop-535e9f9901.png"
+    ],
+    "alt": "RC Desktop 대시보드. 실행 중 컨테이너 6/7, 이미지 7, 볼륨 6과 WSLC 세션 상태.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-10-04T00:33:42.663Z",
+    "source_created_at": "2026-10-03T22:51:08.000Z",
+    "discovery_hours": 1.7096286111111112,
+    "launch_signal_at": "2026-10-03T22:51:08.000Z",
+    "kept_at": "2026-10-04T15:21:08.189Z",
+    "first_published_at": "2026-10-04T15:21:08.362Z",
+    "updated_at": "2026-10-04T15:21:08.298Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/spec-kit/
 - JSON: https://tesign.com/en/item/spec-kit/index.json
 - Korean Markdown: https://tesign.com/item/spec-kit/index.md
-- Generated: 2026-10-04 02:29 UTC
+- Generated: 2026-10-04 15:21 UTC
 
 ## RANKS
 
-- All-time #15 · AI #13 · DEV TOOLS #3 (As of 2026-10-03 09:00 UTC)
+- All-time #15 · AI #13 · DEV TOOLS #3 (As of 2026-10-04 10:00 UTC)
 
 ## Numbers
 
 - 140,022 stars — checked on GitHub 2026-10-04 02:16 UTC
-- 7-day +4 observed via GH Archive (as of 2026-10-03 09:00 UTC)
-- 24h +4 ★ · 30d +600 ★ (as of 2026-10-03 09:00 UTC)
+- 7-day +7 observed via GH Archive (as of 2026-10-04 10:00 UTC)
+- 24h +3 ★ · 30d +579 ★ (as of 2026-10-04 10:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

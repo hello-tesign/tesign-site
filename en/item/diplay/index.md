@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/diplay/
 - JSON: https://tesign.com/en/item/diplay/index.json
 - Korean Markdown: https://tesign.com/item/diplay/index.md
-- Generated: 2026-10-04 02:29 UTC
+- Generated: 2026-10-04 15:21 UTC
 
 ## RANKS
 
-- HARDWARE #3 (As of 2026-10-03 09:00 UTC)
+- HARDWARE #3 (As of 2026-10-04 10:00 UTC)
 
 ## Numbers
 
-- 3,040 stars — checked on GitHub 2026-10-04 02:15 UTC
-- 7-day +78 observed via GH Archive (as of 2026-10-03 09:00 UTC)
-- 24h +34 ★ · 30d +78 ★ (as of 2026-10-03 09:00 UTC)
+- 3,045 stars — checked on GitHub 2026-10-04 02:15 UTC (+5 observed since the check)
+- 7-day +86 observed via GH Archive (as of 2026-10-04 10:00 UTC)
+- 24h +8 ★ · 30d +86 ★ (as of 2026-10-04 10:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

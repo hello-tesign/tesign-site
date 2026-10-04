@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T02:29:59.773Z",
+  "generated_at": "2026-10-04T15:21:13.201Z",
   "lang": "en",
   "slug": "tfm-tui",
   "url": "https://tesign.com/en/item/tfm-tui/",
@@ -86,7 +86,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-03T09:00:00.000Z",
+    "as_of": "2026-10-04T10:00:00.000Z",
     "stars": 256,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-04T02:15:28.160Z",

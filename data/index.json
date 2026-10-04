@@ -1,8 +1,8 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-10-04T02:29:59.773Z",
+  "generated_at": "2026-10-04T15:21:13.201Z",
   "site": "https://tesign.com",
-  "count": 199,
+  "count": 209,
   "convention": {
     "item_json": "https://tesign.com/item/<slug>/index.json",
     "item_markdown": "https://tesign.com/item/<slug>/index.md",
@@ -21,8 +21,298 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-10-03T09:00:00.000Z",
+  "numbers_as_of": "2026-10-04T10:00:00.000Z",
   "items": [
+    {
+      "slug": "litmus",
+      "name": {
+        "ko": "LitmusChaos",
+        "en": "LitmusChaos"
+      },
+      "use_label": {
+        "ko": "장애 모의 훈련 도구",
+        "en": "Chaos engineering for Kubernetes"
+      },
+      "category": "infra",
+      "categories": [
+        "infra"
+      ],
+      "updated": "2026-10-04T15:21:08.313Z",
+      "kept_at": "2026-10-04T15:21:08.238Z",
+      "html": {
+        "ko": "https://tesign.com/item/litmus/",
+        "en": "https://tesign.com/en/item/litmus/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/litmus/index.json",
+        "en": "https://tesign.com/en/item/litmus/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/litmus/index.md",
+        "en": "https://tesign.com/en/item/litmus/index.md"
+      }
+    },
+    {
+      "slug": "tax-map",
+      "name": {
+        "ko": "Tax Map",
+        "en": "Tax Map"
+      },
+      "use_label": {
+        "ko": "재산세 개편 시뮬레이터",
+        "en": "Property-tax reform map of England"
+      },
+      "category": "data",
+      "categories": [
+        "data"
+      ],
+      "updated": "2026-10-04T15:21:08.310Z",
+      "kept_at": "2026-10-04T15:21:08.235Z",
+      "html": {
+        "ko": "https://tesign.com/item/tax-map/",
+        "en": "https://tesign.com/en/item/tax-map/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/tax-map/index.json",
+        "en": "https://tesign.com/en/item/tax-map/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/tax-map/index.md",
+        "en": "https://tesign.com/en/item/tax-map/index.md"
+      }
+    },
+    {
+      "slug": "nightwatch",
+      "name": {
+        "ko": "Nightwatch",
+        "en": "Nightwatch"
+      },
+      "use_label": {
+        "ko": "천체 촬영 날씨 도우미",
+        "en": "Astro-imaging forecast in the menu bar"
+      },
+      "category": "science",
+      "categories": [
+        "science"
+      ],
+      "updated": "2026-10-04T15:21:08.307Z",
+      "kept_at": "2026-10-04T15:21:08.228Z",
+      "html": {
+        "ko": "https://tesign.com/item/nightwatch/",
+        "en": "https://tesign.com/en/item/nightwatch/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/nightwatch/index.json",
+        "en": "https://tesign.com/en/item/nightwatch/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/nightwatch/index.md",
+        "en": "https://tesign.com/en/item/nightwatch/index.md"
+      }
+    },
+    {
+      "slug": "artbucket",
+      "name": {
+        "ko": "Artbucket",
+        "en": "Artbucket"
+      },
+      "use_label": {
+        "ko": "브랜드 자산 관리",
+        "en": "Brand asset manager for people & agents"
+      },
+      "category": "design",
+      "categories": [
+        "design"
+      ],
+      "updated": "2026-10-04T15:21:08.305Z",
+      "kept_at": "2026-10-04T15:21:08.224Z",
+      "html": {
+        "ko": "https://tesign.com/item/artbucket/",
+        "en": "https://tesign.com/en/item/artbucket/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/artbucket/index.json",
+        "en": "https://tesign.com/en/item/artbucket/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/artbucket/index.md",
+        "en": "https://tesign.com/en/item/artbucket/index.md"
+      }
+    },
+    {
+      "slug": "openhikmah-web",
+      "name": {
+        "ko": "Open Hikmah",
+        "en": "Open Hikmah"
+      },
+      "use_label": {
+        "ko": "꾸란 구절 연결 탐색",
+        "en": "Qur'an verse graph explorer"
+      },
+      "category": "education",
+      "categories": [
+        "education"
+      ],
+      "updated": "2026-10-04T15:21:08.302Z",
+      "kept_at": "2026-10-04T15:21:08.194Z",
+      "html": {
+        "ko": "https://tesign.com/item/openhikmah-web/",
+        "en": "https://tesign.com/en/item/openhikmah-web/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/openhikmah-web/index.json",
+        "en": "https://tesign.com/en/item/openhikmah-web/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/openhikmah-web/index.md",
+        "en": "https://tesign.com/en/item/openhikmah-web/index.md"
+      }
+    },
+    {
+      "slug": "rcdesktop",
+      "name": {
+        "ko": "RC Desktop",
+        "en": "RC Desktop"
+      },
+      "use_label": {
+        "ko": "WSL 컨테이너 관리",
+        "en": "GUI for WSL containers on Windows"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-10-04T15:21:08.298Z",
+      "kept_at": "2026-10-04T15:21:08.189Z",
+      "html": {
+        "ko": "https://tesign.com/item/rcdesktop/",
+        "en": "https://tesign.com/en/item/rcdesktop/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/rcdesktop/index.json",
+        "en": "https://tesign.com/en/item/rcdesktop/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/rcdesktop/index.md",
+        "en": "https://tesign.com/en/item/rcdesktop/index.md"
+      }
+    },
+    {
+      "slug": "gitorange",
+      "name": {
+        "ko": "GitOrange",
+        "en": "GitOrange"
+      },
+      "use_label": {
+        "ko": "팀용 깃 저장소 호스팅",
+        "en": "Team git host on Cloudflare"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-10-04T15:21:08.295Z",
+      "kept_at": "2026-10-04T15:21:08.186Z",
+      "html": {
+        "ko": "https://tesign.com/item/gitorange/",
+        "en": "https://tesign.com/en/item/gitorange/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/gitorange/index.json",
+        "en": "https://tesign.com/en/item/gitorange/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/gitorange/index.md",
+        "en": "https://tesign.com/en/item/gitorange/index.md"
+      }
+    },
+    {
+      "slug": "opendots",
+      "name": {
+        "ko": "OpenDots",
+        "en": "OpenDots"
+      },
+      "use_label": {
+        "ko": "상시 AI 동료 템플릿",
+        "en": "Template for always-on AI coworkers"
+      },
+      "category": "ai",
+      "categories": [
+        "ai"
+      ],
+      "updated": "2026-10-04T15:21:08.292Z",
+      "kept_at": "2026-10-04T15:21:08.182Z",
+      "html": {
+        "ko": "https://tesign.com/item/opendots/",
+        "en": "https://tesign.com/en/item/opendots/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/opendots/index.json",
+        "en": "https://tesign.com/en/item/opendots/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/opendots/index.md",
+        "en": "https://tesign.com/en/item/opendots/index.md"
+      }
+    },
+    {
+      "slug": "audionaut",
+      "name": {
+        "ko": "Audionaut",
+        "en": "Audionaut"
+      },
+      "use_label": {
+        "ko": "AI와 쓰는 오디오 편집",
+        "en": "Multitrack audio editor for agents"
+      },
+      "category": "media",
+      "categories": [
+        "media"
+      ],
+      "updated": "2026-10-04T15:21:08.288Z",
+      "kept_at": "2026-10-04T15:21:08.170Z",
+      "html": {
+        "ko": "https://tesign.com/item/audionaut/",
+        "en": "https://tesign.com/en/item/audionaut/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/audionaut/index.json",
+        "en": "https://tesign.com/en/item/audionaut/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/audionaut/index.md",
+        "en": "https://tesign.com/en/item/audionaut/index.md"
+      }
+    },
+    {
+      "slug": "mygo",
+      "name": {
+        "ko": "MyGo",
+        "en": "MyGo"
+      },
+      "use_label": {
+        "ko": "Go로 데스크톱 앱",
+        "en": "Build desktop apps in Go"
+      },
+      "category": "dev-tools",
+      "categories": [
+        "dev-tools"
+      ],
+      "updated": "2026-10-04T15:21:08.255Z",
+      "kept_at": "2026-10-04T15:21:08.134Z",
+      "html": {
+        "ko": "https://tesign.com/item/mygo/",
+        "en": "https://tesign.com/en/item/mygo/"
+      },
+      "json": {
+        "ko": "https://tesign.com/item/mygo/index.json",
+        "en": "https://tesign.com/en/item/mygo/index.json"
+      },
+      "markdown": {
+        "ko": "https://tesign.com/item/mygo/index.md",
+        "en": "https://tesign.com/en/item/mygo/index.md"
+      }
+    },
     {
       "slug": "paperweight",
       "name": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T02:29:59.773Z",
+  "generated_at": "2026-10-04T15:21:13.201Z",
   "lang": "ko",
   "slug": "orca",
   "url": "https://tesign.com/item/orca/",
@@ -120,17 +120,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-03T09:00:00.000Z",
-    "stars": 84467,
+    "as_of": "2026-10-04T10:00:00.000Z",
+    "stars": 84470,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-04T02:16:23.037Z",
-    "stars_observed_since_check": 0,
-    "star_delta_24h": 26,
-    "star_delta_7d": 101,
-    "star_delta_30d": 1316,
+    "stars_observed_since_check": 3,
+    "star_delta_24h": 7,
+    "star_delta_7d": 108,
+    "star_delta_30d": 1190,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -143,7 +142,8 @@
       36,
       14,
       25,
-      10
+      14,
+      3
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,

@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-04T15:21:13.201Z",
+  "lang": "en",
+  "slug": "tax-map",
+  "url": "https://tesign.com/en/item/tax-map/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/tax-map/",
+      "json": "https://tesign.com/item/tax-map/index.json",
+      "markdown": "https://tesign.com/item/tax-map/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/tax-map/",
+      "json": "https://tesign.com/en/item/tax-map/index.json",
+      "markdown": "https://tesign.com/en/item/tax-map/index.md"
+    }
+  },
+  "name": "Tax Map",
+  "use_label": "Property-tax reform map of England",
+  "one_liner": "An interactive map comparing England's Council Tax with an illustrative annual property tax, area by area.",
+  "text": {
+    "why": "Tax-reform debate is usually about averages, not your own home. Tax Map lets you enter a postcode or area, adjust the rate and see the estimated change.",
+    "take": "The methodology and data-attribution documents are published alongside.",
+    "build": [
+      "Shades 296 council areas on a map with yearly or monthly changes, optional Stamp Duty and your own figures. It uses official data from ONS, HM Land Registry and VOA/HMRC and needs no API keys."
+    ],
+    "who": [
+      {
+        "role": "Anyone curious how a property-tax reform could affect a home in England.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Try the live demo at taxmap.limsight.com and enter a postcode."
+      }
+    ],
+    "caveat": [
+      "An illustrative scenario, not personal tax advice, and some areas have no estimate. The code is MIT, but data and map assets keep their own licences."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://taxmap.limsight.com/"
+  },
+  "ready": "browser",
+  "categories": [
+    "data"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "지도",
+    "세금",
+    "공공 데이터",
+    "오픈소스"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://taxmap.limsight.com/",
+    "github": "https://github.com/lionel-lim/tax-map",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/Lionel-Lim/tax-map",
+        "posted_at": "2026-10-04T12:32:39.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49953367"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-04T10:00:00.000Z",
+    "stars": 0,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-10-04T12:35:04.079Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 1,
+    "hn_points_observed_at": "2026-10-04T12:45:28.367Z",
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-10-04T11:29:21.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-10-04T12:35:04.079Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "0h OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/tax-map-06d2036b21.png",
+    "cover": "https://tesign.com/img/tax-map-06d2036b21.png",
+    "cover_width": 1360,
+    "cover_height": 1118,
+    "gallery": [
+      "https://tesign.com/img/tax-map-06d2036b21.png",
+      "https://tesign.com/img/tax-map-5f7d5f759f.png"
+    ],
+    "alt": "The Tax Map: a map of England and a Leicester comparison showing an estimated £741 decrease.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-10-04T12:34:50.772Z",
+    "source_created_at": "2026-10-04T12:32:39.000Z",
+    "discovery_hours": 0.036603333333333335,
+    "launch_signal_at": "2026-10-04T12:32:39.000Z",
+    "kept_at": "2026-10-04T15:21:08.235Z",
+    "first_published_at": "2026-10-04T15:21:08.362Z",
+    "updated_at": "2026-10-04T15:21:08.310Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}

@@ -5,11 +5,11 @@
 - Page: https://tesign.com/en/item/lofi-cities/
 - JSON: https://tesign.com/en/item/lofi-cities/index.json
 - Korean Markdown: https://tesign.com/item/lofi-cities/index.md
-- Generated: 2026-10-04 02:29 UTC
+- Generated: 2026-10-04 15:21 UTC
 
 ## Numbers
 
-- 317 Show HN points — observed 2026-10-03 07:52 UTC
+- 319 Show HN points — observed 2026-10-04 07:42 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

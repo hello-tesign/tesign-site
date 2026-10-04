@@ -1,0 +1,165 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-04T15:21:13.201Z",
+  "lang": "ko",
+  "slug": "tax-map",
+  "url": "https://tesign.com/item/tax-map/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/tax-map/",
+      "json": "https://tesign.com/item/tax-map/index.json",
+      "markdown": "https://tesign.com/item/tax-map/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/tax-map/",
+      "json": "https://tesign.com/en/item/tax-map/index.json",
+      "markdown": "https://tesign.com/en/item/tax-map/index.md"
+    }
+  },
+  "name": "Tax Map",
+  "use_label": "재산세 개편 시뮬레이터",
+  "one_liner": "잉글랜드의 지방세(카운슬 택스)를 가상의 연간 재산세로 바꾸면 우리 동네 세금이 어떻게 달라지는지 지도로 비교해 보는 웹앱.",
+  "text": {
+    "why": "세금 개편 논의는 평균으로만 오가서 내 집에는 얼마나 달라지는지 알기 어렵다. Tax Map은 우편번호나 지역 이름을 넣고 세율을 조절해 예상 증감액을 보여 준다.",
+    "take": "추정 방법과 데이터 출처 문서가 함께 공개돼 있다.",
+    "build": [
+      "잉글랜드 296개 카운슬 지역을 지도에 칠해 연·월 증감액을 보여 주고, 인지세(Stamp Duty) 포함 여부와 직접 입력한 수치도 지원한다. ONS, 토지등기소, VOA/HMRC 공식 자료를 쓰고 키 없이 돌아간다."
+    ],
+    "who": [
+      {
+        "role": "영국 부동산 세금 개편이 궁금한 시민, 정책을 공부하는 사람.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "taxmap.limsight.com 데모에서 우편번호를 넣어 본다."
+      }
+    ],
+    "caveat": [
+      "가상의 시나리오이며 개인 세금 상담이 아니다. 일부 지역은 추정치가 없다. 코드는 MIT이지만 데이터와 지도 자료는 각자의 라이선스를 따른다."
+    ]
+  },
+  "cta": {
+    "type": "try",
+    "label": "TRY",
+    "url": "https://taxmap.limsight.com/"
+  },
+  "ready": "browser",
+  "categories": [
+    "data"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "지도",
+    "세금",
+    "공공 데이터",
+    "오픈소스"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "상업 이용·수정·재배포 가능. 저작권 고지는 유지.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://taxmap.limsight.com/",
+    "github": "https://github.com/lionel-lim/tax-map",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "showhn",
+        "url": "https://github.com/Lionel-Lim/tax-map",
+        "posted_at": "2026-10-04T12:32:39.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=49953367"
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-04T10:00:00.000Z",
+    "stars": 0,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-10-04T12:35:04.079Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": 1,
+    "hn_points_observed_at": "2026-10-04T12:45:28.367Z",
+    "store": null,
+    "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-10-04T11:29:21.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-10-04T12:35:04.079Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "신규",
+      "value": "생성 0h 만에 포착"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/tax-map-06d2036b21.png",
+    "cover": "https://tesign.com/img/tax-map-06d2036b21.png",
+    "cover_width": 1360,
+    "cover_height": 1118,
+    "gallery": [
+      "https://tesign.com/img/tax-map-06d2036b21.png",
+      "https://tesign.com/img/tax-map-5f7d5f759f.png"
+    ],
+    "alt": "Tax Map 화면. 잉글랜드 지도와 레스터 지역의 예상 세금 감소액 £741 비교.",
+    "tier": 2
+  },
+  "dates": {
+    "first_seen_at": "2026-10-04T12:34:50.772Z",
+    "source_created_at": "2026-10-04T12:32:39.000Z",
+    "discovery_hours": 0.036603333333333335,
+    "launch_signal_at": "2026-10-04T12:32:39.000Z",
+    "kept_at": "2026-10-04T15:21:08.235Z",
+    "first_published_at": "2026-10-04T15:21:08.362Z",
+    "updated_at": "2026-10-04T15:21:08.310Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "이 파일은 tesign.com 항목 페이지와 같은 빌드에서 같은 데이터로 만들어졌습니다. 소개 글은 편집자가 쓴 것이고, 숫자는 저장된 관측값입니다.",
+    "JSON의 null은 관측하지 않았다는 뜻입니다 — 0이 아닙니다. 마크다운에서는 [확인 필요]로 적습니다.",
+    "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.",
+    "요약이며 법적 조언이 아닙니다."
+  ]
+}

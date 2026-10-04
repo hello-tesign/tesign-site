@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T02:29:59.773Z",
+  "generated_at": "2026-10-04T15:21:13.201Z",
   "lang": "ko",
   "slug": "easel",
   "url": "https://tesign.com/item/easel/",
@@ -120,14 +120,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-03T09:00:00.000Z",
+    "as_of": "2026-10-04T10:00:00.000Z",
     "stars": 2998,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-04T02:16:39.820Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 10,
-    "star_delta_30d": 55,
+    "star_delta_24h": 2,
+    "star_delta_7d": 12,
+    "star_delta_30d": 50,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -139,10 +139,10 @@
       null,
       null,
       null,
-      null,
       5,
       null,
       5,
+      2,
       null
     ],
     "hf_likes": null,
@@ -153,7 +153,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-03T09:00:00.000Z",
+    "as_of": "2026-10-04T10:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,

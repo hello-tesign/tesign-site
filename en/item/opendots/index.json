@@ -1,0 +1,164 @@
+{
+  "schema": "tesign-radar/item/1",
+  "generated_at": "2026-10-04T15:21:13.201Z",
+  "lang": "en",
+  "slug": "opendots",
+  "url": "https://tesign.com/en/item/opendots/",
+  "alternates": {
+    "ko": {
+      "html": "https://tesign.com/item/opendots/",
+      "json": "https://tesign.com/item/opendots/index.json",
+      "markdown": "https://tesign.com/item/opendots/index.md"
+    },
+    "en": {
+      "html": "https://tesign.com/en/item/opendots/",
+      "json": "https://tesign.com/en/item/opendots/index.json",
+      "markdown": "https://tesign.com/en/item/opendots/index.md"
+    }
+  },
+  "name": "OpenDots",
+  "use_label": "Template for always-on AI coworkers",
+  "one_liner": "An open-source template for always-on AI coworkers that each have their own computer and work across text, calls and Slack (alpha).",
+  "text": {
+    "why": "Using an AI agent usually means briefing a chat window every time. OpenDots is a starting point for Dots with their own role, permissions and computer, whose work lands as pages you can keep editing.",
+    "take": "It shows an ask, browse, approve, save flow inside one chat.",
+    "build": [
+      "Built with CopilotKit and AG-UI: Spaces for working documents, a live view of the agent's computer in chat, and human review cards, on web and mobile. You clone it and run it yourself."
+    ],
+    "who": [
+      {
+        "role": "Developers who want to build their own agent workspace.",
+        "situation": null
+      }
+    ],
+    "start": [
+      {
+        "command": false,
+        "text": "Clone the repository and follow the Setup guide to connect your services."
+      }
+    ],
+    "caveat": [
+      "The README says it is a template, not a hosted product, and in early development; you configure the infrastructure and connected services yourself."
+    ]
+  },
+  "cta": {
+    "type": "self_host",
+    "label": "SELF-HOST",
+    "url": "https://copilotkit.ai/opendots"
+  },
+  "ready": "self-host",
+  "categories": [
+    "ai"
+  ],
+  "categories_confirmed": true,
+  "tags": [
+    "ai 에이전트",
+    "템플릿",
+    "자체 호스팅",
+    "오픈소스"
+  ],
+  "platform": [
+    "web"
+  ],
+  "license": {
+    "spdx": "MIT",
+    "scope": "permissive",
+    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
+    "url": "https://spdx.org/licenses/MIT.html",
+    "note": null,
+    "open_source": true
+  },
+  "language": "TypeScript",
+  "source_urls": {
+    "canonical": "https://copilotkit.ai/opendots",
+    "github": "https://github.com/copilotkit/opendots",
+    "huggingface": null,
+    "app_store": null,
+    "sightings": [
+      {
+        "source": "github",
+        "url": "https://github.com/copilotkit/opendots",
+        "posted_at": "2026-10-01T18:00:00.000Z",
+        "hn_url": null
+      }
+    ]
+  },
+  "numbers": {
+    "as_of": "2026-10-04T10:00:00.000Z",
+    "stars": 522,
+    "stars_unit": "GitHub stars",
+    "stars_checked_at": "2026-10-02T02:21:56.268Z",
+    "stars_observed_since_check": 69,
+    "star_delta_24h": 20,
+    "star_delta_7d": 96,
+    "star_delta_30d": 96,
+    "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
+    "spark_14d": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      19,
+      37,
+      30,
+      10
+    ],
+    "hf_likes": null,
+    "hf_likes_observed_at": null,
+    "hn_points": null,
+    "hn_points_observed_at": null,
+    "store": null,
+    "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
+  },
+  "ranks": null,
+  "activity": {
+    "pushed_at": "2026-10-01T21:53:58.000Z",
+    "owner_type": null,
+    "open_issues": null,
+    "contributors": null,
+    "releases_count": null,
+    "latest_release": null,
+    "checked_at": null,
+    "core_checked_at": "2026-10-02T02:21:56.268Z"
+  },
+  "signals": [
+    {
+      "kind": "new",
+      "label": "NEW",
+      "value": "2d OLD WHEN SEEN"
+    }
+  ],
+  "images": {
+    "og": "https://tesign.com/img/opendots-127e2d2882.png",
+    "cover": "https://tesign.com/img/opendots-127e2d2882.png",
+    "cover_width": 2400,
+    "cover_height": 1260,
+    "gallery": [
+      "https://tesign.com/img/opendots-127e2d2882.png"
+    ],
+    "alt": "The OpenDots page: four colourful Dot characters and 'Always-on AI coworkers for text, calls and Slack'.",
+    "tier": 1
+  },
+  "dates": {
+    "first_seen_at": "2026-10-02T01:22:16.496Z",
+    "source_created_at": "2026-09-29T17:13:58.000Z",
+    "discovery_hours": 56.13847111111111,
+    "launch_signal_at": "2026-10-01T18:00:00.000Z",
+    "kept_at": "2026-10-04T15:21:08.182Z",
+    "first_published_at": "2026-10-04T15:21:08.362Z",
+    "updated_at": "2026-10-04T15:21:08.292Z",
+    "ingestion_mode": "live"
+  },
+  "notes": [
+    "This file was produced by the same build, from the same data, as the tesign.com item page. The text is editorial; the numbers are stored observations.",
+    "null in the JSON means not observed — never zero. The Markdown writes [unconfirmed] for it.",
+    "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.",
+    "A summary, not legal advice."
+  ]
+}
