@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "ko",
   "slug": "birdview",
   "url": "https://tesign.com/item/birdview/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 694,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 704,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:16:50.762Z",
+    "stars_checked_at": "2026-10-05T02:17:02.748Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -158,8 +158,8 @@
       "published_at": "2026-09-22T01:12:54.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-04T02:16:50.762Z",
-    "core_checked_at": "2026-10-04T02:16:50.762Z"
+    "checked_at": "2026-10-05T02:17:02.748Z",
+    "core_checked_at": "2026-10-05T02:17:02.748Z"
   },
   "signals": [
     {

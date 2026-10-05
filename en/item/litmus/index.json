@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "en",
   "slug": "litmus",
   "url": "https://tesign.com/en/item/litmus/",
@@ -84,12 +84,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 5725,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 5728,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-03T11:47:06.839Z",
+    "stars_checked_at": "2026-10-05T02:15:06.534Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 3,
+    "star_delta_24h": null,
     "star_delta_7d": 8,
     "star_delta_30d": 8,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -119,13 +119,17 @@
   "ranks": null,
   "activity": {
     "pushed_at": "2026-09-30T12:23:35.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
-    "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-10-03T11:47:06.839Z"
+    "owner_type": "Organization",
+    "open_issues": 388,
+    "contributors": 329,
+    "releases_count": 121,
+    "latest_release": {
+      "tag": "3.32.0",
+      "published_at": "2026-09-17T05:22:34.000Z",
+      "prerelease": false
+    },
+    "checked_at": "2026-10-05T02:15:06.534Z",
+    "core_checked_at": "2026-10-05T02:15:06.534Z"
   },
   "signals": [],
   "images": {

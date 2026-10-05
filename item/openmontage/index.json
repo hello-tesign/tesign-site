@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "ko",
   "slug": "openmontage",
   "url": "https://tesign.com/item/openmontage/",
@@ -114,14 +114,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 62710,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 63259,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:16:37.941Z",
-    "stars_observed_since_check": 2,
-    "star_delta_24h": 6,
+    "stars_checked_at": "2026-10-05T02:16:50.265Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 4,
     "star_delta_7d": 21,
-    "star_delta_30d": 402,
+    "star_delta_30d": 381,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -147,8 +147,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "all_time": 95,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "all_time": 94,
     "rising": {
       "24h": null,
       "7d": null,
@@ -165,12 +165,12 @@
   "activity": {
     "pushed_at": "2026-10-03T16:28:55.000Z",
     "owner_type": "User",
-    "open_issues": 341,
+    "open_issues": 351,
     "contributors": 52,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-04T02:16:37.941Z",
-    "core_checked_at": "2026-10-04T02:16:37.941Z"
+    "checked_at": "2026-10-05T02:16:50.265Z",
+    "core_checked_at": "2026-10-05T02:16:50.265Z"
   },
   "signals": [],
   "images": {

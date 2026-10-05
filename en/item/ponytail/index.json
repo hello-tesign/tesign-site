@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "en",
   "slug": "ponytail",
   "url": "https://tesign.com/en/item/ponytail/",
@@ -109,14 +109,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 153519,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 154940,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:16:09.758Z",
-    "stars_observed_since_check": 30,
-    "star_delta_24h": 80,
-    "star_delta_7d": 262,
-    "star_delta_30d": 3026,
+    "stars_checked_at": "2026-10-05T02:16:22.521Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 60,
+    "star_delta_7d": 276,
+    "star_delta_30d": 2634,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -132,7 +132,7 @@
       33,
       61,
       70,
-      39
+      53
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -142,8 +142,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "all_time": 11,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "all_time": 10,
     "rising": {
       "24h": null,
       "7d": 2,
@@ -153,7 +153,7 @@
       {
         "category": "ai",
         "label": "AI",
-        "rank": 10
+        "rank": 9
       },
       {
         "category": "dev-tools",
@@ -163,18 +163,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-03T05:12:55.000Z",
+    "pushed_at": "2026-10-05T01:14:15.000Z",
     "owner_type": "User",
-    "open_issues": 226,
-    "contributors": 84,
-    "releases_count": 19,
+    "open_issues": 144,
+    "contributors": 86,
+    "releases_count": 20,
     "latest_release": {
-      "tag": "v4.10.3",
-      "published_at": "2026-10-03T02:36:24.000Z",
+      "tag": "v4.11.0",
+      "published_at": "2026-10-04T22:55:27.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-04T02:16:09.758Z",
-    "core_checked_at": "2026-10-04T02:16:09.758Z"
+    "checked_at": "2026-10-05T02:16:22.521Z",
+    "core_checked_at": "2026-10-05T02:16:22.521Z"
   },
   "signals": [],
   "images": {

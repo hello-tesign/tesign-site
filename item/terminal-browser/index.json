@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "ko",
   "slug": "terminal-browser",
   "url": "https://tesign.com/item/terminal-browser/",
@@ -121,14 +121,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 3621,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 3641,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:17:19.607Z",
+    "stars_checked_at": "2026-10-05T02:17:30.846Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 24,
+    "star_delta_30d": 16,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -165,8 +165,8 @@
       "published_at": "2026-10-02T00:09:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-04T02:17:19.607Z",
-    "core_checked_at": "2026-10-04T02:17:19.607Z"
+    "checked_at": "2026-10-05T02:17:30.846Z",
+    "core_checked_at": "2026-10-05T02:17:30.846Z"
   },
   "signals": [
     {

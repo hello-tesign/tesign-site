@@ -5,13 +5,13 @@
 - 페이지: https://tesign.com/item/rcdesktop/
 - JSON: https://tesign.com/item/rcdesktop/index.json
 - 영어 마크다운: https://tesign.com/en/item/rcdesktop/index.md
-- 생성 시각: 2026-10-04 15:21 UTC
+- 생성 시각: 2026-10-05 02:30 UTC
 
 ## 숫자
 
-- 별 1 — GitHub에서 2026-10-04 01:34 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-04 10:00 UTC)
-- Show HN 2점 — 2026-10-04 00:35 UTC 관측
+- 별 2 — GitHub에서 2026-10-05 02:15 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-04 20:00 UTC)
+- Show HN 3점 — 2026-10-04 20:51 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -30,11 +30,11 @@
 ## 활동
 
 - 마지막 커밋: 2026-10-03 21:46 UTC
-- 최근 릴리스: [확인 필요]
-- 기여자: [확인 필요]
-- 열린 이슈 (PR 포함): [확인 필요]
-- 만든 이: [확인 필요]
-- GitHub 확인 시각: 2026-10-04 01:34 UTC
+- 최근 릴리스: v0.4.0 (2026-10-03)
+- 기여자: 1
+- 열린 이슈 (PR 포함): 0
+- 만든 이: 개인
+- GitHub 확인 시각: 2026-10-05 02:15 UTC
 
 ## 선정 신호와 근거
 

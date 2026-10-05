@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "en",
   "slug": "worktrunk",
   "url": "https://tesign.com/en/item/worktrunk/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 8741,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 8806,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:16:27.670Z",
+    "stars_checked_at": "2026-10-05T02:16:39.770Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 6,
@@ -147,7 +147,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-04T02:06:10.000Z",
+    "pushed_at": "2026-10-05T00:37:32.000Z",
     "owner_type": "User",
     "open_issues": 57,
     "contributors": 78,
@@ -157,8 +157,8 @@
       "published_at": "2026-09-27T21:18:46.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-04T02:16:27.670Z",
-    "core_checked_at": "2026-10-04T02:16:27.670Z"
+    "checked_at": "2026-10-05T02:16:39.770Z",
+    "core_checked_at": "2026-10-05T02:16:39.770Z"
   },
   "signals": [],
   "images": {

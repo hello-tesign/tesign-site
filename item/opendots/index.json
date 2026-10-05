@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "ko",
   "slug": "opendots",
   "url": "https://tesign.com/item/opendots/",
@@ -84,12 +84,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 522,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 3222,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-02T02:21:56.268Z",
-    "stars_observed_since_check": 69,
-    "star_delta_24h": 20,
+    "stars_checked_at": "2026-10-05T02:15:03.256Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 12,
     "star_delta_7d": 96,
     "star_delta_30d": 96,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -118,14 +118,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-01T21:53:58.000Z",
-    "owner_type": null,
-    "open_issues": null,
-    "contributors": null,
-    "releases_count": null,
+    "pushed_at": "2026-10-02T21:16:45.000Z",
+    "owner_type": "Organization",
+    "open_issues": 60,
+    "contributors": 3,
+    "releases_count": 0,
     "latest_release": null,
-    "checked_at": null,
-    "core_checked_at": "2026-10-02T02:21:56.268Z"
+    "checked_at": "2026-10-05T02:15:03.256Z",
+    "core_checked_at": "2026-10-05T02:15:03.256Z"
   },
   "signals": [
     {

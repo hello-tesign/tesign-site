@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "ko",
   "slug": "capptivo",
   "url": "https://tesign.com/item/capptivo/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 1042,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 1044,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:17:12.289Z",
+    "stars_checked_at": "2026-10-05T02:17:23.367Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -158,8 +158,8 @@
       "published_at": "2026-08-05T05:24:49.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-04T02:17:12.289Z",
-    "core_checked_at": "2026-10-04T02:17:12.289Z"
+    "checked_at": "2026-10-05T02:17:23.367Z",
+    "core_checked_at": "2026-10-05T02:17:23.367Z"
   },
   "signals": [
     {

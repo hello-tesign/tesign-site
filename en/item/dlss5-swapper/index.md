@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/dlss5-swapper/
 - JSON: https://tesign.com/en/item/dlss5-swapper/index.json
 - Korean Markdown: https://tesign.com/item/dlss5-swapper/index.md
-- Generated: 2026-10-04 15:21 UTC
+- Generated: 2026-10-05 02:30 UTC
 
 ## Numbers
 
-- 7,541 stars — checked on GitHub 2026-10-04 02:16 UTC (+2 observed since the check)
-- 7-day +12 observed via GH Archive (as of 2026-10-04 10:00 UTC)
-- 24h +4 ★ · 30d +542 ★ (as of 2026-10-04 10:00 UTC)
+- 7,671 stars — checked on GitHub 2026-10-05 02:16 UTC
+- 7-day +12 observed via GH Archive (as of 2026-10-04 20:00 UTC)
+- 24h +2 ★ · 30d +502 ★ (as of 2026-10-04 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,9 +32,9 @@
 - Last commit: 2026-09-29 11:45 UTC
 - Latest release: v2.2.9 (2026-09-29)
 - Contributors: 5
-- Open issues (incl. PRs): 56
+- Open issues (incl. PRs): 63
 - Made by: an individual
-- Checked on GitHub: 2026-10-04 02:16 UTC
+- Checked on GitHub: 2026-10-05 02:16 UTC
 
 ## TESIGN TAKE
 

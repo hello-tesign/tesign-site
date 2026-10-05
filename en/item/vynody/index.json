@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "en",
   "slug": "vynody",
   "url": "https://tesign.com/en/item/vynody/",
@@ -87,10 +87,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 134,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 137,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:15:09.529Z",
+    "stars_checked_at": "2026-10-05T02:15:18.553Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -114,25 +114,25 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 4,
-    "hn_points_observed_at": "2026-10-04T03:39:51.888Z",
+    "hn_points": 5,
+    "hn_points_observed_at": "2026-10-04T23:55:42.884Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-03T13:53:28.000Z",
+    "pushed_at": "2026-10-04T13:42:27.000Z",
     "owner_type": "User",
     "open_issues": 20,
     "contributors": 5,
-    "releases_count": 121,
+    "releases_count": 122,
     "latest_release": {
-      "tag": "2.15.1",
-      "published_at": "2026-10-03T13:53:28.000Z",
+      "tag": "2.16.0",
+      "published_at": "2026-10-04T14:18:58.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-04T02:15:09.529Z",
-    "core_checked_at": "2026-10-04T02:15:09.529Z"
+    "checked_at": "2026-10-05T02:15:18.553Z",
+    "core_checked_at": "2026-10-05T02:15:18.553Z"
   },
   "signals": [
     {

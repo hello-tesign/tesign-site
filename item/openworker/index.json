@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "ko",
   "slug": "openworker",
   "url": "https://tesign.com/item/openworker/",
@@ -114,14 +114,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 18413,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 18426,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:17:05.349Z",
+    "stars_checked_at": "2026-10-05T02:17:17.499Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 20,
+    "star_delta_30d": 17,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -148,9 +148,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-04T00:59:44.000Z",
+    "pushed_at": "2026-10-04T23:34:00.000Z",
     "owner_type": "User",
-    "open_issues": 521,
+    "open_issues": 522,
     "contributors": 31,
     "releases_count": 7,
     "latest_release": {
@@ -158,8 +158,8 @@
       "published_at": "2026-09-30T20:13:05.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-04T02:17:05.349Z",
-    "core_checked_at": "2026-10-04T02:17:05.349Z"
+    "checked_at": "2026-10-05T02:17:17.499Z",
+    "core_checked_at": "2026-10-05T02:17:17.499Z"
   },
   "signals": [
     {

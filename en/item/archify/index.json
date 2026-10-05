@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "en",
   "slug": "archify",
   "url": "https://tesign.com/en/item/archify/",
@@ -106,14 +106,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 76781,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 77490,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:16:17.904Z",
+    "stars_checked_at": "2026-10-05T02:16:30.293Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 12,
-    "star_delta_7d": 111,
-    "star_delta_30d": 2522,
+    "star_delta_24h": 7,
+    "star_delta_7d": 115,
+    "star_delta_30d": 2306,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -129,7 +129,7 @@
       6,
       17,
       22,
-      3
+      7
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -139,12 +139,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-04T10:00:00.000Z",
+    "as_of": "2026-10-04T20:00:00.000Z",
     "all_time": 64,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 2
+      "30d": 3
     },
     "categories": [
       {
@@ -160,18 +160,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-04T02:14:55.000Z",
+    "pushed_at": "2026-10-05T02:10:38.000Z",
     "owner_type": "User",
-    "open_issues": 187,
+    "open_issues": 203,
     "contributors": 75,
-    "releases_count": 20,
+    "releases_count": 21,
     "latest_release": {
-      "tag": "v3.0.1",
-      "published_at": "2026-09-28T15:33:07.000Z",
+      "tag": "archify-dsh-v1.0.0",
+      "published_at": "2026-10-04T17:16:13.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-04T02:16:17.904Z",
-    "core_checked_at": "2026-10-04T02:16:17.904Z"
+    "checked_at": "2026-10-05T02:16:30.293Z",
+    "core_checked_at": "2026-10-05T02:16:30.293Z"
   },
   "signals": [],
   "images": {

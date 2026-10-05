@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/museum-of-source-code/
 - JSON: https://tesign.com/en/item/museum-of-source-code/index.json
 - Korean Markdown: https://tesign.com/item/museum-of-source-code/index.md
-- Generated: 2026-10-04 15:21 UTC
+- Generated: 2026-10-05 02:30 UTC
 
 ## Numbers
 

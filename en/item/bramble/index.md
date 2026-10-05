@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/bramble/
 - JSON: https://tesign.com/en/item/bramble/index.json
 - Korean Markdown: https://tesign.com/item/bramble/index.md
-- Generated: 2026-10-04 15:21 UTC
+- Generated: 2026-10-05 02:30 UTC
 
 ## Numbers
 
-- 405 stars — checked on GitHub 2026-10-04 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-04 10:00 UTC)
+- 407 stars — checked on GitHub 2026-10-05 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-04 20:00 UTC)
 - 153 Show HN points — observed 2026-09-13 15:33 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -32,9 +32,9 @@
 - Last commit: 2026-09-27 00:24 UTC
 - Latest release: 1.27.0-firefox (2026-09-27)
 - Contributors: 8
-- Open issues (incl. PRs): 21
+- Open issues (incl. PRs): 22
 - Made by: an individual
-- Checked on GitHub: 2026-10-04 02:17 UTC
+- Checked on GitHub: 2026-10-05 02:18 UTC
 
 ## Signals and evidence
 

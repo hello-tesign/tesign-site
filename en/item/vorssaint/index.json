@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-04T15:21:13.201Z",
+  "generated_at": "2026-10-05T02:30:02.077Z",
   "lang": "en",
   "slug": "vorssaint",
   "url": "https://tesign.com/en/item/vorssaint/",
@@ -108,14 +108,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T10:00:00.000Z",
-    "stars": 23233,
+    "as_of": "2026-10-04T20:00:00.000Z",
+    "stars": 23729,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-04T02:16:46.630Z",
-    "stars_observed_since_check": 7,
+    "stars_checked_at": "2026-10-05T02:16:58.748Z",
+    "stars_observed_since_check": 0,
     "star_delta_24h": 7,
-    "star_delta_7d": 39,
-    "star_delta_30d": 588,
+    "star_delta_7d": 37,
+    "star_delta_30d": 567,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -124,7 +124,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       2,
       2,
@@ -141,12 +141,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-04T10:00:00.000Z",
+    "as_of": "2026-10-04T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 16
+      "30d": 15
     },
     "categories": [
       {
@@ -157,18 +157,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-03T22:28:18.000Z",
+    "pushed_at": "2026-10-05T02:06:43.000Z",
     "owner_type": "User",
-    "open_issues": 861,
-    "contributors": 142,
+    "open_issues": 836,
+    "contributors": 160,
     "releases_count": 86,
     "latest_release": {
       "tag": "v3.4.1-beta.1",
       "published_at": "2026-09-29T11:33:16.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-04T02:16:46.630Z",
-    "core_checked_at": "2026-10-04T02:16:46.630Z"
+    "checked_at": "2026-10-05T02:16:58.748Z",
+    "core_checked_at": "2026-10-05T02:16:58.748Z"
   },
   "signals": [],
   "images": {
