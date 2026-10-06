@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "en",
   "slug": "easel",
   "url": "https://tesign.com/en/item/easel/",
@@ -120,17 +120,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 3075,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 3105,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:16:52.068Z",
+    "stars_checked_at": "2026-10-06T02:16:53.281Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 12,
-    "star_delta_30d": 48,
+    "star_delta_30d": 46,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -143,6 +142,7 @@
       null,
       5,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -153,7 +153,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-04T20:00:00.000Z",
+    "as_of": "2026-10-05T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -169,9 +169,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-03T10:40:26.000Z",
+    "pushed_at": "2026-10-05T06:38:07.000Z",
     "owner_type": "Organization",
-    "open_issues": 13,
+    "open_issues": 15,
     "contributors": 17,
     "releases_count": 4,
     "latest_release": {
@@ -179,8 +179,8 @@
       "published_at": "2026-09-24T03:18:26.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-05T02:16:52.068Z",
-    "core_checked_at": "2026-10-05T02:16:52.068Z"
+    "checked_at": "2026-10-06T02:16:53.281Z",
+    "core_checked_at": "2026-10-06T02:16:53.281Z"
   },
   "signals": [],
   "images": {

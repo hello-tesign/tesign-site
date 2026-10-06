@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "ko",
   "slug": "fluxdown",
   "url": "https://tesign.com/item/fluxdown/",
@@ -120,12 +120,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 3828,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 3936,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:17:50.326Z",
+    "stars_checked_at": "2026-10-06T02:17:53.129Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 4,
+    "star_delta_24h": null,
     "star_delta_7d": 8,
     "star_delta_30d": 15,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -141,9 +141,9 @@
       null,
       null,
       null,
-      null,
       4,
-      4
+      4,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -154,18 +154,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-04T14:11:59.000Z",
+    "pushed_at": "2026-10-05T15:34:47.000Z",
     "owner_type": "User",
-    "open_issues": 415,
-    "contributors": 20,
+    "open_issues": 420,
+    "contributors": 22,
     "releases_count": 172,
     "latest_release": {
       "tag": "v0.5.3",
       "published_at": "2026-10-03T10:15:24.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-05T02:17:50.326Z",
-    "core_checked_at": "2026-10-05T02:17:50.326Z"
+    "checked_at": "2026-10-06T02:17:53.129Z",
+    "core_checked_at": "2026-10-06T02:17:53.129Z"
   },
   "signals": [
     {

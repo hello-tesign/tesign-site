@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "ko",
   "slug": "iloader",
   "url": "https://tesign.com/item/iloader/",
@@ -86,14 +86,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 3720,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 3732,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:15:19.487Z",
+    "stars_checked_at": "2026-10-06T02:15:20.059Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 80,
+    "star_delta_30d": 78,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -120,9 +120,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-04T21:49:17.000Z",
+    "pushed_at": "2026-10-05T16:33:00.000Z",
     "owner_type": "User",
-    "open_issues": 312,
+    "open_issues": 318,
     "contributors": 48,
     "releases_count": 44,
     "latest_release": {
@@ -130,8 +130,8 @@
       "published_at": "2026-10-03T14:36:08.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-05T02:15:19.487Z",
-    "core_checked_at": "2026-10-05T02:15:19.487Z"
+    "checked_at": "2026-10-06T02:15:20.059Z",
+    "core_checked_at": "2026-10-06T02:15:20.059Z"
   },
   "signals": [],
   "images": {

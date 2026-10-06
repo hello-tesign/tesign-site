@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "en",
   "slug": "wealthfolio",
   "url": "https://tesign.com/en/item/wealthfolio/",
@@ -117,10 +117,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 9113,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 9114,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:18:09.670Z",
+    "stars_checked_at": "2026-10-06T02:18:11.773Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -150,7 +150,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-04T20:00:00.000Z",
+    "as_of": "2026-10-05T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -171,9 +171,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-05T00:29:14.000Z",
+    "pushed_at": "2026-10-05T23:02:44.000Z",
     "owner_type": "Organization",
-    "open_issues": 489,
+    "open_issues": 487,
     "contributors": 80,
     "releases_count": 68,
     "latest_release": {
@@ -181,8 +181,8 @@
       "published_at": "2026-09-27T13:23:17.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-05T02:18:09.670Z",
-    "core_checked_at": "2026-10-05T02:18:09.670Z"
+    "checked_at": "2026-10-06T02:18:11.773Z",
+    "core_checked_at": "2026-10-06T02:18:11.773Z"
   },
   "signals": [],
   "images": {

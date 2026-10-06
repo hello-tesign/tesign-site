@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/ponytail/
 - JSON: https://tesign.com/en/item/ponytail/index.json
 - Korean Markdown: https://tesign.com/item/ponytail/index.md
-- Generated: 2026-10-05 02:30 UTC
+- Generated: 2026-10-06 02:30 UTC
 
 ## RANKS
 
-- All-time #10 · Rising this week #2 · AI #9 · DEV TOOLS #2 (As of 2026-10-04 20:00 UTC)
+- All-time #9 · Rising this week #2 · AI #8 · DEV TOOLS #2 (As of 2026-10-05 20:00 UTC)
 
 ## Numbers
 
-- 154,940 stars — checked on GitHub 2026-10-05 02:16 UTC
-- 7-day +276 observed via GH Archive (as of 2026-10-04 20:00 UTC)
-- 24h +60 ★ · 30d +2,634 ★ (as of 2026-10-04 20:00 UTC)
+- 156,026 stars — checked on GitHub 2026-10-06 02:16 UTC
+- 7-day +287 observed via GH Archive (as of 2026-10-05 20:00 UTC)
+- 24h +16 ★ · 30d +1,726 ★ (as of 2026-10-05 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,12 +33,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-05 01:14 UTC
-- Latest release: v4.11.0 (2026-10-04)
-- Contributors: 86
-- Open issues (incl. PRs): 144
+- Last commit: 2026-10-05 20:46 UTC
+- Latest release: v4.13.0 (2026-10-05)
+- Contributors: 111
+- Open issues (incl. PRs): 5
 - Made by: an individual
-- Checked on GitHub: 2026-10-05 02:16 UTC
+- Checked on GitHub: 2026-10-06 02:16 UTC
 
 ## TESIGN TAKE
 

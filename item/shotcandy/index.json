@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "ko",
   "slug": "shotcandy",
   "url": "https://tesign.com/item/shotcandy/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 38,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 40,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:15:23.312Z",
+    "stars_checked_at": "2026-10-06T02:15:24.238Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -128,8 +128,8 @@
       "published_at": "2026-10-01T02:25:01.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-05T02:15:23.312Z",
-    "core_checked_at": "2026-10-05T02:15:23.312Z"
+    "checked_at": "2026-10-06T02:15:24.238Z",
+    "core_checked_at": "2026-10-06T02:15:24.238Z"
   },
   "signals": [
     {

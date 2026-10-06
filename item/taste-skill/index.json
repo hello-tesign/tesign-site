@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "ko",
   "slug": "taste-skill",
   "url": "https://tesign.com/item/taste-skill/",
@@ -100,17 +100,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 92611,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 92867,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:16:48.446Z",
+    "stars_checked_at": "2026-10-06T02:16:49.526Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 4,
+    "star_delta_24h": null,
     "star_delta_7d": 36,
-    "star_delta_30d": 431,
+    "star_delta_30d": 331,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -123,7 +122,8 @@
       6,
       6,
       18,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -133,12 +133,12 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-04T20:00:00.000Z",
+    "as_of": "2026-10-05T20:00:00.000Z",
     "all_time": 38,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 21
+      "30d": 23
     },
     "categories": [
       {
@@ -155,8 +155,8 @@
     "contributors": 8,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-05T02:16:48.446Z",
-    "core_checked_at": "2026-10-05T02:16:48.446Z"
+    "checked_at": "2026-10-06T02:16:49.526Z",
+    "core_checked_at": "2026-10-06T02:16:49.526Z"
   },
   "signals": [],
   "images": {

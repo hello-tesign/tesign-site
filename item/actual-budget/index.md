@@ -5,16 +5,16 @@
 - 페이지: https://tesign.com/item/actual-budget/
 - JSON: https://tesign.com/item/actual-budget/index.json
 - 영어 마크다운: https://tesign.com/en/item/actual-budget/index.md
-- 생성 시각: 2026-10-05 02:30 UTC
+- 생성 시각: 2026-10-06 02:30 UTC
 
 ## 순위
 
-- 생산성 분야 18위 · 금융 분야 3위 (기준 2026-10-04 20:00 UTC)
+- 생산성 분야 18위 · 금융 분야 3위 (기준 2026-10-05 20:00 UTC)
 
 ## 숫자
 
-- 별 29,313 — GitHub에서 2026-10-05 02:15 UTC 확인
-- 7일 +2은 GH Archive 관측 (기준 2026-10-04 20:00 UTC)
+- 별 29,326 — GitHub에서 2026-10-06 02:15 UTC 확인
+- 7일 +2은 GH Archive 관측 (기준 2026-10-05 20:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -32,12 +32,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-10-04 22:34 UTC
+- 마지막 커밋: 2026-10-05 19:42 UTC
 - 최근 릴리스: v26.10.0 (2026-10-02)
-- 기여자: 744
-- 열린 이슈 (PR 포함): 220
+- 기여자: 745
+- 열린 이슈 (PR 포함): 222
 - 만든 이: 조직
-- GitHub 확인 시각: 2026-10-05 02:15 UTC
+- GitHub 확인 시각: 2026-10-06 02:15 UTC
 
 ## TESIGN TAKE
 

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/promptfoo/
 - JSON: https://tesign.com/en/item/promptfoo/index.json
 - Korean Markdown: https://tesign.com/item/promptfoo/index.md
-- Generated: 2026-10-05 02:30 UTC
+- Generated: 2026-10-06 02:30 UTC
 
 ## Numbers
 
-- 25,708 stars — checked on GitHub 2026-10-05 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-04 20:00 UTC)
+- 25,732 stars — checked on GitHub 2026-10-06 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-05 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-05 02:15 UTC
-- Latest release: 0.123.1 (2026-09-18)
-- Contributors: 365
-- Open issues (incl. PRs): 725
+- Last commit: 2026-10-06 01:52 UTC
+- Latest release: 0.124.0 (2026-10-06)
+- Contributors: 367
+- Open issues (incl. PRs): 713
 - Made by: an organization
-- Checked on GitHub: 2026-10-05 02:15 UTC
+- Checked on GitHub: 2026-10-06 02:15 UTC
 
 ## TESIGN TAKE
 

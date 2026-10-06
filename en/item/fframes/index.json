@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "en",
   "slug": "fframes",
   "url": "https://tesign.com/en/item/fframes/",
@@ -84,14 +84,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 2072,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 2106,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:15:14.584Z",
+    "stars_checked_at": "2026-10-06T02:15:14.875Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 34,
-    "star_delta_30d": 34,
+    "star_delta_7d": 32,
+    "star_delta_30d": 32,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -101,10 +101,10 @@
       null,
       null,
       null,
-      2,
       null,
       30,
       2,
+      null,
       null,
       null,
       null
@@ -128,8 +128,8 @@
       "published_at": "2026-10-03T16:32:36.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-05T02:15:14.584Z",
-    "core_checked_at": "2026-10-05T02:15:14.584Z"
+    "checked_at": "2026-10-06T02:15:14.875Z",
+    "core_checked_at": "2026-10-06T02:15:14.875Z"
   },
   "signals": [],
   "images": {

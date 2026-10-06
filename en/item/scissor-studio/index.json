@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "en",
   "slug": "scissor-studio",
   "url": "https://tesign.com/en/item/scissor-studio/",
@@ -84,7 +84,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
+    "as_of": "2026-10-05T20:00:00.000Z",
     "stars": null,
     "stars_unit": "GitHub stars",
     "stars_checked_at": null,
@@ -111,8 +111,8 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 145,
-    "hn_points_observed_at": "2026-10-04T07:42:24.087Z",
+    "hn_points": 147,
+    "hn_points_observed_at": "2026-10-05T03:58:13.187Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },

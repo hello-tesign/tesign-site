@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "ko",
   "slug": "open-code-review",
   "url": "https://tesign.com/item/open-code-review/",
@@ -119,17 +119,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 43723,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 43879,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:16:29.362Z",
+    "stars_checked_at": "2026-10-06T02:16:29.869Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 25,
-    "star_delta_30d": 130,
+    "star_delta_30d": 121,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -142,6 +141,7 @@
       3,
       7,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -152,7 +152,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-04T20:00:00.000Z",
+    "as_of": "2026-10-05T20:00:00.000Z",
     "all_time": 148,
     "rising": {
       "24h": null,
@@ -168,18 +168,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-01T20:40:46.000Z",
+    "pushed_at": "2026-10-05T06:43:52.000Z",
     "owner_type": "Organization",
-    "open_issues": 279,
-    "contributors": 193,
-    "releases_count": 135,
+    "open_issues": 276,
+    "contributors": 194,
+    "releases_count": 136,
     "latest_release": {
-      "tag": "v1.12.11",
-      "published_at": "2026-09-29T14:47:20.000Z",
+      "tag": "v1.12.12",
+      "published_at": "2026-10-05T06:57:25.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-05T02:16:29.362Z",
-    "core_checked_at": "2026-10-05T02:16:29.362Z"
+    "checked_at": "2026-10-06T02:16:29.869Z",
+    "core_checked_at": "2026-10-06T02:16:29.869Z"
   },
   "signals": [],
   "images": {

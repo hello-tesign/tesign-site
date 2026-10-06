@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "ko",
   "slug": "supersplat",
   "url": "https://tesign.com/item/supersplat/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 10299,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 10302,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:15:54.841Z",
+    "stars_checked_at": "2026-10-06T02:15:56.894Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,7 +118,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-04T20:00:00.000Z",
+    "as_of": "2026-10-05T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -139,18 +139,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-02T13:34:28.000Z",
+    "pushed_at": "2026-10-05T15:15:46.000Z",
     "owner_type": "Organization",
     "open_issues": 115,
     "contributors": 30,
-    "releases_count": 177,
+    "releases_count": 178,
     "latest_release": {
-      "tag": "v3.5.1",
-      "published_at": "2026-10-02T17:15:31.000Z",
+      "tag": "v3.5.2",
+      "published_at": "2026-10-05T15:16:03.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-05T02:15:54.841Z",
-    "core_checked_at": "2026-10-05T02:15:54.841Z"
+    "checked_at": "2026-10-06T02:15:56.894Z",
+    "core_checked_at": "2026-10-06T02:15:56.894Z"
   },
   "signals": [],
   "images": {

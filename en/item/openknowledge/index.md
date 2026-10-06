@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/openknowledge/
 - JSON: https://tesign.com/en/item/openknowledge/index.json
 - Korean Markdown: https://tesign.com/item/openknowledge/index.md
-- Generated: 2026-10-05 02:30 UTC
+- Generated: 2026-10-06 02:30 UTC
 
 ## Numbers
 
-- 4,382 stars — checked on GitHub 2026-10-05 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-04 20:00 UTC)
+- 4,390 stars — checked on GitHub 2026-10-06 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-05 20:00 UTC)
 - 381 Show HN points — observed 2026-09-13 15:45 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-05 01:59 UTC
-- Latest release: v0.82.0-beta.9 (2026-10-05) · pre-release
+- Last commit: 2026-10-06 01:59 UTC
+- Latest release: v0.83.0-beta.2 (2026-10-06) · pre-release
 - Contributors: 15
-- Open issues (incl. PRs): 57
+- Open issues (incl. PRs): 56
 - Made by: an organization
-- Checked on GitHub: 2026-10-05 02:17 UTC
+- Checked on GitHub: 2026-10-06 02:17 UTC
 
 ## Signals and evidence
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "en",
   "slug": "openmontage",
   "url": "https://tesign.com/en/item/openmontage/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "stars": 63259,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "stars": 64081,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:16:50.265Z",
+    "stars_checked_at": "2026-10-06T02:16:51.447Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 4,
-    "star_delta_7d": 21,
-    "star_delta_30d": 381,
+    "star_delta_24h": 6,
+    "star_delta_7d": 27,
+    "star_delta_30d": 348,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -137,7 +136,8 @@
       2,
       11,
       2,
-      4
+      4,
+      6
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -147,12 +147,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-04T20:00:00.000Z",
-    "all_time": 94,
+    "as_of": "2026-10-05T20:00:00.000Z",
+    "all_time": 93,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 26
+      "30d": 21
     },
     "categories": [
       {
@@ -165,12 +165,12 @@
   "activity": {
     "pushed_at": "2026-10-03T16:28:55.000Z",
     "owner_type": "User",
-    "open_issues": 351,
+    "open_issues": 356,
     "contributors": 52,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-05T02:16:50.265Z",
-    "core_checked_at": "2026-10-05T02:16:50.265Z"
+    "checked_at": "2026-10-06T02:16:51.447Z",
+    "core_checked_at": "2026-10-06T02:16:51.447Z"
   },
   "signals": [],
   "images": {

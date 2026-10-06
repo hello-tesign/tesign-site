@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "ko",
   "slug": "aspark",
   "url": "https://tesign.com/item/aspark/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
+    "as_of": "2026-10-05T20:00:00.000Z",
     "stars": 24,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:15:35.345Z",
+    "stars_checked_at": "2026-10-06T02:15:37.053Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-10-04T18:13:41.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-05T02:15:35.345Z",
-    "core_checked_at": "2026-10-05T02:15:35.345Z"
+    "checked_at": "2026-10-06T02:15:37.053Z",
+    "core_checked_at": "2026-10-06T02:15:37.053Z"
   },
   "signals": [
     {

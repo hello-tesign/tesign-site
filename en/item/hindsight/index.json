@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-05T02:30:02.077Z",
+  "generated_at": "2026-10-06T02:30:01.889Z",
   "lang": "en",
   "slug": "hindsight",
   "url": "https://tesign.com/en/item/hindsight/",
@@ -140,10 +140,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-04T20:00:00.000Z",
+    "as_of": "2026-10-05T20:00:00.000Z",
     "stars": 0,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-05T02:16:18.856Z",
+    "stars_checked_at": "2026-10-06T02:16:18.980Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -180,8 +180,8 @@
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-05T02:16:18.856Z",
-    "core_checked_at": "2026-10-05T02:16:18.856Z"
+    "checked_at": "2026-10-06T02:16:18.980Z",
+    "core_checked_at": "2026-10-06T02:16:18.980Z"
   },
   "signals": [
     {
