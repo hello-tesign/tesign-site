@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "ko",
   "slug": "open-code-review",
   "url": "https://tesign.com/item/open-code-review/",
@@ -119,14 +119,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 43879,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 44061,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:16:29.869Z",
+    "stars_checked_at": "2026-10-07T02:16:28.922Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 25,
-    "star_delta_30d": 121,
+    "star_delta_24h": 2,
+    "star_delta_7d": 22,
+    "star_delta_30d": 112,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -136,12 +136,12 @@
       null,
       null,
       null,
-      3,
-      10,
+      8,
       3,
       7,
       2,
       null,
+      2,
       null
     ],
     "hf_likes": null,
@@ -152,8 +152,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "all_time": 148,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "all_time": 149,
     "rising": {
       "24h": null,
       "7d": null,
@@ -170,7 +170,7 @@
   "activity": {
     "pushed_at": "2026-10-05T06:43:52.000Z",
     "owner_type": "Organization",
-    "open_issues": 276,
+    "open_issues": 281,
     "contributors": 194,
     "releases_count": 136,
     "latest_release": {
@@ -178,8 +178,8 @@
       "published_at": "2026-10-05T06:57:25.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-06T02:16:29.869Z",
-    "core_checked_at": "2026-10-06T02:16:29.869Z"
+    "checked_at": "2026-10-07T02:16:28.922Z",
+    "core_checked_at": "2026-10-07T02:16:28.922Z"
   },
   "signals": [],
   "images": {

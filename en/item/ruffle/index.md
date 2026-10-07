@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/ruffle/
 - JSON: https://tesign.com/en/item/ruffle/index.json
 - Korean Markdown: https://tesign.com/item/ruffle/index.md
-- Generated: 2026-10-06 02:30 UTC
+- Generated: 2026-10-07 02:30 UTC
 
 ## RANKS
 
-- MEDIA #10 · GAMES #2 (As of 2026-10-05 20:00 UTC)
+- MEDIA #9 · GAMES #2 (As of 2026-10-06 20:00 UTC)
 
 ## Numbers
 
-- 18,626 stars — checked on GitHub 2026-10-06 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-05 20:00 UTC)
+- 18,633 stars — checked on GitHub 2026-10-07 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-06 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,12 +31,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-06 00:14 UTC
-- Latest release: nightly-2026-10-06 (2026-10-06) · pre-release
+- Last commit: 2026-10-07 00:17 UTC
+- Latest release: nightly-2026-10-07 (2026-10-07) · pre-release
 - Contributors: 234
-- Open issues (incl. PRs): 5,657
+- Open issues (incl. PRs): 5,654
 - Made by: an organization
-- Checked on GitHub: 2026-10-06 02:15 UTC
+- Checked on GitHub: 2026-10-07 02:15 UTC
 
 ## TESIGN TAKE
 

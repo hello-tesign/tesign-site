@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "ko",
   "slug": "pdfx",
   "url": "https://tesign.com/item/pdfx/",
@@ -118,10 +118,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 1064,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 1065,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:17:14.202Z",
+    "stars_checked_at": "2026-10-07T02:17:13.087Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -162,8 +162,8 @@
       "published_at": "2026-08-10T17:42:19.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-06T02:17:14.202Z",
-    "core_checked_at": "2026-10-06T02:17:14.202Z"
+    "checked_at": "2026-10-07T02:17:13.087Z",
+    "core_checked_at": "2026-10-07T02:17:13.087Z"
   },
   "signals": [
     {

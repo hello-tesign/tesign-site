@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "en",
   "slug": "actual-budget",
   "url": "https://tesign.com/en/item/actual-budget/",
@@ -88,14 +88,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 29326,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 29339,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:15:59.077Z",
+    "stars_checked_at": "2026-10-07T02:15:58.891Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 2,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -105,7 +105,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -121,7 +121,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-05T20:00:00.000Z",
+    "as_of": "2026-10-06T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -142,18 +142,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-05T19:42:03.000Z",
+    "pushed_at": "2026-10-06T21:09:39.000Z",
     "owner_type": "Organization",
-    "open_issues": 222,
-    "contributors": 745,
+    "open_issues": 224,
+    "contributors": 746,
     "releases_count": 63,
     "latest_release": {
       "tag": "v26.10.0",
       "published_at": "2026-10-02T15:32:36.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-06T02:15:59.077Z",
-    "core_checked_at": "2026-10-06T02:15:59.077Z"
+    "checked_at": "2026-10-07T02:15:58.891Z",
+    "core_checked_at": "2026-10-07T02:15:58.891Z"
   },
   "signals": [],
   "images": {

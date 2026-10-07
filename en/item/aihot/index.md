@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/aihot/
 - JSON: https://tesign.com/en/item/aihot/index.json
 - Korean Markdown: https://tesign.com/item/aihot/index.md
-- Generated: 2026-10-06 02:30 UTC
+- Generated: 2026-10-07 02:30 UTC
 
 ## RANKS
 
-- DATA #19 (As of 2026-10-05 20:00 UTC)
+- DATA #19 (As of 2026-10-06 20:00 UTC)
 
 ## Numbers
 
-- 6,007 stars — checked on GitHub 2026-10-06 02:18 UTC
-- 7-day +130 observed via GH Archive (as of 2026-10-05 20:00 UTC)
+- 6,196 stars — checked on GitHub 2026-10-07 02:18 UTC
+- 7-day +67 observed via GH Archive (as of 2026-10-06 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-05 21:15 UTC
+- Last commit: 2026-10-06 20:00 UTC
 - Latest release: no releases
-- Contributors: 11
-- Open issues (incl. PRs): 2
+- Contributors: 13
+- Open issues (incl. PRs): 5
 - Made by: an individual
-- Checked on GitHub: 2026-10-06 02:18 UTC
+- Checked on GitHub: 2026-10-07 02:18 UTC
 
 ## Signals and evidence
 

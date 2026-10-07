@@ -5,18 +5,19 @@
 - 페이지: https://tesign.com/item/bongocat/
 - JSON: https://tesign.com/item/bongocat/index.json
 - 영어 마크다운: https://tesign.com/en/item/bongocat/index.md
-- 생성 시각: 2026-10-06 02:30 UTC
+- 생성 시각: 2026-10-07 02:30 UTC
 
 ## 숫자
 
-- 별 3,452 — GitHub에서 2026-10-06 02:16 UTC 확인
-- 7일 +2은 GH Archive 관측 (기준 2026-10-05 20:00 UTC)
+- 별 3,500 — GitHub에서 2026-10-07 02:16 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-06 20:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
 
-- 라이선스: 라이선스 미확인
-- 사용 범위: 미확인 — 쓰기 전에 살펴보세요.
+- 라이선스: AGPL-3.0 (카피레프트) — https://spdx.org/licenses/AGPL-3.0.html
+- 사용 범위: 사용·수정은 자유. 배포는 물론 네트워크 서비스로 제공해도 소스 공개.
+- 오픈소스: 예
 - 언어: C
 - 플랫폼: windows · macos · linux
 - 분류: 미디어
@@ -27,12 +28,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-10-05 14:32 UTC
+- 마지막 커밋: 2026-10-06 03:16 UTC
 - 최근 릴리스: v1.14.0 (2026-09-26)
 - 기여자: 1
-- 열린 이슈 (PR 포함): 53
+- 열린 이슈 (PR 포함): 54
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-10-06 02:16 UTC
+- GitHub 확인 시각: 2026-10-07 02:16 UTC
 
 ## TESIGN TAKE
 

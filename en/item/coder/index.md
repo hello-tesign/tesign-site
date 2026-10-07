@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/coder/
 - JSON: https://tesign.com/en/item/coder/index.json
 - Korean Markdown: https://tesign.com/item/coder/index.md
-- Generated: 2026-10-06 02:30 UTC
+- Generated: 2026-10-07 02:30 UTC
 
 ## RANKS
 
-- INFRA #15 (As of 2026-10-05 20:00 UTC)
+- INFRA #15 (As of 2026-10-06 20:00 UTC)
 
 ## Numbers
 
-- 16,855 stars — checked on GitHub 2026-10-06 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-05 20:00 UTC)
+- 16,870 stars — checked on GitHub 2026-10-07 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-06 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-06 02:11 UTC
-- Latest release: v2.37.4 (2026-10-05)
-- Contributors: 277
-- Open issues (incl. PRs): 1,191
+- Last commit: 2026-10-07 02:09 UTC
+- Latest release: v2.38.0 (2026-10-06)
+- Contributors: 278
+- Open issues (incl. PRs): 1,160
 - Made by: an organization
-- Checked on GitHub: 2026-10-06 02:16 UTC
+- Checked on GitHub: 2026-10-07 02:16 UTC
 
 ## TESIGN TAKE
 

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/fluxdown/
 - JSON: https://tesign.com/en/item/fluxdown/index.json
 - Korean Markdown: https://tesign.com/item/fluxdown/index.md
-- Generated: 2026-10-06 02:30 UTC
+- Generated: 2026-10-07 02:30 UTC
 
 ## Numbers
 
-- 3,936 stars — checked on GitHub 2026-10-06 02:17 UTC
-- 7-day +8 observed via GH Archive (as of 2026-10-05 20:00 UTC)
+- 3,989 stars — checked on GitHub 2026-10-07 02:17 UTC
+- 7-day +8 observed via GH Archive (as of 2026-10-06 20:00 UTC)
 - 2 Show HN points — observed 2026-09-13 15:30 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-05 15:34 UTC
-- Latest release: v0.5.3 (2026-10-03)
+- Last commit: 2026-10-06 10:49 UTC
+- Latest release: v0.5.4 (2026-10-06)
 - Contributors: 22
-- Open issues (incl. PRs): 420
+- Open issues (incl. PRs): 423
 - Made by: an individual
-- Checked on GitHub: 2026-10-06 02:17 UTC
+- Checked on GitHub: 2026-10-07 02:17 UTC
 
 ## Signals and evidence
 

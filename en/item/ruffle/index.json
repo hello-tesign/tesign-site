@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "en",
   "slug": "ruffle",
   "url": "https://tesign.com/en/item/ruffle/",
@@ -88,10 +88,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 18626,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 18633,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:15:48.512Z",
+    "stars_checked_at": "2026-10-07T02:15:47.776Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -121,7 +121,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-05T20:00:00.000Z",
+    "as_of": "2026-10-06T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -132,7 +132,7 @@
       {
         "category": "media",
         "label": "MEDIA",
-        "rank": 10
+        "rank": 9
       },
       {
         "category": "games",
@@ -142,18 +142,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-06T00:14:19.000Z",
+    "pushed_at": "2026-10-07T00:17:10.000Z",
     "owner_type": "Organization",
-    "open_issues": 5657,
+    "open_issues": 5654,
     "contributors": 234,
-    "releases_count": 1855,
+    "releases_count": 1856,
     "latest_release": {
-      "tag": "nightly-2026-10-06",
-      "published_at": "2026-10-06T00:14:23.000Z",
+      "tag": "nightly-2026-10-07",
+      "published_at": "2026-10-07T00:17:14.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-06T02:15:48.512Z",
-    "core_checked_at": "2026-10-06T02:15:48.512Z"
+    "checked_at": "2026-10-07T02:15:47.776Z",
+    "core_checked_at": "2026-10-07T02:15:47.776Z"
   },
   "signals": [],
   "images": {

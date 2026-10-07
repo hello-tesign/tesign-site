@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "en",
   "slug": "litmus",
   "url": "https://tesign.com/en/item/litmus/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 5727,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 5724,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:15:06.826Z",
+    "stars_checked_at": "2026-10-07T02:15:06.159Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 8,
@@ -104,8 +104,8 @@
       null,
       null,
       null,
-      null,
       8,
+      null,
       null,
       null
     ],
@@ -120,7 +120,7 @@
   "activity": {
     "pushed_at": "2026-09-30T12:23:35.000Z",
     "owner_type": "Organization",
-    "open_issues": 388,
+    "open_issues": 396,
     "contributors": 329,
     "releases_count": 121,
     "latest_release": {
@@ -128,8 +128,8 @@
       "published_at": "2026-09-17T05:22:34.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-06T02:15:06.826Z",
-    "core_checked_at": "2026-10-06T02:15:06.826Z"
+    "checked_at": "2026-10-07T02:15:06.159Z",
+    "core_checked_at": "2026-10-07T02:15:06.159Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "en",
   "slug": "deepseek-harness",
   "url": "https://tesign.com/en/item/deepseek-harness/",
@@ -99,14 +99,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 244057,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 244640,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:16:50.564Z",
+    "stars_checked_at": "2026-10-07T02:16:49.183Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 128,
-    "star_delta_30d": 1475,
+    "star_delta_24h": 2,
+    "star_delta_7d": 95,
+    "star_delta_30d": 1054,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -116,13 +116,13 @@
       null,
       null,
       null,
-      16,
-      50,
+      31,
       13,
       13,
       23,
       13,
-      null
+      null,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -132,7 +132,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-05T20:00:00.000Z",
+    "as_of": "2026-10-06T20:00:00.000Z",
     "all_time": 2,
     "rising": {
       "24h": null,
@@ -163,8 +163,8 @@
       "published_at": "2026-10-03T06:42:19.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-06T02:16:50.564Z",
-    "core_checked_at": "2026-10-06T02:16:50.564Z"
+    "checked_at": "2026-10-07T02:16:49.183Z",
+    "core_checked_at": "2026-10-07T02:16:49.183Z"
   },
   "signals": [],
   "images": {

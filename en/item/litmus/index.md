@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/litmus/
 - JSON: https://tesign.com/en/item/litmus/index.json
 - Korean Markdown: https://tesign.com/item/litmus/index.md
-- Generated: 2026-10-06 02:30 UTC
+- Generated: 2026-10-07 02:30 UTC
 
 ## Numbers
 
-- 5,727 stars — checked on GitHub 2026-10-06 02:15 UTC
-- 7-day +8 observed via GH Archive (as of 2026-10-05 20:00 UTC)
+- 5,724 stars — checked on GitHub 2026-10-07 02:15 UTC
+- 7-day +8 observed via GH Archive (as of 2026-10-06 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,9 +31,9 @@
 - Last commit: 2026-09-30 12:23 UTC
 - Latest release: 3.32.0 (2026-09-17)
 - Contributors: 329
-- Open issues (incl. PRs): 388
+- Open issues (incl. PRs): 396
 - Made by: an organization
-- Checked on GitHub: 2026-10-06 02:15 UTC
+- Checked on GitHub: 2026-10-07 02:15 UTC
 
 ## TESIGN TAKE
 

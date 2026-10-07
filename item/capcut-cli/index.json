@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "ko",
   "slug": "capcut-cli",
   "url": "https://tesign.com/item/capcut-cli/",
@@ -87,10 +87,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 829,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 832,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:15:32.964Z",
+    "stars_checked_at": "2026-10-07T02:15:32.729Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -131,8 +131,8 @@
       "published_at": "2026-10-04T06:19:48.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-06T02:15:32.964Z",
-    "core_checked_at": "2026-10-06T02:15:32.964Z"
+    "checked_at": "2026-10-07T02:15:32.729Z",
+    "core_checked_at": "2026-10-07T02:15:32.729Z"
   },
   "signals": [],
   "images": {

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/memos/
 - JSON: https://tesign.com/en/item/memos/index.json
 - Korean Markdown: https://tesign.com/item/memos/index.md
-- Generated: 2026-10-06 02:30 UTC
+- Generated: 2026-10-07 02:30 UTC
 
 ## Numbers
 
-- 11,707 stars — checked on GitHub 2026-10-06 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-05 20:00 UTC)
+- 11,737 stars — checked on GitHub 2026-10-07 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-06 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,9 +31,9 @@
 - Last commit: 2026-09-29 03:09 UTC
 - Latest release: v2.0.34 (2026-09-23)
 - Contributors: 104
-- Open issues (incl. PRs): 124
+- Open issues (incl. PRs): 121
 - Made by: an organization
-- Checked on GitHub: 2026-10-06 02:16 UTC
+- Checked on GitHub: 2026-10-07 02:16 UTC
 
 ## TESIGN TAKE
 

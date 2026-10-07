@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "en",
   "slug": "colibri",
   "url": "https://tesign.com/en/item/colibri/",
@@ -125,14 +125,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 39796,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 40061,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:16:25.827Z",
+    "stars_checked_at": "2026-10-07T02:16:24.748Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 23,
-    "star_delta_30d": 348,
+    "star_delta_7d": 20,
+    "star_delta_30d": 312,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -142,12 +142,12 @@
       null,
       null,
       null,
-      3,
       2,
       2,
       4,
       5,
       7,
+      null,
       null
     ],
     "hf_likes": null,
@@ -158,12 +158,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "all_time": 149,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "all_time": 148,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 22
+      "30d": 12
     },
     "categories": [
       {
@@ -174,18 +174,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-05T23:46:08.000Z",
+    "pushed_at": "2026-10-06T23:03:56.000Z",
     "owner_type": "User",
-    "open_issues": 68,
-    "contributors": 193,
-    "releases_count": 19,
+    "open_issues": 76,
+    "contributors": 200,
+    "releases_count": 20,
     "latest_release": {
-      "tag": "v1.12.1",
-      "published_at": "2026-09-24T22:10:40.000Z",
+      "tag": "v2.0.0",
+      "published_at": "2026-10-06T20:24:40.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-06T02:16:25.827Z",
-    "core_checked_at": "2026-10-06T02:16:25.827Z"
+    "checked_at": "2026-10-07T02:16:24.748Z",
+    "core_checked_at": "2026-10-07T02:16:24.748Z"
   },
   "signals": [
     {

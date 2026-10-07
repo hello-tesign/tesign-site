@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/outloud/
 - JSON: https://tesign.com/en/item/outloud/index.json
 - Korean Markdown: https://tesign.com/item/outloud/index.md
-- Generated: 2026-10-06 02:30 UTC
+- Generated: 2026-10-07 02:30 UTC
 
 ## Numbers
 
-- 11 stars — checked on GitHub 2026-10-06 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-05 20:00 UTC)
+- 11 stars — checked on GitHub 2026-10-07 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-06 20:00 UTC)
 - 3 Show HN points — observed 2026-09-23 03:26 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-02 13:18 UTC
-- Latest release: v0.2.0 (2026-09-17)
+- Last commit: 2026-10-06 02:48 UTC
+- Latest release: v0.2.1 (2026-10-06)
 - Contributors: 1
-- Open issues (incl. PRs): 4
+- Open issues (incl. PRs): 0
 - Made by: an organization
-- Checked on GitHub: 2026-10-06 02:18 UTC
+- Checked on GitHub: 2026-10-07 02:18 UTC
 
 ## Signals and evidence
 

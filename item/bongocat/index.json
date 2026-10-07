@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "ko",
   "slug": "bongocat",
   "url": "https://tesign.com/item/bongocat/",
@@ -83,12 +83,12 @@
     "linux"
   ],
   "license": {
-    "spdx": null,
-    "scope": "unknown",
-    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
-    "url": "https://github.com/vladelaina/bongocat?tab=License-1-ov-file",
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포는 물론 네트워크 서비스로 제공해도 소스 공개.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
     "note": null,
-    "open_source": null
+    "open_source": true
   },
   "language": "C",
   "source_urls": {
@@ -106,14 +106,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 3452,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 3500,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:16:47.587Z",
+    "stars_checked_at": "2026-10-07T02:16:46.328Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 45,
+    "star_delta_7d": null,
+    "star_delta_30d": 41,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -124,7 +124,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -140,9 +140,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-05T14:32:20.000Z",
+    "pushed_at": "2026-10-06T03:16:04.000Z",
     "owner_type": "User",
-    "open_issues": 53,
+    "open_issues": 54,
     "contributors": 1,
     "releases_count": 1,
     "latest_release": {
@@ -150,8 +150,8 @@
       "published_at": "2026-09-26T12:41:28.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-06T02:16:47.587Z",
-    "core_checked_at": "2026-10-06T02:16:47.587Z"
+    "checked_at": "2026-10-07T02:16:46.328Z",
+    "core_checked_at": "2026-10-07T02:16:46.328Z"
   },
   "signals": [],
   "images": {

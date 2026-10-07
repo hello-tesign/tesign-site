@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-06T02:30:01.889Z",
+  "generated_at": "2026-10-07T02:30:01.967Z",
   "lang": "ko",
   "slug": "roborock-local-server",
   "url": "https://tesign.com/item/roborock-local-server/",
@@ -82,10 +82,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-05T20:00:00.000Z",
-    "stars": 876,
+    "as_of": "2026-10-06T20:00:00.000Z",
+    "stars": 880,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-06T02:15:25.198Z",
+    "stars_checked_at": "2026-10-07T02:15:25.151Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -116,9 +116,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-02T12:49:09.000Z",
+    "pushed_at": "2026-10-07T01:38:08.000Z",
     "owner_type": "Organization",
-    "open_issues": 32,
+    "open_issues": 34,
     "contributors": 19,
     "releases_count": 13,
     "latest_release": {
@@ -126,8 +126,8 @@
       "published_at": "2026-09-27T02:22:14.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-06T02:15:25.198Z",
-    "core_checked_at": "2026-10-06T02:15:25.198Z"
+    "checked_at": "2026-10-07T02:15:25.151Z",
+    "core_checked_at": "2026-10-07T02:15:25.151Z"
   },
   "signals": [
     {
