@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-07T02:30:01.967Z",
+  "generated_at": "2026-10-08T05:55:54.233Z",
   "lang": "ko",
   "slug": "openanalytics",
   "url": "https://tesign.com/item/openanalytics/",
@@ -134,10 +134,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-06T20:00:00.000Z",
+    "as_of": "2026-10-07T17:00:00.000Z",
     "stars": 615,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-07T02:17:53.202Z",
+    "stars_checked_at": "2026-10-08T02:17:52.248Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -170,7 +170,7 @@
   "activity": {
     "pushed_at": "2026-09-29T11:44:51.000Z",
     "owner_type": "Organization",
-    "open_issues": 1,
+    "open_issues": 2,
     "contributors": 4,
     "releases_count": 14,
     "latest_release": {
@@ -178,8 +178,8 @@
       "published_at": "2026-09-19T09:24:13.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-07T02:17:53.202Z",
-    "core_checked_at": "2026-10-07T02:17:53.202Z"
+    "checked_at": "2026-10-08T02:17:52.248Z",
+    "core_checked_at": "2026-10-08T02:17:52.248Z"
   },
   "signals": [
     {

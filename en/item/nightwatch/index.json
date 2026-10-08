@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-07T02:30:01.967Z",
+  "generated_at": "2026-10-08T05:55:54.233Z",
   "lang": "en",
   "slug": "nightwatch",
   "url": "https://tesign.com/en/item/nightwatch/",
@@ -84,7 +84,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-06T20:00:00.000Z",
+    "as_of": "2026-10-07T17:00:00.000Z",
     "stars": 84,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-07T02:18:27.378Z",
@@ -111,8 +111,8 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 85,
-    "hn_points_observed_at": "2026-10-06T23:39:34.378Z",
+    "hn_points": 86,
+    "hn_points_observed_at": "2026-10-07T20:16:02.845Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },

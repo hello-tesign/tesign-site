@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-07T02:30:01.967Z",
+  "generated_at": "2026-10-08T05:55:54.233Z",
   "lang": "en",
   "slug": "autoclip",
   "url": "https://tesign.com/en/item/autoclip/",
@@ -88,10 +88,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-06T20:00:00.000Z",
-    "stars": 9189,
+    "as_of": "2026-10-07T17:00:00.000Z",
+    "stars": 9208,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-07T02:15:34.614Z",
+    "stars_checked_at": "2026-10-08T02:15:32.618Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -121,7 +121,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-06T20:00:00.000Z",
+    "as_of": "2026-10-07T17:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -139,7 +139,7 @@
   "activity": {
     "pushed_at": "2026-10-06T15:48:20.000Z",
     "owner_type": "User",
-    "open_issues": 7,
+    "open_issues": 8,
     "contributors": 5,
     "releases_count": 16,
     "latest_release": {
@@ -147,8 +147,8 @@
       "published_at": "2026-10-06T09:12:24.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-07T02:15:34.614Z",
-    "core_checked_at": "2026-10-07T02:15:34.614Z"
+    "checked_at": "2026-10-08T02:15:32.618Z",
+    "core_checked_at": "2026-10-08T02:15:32.618Z"
   },
   "signals": [],
   "images": {

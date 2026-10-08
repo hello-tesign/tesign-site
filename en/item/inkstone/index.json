@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-07T02:30:01.967Z",
+  "generated_at": "2026-10-08T05:55:54.233Z",
   "lang": "en",
   "slug": "inkstone",
   "url": "https://tesign.com/en/item/inkstone/",
@@ -100,7 +100,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-06T20:00:00.000Z",
+    "as_of": "2026-10-07T17:00:00.000Z",
     "stars": 1070,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-07T02:18:09.307Z",

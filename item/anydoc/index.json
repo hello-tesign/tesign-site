@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-07T02:30:01.967Z",
+  "generated_at": "2026-10-08T05:55:54.233Z",
   "lang": "ko",
   "slug": "anydoc",
   "url": "https://tesign.com/item/anydoc/",
@@ -110,14 +110,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-06T20:00:00.000Z",
-    "stars": 22549,
+    "as_of": "2026-10-07T17:00:00.000Z",
+    "stars": 22592,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-07T02:16:54.947Z",
+    "stars_checked_at": "2026-10-08T02:16:54.829Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 30,
+    "star_delta_7d": null,
+    "star_delta_30d": 20,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -127,7 +127,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -143,7 +143,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-06T20:00:00.000Z",
+    "as_of": "2026-10-07T17:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -169,8 +169,8 @@
       "published_at": "2026-08-27T19:14:19.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-07T02:16:54.947Z",
-    "core_checked_at": "2026-10-07T02:16:54.947Z"
+    "checked_at": "2026-10-08T02:16:54.829Z",
+    "core_checked_at": "2026-10-08T02:16:54.829Z"
   },
   "signals": [],
   "images": {

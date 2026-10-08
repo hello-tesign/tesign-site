@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-07T02:30:01.967Z",
+  "generated_at": "2026-10-08T05:55:54.233Z",
   "lang": "en",
   "slug": "whiteboard",
   "url": "https://tesign.com/en/item/whiteboard/",
@@ -92,14 +92,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-06T20:00:00.000Z",
-    "stars": 2892,
+    "as_of": "2026-10-07T17:00:00.000Z",
+    "stars": 2926,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-07T02:15:30.511Z",
+    "stars_checked_at": "2026-10-08T02:15:28.832Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 8,
-    "star_delta_30d": 8,
+    "star_delta_7d": 4,
+    "star_delta_30d": 4,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -109,9 +109,9 @@
       null,
       null,
       null,
-      4,
       2,
       2,
+      null,
       null,
       null,
       null,
@@ -126,9 +126,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-07T01:21:28.000Z",
+    "pushed_at": "2026-10-08T02:10:45.000Z",
     "owner_type": "Organization",
-    "open_issues": 32,
+    "open_issues": 30,
     "contributors": 14,
     "releases_count": 17,
     "latest_release": {
@@ -136,8 +136,8 @@
       "published_at": "2026-10-02T14:41:22.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-07T02:15:30.511Z",
-    "core_checked_at": "2026-10-07T02:15:30.511Z"
+    "checked_at": "2026-10-08T02:15:28.832Z",
+    "core_checked_at": "2026-10-08T02:15:28.832Z"
   },
   "signals": [
     {

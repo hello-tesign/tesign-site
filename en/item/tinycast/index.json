@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-07T02:30:01.967Z",
+  "generated_at": "2026-10-08T05:55:54.233Z",
   "lang": "en",
   "slug": "tinycast",
   "url": "https://tesign.com/en/item/tinycast/",
@@ -110,14 +110,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-06T20:00:00.000Z",
-    "stars": 8109,
+    "as_of": "2026-10-07T17:00:00.000Z",
+    "stars": 8170,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-07T02:17:41.023Z",
+    "stars_checked_at": "2026-10-08T02:17:39.605Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
-    "star_delta_30d": 50,
+    "star_delta_30d": 39,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -127,8 +127,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null,
       null,
       null,
@@ -144,18 +144,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-06T21:22:27.000Z",
+    "pushed_at": "2026-10-07T14:24:09.000Z",
     "owner_type": "User",
-    "open_issues": 11,
-    "contributors": 65,
+    "open_issues": 15,
+    "contributors": 67,
     "releases_count": 110,
     "latest_release": {
       "tag": "v0.11.15-beta.113",
       "published_at": "2026-10-06T21:22:27.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-07T02:17:41.023Z",
-    "core_checked_at": "2026-10-07T02:17:41.023Z"
+    "checked_at": "2026-10-08T02:17:39.605Z",
+    "core_checked_at": "2026-10-08T02:17:39.605Z"
   },
   "signals": [
     {
