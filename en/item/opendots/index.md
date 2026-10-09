@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/opendots/
 - JSON: https://tesign.com/en/item/opendots/index.json
 - Korean Markdown: https://tesign.com/item/opendots/index.md
-- Generated: 2026-10-08 05:55 UTC
+- Generated: 2026-10-09 02:29 UTC
 
 ## Numbers
 
-- 4,216 stars — checked on GitHub 2026-10-08 02:15 UTC
-- 7-day +101 observed via GH Archive (as of 2026-10-07 17:00 UTC)
-- 24h +3 ★ · 30d +101 ★ (as of 2026-10-07 17:00 UTC)
+- 4,505 stars — checked on GitHub 2026-10-09 02:15 UTC
+- 7-day +76 observed via GH Archive (as of 2026-10-08 22:00 UTC)
+- 24h +2 ★ · 30d +76 ★ (as of 2026-10-08 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,9 +32,9 @@
 - Last commit: 2026-10-06 22:46 UTC
 - Latest release: no releases
 - Contributors: 20
-- Open issues (incl. PRs): 45
+- Open issues (incl. PRs): 49
 - Made by: an organization
-- Checked on GitHub: 2026-10-08 02:15 UTC
+- Checked on GitHub: 2026-10-09 02:15 UTC
 
 ## Signals and evidence
 

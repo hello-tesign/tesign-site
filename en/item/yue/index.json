@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-08T05:55:54.233Z",
+  "generated_at": "2026-10-09T02:29:59.633Z",
   "lang": "en",
   "slug": "yue",
   "url": "https://tesign.com/en/item/yue/",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-07T17:00:00.000Z",
-    "stars": 10947,
+    "as_of": "2026-10-08T22:00:00.000Z",
+    "stars": 10995,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-08T02:16:24.750Z",
+    "stars_checked_at": "2026-10-09T02:16:27.499Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,7 +148,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-07T17:00:00.000Z",
+    "as_of": "2026-10-08T22:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -174,8 +174,8 @@
       "published_at": "2026-09-25T10:24:27.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-08T02:16:24.750Z",
-    "core_checked_at": "2026-10-08T02:16:24.750Z"
+    "checked_at": "2026-10-09T02:16:27.499Z",
+    "core_checked_at": "2026-10-09T02:16:27.499Z"
   },
   "signals": [],
   "images": {

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>TESIGN Radar · 오늘</title><link>https://tesign.com/</link><description>AI chooses the lists under the owner’s delegation. No human review is running in September 2026. Total stars, increases, cross-source signals, last updates and licences are shown as evidence.</description><language>ko</language><lastBuildDate>Thu, 08 Oct 2026 05:55:54 GMT</lastBuildDate>
+<rss version="2.0"><channel><title>TESIGN Radar · 오늘</title><link>https://tesign.com/</link><description>AI chooses the lists under the owner’s delegation. No human review is running in September 2026. Total stars, increases, cross-source signals, last updates and licences are shown as evidence.</description><language>ko</language><lastBuildDate>Fri, 09 Oct 2026 02:29:59 GMT</lastBuildDate>
 <item><title>MyGo</title><link>https://tesign.com/item/mygo/</link><guid isPermaLink="true">https://tesign.com/item/mygo/</guid><description>웹 화면이나 네이티브 화면 중 골라 고(Go) 언어로 데스크톱 앱을 만드는 도구. 앱 하나가 몇 MB짜리 파일 하나로 나온다.
 MyGo: Build desktop apps in Go with a web frontend or a native UI; each app ships as one binary of a few megabytes.
-★ 776 · ▲ +13 / 7d · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 1.1k · ▲ +13 / 7d · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 <item><title>Audionaut</title><link>https://tesign.com/item/audionaut/</link><guid isPermaLink="true">https://tesign.com/item/audionaut/</guid><description>AI 에이전트가 MCP로 조종할 수 있는 무료 오픈소스 다중 트랙 오디오 편집기. 음악·팟캐스트 편집과 녹음에 쓴다.
 Audionaut: A free, open-source multitrack audio editor that AI agents can drive over MCP, for music, podcasts and recording.
-★ 233 · ▲ +2 / 7d · ▲ 152 HN · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 242 · ▲ +2 / 7d · ▲ 153 HN · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 <item><title>OpenDots</title><link>https://tesign.com/item/opendots/</link><guid isPermaLink="true">https://tesign.com/item/opendots/</guid><description>각자 자기 컴퓨터를 가진 AI 동료를 만들어 문자·통화·슬랙에서 일하게 하는 오픈소스 템플릿(알파).
 OpenDots: An open-source template for always-on AI coworkers that each have their own computer and work across text, calls and Slack (alpha).
-★ 4.2k · ▲ +101 / 7d · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 4.5k · ▲ +76 / 7d · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 <item><title>GitOrange</title><link>https://tesign.com/item/gitorange/</link><guid isPermaLink="true">https://tesign.com/item/gitorange/</guid><description>팀 전용 깃허브 같은 코드 저장소 서비스를 클라우드플레어 워커 하나로 올리는 도구. 따로 서버를 돌리지 않는다.
 GitOrange: A self-hosted, GitHub-style git host for your team that deploys as a single Cloudflare Worker, with no servers to run.
-★ 25 · ▲ 2 HN · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 25 · ▲ 2 HN · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 <item><title>RC Desktop</title><link>https://tesign.com/item/rcdesktop/</link><guid isPermaLink="true">https://tesign.com/item/rcdesktop/</guid><description>윈도 11의 WSL 컨테이너(wslc)를 도커 데스크톱처럼 화면에서 관리하는 작은 앱.
 RC Desktop: A small Windows app that manages WSL Containers (wslc) like Docker Desktop, in Rust.
-★ 3 · ▲ 4 HN · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 3 · ▲ 4 HN · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 <item><title>Open Hikmah</title><link>https://tesign.com/item/openhikmah-web/</link><guid isPermaLink="true">https://tesign.com/item/openhikmah-web/</guid><description>꾸란 구절을 무한 캔버스에 올려 놓고, 같은 어근·주제·대조로 이어진 구절을 AI 설명과 함께 탐색하는 웹앱.
 Open Hikmah: A web app that lets you explore Qur&apos;an verses as a connected graph on an infinite canvas, with AI explaining each link.
-★ 181 · ▲ +5 / 7d · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 181 · ▲ +5 / 7d · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 <item><title>Artbucket</title><link>https://tesign.com/item/artbucket/</link><guid isPermaLink="true">https://tesign.com/item/artbucket/</guid><description>브랜드의 로고·색·권리·승인 상태를 한곳에 두고 사람, AI 에이전트, 코드가 같은 답을 얻게 하는 오픈소스 자산 관리 도구.
 Artbucket: Open-source brand asset management that gives people, AI agents and code the same answer about logos, rules and rights.
-★ 7 · ▲ 1 HN · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 7 · ▲ 1 HN · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 <item><title>Nightwatch</title><link>https://tesign.com/item/nightwatch/</link><guid isPermaLink="true">https://tesign.com/item/nightwatch/</guid><description>오늘 밤 하늘이 맑아 장시간 천체 촬영을 할 만한지, 무엇을 겨냥할지 알려 주는 맥 메뉴 막대 앱.
 Nightwatch: A silent macOS menu-bar app that tells you when tonight is clear enough for a long imaging session and what to point at.
-★ 84 · ▲ 86 HN · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 88 · ▲ 86 HN · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 <item><title>Tax Map</title><link>https://tesign.com/item/tax-map/</link><guid isPermaLink="true">https://tesign.com/item/tax-map/</guid><description>잉글랜드의 지방세(카운슬 택스)를 가상의 연간 재산세로 바꾸면 우리 동네 세금이 어떻게 달라지는지 지도로 비교해 보는 웹앱.
 Tax Map: An interactive map comparing England&apos;s Council Tax with an illustrative annual property tax, area by area.
-★ 1 · ▲ 1 HN · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 1 · ▲ 1 HN · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 <item><title>LitmusChaos</title><link>https://tesign.com/item/litmus/</link><guid isPermaLink="true">https://tesign.com/item/litmus/</guid><description>일부러 장애를 일으켜 시스템의 약점을 미리 찾는 카오스 엔지니어링 오픈소스 플랫폼. 쿠버네티스에서 돌아가는 CNCF 프로젝트.
 LitmusChaos: An open-source chaos engineering platform that injects controlled faults to find weaknesses before outages do; a CNCF project for Kubernetes.
-★ 5.7k · ▲ +8 / 7d · As of 2026-10-07T17:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
+★ 5.7k · ▲ +8 / 7d · As of 2026-10-08T22:00:00.000Z</description><pubDate>Sun, 04 Oct 2026 15:21:08 GMT</pubDate></item>
 </channel></rss>

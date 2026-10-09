@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/supercmo-skills/
 - JSON: https://tesign.com/en/item/supercmo-skills/index.json
 - Korean Markdown: https://tesign.com/item/supercmo-skills/index.md
-- Generated: 2026-10-08 05:55 UTC
+- Generated: 2026-10-09 02:29 UTC
 
 ## Numbers
 
-- 68 stars — checked on GitHub 2026-10-07 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-07 17:00 UTC)
+- 70 stars — checked on GitHub 2026-10-09 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-08 22:00 UTC)
 - 7 Show HN points — observed 2026-10-06 00:16 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -34,7 +34,7 @@
 - Contributors: 3
 - Open issues (incl. PRs): 8
 - Made by: an organization
-- Checked on GitHub: 2026-10-07 02:18 UTC
+- Checked on GitHub: 2026-10-09 02:18 UTC
 
 ## Signals and evidence
 

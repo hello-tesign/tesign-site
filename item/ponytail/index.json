@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-08T05:55:54.233Z",
+  "generated_at": "2026-10-09T02:29:59.633Z",
   "lang": "ko",
   "slug": "ponytail",
   "url": "https://tesign.com/item/ponytail/",
@@ -109,14 +109,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-07T17:00:00.000Z",
-    "stars": 157649,
+    "as_of": "2026-10-08T22:00:00.000Z",
+    "stars": 158610,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-08T02:16:20.709Z",
+    "stars_checked_at": "2026-10-09T02:16:23.522Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 12,
-    "star_delta_7d": 252,
-    "star_delta_30d": 930,
+    "star_delta_24h": 21,
+    "star_delta_7d": 234,
+    "star_delta_30d": 910,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -126,13 +126,13 @@
       null,
       null,
       null,
-      33,
-      61,
+      55,
       70,
       53,
       16,
       12,
-      7
+      7,
+      21
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -142,12 +142,12 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-07T17:00:00.000Z",
+    "as_of": "2026-10-08T22:00:00.000Z",
     "all_time": 9,
     "rising": {
       "24h": null,
       "7d": 2,
-      "30d": 2
+      "30d": 3
     },
     "categories": [
       {
@@ -163,18 +163,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-05T20:46:39.000Z",
+    "pushed_at": "2026-10-08T16:19:55.000Z",
     "owner_type": "User",
-    "open_issues": 17,
-    "contributors": 111,
-    "releases_count": 22,
+    "open_issues": 25,
+    "contributors": 110,
+    "releases_count": 24,
     "latest_release": {
-      "tag": "v4.13.0",
-      "published_at": "2026-10-05T18:54:43.000Z",
+      "tag": "v5.1.0",
+      "published_at": "2026-10-08T16:20:18.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-08T02:16:20.709Z",
-    "core_checked_at": "2026-10-08T02:16:20.709Z"
+    "checked_at": "2026-10-09T02:16:23.522Z",
+    "core_checked_at": "2026-10-09T02:16:23.522Z"
   },
   "signals": [],
   "images": {

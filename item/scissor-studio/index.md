@@ -5,7 +5,7 @@
 - 페이지: https://tesign.com/item/scissor-studio/
 - JSON: https://tesign.com/item/scissor-studio/index.json
 - 영어 마크다운: https://tesign.com/en/item/scissor-studio/index.md
-- 생성 시각: 2026-10-08 05:55 UTC
+- 생성 시각: 2026-10-09 02:29 UTC
 
 ## 숫자
 

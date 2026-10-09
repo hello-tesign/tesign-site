@@ -5,16 +5,16 @@
 - 페이지: https://tesign.com/item/sparkyfitness/
 - JSON: https://tesign.com/item/sparkyfitness/index.json
 - 영어 마크다운: https://tesign.com/en/item/sparkyfitness/index.md
-- 생성 시각: 2026-10-08 05:55 UTC
+- 생성 시각: 2026-10-09 02:29 UTC
 
 ## 순위
 
-- 데이터 분야 18위 (기준 2026-10-07 17:00 UTC)
+- 데이터 분야 19위 (기준 2026-10-08 22:00 UTC)
 
 ## 숫자
 
-- 별 6,226 — GitHub에서 2026-10-07 02:18 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-07 17:00 UTC)
+- 별 6,267 — GitHub에서 2026-10-09 02:18 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-08 22:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -31,12 +31,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-10-07 01:18 UTC
-- 최근 릴리스: v1.7.3 (2026-09-28)
+- 마지막 커밋: 2026-10-09 01:47 UTC
+- 최근 릴리스: v1.8.0 (2026-10-08)
 - 기여자: 149
-- 열린 이슈 (PR 포함): 164
+- 열린 이슈 (PR 포함): 170
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-10-07 02:18 UTC
+- GitHub 확인 시각: 2026-10-09 02:18 UTC
 
 ## TESIGN TAKE
 

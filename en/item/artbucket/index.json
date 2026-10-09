@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-08T05:55:54.233Z",
+  "generated_at": "2026-10-09T02:29:59.633Z",
   "lang": "en",
   "slug": "artbucket",
   "url": "https://tesign.com/en/item/artbucket/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-07T17:00:00.000Z",
+    "as_of": "2026-10-08T22:00:00.000Z",
     "stars": 7,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-07T02:18:26.491Z",
+    "stars_checked_at": "2026-10-09T02:18:24.153Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-10-06T18:45:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-07T02:18:26.491Z",
-    "core_checked_at": "2026-10-07T02:18:26.491Z"
+    "checked_at": "2026-10-09T02:18:24.153Z",
+    "core_checked_at": "2026-10-09T02:18:24.153Z"
   },
   "signals": [
     {

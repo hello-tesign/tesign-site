@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-08T05:55:54.233Z",
+  "generated_at": "2026-10-09T02:29:59.633Z",
   "lang": "en",
   "slug": "inkstone",
   "url": "https://tesign.com/en/item/inkstone/",
@@ -100,10 +100,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-07T17:00:00.000Z",
-    "stars": 1070,
+    "as_of": "2026-10-08T22:00:00.000Z",
+    "stars": 1071,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-07T02:18:09.307Z",
+    "stars_checked_at": "2026-10-09T02:18:10.037Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -134,9 +134,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-04T14:37:12.000Z",
+    "pushed_at": "2026-10-07T08:28:50.000Z",
     "owner_type": "User",
-    "open_issues": 29,
+    "open_issues": 32,
     "contributors": 2,
     "releases_count": 7,
     "latest_release": {
@@ -144,8 +144,8 @@
       "published_at": "2026-09-14T07:50:53.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-07T02:18:09.307Z",
-    "core_checked_at": "2026-10-07T02:18:09.307Z"
+    "checked_at": "2026-10-09T02:18:10.037Z",
+    "core_checked_at": "2026-10-09T02:18:10.037Z"
   },
   "signals": [],
   "images": {

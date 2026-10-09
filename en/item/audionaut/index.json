@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-08T05:55:54.233Z",
+  "generated_at": "2026-10-09T02:29:59.633Z",
   "lang": "en",
   "slug": "audionaut",
   "url": "https://tesign.com/en/item/audionaut/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-07T17:00:00.000Z",
-    "stars": 233,
+    "as_of": "2026-10-08T22:00:00.000Z",
+    "stars": 242,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-08T02:15:02.979Z",
+    "stars_checked_at": "2026-10-09T02:15:03.057Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
@@ -103,8 +103,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null,
       null,
       null,
@@ -113,16 +113,16 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 152,
-    "hn_points_observed_at": "2026-10-07T11:51:12.080Z",
+    "hn_points": 153,
+    "hn_points_observed_at": "2026-10-08T09:00:56.253Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-06T15:28:37.000Z",
+    "pushed_at": "2026-10-08T14:47:41.000Z",
     "owner_type": "User",
-    "open_issues": 5,
+    "open_issues": 9,
     "contributors": 3,
     "releases_count": 9,
     "latest_release": {
@@ -130,8 +130,8 @@
       "published_at": "2026-10-01T20:55:47.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-08T02:15:02.979Z",
-    "core_checked_at": "2026-10-08T02:15:02.979Z"
+    "checked_at": "2026-10-09T02:15:03.057Z",
+    "core_checked_at": "2026-10-09T02:15:03.057Z"
   },
   "signals": [
     {
