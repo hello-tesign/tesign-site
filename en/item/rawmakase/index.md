@@ -5,12 +5,13 @@
 - Page: https://tesign.com/en/item/rawmakase/
 - JSON: https://tesign.com/en/item/rawmakase/index.json
 - Korean Markdown: https://tesign.com/item/rawmakase/index.md
-- Generated: 2026-10-09 02:29 UTC
+- Generated: 2026-10-11 02:30 UTC
 
 ## Numbers
 
-- 264 stars — checked on GitHub 2026-10-09 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-08 22:00 UTC)
+- 934 stars — checked on GitHub 2026-10-11 02:15 UTC
+- 7-day +5 observed via GH Archive (as of 2026-10-10 21:00 UTC)
+- 24h +2 ★ · 30d +5 ★ (as of 2026-10-10 21:00 UTC)
 - 9 Show HN points — observed 2026-10-06 19:35 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -24,21 +25,22 @@
 - CATEGORY: DESIGN
 - Tags: 사진 · raw · 편집기 · 오픈소스
 - How to start: Install to use
-- SOURCES: Show HN https://github.com/pch/rawmakase
+- SOURCES: Show HN https://github.com/pch/rawmakase · GitHub https://github.com/pch/rawmakase
 - INSTALL: https://rawmakase.com/
 
 ## ACTIVITY
 
-- Last commit: 2026-10-08 16:31 UTC
-- Latest release: v0.2.2 (2026-10-08)
-- Contributors: 7
-- Open issues (incl. PRs): 15
+- Last commit: 2026-10-10 21:30 UTC
+- Latest release: v0.2.4 (2026-10-09)
+- Contributors: 12
+- Open issues (incl. PRs): 27
 - Made by: an individual
-- Checked on GitHub: 2026-10-09 02:15 UTC
+- Checked on GitHub: 2026-10-11 02:15 UTC
 
 ## Signals and evidence
 
 - NEW · 1h OLD WHEN SEEN
+- CROSS-SIGNAL · Show HN + GitHub
 
 ## TESIGN TAKE
 

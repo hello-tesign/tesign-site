@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-09T02:29:59.633Z",
+  "generated_at": "2026-10-11T02:30:00.967Z",
   "lang": "en",
   "slug": "openhikmah-web",
   "url": "https://tesign.com/en/item/openhikmah-web/",
@@ -84,14 +84,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-08T22:00:00.000Z",
-    "stars": 181,
+    "as_of": "2026-10-10T21:00:00.000Z",
+    "stars": 180,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-09T02:15:06.344Z",
+    "stars_checked_at": "2026-10-11T02:15:07.241Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 5,
-    "star_delta_30d": 5,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -102,7 +102,7 @@
       null,
       null,
       null,
-      5,
+      null,
       null,
       null,
       null,
@@ -124,8 +124,8 @@
     "contributors": 10,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-09T02:15:06.344Z",
-    "core_checked_at": "2026-10-09T02:15:06.344Z"
+    "checked_at": "2026-10-11T02:15:07.241Z",
+    "core_checked_at": "2026-10-11T02:15:07.241Z"
   },
   "signals": [],
   "images": {

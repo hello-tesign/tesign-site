@@ -5,12 +5,13 @@
 - 페이지: https://tesign.com/item/rawmakase/
 - JSON: https://tesign.com/item/rawmakase/index.json
 - 영어 마크다운: https://tesign.com/en/item/rawmakase/index.md
-- 생성 시각: 2026-10-09 02:29 UTC
+- 생성 시각: 2026-10-11 02:30 UTC
 
 ## 숫자
 
-- 별 264 — GitHub에서 2026-10-09 02:15 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-08 22:00 UTC)
+- 별 934 — GitHub에서 2026-10-11 02:15 UTC 확인
+- 7일 +5은 GH Archive 관측 (기준 2026-10-10 21:00 UTC)
+- 24h +2 ★ · 30d +5 ★ (기준 2026-10-10 21:00 UTC)
 - Show HN 9점 — 2026-10-06 19:35 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
@@ -24,21 +25,22 @@
 - 분류: 디자인
 - 태그: 사진 · raw · 편집기 · 오픈소스
 - 바로 쓰기: 설치해서 쓰기
-- 출처: Show HN https://github.com/pch/rawmakase
+- 출처: Show HN https://github.com/pch/rawmakase · GitHub https://github.com/pch/rawmakase
 - INSTALL: https://rawmakase.com/
 
 ## 활동
 
-- 마지막 커밋: 2026-10-08 16:31 UTC
-- 최근 릴리스: v0.2.2 (2026-10-08)
-- 기여자: 7
-- 열린 이슈 (PR 포함): 15
+- 마지막 커밋: 2026-10-10 21:30 UTC
+- 최근 릴리스: v0.2.4 (2026-10-09)
+- 기여자: 12
+- 열린 이슈 (PR 포함): 27
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-10-09 02:15 UTC
+- GitHub 확인 시각: 2026-10-11 02:15 UTC
 
 ## 선정 신호와 근거
 
 - 신규 · 생성 1h 만에 포착
+- 교차 신호 · Show HN + GitHub
 
 ## TESIGN TAKE
 

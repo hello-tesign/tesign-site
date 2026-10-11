@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-09T02:29:59.633Z",
+  "generated_at": "2026-10-11T02:30:00.967Z",
   "lang": "en",
   "slug": "laranode",
   "url": "https://tesign.com/en/item/laranode/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-08T22:00:00.000Z",
-    "stars": 1485,
+    "as_of": "2026-10-10T21:00:00.000Z",
+    "stars": 1487,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-09T02:18:20.171Z",
+    "stars_checked_at": "2026-10-11T02:18:13.193Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -130,8 +130,8 @@
       "published_at": "2026-09-23T14:19:04.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-09T02:18:20.171Z",
-    "core_checked_at": "2026-10-09T02:18:20.171Z"
+    "checked_at": "2026-10-11T02:18:13.193Z",
+    "core_checked_at": "2026-10-11T02:18:13.193Z"
   },
   "signals": [],
   "images": {

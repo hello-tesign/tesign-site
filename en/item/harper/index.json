@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-09T02:29:59.633Z",
+  "generated_at": "2026-10-11T02:30:00.967Z",
   "lang": "en",
   "slug": "harper",
   "url": "https://tesign.com/en/item/harper/",
@@ -84,14 +84,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-08T22:00:00.000Z",
-    "stars": 16243,
+    "as_of": "2026-10-10T21:00:00.000Z",
+    "stars": 16276,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-09T02:16:06.161Z",
+    "stars_checked_at": "2026-10-11T02:16:04.011Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 6,
+    "star_delta_30d": 2,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -118,18 +118,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-09T00:17:53.000Z",
+    "pushed_at": "2026-10-11T00:04:19.000Z",
     "owner_type": "Organization",
-    "open_issues": 979,
-    "contributors": 150,
+    "open_issues": 983,
+    "contributors": 151,
     "releases_count": 116,
     "latest_release": {
       "tag": "v2.12.0",
       "published_at": "2026-10-01T20:43:58.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-09T02:16:06.161Z",
-    "core_checked_at": "2026-10-09T02:16:06.161Z"
+    "checked_at": "2026-10-11T02:16:04.011Z",
+    "core_checked_at": "2026-10-11T02:16:04.011Z"
   },
   "signals": [],
   "images": {

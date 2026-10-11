@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-09T02:29:59.633Z",
+  "generated_at": "2026-10-11T02:30:00.967Z",
   "lang": "ko",
   "slug": "halcyon-video",
   "url": "https://tesign.com/item/halcyon-video/",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-08T22:00:00.000Z",
-    "stars": 917,
+    "as_of": "2026-10-10T21:00:00.000Z",
+    "stars": 919,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-09T02:17:40.229Z",
+    "stars_checked_at": "2026-10-11T02:17:34.670Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -149,9 +149,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-07T12:12:38.000Z",
+    "pushed_at": "2026-10-11T01:33:00.000Z",
     "owner_type": "Organization",
-    "open_issues": 69,
+    "open_issues": 70,
     "contributors": 4,
     "releases_count": 57,
     "latest_release": {
@@ -159,8 +159,8 @@
       "published_at": "2026-10-07T02:54:21.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-09T02:17:40.229Z",
-    "core_checked_at": "2026-10-09T02:17:40.229Z"
+    "checked_at": "2026-10-11T02:17:34.670Z",
+    "core_checked_at": "2026-10-11T02:17:34.670Z"
   },
   "signals": [
     {

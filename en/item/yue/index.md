@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/yue/
 - JSON: https://tesign.com/en/item/yue/index.json
 - Korean Markdown: https://tesign.com/item/yue/index.md
-- Generated: 2026-10-09 02:29 UTC
+- Generated: 2026-10-11 02:30 UTC
 
 ## RANKS
 
-- MEDIA #15 (As of 2026-10-08 22:00 UTC)
+- MEDIA #15 (As of 2026-10-10 21:00 UTC)
 
 ## Numbers
 
-- 10,995 stars — checked on GitHub 2026-10-09 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-08 22:00 UTC)
+- 11,166 stars — checked on GitHub 2026-10-11 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-10 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -35,9 +35,9 @@
 - Last commit: 2026-10-06 07:30 UTC
 - Latest release: yue2-music-v1.2.0 (2026-09-25)
 - Contributors: 13
-- Open issues (incl. PRs): 38
+- Open issues (incl. PRs): 43
 - Made by: an organization
-- Checked on GitHub: 2026-10-09 02:16 UTC
+- Checked on GitHub: 2026-10-11 02:16 UTC
 
 ## TESIGN TAKE
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-09T02:29:59.633Z",
+  "generated_at": "2026-10-11T02:30:00.967Z",
   "lang": "en",
   "slug": "pdfcn",
   "url": "https://tesign.com/en/item/pdfcn/",
@@ -87,10 +87,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-08T22:00:00.000Z",
-    "stars": 2900,
+    "as_of": "2026-10-10T21:00:00.000Z",
+    "stars": 2905,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-09T02:17:02.530Z",
+    "stars_checked_at": "2026-10-11T02:16:58.290Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -121,14 +121,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-08T11:38:02.000Z",
+    "pushed_at": "2026-10-09T06:05:11.000Z",
     "owner_type": "Organization",
-    "open_issues": 43,
+    "open_issues": 47,
     "contributors": 12,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-09T02:17:02.530Z",
-    "core_checked_at": "2026-10-09T02:17:02.530Z"
+    "checked_at": "2026-10-11T02:16:58.290Z",
+    "core_checked_at": "2026-10-11T02:16:58.290Z"
   },
   "signals": [],
   "images": {

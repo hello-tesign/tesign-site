@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-09T02:29:59.633Z",
+  "generated_at": "2026-10-11T02:30:00.967Z",
   "lang": "en",
   "slug": "artbucket",
   "url": "https://tesign.com/en/item/artbucket/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-08T22:00:00.000Z",
-    "stars": 7,
+    "as_of": "2026-10-10T21:00:00.000Z",
+    "stars": 18,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-09T02:18:24.153Z",
+    "stars_checked_at": "2026-10-11T02:18:17.064Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -113,24 +113,24 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 1,
-    "hn_points_observed_at": "2026-10-07T20:16:02.872Z",
+    "hn_points_observed_at": "2026-10-10T11:16:31.144Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-06T19:39:18.000Z",
+    "pushed_at": "2026-10-11T00:43:35.000Z",
     "owner_type": "Organization",
-    "open_issues": 4,
-    "contributors": 6,
+    "open_issues": 5,
+    "contributors": 7,
     "releases_count": 31,
     "latest_release": {
       "tag": "v1.11.0",
       "published_at": "2026-10-06T18:45:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-09T02:18:24.153Z",
-    "core_checked_at": "2026-10-09T02:18:24.153Z"
+    "checked_at": "2026-10-11T02:18:17.064Z",
+    "core_checked_at": "2026-10-11T02:18:17.064Z"
   },
   "signals": [
     {

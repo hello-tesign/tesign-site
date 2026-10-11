@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/artbucket/
 - JSON: https://tesign.com/en/item/artbucket/index.json
 - Korean Markdown: https://tesign.com/item/artbucket/index.md
-- Generated: 2026-10-09 02:29 UTC
+- Generated: 2026-10-11 02:30 UTC
 
 ## Numbers
 
-- 7 stars — checked on GitHub 2026-10-09 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-08 22:00 UTC)
-- 1 Show HN points — observed 2026-10-07 20:16 UTC
+- 18 stars — checked on GitHub 2026-10-11 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-10 21:00 UTC)
+- 1 Show HN points — observed 2026-10-10 11:16 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-06 19:39 UTC
+- Last commit: 2026-10-11 00:43 UTC
 - Latest release: v1.11.0 (2026-10-06)
-- Contributors: 6
-- Open issues (incl. PRs): 4
+- Contributors: 7
+- Open issues (incl. PRs): 5
 - Made by: an organization
-- Checked on GitHub: 2026-10-09 02:18 UTC
+- Checked on GitHub: 2026-10-11 02:18 UTC
 
 ## Signals and evidence
 

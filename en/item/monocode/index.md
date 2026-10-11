@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/monocode/
 - JSON: https://tesign.com/en/item/monocode/index.json
 - Korean Markdown: https://tesign.com/item/monocode/index.md
-- Generated: 2026-10-09 02:29 UTC
+- Generated: 2026-10-11 02:30 UTC
 
 ## Numbers
 
-- 2,807 stars — checked on GitHub 2026-10-09 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-08 22:00 UTC)
+- 2,915 stars — checked on GitHub 2026-10-11 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-10 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-08 15:58 UTC
-- Latest release: v0.10.0 (2026-10-08)
-- Contributors: 66
-- Open issues (incl. PRs): 378
+- Last commit: 2026-10-10 20:48 UTC
+- Latest release: v0.12.0 (2026-10-10)
+- Contributors: 70
+- Open issues (incl. PRs): 404
 - Made by: an individual
-- Checked on GitHub: 2026-10-09 02:17 UTC
+- Checked on GitHub: 2026-10-11 02:17 UTC
 
 ## Signals and evidence
 
