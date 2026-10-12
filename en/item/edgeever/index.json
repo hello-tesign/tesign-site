@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "en",
   "slug": "edgeever",
   "url": "https://tesign.com/en/item/edgeever/",
@@ -89,10 +89,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "stars": 2182,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "stars": 2203,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:15:12.070Z",
+    "stars_checked_at": "2026-10-12T02:15:13.108Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -123,18 +123,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-11T02:10:32.000Z",
+    "pushed_at": "2026-10-11T16:12:14.000Z",
     "owner_type": "User",
-    "open_issues": 30,
+    "open_issues": 31,
     "contributors": 11,
-    "releases_count": 297,
+    "releases_count": 300,
     "latest_release": {
-      "tag": "v1.108.0",
-      "published_at": "2026-10-10T17:34:27.000Z",
+      "tag": "v1.111.0",
+      "published_at": "2026-10-11T15:58:44.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-11T02:15:12.070Z",
-    "core_checked_at": "2026-10-11T02:15:12.070Z"
+    "checked_at": "2026-10-12T02:15:13.108Z",
+    "core_checked_at": "2026-10-12T02:15:13.108Z"
   },
   "signals": [],
   "images": {

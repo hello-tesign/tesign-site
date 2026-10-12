@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "en",
   "slug": "jobsync",
   "url": "https://tesign.com/en/item/jobsync/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "stars": 1380,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "stars": 1389,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:16:05.982Z",
+    "stars_checked_at": "2026-10-12T02:16:07.362Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-10T12:33:36.000Z",
+    "pushed_at": "2026-10-11T06:07:48.000Z",
     "owner_type": "User",
-    "open_issues": 41,
+    "open_issues": 36,
     "contributors": 3,
-    "releases_count": 18,
+    "releases_count": 19,
     "latest_release": {
-      "tag": "v1.1.21",
-      "published_at": "2026-09-27T01:29:21.000Z",
+      "tag": "v1.1.22",
+      "published_at": "2026-10-11T06:05:49.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-11T02:16:05.982Z",
-    "core_checked_at": "2026-10-11T02:16:05.982Z"
+    "checked_at": "2026-10-12T02:16:07.362Z",
+    "core_checked_at": "2026-10-12T02:16:07.362Z"
   },
   "signals": [],
   "images": {

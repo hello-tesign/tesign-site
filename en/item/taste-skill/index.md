@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/taste-skill/
 - JSON: https://tesign.com/en/item/taste-skill/index.json
 - Korean Markdown: https://tesign.com/item/taste-skill/index.md
-- Generated: 2026-10-11 02:30 UTC
+- Generated: 2026-10-12 02:30 UTC
 
 ## RANKS
 
-- All-time #35 · DESIGN #2 (As of 2026-10-10 21:00 UTC)
+- All-time #35 · DESIGN #2 (As of 2026-10-11 21:00 UTC)
 
 ## Numbers
 
-- 94,434 stars — checked on GitHub 2026-10-11 02:16 UTC
-- 7-day +4 observed via GH Archive (as of 2026-10-10 21:00 UTC)
-- 24h +2 ★ · 30d +136 ★ (as of 2026-10-10 21:00 UTC)
+- 94,770 stars — checked on GitHub 2026-10-12 02:16 UTC
+- 7-day +7 observed via GH Archive (as of 2026-10-11 21:00 UTC)
+- 24h +5 ★ · 30d +70 ★ (as of 2026-10-11 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,12 +33,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-09 21:58 UTC
+- Last commit: 2026-10-11 23:06 UTC
 - Latest release: no releases
-- Contributors: 9
-- Open issues (incl. PRs): 79
+- Contributors: 19
+- Open issues (incl. PRs): 6
 - Made by: an individual
-- Checked on GitHub: 2026-10-11 02:16 UTC
+- Checked on GitHub: 2026-10-12 02:16 UTC
 
 ## TESIGN TAKE
 

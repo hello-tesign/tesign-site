@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "en",
   "slug": "acode",
   "url": "https://tesign.com/en/item/acode/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "stars": 7326,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "stars": 7330,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:15:47.334Z",
+    "stars_checked_at": "2026-10-12T02:15:48.466Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-10T17:02:01.000Z",
+    "pushed_at": "2026-10-11T07:25:15.000Z",
     "owner_type": "Organization",
     "open_issues": 97,
     "contributors": 130,
-    "releases_count": 296,
+    "releases_count": 297,
     "latest_release": {
-      "tag": "1.13.5-nightly.644df30",
-      "published_at": "2026-10-09T07:27:28.000Z",
+      "tag": "1.13.5-nightly.326cf0d",
+      "published_at": "2026-10-11T07:25:15.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-11T02:15:47.334Z",
-    "core_checked_at": "2026-10-11T02:15:47.334Z"
+    "checked_at": "2026-10-12T02:15:48.466Z",
+    "core_checked_at": "2026-10-12T02:15:48.466Z"
   },
   "signals": [],
   "images": {

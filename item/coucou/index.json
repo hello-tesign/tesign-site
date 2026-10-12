@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "ko",
   "slug": "coucou",
   "url": "https://tesign.com/item/coucou/",
@@ -86,17 +86,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "stars": 4705,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "stars": 4843,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:15:16.875Z",
+    "stars_checked_at": "2026-10-12T02:15:18.098Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": 2,
-    "star_delta_7d": 4,
-    "star_delta_30d": 4,
+    "star_delta_7d": 6,
+    "star_delta_30d": 6,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -109,6 +108,7 @@
       null,
       null,
       null,
+      2,
       2
     ],
     "hf_likes": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-10T23:26:51.000Z",
+    "pushed_at": "2026-10-11T23:12:48.000Z",
     "owner_type": "User",
-    "open_issues": 248,
-    "contributors": 30,
-    "releases_count": 21,
+    "open_issues": 293,
+    "contributors": 31,
+    "releases_count": 24,
     "latest_release": {
-      "tag": "v0.3.0",
-      "published_at": "2026-10-10T23:26:54.000Z",
+      "tag": "windows-v0.4.0",
+      "published_at": "2026-10-11T12:12:29.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-11T02:15:16.875Z",
-    "core_checked_at": "2026-10-11T02:15:16.875Z"
+    "checked_at": "2026-10-12T02:15:18.098Z",
+    "core_checked_at": "2026-10-12T02:15:18.098Z"
   },
   "signals": [
     {

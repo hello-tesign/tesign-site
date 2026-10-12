@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "en",
   "slug": "nightwatch",
   "url": "https://tesign.com/en/item/nightwatch/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
+    "as_of": "2026-10-11T21:00:00.000Z",
     "stars": 91,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:18:17.986Z",
+    "stars_checked_at": "2026-10-12T02:18:21.269Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -112,13 +112,13 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 89,
-    "hn_points_observed_at": "2026-10-10T11:16:31.115Z",
+    "hn_points_observed_at": "2026-10-11T07:51:39.434Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-10T12:55:55.000Z",
+    "pushed_at": "2026-10-11T09:37:05.000Z",
     "owner_type": "User",
     "open_issues": 11,
     "contributors": 2,
@@ -128,8 +128,8 @@
       "published_at": "2026-10-08T12:06:49.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-11T02:18:17.986Z",
-    "core_checked_at": "2026-10-11T02:18:17.986Z"
+    "checked_at": "2026-10-12T02:18:21.269Z",
+    "core_checked_at": "2026-10-12T02:18:21.269Z"
   },
   "signals": [
     {

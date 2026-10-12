@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "en",
   "slug": "vocawin",
   "url": "https://tesign.com/en/item/vocawin/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "stars": 81,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "stars": 82,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:16:02.727Z",
+    "stars_checked_at": "2026-10-12T02:16:04.044Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-10-04T10:32:12.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-11T02:16:02.727Z",
-    "core_checked_at": "2026-10-11T02:16:02.727Z"
+    "checked_at": "2026-10-12T02:16:04.044Z",
+    "core_checked_at": "2026-10-12T02:16:04.044Z"
   },
   "signals": [],
   "images": {

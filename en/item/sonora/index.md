@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/sonora/
 - JSON: https://tesign.com/en/item/sonora/index.json
 - Korean Markdown: https://tesign.com/item/sonora/index.md
-- Generated: 2026-10-11 02:30 UTC
+- Generated: 2026-10-12 02:30 UTC
 
 ## Numbers
 
-- 1,876 stars — checked on GitHub 2026-10-11 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-10 21:00 UTC)
+- 1,917 stars — checked on GitHub 2026-10-12 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-11 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-10 18:53 UTC
+- Last commit: 2026-10-11 13:38 UTC
 - Latest release: v0.42.2 (2026-10-07)
 - Contributors: 57
-- Open issues (incl. PRs): 131
+- Open issues (incl. PRs): 136
 - Made by: an organization
-- Checked on GitHub: 2026-10-11 02:17 UTC
+- Checked on GitHub: 2026-10-12 02:17 UTC
 
 ## Signals and evidence
 

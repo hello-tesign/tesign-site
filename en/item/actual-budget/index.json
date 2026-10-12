@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "en",
   "slug": "actual-budget",
   "url": "https://tesign.com/en/item/actual-budget/",
@@ -88,10 +88,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "stars": 29422,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "stars": 29447,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:15:56.845Z",
+    "stars_checked_at": "2026-10-12T02:15:57.995Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -121,7 +121,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-10T21:00:00.000Z",
+    "as_of": "2026-10-11T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -142,9 +142,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-10T22:23:08.000Z",
+    "pushed_at": "2026-10-11T21:57:47.000Z",
     "owner_type": "Organization",
-    "open_issues": 228,
+    "open_issues": 234,
     "contributors": 748,
     "releases_count": 63,
     "latest_release": {
@@ -152,8 +152,8 @@
       "published_at": "2026-10-02T15:32:36.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-11T02:15:56.845Z",
-    "core_checked_at": "2026-10-11T02:15:56.845Z"
+    "checked_at": "2026-10-12T02:15:57.995Z",
+    "core_checked_at": "2026-10-12T02:15:57.995Z"
   },
   "signals": [],
   "images": {

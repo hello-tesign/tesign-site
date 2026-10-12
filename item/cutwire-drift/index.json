@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "ko",
   "slug": "cutwire-drift",
   "url": "https://tesign.com/item/cutwire-drift/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "stars": 1751,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "stars": 1802,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:17:44.295Z",
+    "stars_checked_at": "2026-10-12T02:17:46.733Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
@@ -130,8 +130,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null,
       null,
       null
@@ -145,9 +145,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-10T19:33:09.000Z",
+    "pushed_at": "2026-10-11T17:57:42.000Z",
     "owner_type": "Organization",
-    "open_issues": 45,
+    "open_issues": 47,
     "contributors": 26,
     "releases_count": 13,
     "latest_release": {
@@ -155,8 +155,8 @@
       "published_at": "2026-10-05T10:53:22.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-11T02:17:44.295Z",
-    "core_checked_at": "2026-10-11T02:17:44.295Z"
+    "checked_at": "2026-10-12T02:17:46.733Z",
+    "core_checked_at": "2026-10-12T02:17:46.733Z"
   },
   "signals": [
     {

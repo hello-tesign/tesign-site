@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "en",
   "slug": "pokertools-arena",
   "url": "https://tesign.com/en/item/pokertools-arena/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
+    "as_of": "2026-10-11T21:00:00.000Z",
     "stars": 2,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:15:44.999Z",
+    "stars_checked_at": "2026-10-12T02:15:46.171Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-09-21T14:51:02.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-11T02:15:44.999Z",
-    "core_checked_at": "2026-10-11T02:15:44.999Z"
+    "checked_at": "2026-10-12T02:15:46.171Z",
+    "core_checked_at": "2026-10-12T02:15:46.171Z"
   },
   "signals": [
     {

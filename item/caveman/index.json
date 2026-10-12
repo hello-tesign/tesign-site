@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "ko",
   "slug": "caveman",
   "url": "https://tesign.com/item/caveman/",
@@ -107,14 +107,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "stars": 110936,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "stars": 111070,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:16:41.232Z",
+    "stars_checked_at": "2026-10-12T02:16:42.252Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 9,
-    "star_delta_30d": 153,
+    "star_delta_24h": null,
+    "star_delta_7d": 6,
+    "star_delta_30d": 69,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -124,13 +124,13 @@
       null,
       null,
       null,
-      3,
       null,
       null,
       2,
       null,
       2,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -140,8 +140,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "all_time": 28,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "all_time": 27,
     "rising": {
       "24h": null,
       "7d": null,
@@ -156,14 +156,14 @@
       {
         "category": "dev-tools",
         "label": "개발 도구",
-        "rank": 6
+        "rank": 5
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-10T16:01:18.000Z",
+    "pushed_at": "2026-10-11T20:41:27.000Z",
     "owner_type": "User",
-    "open_issues": 58,
+    "open_issues": 59,
     "contributors": 80,
     "releases_count": 47,
     "latest_release": {
@@ -171,8 +171,8 @@
       "published_at": "2026-10-08T05:42:14.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-11T02:16:41.232Z",
-    "core_checked_at": "2026-10-11T02:16:41.232Z"
+    "checked_at": "2026-10-12T02:16:42.252Z",
+    "core_checked_at": "2026-10-12T02:16:42.252Z"
   },
   "signals": [],
   "images": {

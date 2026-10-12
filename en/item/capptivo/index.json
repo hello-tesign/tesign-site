@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-11T02:30:00.967Z",
+  "generated_at": "2026-10-12T02:30:01.631Z",
   "lang": "en",
   "slug": "capptivo",
   "url": "https://tesign.com/en/item/capptivo/",
@@ -114,14 +114,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-10T21:00:00.000Z",
-    "stars": 1051,
+    "as_of": "2026-10-11T21:00:00.000Z",
+    "stars": 1052,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-11T02:17:22.177Z",
+    "stars_checked_at": "2026-10-12T02:17:24.433Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 2,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -148,7 +148,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-09-20T15:32:45.000Z",
+    "pushed_at": "2026-10-11T19:36:08.000Z",
     "owner_type": "Organization",
     "open_issues": 31,
     "contributors": 7,
@@ -158,8 +158,8 @@
       "published_at": "2026-08-05T05:24:49.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-11T02:17:22.177Z",
-    "core_checked_at": "2026-10-11T02:17:22.177Z"
+    "checked_at": "2026-10-12T02:17:24.433Z",
+    "core_checked_at": "2026-10-12T02:17:24.433Z"
   },
   "signals": [
     {

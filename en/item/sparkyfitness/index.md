@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/sparkyfitness/
 - JSON: https://tesign.com/en/item/sparkyfitness/index.json
 - Korean Markdown: https://tesign.com/item/sparkyfitness/index.md
-- Generated: 2026-10-11 02:30 UTC
+- Generated: 2026-10-12 02:30 UTC
 
 ## RANKS
 
-- DATA #19 (As of 2026-10-10 21:00 UTC)
+- DATA #19 (As of 2026-10-11 21:00 UTC)
 
 ## Numbers
 
-- 6,293 stars — checked on GitHub 2026-10-11 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-10 21:00 UTC)
+- 6,306 stars — checked on GitHub 2026-10-12 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-11 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,12 +31,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-10 18:34 UTC
+- Last commit: 2026-10-12 02:07 UTC
 - Latest release: v1.8.0 (2026-10-08)
-- Contributors: 150
-- Open issues (incl. PRs): 180
+- Contributors: 152
+- Open issues (incl. PRs): 176
 - Made by: an individual
-- Checked on GitHub: 2026-10-11 02:18 UTC
+- Checked on GitHub: 2026-10-12 02:18 UTC
 
 ## TESIGN TAKE
 
