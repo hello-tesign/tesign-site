@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-12T02:30:01.631Z",
+  "generated_at": "2026-10-13T02:30:01.932Z",
   "lang": "en",
   "slug": "vorssaint",
   "url": "https://tesign.com/en/item/vorssaint/",
@@ -108,14 +108,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "stars": 26266,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "stars": 26669,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-12T02:16:58.728Z",
+    "stars_checked_at": "2026-10-13T02:17:03.069Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 9,
-    "star_delta_30d": 56,
+    "star_delta_7d": 7,
+    "star_delta_30d": 7,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -125,12 +125,12 @@
       null,
       null,
       null,
-      2,
       null,
       null,
       null,
       5,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -141,7 +141,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-11T21:00:00.000Z",
+    "as_of": "2026-10-12T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -159,7 +159,7 @@
   "activity": {
     "pushed_at": "2026-10-11T17:19:47.000Z",
     "owner_type": "User",
-    "open_issues": 1000,
+    "open_issues": 1016,
     "contributors": 177,
     "releases_count": 90,
     "latest_release": {
@@ -167,8 +167,8 @@
       "published_at": "2026-10-08T23:45:35.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-12T02:16:58.728Z",
-    "core_checked_at": "2026-10-12T02:16:58.728Z"
+    "checked_at": "2026-10-13T02:17:03.069Z",
+    "core_checked_at": "2026-10-13T02:17:03.069Z"
   },
   "signals": [],
   "images": {

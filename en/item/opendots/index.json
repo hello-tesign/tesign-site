@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-12T02:30:01.631Z",
+  "generated_at": "2026-10-13T02:30:01.932Z",
   "lang": "en",
   "slug": "opendots",
   "url": "https://tesign.com/en/item/opendots/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "stars": 4923,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "stars": 5076,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-12T02:15:03.937Z",
+    "stars_checked_at": "2026-10-13T02:15:04.195Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 5,
@@ -102,9 +102,9 @@
       null,
       null,
       null,
-      null,
       3,
       2,
+      null,
       null,
       null,
       null
@@ -118,14 +118,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-11T15:28:16.000Z",
+    "pushed_at": "2026-10-12T02:20:19.000Z",
     "owner_type": "Organization",
-    "open_issues": 70,
+    "open_issues": 75,
     "contributors": 20,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-12T02:15:03.937Z",
-    "core_checked_at": "2026-10-12T02:15:03.937Z"
+    "checked_at": "2026-10-13T02:15:04.195Z",
+    "core_checked_at": "2026-10-13T02:15:04.195Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-12T02:30:01.631Z",
+  "generated_at": "2026-10-13T02:30:01.932Z",
   "lang": "en",
   "slug": "openmontage",
   "url": "https://tesign.com/en/item/openmontage/",
@@ -114,14 +114,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "stars": 67019,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "stars": 67581,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-12T02:16:49.888Z",
+    "stars_checked_at": "2026-10-13T02:16:53.753Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 31,
-    "star_delta_30d": 199,
+    "star_delta_24h": null,
+    "star_delta_7d": 22,
+    "star_delta_30d": 22,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -131,13 +131,13 @@
       null,
       null,
       null,
-      6,
-      10,
+      7,
       3,
       6,
       4,
       null,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -147,7 +147,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-11T21:00:00.000Z",
+    "as_of": "2026-10-12T21:00:00.000Z",
     "all_time": 82,
     "rising": {
       "24h": null,
@@ -163,14 +163,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-03T16:28:55.000Z",
+    "pushed_at": "2026-10-12T16:48:52.000Z",
     "owner_type": "User",
-    "open_issues": 394,
-    "contributors": 52,
+    "open_issues": 375,
+    "contributors": 69,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-12T02:16:49.888Z",
-    "core_checked_at": "2026-10-12T02:16:49.888Z"
+    "checked_at": "2026-10-13T02:16:53.753Z",
+    "core_checked_at": "2026-10-13T02:16:53.753Z"
   },
   "signals": [],
   "images": {

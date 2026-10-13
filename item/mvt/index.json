@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-12T02:30:01.631Z",
+  "generated_at": "2026-10-13T02:30:01.932Z",
   "lang": "ko",
   "slug": "mvt",
   "url": "https://tesign.com/item/mvt/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "stars": 15311,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "stars": 15333,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-12T02:15:35.252Z",
+    "stars_checked_at": "2026-10-13T02:15:37.516Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,7 +119,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-11T21:00:00.000Z",
+    "as_of": "2026-10-12T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -135,18 +135,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-11T12:40:41.000Z",
+    "pushed_at": "2026-10-12T09:13:54.000Z",
     "owner_type": "Organization",
-    "open_issues": 62,
+    "open_issues": 63,
     "contributors": 85,
-    "releases_count": 28,
+    "releases_count": 29,
     "latest_release": {
-      "tag": "v2026.10.5",
-      "published_at": "2026-10-05T09:09:13.000Z",
+      "tag": "v2026.10.12",
+      "published_at": "2026-10-12T09:13:55.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-12T02:15:35.252Z",
-    "core_checked_at": "2026-10-12T02:15:35.252Z"
+    "checked_at": "2026-10-13T02:15:37.516Z",
+    "core_checked_at": "2026-10-13T02:15:37.516Z"
   },
   "signals": [],
   "images": {

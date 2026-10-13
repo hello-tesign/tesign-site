@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-12T02:30:01.631Z",
+  "generated_at": "2026-10-13T02:30:01.932Z",
   "lang": "en",
   "slug": "diagram-design",
   "url": "https://tesign.com/en/item/diagram-design/",
@@ -113,17 +113,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "stars": 50487,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "stars": 52726,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-12T02:16:33.240Z",
+    "stars_checked_at": "2026-10-13T02:16:36.856Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": 15,
-    "star_delta_7d": 88,
-    "star_delta_30d": 184,
+    "star_delta_7d": 103,
+    "star_delta_30d": 103,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -136,7 +135,8 @@
       13,
       29,
       18,
-      13
+      16,
+      12
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -146,8 +146,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "all_time": 127,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "all_time": 125,
     "rising": {
       "24h": null,
       "7d": null,
@@ -162,14 +162,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-10T21:10:14.000Z",
+    "pushed_at": "2026-10-13T02:03:05.000Z",
     "owner_type": "User",
-    "open_issues": 87,
-    "contributors": 50,
+    "open_issues": 44,
+    "contributors": 51,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-12T02:16:33.240Z",
-    "core_checked_at": "2026-10-12T02:16:33.240Z"
+    "checked_at": "2026-10-13T02:16:36.856Z",
+    "core_checked_at": "2026-10-13T02:16:36.856Z"
   },
   "signals": [],
   "images": {

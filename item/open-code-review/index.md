@@ -5,16 +5,16 @@
 - 페이지: https://tesign.com/item/open-code-review/
 - JSON: https://tesign.com/item/open-code-review/index.json
 - 영어 마크다운: https://tesign.com/en/item/open-code-review/index.md
-- 생성 시각: 2026-10-12 02:30 UTC
+- 생성 시각: 2026-10-13 02:30 UTC
 
 ## 순위
 
-- 역대 143위 · 보안 분야 1위 (기준 2026-10-11 21:00 UTC)
+- 역대 140위 · 보안 분야 1위 (기준 2026-10-12 21:00 UTC)
 
 ## 숫자
 
-- 별 46,217 — GitHub에서 2026-10-12 02:16 UTC 확인
-- 7일 +13은 GH Archive 관측 (기준 2026-10-11 21:00 UTC)
+- 별 46,582 — GitHub에서 2026-10-13 02:16 UTC 확인
+- 7일 +11은 GH Archive 관측 (기준 2026-10-12 21:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -31,12 +31,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-10-10 08:37 UTC
+- 마지막 커밋: 2026-10-12 11:41 UTC
 - 최근 릴리스: v1.12.13 (2026-10-08)
-- 기여자: 196
-- 열린 이슈 (PR 포함): 301
+- 기여자: 198
+- 열린 이슈 (PR 포함): 307
 - 만든 이: 조직
-- GitHub 확인 시각: 2026-10-12 02:16 UTC
+- GitHub 확인 시각: 2026-10-13 02:16 UTC
 
 ## TESIGN TAKE
 

@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/carbon-erp/
 - JSON: https://tesign.com/en/item/carbon-erp/index.json
 - Korean Markdown: https://tesign.com/item/carbon-erp/index.md
-- Generated: 2026-10-12 02:30 UTC
+- Generated: 2026-10-13 02:30 UTC
 
 ## Numbers
 

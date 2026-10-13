@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-12T02:30:01.631Z",
+  "generated_at": "2026-10-13T02:30:01.932Z",
   "lang": "en",
   "slug": "voicestudio",
   "url": "https://tesign.com/en/item/voicestudio/",
@@ -118,14 +118,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "stars": 58859,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "stars": 60518,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-12T02:16:20.500Z",
+    "stars_checked_at": "2026-10-13T02:16:23.974Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 19,
-    "star_delta_7d": 62,
-    "star_delta_30d": 364,
+    "star_delta_24h": 13,
+    "star_delta_7d": 66,
+    "star_delta_30d": 66,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -135,13 +135,13 @@
       null,
       null,
       null,
-      7,
-      8,
+      6,
       2,
       9,
       9,
       11,
-      16
+      18,
+      11
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -151,12 +151,12 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "all_time": 111,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "all_time": 105,
     "rising": {
       "24h": null,
       "7d": null,
-      "30d": 2
+      "30d": null
     },
     "categories": [
       {
@@ -167,9 +167,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-12T01:16:22.000Z",
+    "pushed_at": "2026-10-12T22:57:51.000Z",
     "owner_type": "User",
-    "open_issues": 111,
+    "open_issues": 115,
     "contributors": 93,
     "releases_count": 42,
     "latest_release": {
@@ -177,8 +177,8 @@
       "published_at": "2026-09-23T08:53:32.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-12T02:16:20.500Z",
-    "core_checked_at": "2026-10-12T02:16:20.500Z"
+    "checked_at": "2026-10-13T02:16:23.974Z",
+    "core_checked_at": "2026-10-13T02:16:23.974Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-12T02:30:01.631Z",
+  "generated_at": "2026-10-13T02:30:01.932Z",
   "lang": "en",
   "slug": "dlss5-swapper",
   "url": "https://tesign.com/en/item/dlss5-swapper/",
@@ -100,14 +100,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "stars": 8335,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "stars": 8405,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-12T02:16:53.811Z",
+    "stars_checked_at": "2026-10-13T02:16:57.788Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 4,
-    "star_delta_30d": 57,
+    "star_delta_30d": 4,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -117,8 +117,8 @@
       null,
       null,
       null,
-      null,
       4,
+      null,
       null,
       null,
       null,
@@ -136,7 +136,7 @@
   "activity": {
     "pushed_at": "2026-09-29T11:45:14.000Z",
     "owner_type": "User",
-    "open_issues": 78,
+    "open_issues": 81,
     "contributors": 5,
     "releases_count": 15,
     "latest_release": {
@@ -144,8 +144,8 @@
       "published_at": "2026-09-29T11:45:15.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-12T02:16:53.811Z",
-    "core_checked_at": "2026-10-12T02:16:53.811Z"
+    "checked_at": "2026-10-13T02:16:57.788Z",
+    "core_checked_at": "2026-10-13T02:16:57.788Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-12T02:30:01.631Z",
+  "generated_at": "2026-10-13T02:30:01.932Z",
   "lang": "ko",
   "slug": "hypomux",
   "url": "https://tesign.com/item/hypomux/",
@@ -112,14 +112,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-11T21:00:00.000Z",
-    "stars": 3795,
+    "as_of": "2026-10-12T21:00:00.000Z",
+    "stars": 3805,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-12T02:17:43.773Z",
+    "stars_checked_at": "2026-10-13T02:17:49.034Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
-    "star_delta_30d": 2,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -146,9 +146,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-11T06:57:07.000Z",
+    "pushed_at": "2026-10-12T05:38:11.000Z",
     "owner_type": "User",
-    "open_issues": 15,
+    "open_issues": 16,
     "contributors": 8,
     "releases_count": 21,
     "latest_release": {
@@ -156,8 +156,8 @@
       "published_at": "2026-09-27T10:47:41.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-12T02:17:43.773Z",
-    "core_checked_at": "2026-10-12T02:17:43.773Z"
+    "checked_at": "2026-10-13T02:17:49.034Z",
+    "core_checked_at": "2026-10-13T02:17:49.034Z"
   },
   "signals": [
     {

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/jobsync/
 - JSON: https://tesign.com/en/item/jobsync/index.json
 - Korean Markdown: https://tesign.com/item/jobsync/index.md
-- Generated: 2026-10-12 02:30 UTC
+- Generated: 2026-10-13 02:30 UTC
 
 ## Numbers
 
-- 1,389 stars — checked on GitHub 2026-10-12 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-11 21:00 UTC)
+- 1,395 stars — checked on GitHub 2026-10-13 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-12 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-11 06:07 UTC
+- Last commit: 2026-10-12 23:00 UTC
 - Latest release: v1.1.22 (2026-10-11)
 - Contributors: 3
-- Open issues (incl. PRs): 36
+- Open issues (incl. PRs): 37
 - Made by: an individual
-- Checked on GitHub: 2026-10-12 02:16 UTC
+- Checked on GitHub: 2026-10-13 02:16 UTC
 
 ## TESIGN TAKE
 
