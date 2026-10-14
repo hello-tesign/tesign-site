@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-13T02:30:01.932Z",
+  "generated_at": "2026-10-14T02:30:00.281Z",
   "lang": "ko",
   "slug": "coucou",
   "url": "https://tesign.com/item/coucou/",
@@ -86,14 +86,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-12T21:00:00.000Z",
-    "stars": 4987,
+    "as_of": "2026-10-13T21:00:00.000Z",
+    "stars": 5128,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-13T02:15:19.639Z",
+    "stars_checked_at": "2026-10-14T02:15:19.094Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 6,
-    "star_delta_30d": 6,
+    "star_delta_7d": 4,
+    "star_delta_30d": 4,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -103,12 +103,12 @@
       null,
       null,
       null,
-      2,
       null,
       null,
       null,
       2,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-12T20:31:09.000Z",
+    "pushed_at": "2026-10-14T02:13:15.000Z",
     "owner_type": "User",
-    "open_issues": 312,
+    "open_issues": 326,
     "contributors": 31,
-    "releases_count": 24,
+    "releases_count": 25,
     "latest_release": {
-      "tag": "windows-v0.4.0",
-      "published_at": "2026-10-11T12:12:29.000Z",
+      "tag": "android-v0.2.0",
+      "published_at": "2026-10-13T17:01:58.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-13T02:15:19.639Z",
-    "core_checked_at": "2026-10-13T02:15:19.639Z"
+    "checked_at": "2026-10-14T02:15:19.094Z",
+    "core_checked_at": "2026-10-14T02:15:19.094Z"
   },
   "signals": [
     {

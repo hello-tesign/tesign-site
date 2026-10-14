@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/coucou/
 - JSON: https://tesign.com/en/item/coucou/index.json
 - Korean Markdown: https://tesign.com/item/coucou/index.md
-- Generated: 2026-10-13 02:30 UTC
+- Generated: 2026-10-14 02:30 UTC
 
 ## Numbers
 
-- 4,987 stars — checked on GitHub 2026-10-13 02:15 UTC
-- 7-day +6 observed via GH Archive (as of 2026-10-12 21:00 UTC)
+- 5,128 stars — checked on GitHub 2026-10-14 02:15 UTC
+- 7-day +4 observed via GH Archive (as of 2026-10-13 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-12 20:31 UTC
-- Latest release: windows-v0.4.0 (2026-10-11)
+- Last commit: 2026-10-14 02:13 UTC
+- Latest release: android-v0.2.0 (2026-10-13)
 - Contributors: 31
-- Open issues (incl. PRs): 312
+- Open issues (incl. PRs): 326
 - Made by: an individual
-- Checked on GitHub: 2026-10-13 02:15 UTC
+- Checked on GitHub: 2026-10-14 02:15 UTC
 
 ## Signals and evidence
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-13T02:30:01.932Z",
+  "generated_at": "2026-10-14T02:30:00.281Z",
   "lang": "en",
   "slug": "iloader",
   "url": "https://tesign.com/en/item/iloader/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-12T21:00:00.000Z",
-    "stars": 3883,
+    "as_of": "2026-10-13T21:00:00.000Z",
+    "stars": 3924,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-13T02:15:21.768Z",
+    "stars_checked_at": "2026-10-14T02:15:22.362Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-06T05:08:46.000Z",
+    "pushed_at": "2026-10-13T19:29:01.000Z",
     "owner_type": "User",
-    "open_issues": 369,
+    "open_issues": 401,
     "contributors": 47,
-    "releases_count": 45,
+    "releases_count": 46,
     "latest_release": {
-      "tag": "v2.3.6",
-      "published_at": "2026-10-06T04:55:07.000Z",
+      "tag": "v2.3.7",
+      "published_at": "2026-10-13T19:29:02.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-13T02:15:21.768Z",
-    "core_checked_at": "2026-10-13T02:15:21.768Z"
+    "checked_at": "2026-10-14T02:15:22.362Z",
+    "core_checked_at": "2026-10-14T02:15:22.362Z"
   },
   "signals": [],
   "images": {

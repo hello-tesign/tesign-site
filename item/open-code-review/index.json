@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-13T02:30:01.932Z",
+  "generated_at": "2026-10-14T02:30:00.281Z",
   "lang": "ko",
   "slug": "open-code-review",
   "url": "https://tesign.com/item/open-code-review/",
@@ -119,10 +119,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-12T21:00:00.000Z",
-    "stars": 46582,
+    "as_of": "2026-10-13T21:00:00.000Z",
+    "stars": 46930,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-13T02:16:31.998Z",
+    "stars_checked_at": "2026-10-14T02:16:45.560Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 11,
@@ -137,10 +137,10 @@
       null,
       null,
       null,
-      null,
       2,
       3,
       6,
+      null,
       null,
       null
     ],
@@ -152,7 +152,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-12T21:00:00.000Z",
+    "as_of": "2026-10-13T21:00:00.000Z",
     "all_time": 140,
     "rising": {
       "24h": null,
@@ -168,18 +168,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-12T11:41:07.000Z",
+    "pushed_at": "2026-10-13T13:47:09.000Z",
     "owner_type": "Organization",
-    "open_issues": 307,
-    "contributors": 198,
-    "releases_count": 137,
+    "open_issues": 308,
+    "contributors": 200,
+    "releases_count": 138,
     "latest_release": {
-      "tag": "v1.12.13",
-      "published_at": "2026-10-08T12:05:52.000Z",
+      "tag": "v1.13.0",
+      "published_at": "2026-10-13T10:09:09.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-13T02:16:31.998Z",
-    "core_checked_at": "2026-10-13T02:16:31.998Z"
+    "checked_at": "2026-10-14T02:16:45.560Z",
+    "core_checked_at": "2026-10-14T02:16:45.560Z"
   },
   "signals": [],
   "images": {

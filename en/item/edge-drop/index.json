@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-13T02:30:01.932Z",
+  "generated_at": "2026-10-14T02:30:00.281Z",
   "lang": "en",
   "slug": "edge-drop",
   "url": "https://tesign.com/en/item/edge-drop/",
@@ -130,10 +130,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-12T21:00:00.000Z",
+    "as_of": "2026-10-13T21:00:00.000Z",
     "stars": 634,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-13T02:15:03.212Z",
+    "stars_checked_at": "2026-10-14T02:15:01.623Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -174,8 +174,8 @@
       "published_at": "2026-09-26T10:34:05.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-13T02:15:03.212Z",
-    "core_checked_at": "2026-10-13T02:15:03.212Z"
+    "checked_at": "2026-10-14T02:15:01.623Z",
+    "core_checked_at": "2026-10-14T02:15:01.623Z"
   },
   "signals": [
     {

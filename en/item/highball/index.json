@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-13T02:30:01.932Z",
+  "generated_at": "2026-10-14T02:30:00.281Z",
   "lang": "en",
   "slug": "highball",
   "url": "https://tesign.com/en/item/highball/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-12T21:00:00.000Z",
-    "stars": 1553,
+    "as_of": "2026-10-13T21:00:00.000Z",
+    "stars": 1565,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-13T02:16:43.831Z",
+    "stars_checked_at": "2026-10-14T02:16:58.603Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -144,7 +144,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-12T21:00:00.000Z",
+    "as_of": "2026-10-13T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -160,18 +160,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-13T00:32:31.000Z",
+    "pushed_at": "2026-10-14T01:48:49.000Z",
     "owner_type": "User",
-    "open_issues": 61,
-    "contributors": 11,
+    "open_issues": 63,
+    "contributors": 12,
     "releases_count": 109,
     "latest_release": {
       "tag": "v0.10.15",
       "published_at": "2026-10-11T22:14:02.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-13T02:16:43.831Z",
-    "core_checked_at": "2026-10-13T02:16:43.831Z"
+    "checked_at": "2026-10-14T02:16:58.603Z",
+    "core_checked_at": "2026-10-14T02:16:58.603Z"
   },
   "signals": [
     {

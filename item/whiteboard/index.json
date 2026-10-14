@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-13T02:30:01.932Z",
+  "generated_at": "2026-10-14T02:30:00.281Z",
   "lang": "ko",
   "slug": "whiteboard",
   "url": "https://tesign.com/item/whiteboard/",
@@ -92,10 +92,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-12T21:00:00.000Z",
-    "stars": 3152,
+    "as_of": "2026-10-13T21:00:00.000Z",
+    "stars": 3168,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-13T02:15:32.607Z",
+    "stars_checked_at": "2026-10-14T02:15:34.665Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -126,18 +126,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-13T01:37:06.000Z",
+    "pushed_at": "2026-10-14T02:05:15.000Z",
     "owner_type": "Organization",
-    "open_issues": 44,
+    "open_issues": 43,
     "contributors": 17,
-    "releases_count": 24,
+    "releases_count": 25,
     "latest_release": {
-      "tag": "v0.2.4",
-      "published_at": "2026-10-09T06:46:01.000Z",
+      "tag": "diffr/0.1.20",
+      "published_at": "2026-10-13T18:53:24.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-13T02:15:32.607Z",
-    "core_checked_at": "2026-10-13T02:15:32.607Z"
+    "checked_at": "2026-10-14T02:15:34.665Z",
+    "core_checked_at": "2026-10-14T02:15:34.665Z"
   },
   "signals": [
     {

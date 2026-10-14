@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/cutwire-drift/
 - JSON: https://tesign.com/en/item/cutwire-drift/index.json
 - Korean Markdown: https://tesign.com/item/cutwire-drift/index.md
-- Generated: 2026-10-13 02:30 UTC
+- Generated: 2026-10-14 02:30 UTC
 
 ## Numbers
 
-- 1,850 stars — checked on GitHub 2026-10-13 02:17 UTC
-- 7-day +2 observed via GH Archive (as of 2026-10-12 21:00 UTC)
+- 1,880 stars — checked on GitHub 2026-10-14 02:18 UTC
+- 7-day +2 observed via GH Archive (as of 2026-10-13 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-12 18:29 UTC
-- Latest release: v0.7.5 (2026-10-05)
+- Last commit: 2026-10-13 23:51 UTC
+- Latest release: v0.8.0 (2026-10-13)
 - Contributors: 26
-- Open issues (incl. PRs): 39
+- Open issues (incl. PRs): 41
 - Made by: an organization
-- Checked on GitHub: 2026-10-13 02:17 UTC
+- Checked on GitHub: 2026-10-14 02:18 UTC
 
 ## Signals and evidence
 

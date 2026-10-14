@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-13T02:30:01.932Z",
+  "generated_at": "2026-10-14T02:30:00.281Z",
   "lang": "en",
   "slug": "roastbook",
   "url": "https://tesign.com/en/item/roastbook/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-12T21:00:00.000Z",
+    "as_of": "2026-10-13T21:00:00.000Z",
     "stars": 2,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-13T02:15:39.736Z",
+    "stars_checked_at": "2026-10-14T02:15:43.416Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,14 +119,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-10T11:18:10.000Z",
+    "pushed_at": "2026-10-13T18:39:24.000Z",
     "owner_type": "User",
-    "open_issues": 9,
+    "open_issues": 11,
     "contributors": 5,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-13T02:15:39.736Z",
-    "core_checked_at": "2026-10-13T02:15:39.736Z"
+    "checked_at": "2026-10-14T02:15:43.416Z",
+    "core_checked_at": "2026-10-14T02:15:43.416Z"
   },
   "signals": [
     {
