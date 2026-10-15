@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/openmontage/
 - JSON: https://tesign.com/en/item/openmontage/index.json
 - Korean Markdown: https://tesign.com/item/openmontage/index.md
-- Generated: 2026-10-14 02:30 UTC
+- Generated: 2026-10-15 02:30 UTC
 
 ## RANKS
 
-- All-time #81 · MEDIA #1 (As of 2026-10-13 21:00 UTC)
+- All-time #80 · MEDIA #1 (As of 2026-10-14 20:00 UTC)
 
 ## Numbers
 
-- 67,993 stars — checked on GitHub 2026-10-14 02:17 UTC
-- 7-day +14 observed via GH Archive (as of 2026-10-13 21:00 UTC)
-- 24h +2 ★ · 30d +14 ★ (as of 2026-10-13 21:00 UTC)
+- 68,295 stars — checked on GitHub 2026-10-15 02:17 UTC
+- 7-day +14 observed via GH Archive (as of 2026-10-14 20:00 UTC)
+- 24h +2 ★ · 30d +14 ★ (as of 2026-10-14 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -36,9 +36,9 @@
 - Last commit: 2026-10-12 16:48 UTC
 - Latest release: no releases
 - Contributors: 69
-- Open issues (incl. PRs): 389
+- Open issues (incl. PRs): 395
 - Made by: an individual
-- Checked on GitHub: 2026-10-14 02:17 UTC
+- Checked on GitHub: 2026-10-15 02:17 UTC
 
 ## TESIGN TAKE
 

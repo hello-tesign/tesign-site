@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-14T02:30:00.281Z",
+  "generated_at": "2026-10-15T02:30:02.742Z",
   "lang": "en",
   "slug": "assay",
   "url": "https://tesign.com/en/item/assay/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-13T21:00:00.000Z",
-    "stars": 104,
+    "as_of": "2026-10-14T20:00:00.000Z",
+    "stars": 105,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-14T02:15:28.946Z",
+    "stars_checked_at": "2026-10-15T02:15:36.763Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -128,8 +128,8 @@
       "published_at": "2026-10-11T15:45:06.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-14T02:15:28.946Z",
-    "core_checked_at": "2026-10-14T02:15:28.946Z"
+    "checked_at": "2026-10-15T02:15:36.763Z",
+    "core_checked_at": "2026-10-15T02:15:36.763Z"
   },
   "signals": [
     {

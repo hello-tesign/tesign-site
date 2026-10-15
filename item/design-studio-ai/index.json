@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-14T02:30:00.281Z",
+  "generated_at": "2026-10-15T02:30:02.742Z",
   "lang": "ko",
   "slug": "design-studio-ai",
   "url": "https://tesign.com/item/design-studio-ai/",
@@ -110,10 +110,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-13T21:00:00.000Z",
+    "as_of": "2026-10-14T20:00:00.000Z",
     "stars": 220,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-14T02:17:22.383Z",
+    "stars_checked_at": "2026-10-15T02:17:14.560Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -154,8 +154,8 @@
       "published_at": "2026-09-12T22:19:09.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-14T02:17:22.383Z",
-    "core_checked_at": "2026-10-14T02:17:22.383Z"
+    "checked_at": "2026-10-15T02:17:14.560Z",
+    "core_checked_at": "2026-10-15T02:17:14.560Z"
   },
   "signals": [],
   "images": {

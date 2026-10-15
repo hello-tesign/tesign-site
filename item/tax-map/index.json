@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-14T02:30:00.281Z",
+  "generated_at": "2026-10-15T02:30:02.742Z",
   "lang": "ko",
   "slug": "tax-map",
   "url": "https://tesign.com/item/tax-map/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-13T21:00:00.000Z",
+    "as_of": "2026-10-14T20:00:00.000Z",
     "stars": 1,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-14T02:18:51.025Z",
+    "stars_checked_at": "2026-10-15T02:18:44.491Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -124,8 +124,8 @@
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-14T02:18:51.025Z",
-    "core_checked_at": "2026-10-14T02:18:51.025Z"
+    "checked_at": "2026-10-15T02:18:44.491Z",
+    "core_checked_at": "2026-10-15T02:18:44.491Z"
   },
   "signals": [
     {

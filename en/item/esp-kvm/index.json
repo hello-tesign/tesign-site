@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-14T02:30:00.281Z",
+  "generated_at": "2026-10-15T02:30:02.742Z",
   "lang": "en",
   "slug": "esp-kvm",
   "url": "https://tesign.com/en/item/esp-kvm/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-13T21:00:00.000Z",
-    "stars": 511,
+    "as_of": "2026-10-14T20:00:00.000Z",
+    "stars": 520,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-14T02:18:21.158Z",
+    "stars_checked_at": "2026-10-15T02:18:14.249Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,18 +147,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-13T11:50:43.000Z",
+    "pushed_at": "2026-10-15T00:14:37.000Z",
     "owner_type": "Organization",
     "open_issues": 1,
     "contributors": 5,
-    "releases_count": 113,
+    "releases_count": 114,
     "latest_release": {
-      "tag": "v.0.64.0",
-      "published_at": "2026-10-12T19:58:30.000Z",
+      "tag": "v.0.65.0",
+      "published_at": "2026-10-15T00:22:38.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-14T02:18:21.158Z",
-    "core_checked_at": "2026-10-14T02:18:21.158Z"
+    "checked_at": "2026-10-15T02:18:14.249Z",
+    "core_checked_at": "2026-10-15T02:18:14.249Z"
   },
   "signals": [
     {

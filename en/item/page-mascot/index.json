@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-14T02:30:00.281Z",
+  "generated_at": "2026-10-15T02:30:02.742Z",
   "lang": "en",
   "slug": "page-mascot",
   "url": "https://tesign.com/en/item/page-mascot/",
@@ -105,14 +105,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-13T21:00:00.000Z",
-    "stars": 1132,
+    "as_of": "2026-10-14T20:00:00.000Z",
+    "stars": 1138,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-14T02:16:29.871Z",
+    "stars_checked_at": "2026-10-15T02:16:26.806Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 2,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -122,7 +122,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -145,8 +145,8 @@
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-14T02:16:29.871Z",
-    "core_checked_at": "2026-10-14T02:16:29.871Z"
+    "checked_at": "2026-10-15T02:16:26.806Z",
+    "core_checked_at": "2026-10-15T02:16:26.806Z"
   },
   "signals": [
     {

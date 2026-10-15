@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-14T02:30:00.281Z",
+  "generated_at": "2026-10-15T02:30:02.742Z",
   "lang": "ko",
   "slug": "taste-skill",
   "url": "https://tesign.com/item/taste-skill/",
@@ -100,17 +100,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-13T21:00:00.000Z",
-    "stars": 95642,
+    "as_of": "2026-10-14T20:00:00.000Z",
+    "stars": 96494,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-14T02:17:07.409Z",
+    "stars_checked_at": "2026-10-15T02:17:00.902Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 9,
-    "star_delta_30d": 9,
+    "star_delta_24h": 8,
+    "star_delta_7d": 17,
+    "star_delta_30d": 17,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -123,7 +122,8 @@
       2,
       5,
       null,
-      2
+      2,
+      8
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -133,8 +133,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-13T21:00:00.000Z",
-    "all_time": 35,
+    "as_of": "2026-10-14T20:00:00.000Z",
+    "all_time": 34,
     "rising": {
       "24h": null,
       "7d": null,
@@ -149,9 +149,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-13T21:50:35.000Z",
+    "pushed_at": "2026-10-14T15:00:56.000Z",
     "owner_type": "User",
-    "open_issues": 0,
+    "open_issues": 1,
     "contributors": 20,
     "releases_count": 1,
     "latest_release": {
@@ -159,8 +159,8 @@
       "published_at": "2026-10-13T21:05:17.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-14T02:17:07.409Z",
-    "core_checked_at": "2026-10-14T02:17:07.409Z"
+    "checked_at": "2026-10-15T02:17:00.902Z",
+    "core_checked_at": "2026-10-15T02:17:00.902Z"
   },
   "signals": [],
   "images": {

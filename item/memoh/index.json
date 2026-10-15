@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-14T02:30:00.281Z",
+  "generated_at": "2026-10-15T02:30:02.742Z",
   "lang": "ko",
   "slug": "memoh",
   "url": "https://tesign.com/item/memoh/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-13T21:00:00.000Z",
-    "stars": 2693,
+    "as_of": "2026-10-14T20:00:00.000Z",
+    "stars": 2696,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-14T02:16:14.873Z",
+    "stars_checked_at": "2026-10-15T02:16:14.657Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,9 +118,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-13T16:40:55.000Z",
+    "pushed_at": "2026-10-15T02:09:16.000Z",
     "owner_type": "Organization",
-    "open_issues": 75,
+    "open_issues": 79,
     "contributors": 60,
     "releases_count": 60,
     "latest_release": {
@@ -128,8 +128,8 @@
       "published_at": "2026-10-05T09:08:49.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-14T02:16:14.873Z",
-    "core_checked_at": "2026-10-14T02:16:14.873Z"
+    "checked_at": "2026-10-15T02:16:14.657Z",
+    "core_checked_at": "2026-10-15T02:16:14.657Z"
   },
   "signals": [],
   "images": {

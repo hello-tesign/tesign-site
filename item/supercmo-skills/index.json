@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-14T02:30:00.281Z",
+  "generated_at": "2026-10-15T02:30:02.742Z",
   "lang": "ko",
   "slug": "supercmo-skills",
   "url": "https://tesign.com/item/supercmo-skills/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-13T21:00:00.000Z",
+    "as_of": "2026-10-14T20:00:00.000Z",
     "stars": 78,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-14T02:18:46.710Z",
+    "stars_checked_at": "2026-10-15T02:18:40.455Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-08-28T13:28:52.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-14T02:18:46.710Z",
-    "core_checked_at": "2026-10-14T02:18:46.710Z"
+    "checked_at": "2026-10-15T02:18:40.455Z",
+    "core_checked_at": "2026-10-15T02:18:40.455Z"
   },
   "signals": [
     {

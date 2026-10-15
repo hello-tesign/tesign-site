@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-14T02:30:00.281Z",
+  "generated_at": "2026-10-15T02:30:02.742Z",
   "lang": "en",
   "slug": "reladraw",
   "url": "https://tesign.com/en/item/reladraw/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-13T21:00:00.000Z",
-    "stars": 1114,
+    "as_of": "2026-10-14T20:00:00.000Z",
+    "stars": 1118,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-14T02:15:25.643Z",
+    "stars_checked_at": "2026-10-15T02:15:33.659Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-10-03T15:40:45.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-14T02:15:25.643Z",
-    "core_checked_at": "2026-10-14T02:15:25.643Z"
+    "checked_at": "2026-10-15T02:15:33.659Z",
+    "core_checked_at": "2026-10-15T02:15:33.659Z"
   },
   "signals": [
     {
