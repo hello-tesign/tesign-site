@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "monica",
   "url": "https://tesign.com/en/item/monica/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 1114,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 1125,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:16:00.777Z",
+    "stars_checked_at": "2026-10-17T02:15:50.786Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,7 +118,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-14T20:00:00.000Z",
+    "as_of": "2026-10-16T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -134,18 +134,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-15T01:31:15.000Z",
+    "pushed_at": "2026-10-16T14:30:55.000Z",
     "owner_type": "Organization",
-    "open_issues": 15,
+    "open_issues": 12,
     "contributors": 15,
-    "releases_count": 87,
+    "releases_count": 88,
     "latest_release": {
-      "tag": "preview",
-      "published_at": "2026-04-17T04:49:31.000Z",
-      "prerelease": true
+      "tag": "V1.0.320",
+      "published_at": "2026-10-16T14:30:38.000Z",
+      "prerelease": false
     },
-    "checked_at": "2026-10-15T02:16:00.777Z",
-    "core_checked_at": "2026-10-15T02:16:00.777Z"
+    "checked_at": "2026-10-17T02:15:50.786Z",
+    "core_checked_at": "2026-10-17T02:15:50.786Z"
   },
   "signals": [],
   "images": {

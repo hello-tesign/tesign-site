@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "wechatbridge",
   "url": "https://tesign.com/en/item/wechatbridge/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 1451,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 1490,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:15:38.639Z",
+    "stars_checked_at": "2026-10-17T02:15:28.533Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 5,
@@ -102,9 +102,9 @@
       null,
       null,
       null,
-      null,
-      null,
       5,
+      null,
+      null,
       null,
       null,
       null,
@@ -119,18 +119,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-10T06:34:18.000Z",
+    "pushed_at": "2026-10-16T09:09:30.000Z",
     "owner_type": "User",
-    "open_issues": 13,
+    "open_issues": 14,
     "contributors": 8,
-    "releases_count": 4,
-    "latest_release": {
-      "tag": "v1.1.12-windows-test",
-      "published_at": "2026-10-10T06:34:18.000Z",
-      "prerelease": true
-    },
-    "checked_at": "2026-10-15T02:15:38.639Z",
-    "core_checked_at": "2026-10-15T02:15:38.639Z"
+    "releases_count": 0,
+    "latest_release": null,
+    "checked_at": "2026-10-17T02:15:28.533Z",
+    "core_checked_at": "2026-10-17T02:15:28.533Z"
   },
   "signals": [
     {

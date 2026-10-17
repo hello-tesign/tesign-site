@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "lets-seal",
   "url": "https://tesign.com/en/item/lets-seal/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 375,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 376,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:18:19.849Z",
+    "stars_checked_at": "2026-10-17T02:18:00.427Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -157,8 +157,8 @@
       "published_at": "2026-07-23T15:51:28.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:18:19.849Z",
-    "core_checked_at": "2026-10-15T02:18:19.849Z"
+    "checked_at": "2026-10-17T02:18:00.427Z",
+    "core_checked_at": "2026-10-17T02:18:00.427Z"
   },
   "signals": [
     {

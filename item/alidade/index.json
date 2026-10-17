@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "ko",
   "slug": "alidade",
   "url": "https://tesign.com/item/alidade/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
+    "as_of": "2026-10-16T21:00:00.000Z",
     "stars": 17,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:16:22.379Z",
+    "stars_checked_at": "2026-10-17T02:16:12.055Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -128,8 +128,8 @@
       "published_at": "2026-09-09T13:07:24.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:16:22.379Z",
-    "core_checked_at": "2026-10-15T02:16:22.379Z"
+    "checked_at": "2026-10-17T02:16:12.055Z",
+    "core_checked_at": "2026-10-17T02:16:12.055Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "ko",
   "slug": "colibri",
   "url": "https://tesign.com/item/colibri/",
@@ -125,10 +125,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 41944,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 42440,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:16:36.595Z",
+    "stars_checked_at": "2026-10-17T02:16:26.437Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
@@ -142,9 +142,9 @@
       null,
       null,
       null,
-      null,
-      null,
       2,
+      null,
+      null,
       null,
       null,
       null,
@@ -158,8 +158,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "all_time": 145,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "all_time": 141,
     "rising": {
       "24h": null,
       "7d": null,
@@ -169,14 +169,14 @@
       {
         "category": "infra",
         "label": "인프라",
-        "rank": 8
+        "rank": 7
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-14T23:18:26.000Z",
+    "pushed_at": "2026-10-17T01:59:32.000Z",
     "owner_type": "User",
-    "open_issues": 155,
+    "open_issues": 126,
     "contributors": 199,
     "releases_count": 20,
     "latest_release": {
@@ -184,8 +184,8 @@
       "published_at": "2026-10-06T20:24:40.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:16:36.595Z",
-    "core_checked_at": "2026-10-15T02:16:36.595Z"
+    "checked_at": "2026-10-17T02:16:26.437Z",
+    "core_checked_at": "2026-10-17T02:16:26.437Z"
   },
   "signals": [
     {

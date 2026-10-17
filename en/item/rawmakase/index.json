@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "rawmakase",
   "url": "https://tesign.com/en/item/rawmakase/",
@@ -92,14 +92,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 1181,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 1212,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:15:18.482Z",
+    "stars_checked_at": "2026-10-17T02:15:14.564Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 5,
-    "star_delta_30d": 5,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -110,7 +110,7 @@
       null,
       null,
       null,
-      5,
+      null,
       null,
       null,
       null,
@@ -126,18 +126,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-14T14:43:08.000Z",
+    "pushed_at": "2026-10-17T01:55:13.000Z",
     "owner_type": "User",
-    "open_issues": 33,
-    "contributors": 17,
-    "releases_count": 23,
+    "open_issues": 28,
+    "contributors": 18,
+    "releases_count": 25,
     "latest_release": {
-      "tag": "v0.3.1",
-      "published_at": "2026-10-14T14:39:22.000Z",
+      "tag": "v0.3.3",
+      "published_at": "2026-10-16T15:54:18.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:15:18.482Z",
-    "core_checked_at": "2026-10-15T02:15:18.482Z"
+    "checked_at": "2026-10-17T02:15:14.564Z",
+    "core_checked_at": "2026-10-17T02:15:14.564Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "ko",
   "slug": "chat-on-steroids",
   "url": "https://tesign.com/item/chat-on-steroids/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 4764,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 4980,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:16:43.900Z",
+    "stars_checked_at": "2026-10-17T02:16:33.525Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -145,18 +145,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-15T02:00:10.000Z",
+    "pushed_at": "2026-10-17T00:55:26.000Z",
     "owner_type": "User",
-    "open_issues": 20,
-    "contributors": 39,
-    "releases_count": 38,
+    "open_issues": 27,
+    "contributors": 40,
+    "releases_count": 41,
     "latest_release": {
-      "tag": "v2.1.37",
-      "published_at": "2026-10-14T13:52:14.000Z",
+      "tag": "v2.1.40",
+      "published_at": "2026-10-17T01:09:14.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:16:43.900Z",
-    "core_checked_at": "2026-10-15T02:16:43.900Z"
+    "checked_at": "2026-10-17T02:16:33.525Z",
+    "core_checked_at": "2026-10-17T02:16:33.525Z"
   },
   "signals": [],
   "images": {

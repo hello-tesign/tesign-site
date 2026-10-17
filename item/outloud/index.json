@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "ko",
   "slug": "outloud",
   "url": "https://tesign.com/item/outloud/",
@@ -94,10 +94,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
+    "as_of": "2026-10-16T21:00:00.000Z",
     "stars": 14,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:18:37.350Z",
+    "stars_checked_at": "2026-10-17T02:18:15.488Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -122,7 +122,7 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 3,
-    "hn_points_observed_at": "2026-10-15T01:48:36.235Z",
+    "hn_points_observed_at": "2026-10-16T08:54:38.098Z",
     "store": null,
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
@@ -138,8 +138,8 @@
       "published_at": "2026-10-06T02:48:03.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:18:37.350Z",
-    "core_checked_at": "2026-10-15T02:18:37.350Z"
+    "checked_at": "2026-10-17T02:18:15.488Z",
+    "core_checked_at": "2026-10-17T02:18:15.488Z"
   },
   "signals": [
     {

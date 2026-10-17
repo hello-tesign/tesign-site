@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/spotifast/
 - JSON: https://tesign.com/en/item/spotifast/index.json
 - Korean Markdown: https://tesign.com/item/spotifast/index.md
-- Generated: 2026-10-15 02:30 UTC
+- Generated: 2026-10-17 02:30 UTC
 
 ## RANKS
 
-- MEDIA #18 (As of 2026-10-14 20:00 UTC)
+- MEDIA #18 (As of 2026-10-16 21:00 UTC)
 
 ## Numbers
 
-- 8,127 stars — checked on GitHub 2026-10-15 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-14 20:00 UTC)
+- 8,346 stars — checked on GitHub 2026-10-17 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-16 21:00 UTC)
 - 1 Show HN points — observed 2026-09-13 14:04 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -33,12 +33,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-14 16:54 UTC
-- Latest release: v0.13.2 (2026-10-14)
+- Last commit: 2026-10-16 09:21 UTC
+- Latest release: v0.13.3 (2026-10-15)
 - Contributors: 93
-- Open issues (incl. PRs): 123
+- Open issues (incl. PRs): 152
 - Made by: an individual
-- Checked on GitHub: 2026-10-15 02:17 UTC
+- Checked on GitHub: 2026-10-17 02:17 UTC
 
 ## Signals and evidence
 

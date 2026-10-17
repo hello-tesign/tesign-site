@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "agent-memory",
   "url": "https://tesign.com/en/item/agent-memory/",
@@ -113,14 +113,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 3586,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 3932,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:16:49.951Z",
+    "stars_checked_at": "2026-10-17T02:16:39.629Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 6,
-    "star_delta_7d": 18,
-    "star_delta_30d": 18,
+    "star_delta_24h": 2,
+    "star_delta_7d": 8,
+    "star_delta_30d": 8,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -130,13 +130,13 @@
       null,
       null,
       null,
-      2,
-      10,
       null,
       null,
       null,
       null,
-      6
+      6,
+      null,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -147,14 +147,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-14T20:18:38.000Z",
+    "pushed_at": "2026-10-16T17:10:08.000Z",
     "owner_type": "Organization",
-    "open_issues": 56,
+    "open_issues": 55,
     "contributors": 10,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-15T02:16:49.951Z",
-    "core_checked_at": "2026-10-15T02:16:49.951Z"
+    "checked_at": "2026-10-17T02:16:39.629Z",
+    "core_checked_at": "2026-10-17T02:16:39.629Z"
   },
   "signals": [],
   "images": {

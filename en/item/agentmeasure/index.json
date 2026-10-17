@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "agentmeasure",
   "url": "https://tesign.com/en/item/agentmeasure/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
+    "as_of": "2026-10-16T21:00:00.000Z",
     "stars": 218,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:15:53.013Z",
+    "stars_checked_at": "2026-10-17T02:15:42.460Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-14T22:02:13.000Z",
+    "pushed_at": "2026-10-16T00:50:47.000Z",
     "owner_type": "User",
-    "open_issues": 10,
+    "open_issues": 11,
     "contributors": 18,
-    "releases_count": 12,
+    "releases_count": 14,
     "latest_release": {
-      "tag": "v0.7.1",
-      "published_at": "2026-10-14T22:02:23.000Z",
+      "tag": "v0.8.0",
+      "published_at": "2026-10-15T15:36:16.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:15:53.013Z",
-    "core_checked_at": "2026-10-15T02:15:53.013Z"
+    "checked_at": "2026-10-17T02:15:42.460Z",
+    "core_checked_at": "2026-10-17T02:15:42.460Z"
   },
   "signals": [
     {

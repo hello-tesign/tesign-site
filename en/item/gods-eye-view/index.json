@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "gods-eye-view",
   "url": "https://tesign.com/en/item/gods-eye-view/",
@@ -118,14 +118,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 56495,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 57266,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:16:31.779Z",
+    "stars_checked_at": "2026-10-17T02:16:21.531Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 5,
-    "star_delta_7d": 56,
-    "star_delta_30d": 56,
+    "star_delta_24h": null,
+    "star_delta_7d": 54,
+    "star_delta_30d": 54,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -135,13 +135,13 @@
       null,
       null,
       null,
-      null,
-      4,
       7,
       4,
       25,
       11,
-      5
+      5,
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -151,8 +151,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "all_time": 114,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "all_time": 113,
     "rising": {
       "24h": null,
       "7d": null,
@@ -172,18 +172,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-15T02:10:56.000Z",
+    "pushed_at": "2026-10-17T00:16:53.000Z",
     "owner_type": "User",
-    "open_issues": 388,
-    "contributors": 48,
+    "open_issues": 350,
+    "contributors": 73,
     "releases_count": 4,
     "latest_release": {
       "tag": "v0.2.1",
       "published_at": "2026-10-03T05:36:23.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:16:31.779Z",
-    "core_checked_at": "2026-10-15T02:16:31.779Z"
+    "checked_at": "2026-10-17T02:16:21.531Z",
+    "core_checked_at": "2026-10-17T02:16:21.531Z"
   },
   "signals": [],
   "images": {

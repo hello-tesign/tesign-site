@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/artemis/
 - JSON: https://tesign.com/en/item/artemis/index.json
 - Korean Markdown: https://tesign.com/item/artemis/index.md
-- Generated: 2026-10-15 02:30 UTC
+- Generated: 2026-10-17 02:30 UTC
 
 ## Numbers
 
-- 11,709 stars — checked on GitHub 2026-10-15 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-14 20:00 UTC)
+- 12,048 stars — checked on GitHub 2026-10-17 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-16 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,9 +31,9 @@
 - Last commit: 2026-10-01 21:37 UTC
 - Latest release: no releases
 - Contributors: 8
-- Open issues (incl. PRs): 135
+- Open issues (incl. PRs): 139
 - Made by: an organization
-- Checked on GitHub: 2026-10-15 02:16 UTC
+- Checked on GitHub: 2026-10-17 02:16 UTC
 
 ## TESIGN TAKE
 

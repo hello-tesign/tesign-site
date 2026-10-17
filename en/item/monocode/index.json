@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "monocode",
   "url": "https://tesign.com/en/item/monocode/",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 3059,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 3091,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:17:59.497Z",
+    "stars_checked_at": "2026-10-17T02:17:42.673Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -149,9 +149,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-15T01:28:15.000Z",
+    "pushed_at": "2026-10-16T13:27:38.000Z",
     "owner_type": "User",
-    "open_issues": 436,
+    "open_issues": 462,
     "contributors": 79,
     "releases_count": 72,
     "latest_release": {
@@ -159,8 +159,8 @@
       "published_at": "2026-10-12T13:50:30.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:17:59.497Z",
-    "core_checked_at": "2026-10-15T02:17:59.497Z"
+    "checked_at": "2026-10-17T02:17:42.673Z",
+    "core_checked_at": "2026-10-17T02:17:42.673Z"
   },
   "signals": [
     {

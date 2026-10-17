@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "openmontage",
   "url": "https://tesign.com/en/item/openmontage/",
@@ -114,14 +114,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 68295,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 68921,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:17:02.858Z",
+    "stars_checked_at": "2026-10-17T02:16:51.961Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 14,
-    "star_delta_30d": 14,
+    "star_delta_24h": null,
+    "star_delta_7d": 8,
+    "star_delta_30d": 8,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -131,13 +131,13 @@
       null,
       null,
       null,
-      4,
-      4,
       null,
       2,
       null,
       2,
-      2
+      2,
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -147,8 +147,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "all_time": 80,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "all_time": 81,
     "rising": {
       "24h": null,
       "7d": null,
@@ -158,19 +158,19 @@
       {
         "category": "media",
         "label": "MEDIA",
-        "rank": 1
+        "rank": 2
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-12T16:48:52.000Z",
+    "pushed_at": "2026-10-16T15:07:33.000Z",
     "owner_type": "User",
-    "open_issues": 395,
+    "open_issues": 399,
     "contributors": 69,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-15T02:17:02.858Z",
-    "core_checked_at": "2026-10-15T02:17:02.858Z"
+    "checked_at": "2026-10-17T02:16:51.961Z",
+    "core_checked_at": "2026-10-17T02:16:51.961Z"
   },
   "signals": [],
   "images": {

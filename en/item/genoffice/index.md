@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/genoffice/
 - JSON: https://tesign.com/en/item/genoffice/index.json
 - Korean Markdown: https://tesign.com/item/genoffice/index.md
-- Generated: 2026-10-15 02:30 UTC
+- Generated: 2026-10-17 02:30 UTC
 
 ## Numbers
 
-- 9,695 stars — checked on GitHub 2026-10-15 02:17 UTC
-- 7-day +2 observed via GH Archive (as of 2026-10-14 20:00 UTC)
+- 9,854 stars — checked on GitHub 2026-10-17 02:17 UTC
+- 7-day +4 observed via GH Archive (as of 2026-10-16 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-14 08:41 UTC
-- Latest release: v0.11.727 (2026-10-13)
-- Contributors: 44
-- Open issues (incl. PRs): 56
+- Last commit: 2026-10-16 07:22 UTC
+- Latest release: v0.11.829 (2026-10-15)
+- Contributors: 46
+- Open issues (incl. PRs): 77
 - Made by: an organization
-- Checked on GitHub: 2026-10-15 02:17 UTC
+- Checked on GitHub: 2026-10-17 02:17 UTC
 
 ## Signals and evidence
 

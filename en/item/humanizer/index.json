@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-15T02:30:02.742Z",
+  "generated_at": "2026-10-17T02:30:01.228Z",
   "lang": "en",
   "slug": "humanizer",
   "url": "https://tesign.com/en/item/humanizer/",
@@ -109,10 +109,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "stars": 56986,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "stars": 57592,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-15T02:16:55.924Z",
+    "stars_checked_at": "2026-10-17T02:16:45.350Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": 2,
     "star_delta_7d": 12,
@@ -126,10 +126,10 @@
       null,
       null,
       null,
+      4,
+      4,
       null,
       2,
-      4,
-      4,
       null,
       2,
       null
@@ -142,8 +142,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-14T20:00:00.000Z",
-    "all_time": 113,
+    "as_of": "2026-10-16T21:00:00.000Z",
+    "all_time": 112,
     "rising": {
       "24h": null,
       "7d": null,
@@ -158,18 +158,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-09-28T05:55:12.000Z",
+    "pushed_at": "2026-10-16T19:12:03.000Z",
     "owner_type": "User",
-    "open_issues": 4,
-    "contributors": 22,
+    "open_issues": 5,
+    "contributors": 23,
     "releases_count": 6,
     "latest_release": {
       "tag": "v3.1.0",
       "published_at": "2026-09-28T05:55:12.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-15T02:16:55.924Z",
-    "core_checked_at": "2026-10-15T02:16:55.924Z"
+    "checked_at": "2026-10-17T02:16:45.350Z",
+    "core_checked_at": "2026-10-17T02:16:45.350Z"
   },
   "signals": [],
   "images": {
