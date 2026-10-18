@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-17T02:30:01.228Z",
+  "generated_at": "2026-10-18T02:30:02.076Z",
   "lang": "ko",
   "slug": "terminal-browser",
   "url": "https://tesign.com/item/terminal-browser/",
@@ -121,10 +121,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-16T21:00:00.000Z",
-    "stars": 3904,
+    "as_of": "2026-10-17T21:00:00.000Z",
+    "stars": 3916,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-17T02:17:32.568Z",
+    "stars_checked_at": "2026-10-18T02:17:31.142Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -155,9 +155,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-16T23:02:29.000Z",
+    "pushed_at": "2026-10-17T13:34:38.000Z",
     "owner_type": "Organization",
-    "open_issues": 101,
+    "open_issues": 100,
     "contributors": 6,
     "releases_count": 47,
     "latest_release": {
@@ -165,8 +165,8 @@
       "published_at": "2026-10-02T00:09:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-17T02:17:32.568Z",
-    "core_checked_at": "2026-10-17T02:17:32.568Z"
+    "checked_at": "2026-10-18T02:17:31.142Z",
+    "core_checked_at": "2026-10-18T02:17:31.142Z"
   },
   "signals": [
     {

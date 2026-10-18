@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/mangodisk/
 - JSON: https://tesign.com/en/item/mangodisk/index.json
 - Korean Markdown: https://tesign.com/item/mangodisk/index.md
-- Generated: 2026-10-17 02:30 UTC
+- Generated: 2026-10-18 02:30 UTC
 
 ## Numbers
 
-- 4,179 stars — checked on GitHub 2026-10-17 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-16 21:00 UTC)
+- 4,211 stars — checked on GitHub 2026-10-18 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-17 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-16 16:29 UTC
+- Last commit: 2026-10-17 09:07 UTC
 - Latest release: v1.1.9 (2026-10-16)
 - Contributors: 8
 - Open issues (incl. PRs): 7
 - Made by: an individual
-- Checked on GitHub: 2026-10-17 02:17 UTC
+- Checked on GitHub: 2026-10-18 02:17 UTC
 
 ## Signals and evidence
 

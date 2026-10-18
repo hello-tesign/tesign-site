@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/mygo/
 - JSON: https://tesign.com/en/item/mygo/index.json
 - Korean Markdown: https://tesign.com/item/mygo/index.md
-- Generated: 2026-10-17 02:30 UTC
+- Generated: 2026-10-18 02:30 UTC
 
 ## Numbers
 
-- 2,193 stars — checked on GitHub 2026-10-17 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-16 21:00 UTC)
+- 2,247 stars — checked on GitHub 2026-10-18 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-17 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-16 21:20 UTC
+- Last commit: 2026-10-17 21:40 UTC
 - Latest release: v0.5.5 (2026-10-16)
 - Contributors: 28
-- Open issues (incl. PRs): 69
+- Open issues (incl. PRs): 87
 - Made by: an individual
-- Checked on GitHub: 2026-10-17 02:18 UTC
+- Checked on GitHub: 2026-10-18 02:18 UTC
 
 ## TESIGN TAKE
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-17T02:30:01.228Z",
+  "generated_at": "2026-10-18T02:30:02.076Z",
   "lang": "en",
   "slug": "solar-wanderer",
   "url": "https://tesign.com/en/item/solar-wanderer/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-16T21:00:00.000Z",
-    "stars": 753,
+    "as_of": "2026-10-17T21:00:00.000Z",
+    "stars": 754,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-17T02:17:11.850Z",
+    "stars_checked_at": "2026-10-18T02:17:10.252Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,7 +147,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-01T02:19:35.000Z",
+    "pushed_at": "2026-10-18T00:12:28.000Z",
     "owner_type": "User",
     "open_issues": 1,
     "contributors": 4,
@@ -157,8 +157,8 @@
       "published_at": "2026-06-21T12:10:15.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-17T02:17:11.850Z",
-    "core_checked_at": "2026-10-17T02:17:11.850Z"
+    "checked_at": "2026-10-18T02:17:10.252Z",
+    "core_checked_at": "2026-10-18T02:17:10.252Z"
   },
   "signals": [
     {

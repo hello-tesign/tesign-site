@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/spec-kit/
 - JSON: https://tesign.com/en/item/spec-kit/index.json
 - Korean Markdown: https://tesign.com/item/spec-kit/index.md
-- Generated: 2026-10-17 02:30 UTC
+- Generated: 2026-10-18 02:30 UTC
 
 ## RANKS
 
-- All-time #15 · AI #13 · DEV TOOLS #3 (As of 2026-10-16 21:00 UTC)
+- All-time #15 · AI #13 · DEV TOOLS #3 (As of 2026-10-17 21:00 UTC)
 
 ## Numbers
 
-- 141,573 stars — checked on GitHub 2026-10-17 02:16 UTC
-- 7-day +2 observed via GH Archive (as of 2026-10-16 21:00 UTC)
+- 141,683 stars — checked on GitHub 2026-10-18 02:16 UTC
+- 7-day +2 observed via GH Archive (as of 2026-10-17 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -35,9 +35,9 @@
 - Last commit: 2026-10-16 22:43 UTC
 - Latest release: v1.2.1 (2026-10-16)
 - Contributors: 321
-- Open issues (incl. PRs): 172
+- Open issues (incl. PRs): 187
 - Made by: an organization
-- Checked on GitHub: 2026-10-17 02:16 UTC
+- Checked on GitHub: 2026-10-18 02:16 UTC
 
 ## TESIGN TAKE
 

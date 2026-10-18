@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/hermes-agent/
 - JSON: https://tesign.com/en/item/hermes-agent/index.json
 - Korean Markdown: https://tesign.com/item/hermes-agent/index.md
-- Generated: 2026-10-17 02:30 UTC
+- Generated: 2026-10-18 02:30 UTC
 
 ## RANKS
 
-- All-time #1 · AI #1 · PRODUCTIVITY #1 (As of 2026-10-16 21:00 UTC)
+- All-time #1 · AI #1 · PRODUCTIVITY #1 (As of 2026-10-17 21:00 UTC)
 
 ## Numbers
 
-- 254,447 stars — checked on GitHub 2026-10-17 02:16 UTC
-- 7-day +4 observed via GH Archive (as of 2026-10-16 21:00 UTC)
+- 254,710 stars — checked on GitHub 2026-10-18 02:16 UTC
+- 7-day +2 observed via GH Archive (as of 2026-10-17 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,12 +31,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-17 01:03 UTC
+- Last commit: 2026-10-18 02:15 UTC
 - Latest release: v0.22.2 (2026-10-15)
-- Contributors: 4,564
-- Open issues (incl. PRs): 49,664
+- Contributors: 4,595
+- Open issues (incl. PRs): 49,802
 - Made by: an organization
-- Checked on GitHub: 2026-10-17 02:16 UTC
+- Checked on GitHub: 2026-10-18 02:16 UTC
 
 ## TESIGN TAKE
 
