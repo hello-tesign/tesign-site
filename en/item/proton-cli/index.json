@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-18T02:30:02.076Z",
+  "generated_at": "2026-10-19T02:29:59.516Z",
   "lang": "en",
   "slug": "proton-cli",
   "url": "https://tesign.com/en/item/proton-cli/",
@@ -119,10 +119,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-17T21:00:00.000Z",
-    "stars": 97,
+    "as_of": "2026-10-18T19:00:00.000Z",
+    "stars": 98,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-18T02:17:05.026Z",
+    "stars_checked_at": "2026-10-19T02:17:06.428Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -153,7 +153,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-17T02:47:38.000Z",
+    "pushed_at": "2026-10-18T02:49:31.000Z",
     "owner_type": "User",
     "open_issues": 0,
     "contributors": 1,
@@ -163,8 +163,8 @@
       "published_at": "2026-10-15T22:00:48.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-18T02:17:05.026Z",
-    "core_checked_at": "2026-10-18T02:17:05.026Z"
+    "checked_at": "2026-10-19T02:17:06.428Z",
+    "core_checked_at": "2026-10-19T02:17:06.428Z"
   },
   "signals": [
     {

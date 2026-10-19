@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-18T02:30:02.076Z",
+  "generated_at": "2026-10-19T02:29:59.516Z",
   "lang": "ko",
   "slug": "nightwatch",
   "url": "https://tesign.com/item/nightwatch/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-17T21:00:00.000Z",
+    "as_of": "2026-10-18T19:00:00.000Z",
     "stars": 92,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-18T02:18:23.164Z",
+    "stars_checked_at": "2026-10-19T02:18:22.363Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,7 +118,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-16T11:41:53.000Z",
+    "pushed_at": "2026-10-18T20:05:05.000Z",
     "owner_type": "User",
     "open_issues": 11,
     "contributors": 2,
@@ -128,8 +128,8 @@
       "published_at": "2026-10-08T12:06:49.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-18T02:18:23.164Z",
-    "core_checked_at": "2026-10-18T02:18:23.164Z"
+    "checked_at": "2026-10-19T02:18:22.363Z",
+    "core_checked_at": "2026-10-19T02:18:22.363Z"
   },
   "signals": [
     {

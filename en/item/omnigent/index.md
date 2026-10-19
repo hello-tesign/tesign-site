@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/omnigent/
 - JSON: https://tesign.com/en/item/omnigent/index.json
 - Korean Markdown: https://tesign.com/item/omnigent/index.md
-- Generated: 2026-10-18 02:30 UTC
+- Generated: 2026-10-19 02:29 UTC
 
 ## Numbers
 
-- 10,864 stars — checked on GitHub 2026-10-18 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-17 21:00 UTC)
+- 10,880 stars — checked on GitHub 2026-10-19 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-18 19:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-18 02:06 UTC
+- Last commit: 2026-10-19 02:12 UTC
 - Latest release: v0.18.0 (2026-10-13)
 - Contributors: 280
-- Open issues (incl. PRs): 2,286
+- Open issues (incl. PRs): 2,275
 - Made by: an organization
-- Checked on GitHub: 2026-10-18 02:17 UTC
+- Checked on GitHub: 2026-10-19 02:17 UTC
 
 ## Signals and evidence
 

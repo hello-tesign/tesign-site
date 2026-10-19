@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/assay/
 - JSON: https://tesign.com/en/item/assay/index.json
 - Korean Markdown: https://tesign.com/item/assay/index.md
-- Generated: 2026-10-18 02:30 UTC
+- Generated: 2026-10-19 02:29 UTC
 
 ## Numbers
 
-- 107 stars — checked on GitHub 2026-10-18 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-17 21:00 UTC)
+- 107 stars — checked on GitHub 2026-10-19 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-18 19:00 UTC)
 - 1 Show HN points — observed 2026-10-05 03:58 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -19,7 +19,7 @@
 - LICENSE: MIT (permissive) — https://spdx.org/licenses/MIT.html
 - USAGE: Use, change and redistribute, commercially too. Keep the notice.
 - OPEN SOURCE: YES
-- LANGUAGE: HTML
+- LANGUAGE: Python
 - PLATFORM: cli
 - CATEGORY: DEV TOOLS
 - Tags: 웹 점검 · 테스트 · cli · 오픈소스
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-17 01:33 UTC
+- Last commit: 2026-10-19 00:01 UTC
 - Latest release: v0.3.1 (2026-10-17)
 - Contributors: 1
 - Open issues (incl. PRs): 0
 - Made by: an individual
-- Checked on GitHub: 2026-10-18 02:15 UTC
+- Checked on GitHub: 2026-10-19 02:15 UTC
 
 ## Signals and evidence
 

@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/whiteboard/
 - JSON: https://tesign.com/en/item/whiteboard/index.json
 - Korean Markdown: https://tesign.com/item/whiteboard/index.md
-- Generated: 2026-10-18 02:30 UTC
+- Generated: 2026-10-19 02:29 UTC
 
 ## Numbers
 
-- 3,236 stars — checked on GitHub 2026-10-18 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-17 21:00 UTC)
+- 3,250 stars — checked on GitHub 2026-10-19 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-18 19:00 UTC)
 - 423 Show HN points — observed 2026-10-01 03:03 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-17 00:21 UTC
-- Latest release: v0.3.2 (2026-10-16)
+- Last commit: 2026-10-19 01:58 UTC
+- Latest release: v0.3.3 (2026-10-18)
 - Contributors: 17
-- Open issues (incl. PRs): 39
+- Open issues (incl. PRs): 48
 - Made by: an organization
-- Checked on GitHub: 2026-10-18 02:15 UTC
+- Checked on GitHub: 2026-10-19 02:15 UTC
 
 ## Signals and evidence
 

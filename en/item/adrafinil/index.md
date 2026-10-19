@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/adrafinil/
 - JSON: https://tesign.com/en/item/adrafinil/index.json
 - Korean Markdown: https://tesign.com/item/adrafinil/index.md
-- Generated: 2026-10-18 02:30 UTC
+- Generated: 2026-10-19 02:29 UTC
 
 ## Numbers
 
-- 515 stars — checked on GitHub 2026-10-18 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-17 21:00 UTC)
+- 516 stars — checked on GitHub 2026-10-19 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-18 19:00 UTC)
 - 124 Show HN points — observed 2026-09-13 15:42 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-17 18:42 UTC
-- Latest release: v1.13.0 (2026-10-17)
+- Last commit: 2026-10-18 06:58 UTC
+- Latest release: v1.13.1 (2026-10-18)
 - Contributors: 8
 - Open issues (incl. PRs): 0
 - Made by: an individual
-- Checked on GitHub: 2026-10-18 02:17 UTC
+- Checked on GitHub: 2026-10-19 02:17 UTC
 
 ## Signals and evidence
 

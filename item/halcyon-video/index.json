@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-18T02:30:02.076Z",
+  "generated_at": "2026-10-19T02:29:59.516Z",
   "lang": "ko",
   "slug": "halcyon-video",
   "url": "https://tesign.com/item/halcyon-video/",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-17T21:00:00.000Z",
-    "stars": 930,
+    "as_of": "2026-10-18T19:00:00.000Z",
+    "stars": 932,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-18T02:17:36.231Z",
+    "stars_checked_at": "2026-10-19T02:17:38.333Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -159,8 +159,8 @@
       "published_at": "2026-10-17T05:06:30.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-18T02:17:36.231Z",
-    "core_checked_at": "2026-10-18T02:17:36.231Z"
+    "checked_at": "2026-10-19T02:17:38.333Z",
+    "core_checked_at": "2026-10-19T02:17:38.333Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-18T02:30:02.076Z",
+  "generated_at": "2026-10-19T02:29:59.516Z",
   "lang": "ko",
   "slug": "mygo",
   "url": "https://tesign.com/item/mygo/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-17T21:00:00.000Z",
-    "stars": 2247,
+    "as_of": "2026-10-18T19:00:00.000Z",
+    "stars": 2305,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-18T02:18:17.401Z",
+    "stars_checked_at": "2026-10-19T02:18:20.197Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-17T21:40:03.000Z",
+    "pushed_at": "2026-10-19T02:09:36.000Z",
     "owner_type": "User",
-    "open_issues": 87,
-    "contributors": 28,
+    "open_issues": 80,
+    "contributors": 32,
     "releases_count": 66,
     "latest_release": {
       "tag": "v0.5.5",
       "published_at": "2026-10-16T00:26:32.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-18T02:18:17.401Z",
-    "core_checked_at": "2026-10-18T02:18:17.401Z"
+    "checked_at": "2026-10-19T02:18:20.197Z",
+    "core_checked_at": "2026-10-19T02:18:20.197Z"
   },
   "signals": [],
   "images": {
