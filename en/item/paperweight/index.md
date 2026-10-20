@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/paperweight/
 - JSON: https://tesign.com/en/item/paperweight/index.json
 - Korean Markdown: https://tesign.com/item/paperweight/index.md
-- Generated: 2026-10-19 02:29 UTC
+- Generated: 2026-10-20 02:30 UTC
 
 ## Numbers
 
-- 525 stars — checked on GitHub 2026-10-19 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-18 19:00 UTC)
+- 529 stars — checked on GitHub 2026-10-20 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-19 22:00 UTC)
 - 3 Show HN points — observed 2026-10-06 18:34 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-18 18:27 UTC
+- Last commit: 2026-10-19 08:07 UTC
 - Latest release: v1.0.0 (2026-09-30)
 - Contributors: 6
 - Open issues (incl. PRs): 4
 - Made by: an individual
-- Checked on GitHub: 2026-10-19 02:15 UTC
+- Checked on GitHub: 2026-10-20 02:15 UTC
 
 ## Signals and evidence
 

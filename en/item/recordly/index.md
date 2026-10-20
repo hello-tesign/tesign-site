@@ -5,17 +5,16 @@
 - Page: https://tesign.com/en/item/recordly/
 - JSON: https://tesign.com/en/item/recordly/index.json
 - Korean Markdown: https://tesign.com/item/recordly/index.md
-- Generated: 2026-10-19 02:29 UTC
+- Generated: 2026-10-20 02:30 UTC
 
 ## RANKS
 
-- All-time #205 · PRODUCTIVITY #15 · MEDIA #7 (As of 2026-10-18 19:00 UTC)
+- All-time #205 · PRODUCTIVITY #15 · MEDIA #7 (As of 2026-10-19 22:00 UTC)
 
 ## Numbers
 
-- 34,382 stars — checked on GitHub 2026-10-19 02:16 UTC
-- 7-day +4 observed via GH Archive (as of 2026-10-18 19:00 UTC)
-- 24h +2 ★ · 30d +4 ★ (as of 2026-10-18 19:00 UTC)
+- 34,519 stars — checked on GitHub 2026-10-20 02:16 UTC
+- 7-day +4 observed via GH Archive (as of 2026-10-19 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -35,9 +34,9 @@
 - Last commit: 2026-10-17 07:32 UTC
 - Latest release: v1.4.0 (2026-09-08)
 - Contributors: 86
-- Open issues (incl. PRs): 489
+- Open issues (incl. PRs): 492
 - Made by: an organization
-- Checked on GitHub: 2026-10-19 02:16 UTC
+- Checked on GitHub: 2026-10-20 02:16 UTC
 
 ## TESIGN TAKE
 

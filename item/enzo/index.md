@@ -5,12 +5,12 @@
 - 페이지: https://tesign.com/item/enzo/
 - JSON: https://tesign.com/item/enzo/index.json
 - 영어 마크다운: https://tesign.com/en/item/enzo/index.md
-- 생성 시각: 2026-10-19 02:29 UTC
+- 생성 시각: 2026-10-20 02:30 UTC
 
 ## 숫자
 
-- 별 114 — GitHub에서 2026-10-19 02:15 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-18 19:00 UTC)
+- 별 114 — GitHub에서 2026-10-20 02:15 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-19 22:00 UTC)
 - Show HN 16점 — 2026-09-26 11:16 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
@@ -29,12 +29,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-10-19 00:42 UTC
+- 마지막 커밋: 2026-10-20 01:27 UTC
 - 최근 릴리스: v1.6.0 (2026-10-14)
 - 기여자: 4
 - 열린 이슈 (PR 포함): 4
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-10-19 02:15 UTC
+- GitHub 확인 시각: 2026-10-20 02:15 UTC
 
 ## 선정 신호와 근거
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-19T02:29:59.516Z",
+  "generated_at": "2026-10-20T02:30:02.738Z",
   "lang": "en",
   "slug": "artemis",
   "url": "https://tesign.com/en/item/artemis/",
@@ -113,14 +113,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-18T19:00:00.000Z",
-    "stars": 12477,
+    "as_of": "2026-10-19T22:00:00.000Z",
+    "stars": 13005,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-19T02:16:24.107Z",
+    "stars_checked_at": "2026-10-20T02:16:26.204Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 2,
-    "star_delta_30d": 2,
+    "star_delta_24h": 4,
+    "star_delta_7d": 6,
+    "star_delta_30d": 6,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -135,8 +135,8 @@
       null,
       null,
       null,
-      null,
-      2
+      2,
+      4
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -149,12 +149,12 @@
   "activity": {
     "pushed_at": "2026-10-01T21:37:15.000Z",
     "owner_type": "Organization",
-    "open_issues": 139,
+    "open_issues": 140,
     "contributors": 8,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-19T02:16:24.107Z",
-    "core_checked_at": "2026-10-19T02:16:24.107Z"
+    "checked_at": "2026-10-20T02:16:26.204Z",
+    "core_checked_at": "2026-10-20T02:16:26.204Z"
   },
   "signals": [],
   "images": {
