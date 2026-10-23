@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-20T02:30:02.738Z",
+  "generated_at": "2026-10-23T02:29:59.731Z",
   "lang": "ko",
   "slug": "bento",
   "url": "https://tesign.com/item/bento/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-19T22:00:00.000Z",
-    "stars": 5522,
+    "as_of": "2026-10-21T19:00:00.000Z",
+    "stars": 5540,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-20T02:17:47.106Z",
+    "stars_checked_at": "2026-10-23T02:17:47.502Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,9 +148,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-20T02:15:07.000Z",
+    "pushed_at": "2026-10-21T22:49:50.000Z",
     "owner_type": "User",
-    "open_issues": 37,
+    "open_issues": 22,
     "contributors": 20,
     "releases_count": 25,
     "latest_release": {
@@ -158,8 +158,8 @@
       "published_at": "2026-10-17T07:34:09.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-20T02:17:47.106Z",
-    "core_checked_at": "2026-10-20T02:17:47.106Z"
+    "checked_at": "2026-10-23T02:17:47.502Z",
+    "core_checked_at": "2026-10-23T02:17:47.502Z"
   },
   "signals": [
     {

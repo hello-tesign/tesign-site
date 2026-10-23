@@ -5,12 +5,13 @@
 - 페이지: https://tesign.com/item/txcript/
 - JSON: https://tesign.com/item/txcript/index.json
 - 영어 마크다운: https://tesign.com/en/item/txcript/index.md
-- 생성 시각: 2026-10-20 02:30 UTC
+- 생성 시각: 2026-10-23 02:29 UTC
 
 ## 숫자
 
-- 별 182 — GitHub에서 2026-10-20 02:18 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-19 22:00 UTC)
+- 별 200 — GitHub에서 2026-10-23 02:18 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-21 19:00 UTC)
+- Show HN 4점 — 2026-10-21 18:56 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -23,7 +24,7 @@
 - 분류: 개발 도구 · AI
 - 태그: ai 코딩 · 대화 이전 · 명령줄 · 오픈소스
 - 바로 쓰기: 설치해서 쓰기
-- 출처: GitHub https://github.com/skillsynchq/txcript
+- 출처: GitHub https://github.com/skillsynchq/txcript · Show HN https://skillsync.com
 - INSTALL: https://skillsync.com/
 
 ## 활동
@@ -33,7 +34,11 @@
 - 기여자: 8
 - 열린 이슈 (PR 포함): 36
 - 만든 이: 조직
-- GitHub 확인 시각: 2026-10-20 02:18 UTC
+- GitHub 확인 시각: 2026-10-23 02:18 UTC
+
+## 선정 신호와 근거
+
+- 교차 신호 · GitHub + Show HN
 
 ## TESIGN TAKE
 

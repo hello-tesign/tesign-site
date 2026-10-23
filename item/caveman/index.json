@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-20T02:30:02.738Z",
+  "generated_at": "2026-10-23T02:29:59.731Z",
   "lang": "ko",
   "slug": "caveman",
   "url": "https://tesign.com/item/caveman/",
@@ -107,14 +107,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-19T22:00:00.000Z",
-    "stars": 113684,
+    "as_of": "2026-10-21T19:00:00.000Z",
+    "stars": 114427,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-20T02:16:45.271Z",
+    "stars_checked_at": "2026-10-23T02:16:45.122Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 8,
-    "star_delta_30d": 8,
+    "star_delta_7d": 2,
+    "star_delta_30d": 2,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -127,7 +127,7 @@
       null,
       2,
       null,
-      6,
+      null,
       null,
       null,
       null
@@ -140,8 +140,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-19T22:00:00.000Z",
-    "all_time": 27,
+    "as_of": "2026-10-21T19:00:00.000Z",
+    "all_time": 26,
     "rising": {
       "24h": null,
       "7d": null,
@@ -161,9 +161,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-19T08:07:31.000Z",
+    "pushed_at": "2026-10-22T07:48:57.000Z",
     "owner_type": "User",
-    "open_issues": 65,
+    "open_issues": 87,
     "contributors": 94,
     "releases_count": 51,
     "latest_release": {
@@ -171,8 +171,8 @@
       "published_at": "2026-10-13T18:34:04.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-20T02:16:45.271Z",
-    "core_checked_at": "2026-10-20T02:16:45.271Z"
+    "checked_at": "2026-10-23T02:16:45.122Z",
+    "core_checked_at": "2026-10-23T02:16:45.122Z"
   },
   "signals": [],
   "images": {

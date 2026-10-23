@@ -5,12 +5,16 @@
 - Page: https://tesign.com/en/item/roborock-local-server/
 - JSON: https://tesign.com/en/item/roborock-local-server/index.json
 - Korean Markdown: https://tesign.com/item/roborock-local-server/index.md
-- Generated: 2026-10-20 02:30 UTC
+- Generated: 2026-10-23 02:29 UTC
+
+## RANKS
+
+- HARDWARE #5 (As of 2026-10-21 19:00 UTC)
 
 ## Numbers
 
-- 953 stars — checked on GitHub 2026-10-20 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-19 22:00 UTC)
+- 1,028 stars — checked on GitHub 2026-10-23 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-21 19:00 UTC)
 - 2 Show HN points — observed 2026-10-05 03:58 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +33,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-12 23:57 UTC
+- Last commit: 2026-10-22 11:38 UTC
 - Latest release: v1.2.1 (2026-10-08)
 - Contributors: 24
-- Open issues (incl. PRs): 58
+- Open issues (incl. PRs): 62
 - Made by: an organization
-- Checked on GitHub: 2026-10-20 02:15 UTC
+- Checked on GitHub: 2026-10-23 02:15 UTC
 
 ## Signals and evidence
 

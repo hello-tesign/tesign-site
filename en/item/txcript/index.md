@@ -5,12 +5,13 @@
 - Page: https://tesign.com/en/item/txcript/
 - JSON: https://tesign.com/en/item/txcript/index.json
 - Korean Markdown: https://tesign.com/item/txcript/index.md
-- Generated: 2026-10-20 02:30 UTC
+- Generated: 2026-10-23 02:29 UTC
 
 ## Numbers
 
-- 182 stars — checked on GitHub 2026-10-20 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-19 22:00 UTC)
+- 200 stars — checked on GitHub 2026-10-23 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-21 19:00 UTC)
+- 4 Show HN points — observed 2026-10-21 18:56 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -23,7 +24,7 @@
 - CATEGORY: DEV TOOLS · AI
 - Tags: ai 코딩 · 대화 이전 · 명령줄 · 오픈소스
 - How to start: Install to use
-- SOURCES: GitHub https://github.com/skillsynchq/txcript
+- SOURCES: GitHub https://github.com/skillsynchq/txcript · Show HN https://skillsync.com
 - INSTALL: https://skillsync.com/
 
 ## ACTIVITY
@@ -33,7 +34,11 @@
 - Contributors: 8
 - Open issues (incl. PRs): 36
 - Made by: an organization
-- Checked on GitHub: 2026-10-20 02:18 UTC
+- Checked on GitHub: 2026-10-23 02:18 UTC
+
+## Signals and evidence
+
+- CROSS-SIGNAL · GitHub + Show HN
 
 ## TESIGN TAKE
 

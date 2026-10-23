@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-20T02:30:02.738Z",
+  "generated_at": "2026-10-23T02:29:59.731Z",
   "lang": "en",
   "slug": "blurt",
   "url": "https://tesign.com/en/item/blurt/",
@@ -91,10 +91,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-19T22:00:00.000Z",
-    "stars": 64,
+    "as_of": "2026-10-21T19:00:00.000Z",
+    "stars": 65,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-20T02:15:55.072Z",
+    "stars_checked_at": "2026-10-23T02:15:52.743Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,24 +119,24 @@
     "hf_likes": null,
     "hf_likes_observed_at": null,
     "hn_points": 1,
-    "hn_points_observed_at": "2026-10-19T21:44:08.999Z",
+    "hn_points_observed_at": "2026-10-21T21:59:16.970Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-16T18:06:00.000Z",
+    "pushed_at": "2026-10-23T01:49:57.000Z",
     "owner_type": "Organization",
-    "open_issues": 4,
-    "contributors": 11,
+    "open_issues": 5,
+    "contributors": 13,
     "releases_count": 38,
     "latest_release": {
       "tag": "v0.1.64",
       "published_at": "2026-10-14T23:10:27.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-20T02:15:55.072Z",
-    "core_checked_at": "2026-10-20T02:15:55.072Z"
+    "checked_at": "2026-10-23T02:15:52.743Z",
+    "core_checked_at": "2026-10-23T02:15:52.743Z"
   },
   "signals": [
     {

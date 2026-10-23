@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-20T02:30:02.738Z",
+  "generated_at": "2026-10-23T02:29:59.731Z",
   "lang": "ko",
   "slug": "pi-desktop",
   "url": "https://tesign.com/item/pi-desktop/",
@@ -105,10 +105,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-19T22:00:00.000Z",
-    "stars": 7032,
+    "as_of": "2026-10-21T19:00:00.000Z",
+    "stars": 7152,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-20T02:16:47.348Z",
+    "stars_checked_at": "2026-10-23T02:16:47.133Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -139,18 +139,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-20T02:09:17.000Z",
+    "pushed_at": "2026-10-23T02:05:32.000Z",
     "owner_type": "User",
-    "open_issues": 212,
-    "contributors": 106,
-    "releases_count": 99,
+    "open_issues": 215,
+    "contributors": 115,
+    "releases_count": 100,
     "latest_release": {
-      "tag": "v0.21.0-beta.4",
-      "published_at": "2026-10-18T15:51:27.000Z",
+      "tag": "v0.21.0-beta.6",
+      "published_at": "2026-10-22T04:50:53.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-20T02:16:47.348Z",
-    "core_checked_at": "2026-10-20T02:16:47.348Z"
+    "checked_at": "2026-10-23T02:16:47.133Z",
+    "core_checked_at": "2026-10-23T02:16:47.133Z"
   },
   "signals": [],
   "images": {

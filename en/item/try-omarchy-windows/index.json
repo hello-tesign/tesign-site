@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-20T02:30:02.738Z",
+  "generated_at": "2026-10-23T02:29:59.731Z",
   "lang": "en",
   "slug": "try-omarchy-windows",
   "url": "https://tesign.com/en/item/try-omarchy-windows/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-19T22:00:00.000Z",
-    "stars": 650,
+    "as_of": "2026-10-21T19:00:00.000Z",
+    "stars": 667,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-20T02:15:45.279Z",
+    "stars_checked_at": "2026-10-23T02:15:43.142Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-19T13:05:55.000Z",
+    "pushed_at": "2026-10-22T21:08:43.000Z",
     "owner_type": "Organization",
-    "open_issues": 5,
-    "contributors": 12,
-    "releases_count": 40,
+    "open_issues": 2,
+    "contributors": 14,
+    "releases_count": 42,
     "latest_release": {
-      "tag": "v0.12.0",
-      "published_at": "2026-10-14T04:23:32.000Z",
+      "tag": "runtime-v1-r25",
+      "published_at": "2026-10-22T21:08:05.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-20T02:15:45.279Z",
-    "core_checked_at": "2026-10-20T02:15:45.279Z"
+    "checked_at": "2026-10-23T02:15:43.142Z",
+    "core_checked_at": "2026-10-23T02:15:43.142Z"
   },
   "signals": [
     {

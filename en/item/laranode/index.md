@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/laranode/
 - JSON: https://tesign.com/en/item/laranode/index.json
 - Korean Markdown: https://tesign.com/item/laranode/index.md
-- Generated: 2026-10-20 02:30 UTC
+- Generated: 2026-10-23 02:29 UTC
 
 ## Numbers
 
-- 1,508 stars — checked on GitHub 2026-10-20 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-19 22:00 UTC)
+- 751 stars — checked on GitHub 2026-10-23 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-21 19:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,9 +31,9 @@
 - Last commit: 2026-09-23 14:18 UTC
 - Latest release: v1.2.5 (2026-09-23)
 - Contributors: 4
-- Open issues (incl. PRs): 7
+- Open issues (incl. PRs): 8
 - Made by: an individual
-- Checked on GitHub: 2026-10-20 02:18 UTC
+- Checked on GitHub: 2026-10-23 02:18 UTC
 
 ## TESIGN TAKE
 

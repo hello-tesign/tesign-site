@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-20T02:30:02.738Z",
+  "generated_at": "2026-10-23T02:29:59.731Z",
   "lang": "en",
   "slug": "txcript",
   "url": "https://tesign.com/en/item/txcript/",
@@ -84,14 +84,20 @@
         "url": "https://github.com/skillsynchq/txcript",
         "posted_at": "2026-09-17T18:00:00.000Z",
         "hn_url": null
+      },
+      {
+        "source": "showhn",
+        "url": "https://skillsync.com",
+        "posted_at": "2026-10-20T17:04:10.000Z",
+        "hn_url": "https://news.ycombinator.com/item?id=50169411"
       }
     ]
   },
   "numbers": {
-    "as_of": "2026-10-19T22:00:00.000Z",
-    "stars": 182,
+    "as_of": "2026-10-21T19:00:00.000Z",
+    "stars": 200,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-20T02:18:19.673Z",
+    "stars_checked_at": "2026-10-23T02:18:20.882Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -115,8 +121,8 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": null,
-    "hn_points_observed_at": null,
+    "hn_points": 4,
+    "hn_points_observed_at": "2026-10-21T18:56:41.831Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
@@ -132,10 +138,16 @@
       "published_at": "2026-09-13T23:41:24.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-20T02:18:19.673Z",
-    "core_checked_at": "2026-10-20T02:18:19.673Z"
+    "checked_at": "2026-10-23T02:18:20.882Z",
+    "core_checked_at": "2026-10-23T02:18:20.882Z"
   },
-  "signals": [],
+  "signals": [
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "GitHub + Show HN"
+    }
+  ],
   "images": {
     "og": "https://tesign.com/img/txcript-85d5a1be7a.png",
     "cover": "https://tesign.com/img/txcript-85d5a1be7a.png",
