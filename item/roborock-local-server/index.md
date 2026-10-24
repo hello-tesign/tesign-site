@@ -5,16 +5,17 @@
 - 페이지: https://tesign.com/item/roborock-local-server/
 - JSON: https://tesign.com/item/roborock-local-server/index.json
 - 영어 마크다운: https://tesign.com/en/item/roborock-local-server/index.md
-- 생성 시각: 2026-10-23 02:29 UTC
+- 생성 시각: 2026-10-24 02:29 UTC
 
 ## 순위
 
-- 하드웨어 분야 5위 (기준 2026-10-21 19:00 UTC)
+- 하드웨어 분야 5위 (기준 2026-10-23 21:00 UTC)
 
 ## 숫자
 
-- 별 1,028 — GitHub에서 2026-10-23 02:15 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-10-21 19:00 UTC)
+- 별 1,109 — GitHub에서 2026-10-24 02:15 UTC 확인
+- 7일 +5은 GH Archive 관측 (기준 2026-10-23 21:00 UTC)
+- 24h +5 ★ · 30d +5 ★ (기준 2026-10-23 21:00 UTC)
 - Show HN 2점 — 2026-10-05 03:58 UTC 관측
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
@@ -28,7 +29,7 @@
 - 분류: 하드웨어
 - 태그: 스마트홈 · 로봇청소기 · 자체 호스팅 · 개인정보
 - 바로 쓰기: 직접 서버에
-- 출처: Show HN https://github.com/Python-roborock/local_roborock_server
+- 출처: Show HN https://github.com/Python-roborock/local_roborock_server · GitHub https://github.com/python-roborock/local_roborock_server
 - SELF-HOST: https://python-roborock.github.io/local_roborock_server
 
 ## 활동
@@ -36,13 +37,14 @@
 - 마지막 커밋: 2026-10-22 11:38 UTC
 - 최근 릴리스: v1.2.1 (2026-10-08)
 - 기여자: 24
-- 열린 이슈 (PR 포함): 62
+- 열린 이슈 (PR 포함): 69
 - 만든 이: 조직
-- GitHub 확인 시각: 2026-10-23 02:15 UTC
+- GitHub 확인 시각: 2026-10-24 02:15 UTC
 
 ## 선정 신호와 근거
 
 - 신규 · 생성 0h 만에 포착
+- 교차 신호 · Show HN + GitHub
 
 ## TESIGN TAKE
 

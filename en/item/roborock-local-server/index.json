@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-23T02:29:59.731Z",
+  "generated_at": "2026-10-24T02:29:59.639Z",
   "lang": "en",
   "slug": "roborock-local-server",
   "url": "https://tesign.com/en/item/roborock-local-server/",
@@ -78,18 +78,24 @@
         "url": "https://github.com/Python-roborock/local_roborock_server",
         "posted_at": "2026-09-28T12:52:17.000Z",
         "hn_url": "https://news.ycombinator.com/item?id=49877182"
+      },
+      {
+        "source": "github",
+        "url": "https://github.com/python-roborock/local_roborock_server",
+        "posted_at": "2026-10-23T16:00:00.000Z",
+        "hn_url": null
       }
     ]
   },
   "numbers": {
-    "as_of": "2026-10-21T19:00:00.000Z",
-    "stars": 1028,
+    "as_of": "2026-10-23T21:00:00.000Z",
+    "stars": 1109,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-23T02:15:24.583Z",
+    "stars_checked_at": "2026-10-24T02:15:23.795Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": null,
-    "star_delta_30d": null,
+    "star_delta_24h": 5,
+    "star_delta_7d": 5,
+    "star_delta_30d": 5,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -105,7 +111,7 @@
       null,
       null,
       null,
-      null
+      5
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -115,7 +121,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-21T19:00:00.000Z",
+    "as_of": "2026-10-23T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -133,7 +139,7 @@
   "activity": {
     "pushed_at": "2026-10-22T11:38:55.000Z",
     "owner_type": "Organization",
-    "open_issues": 62,
+    "open_issues": 69,
     "contributors": 24,
     "releases_count": 14,
     "latest_release": {
@@ -141,14 +147,19 @@
       "published_at": "2026-10-08T17:51:52.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-23T02:15:24.583Z",
-    "core_checked_at": "2026-10-23T02:15:24.583Z"
+    "checked_at": "2026-10-24T02:15:23.795Z",
+    "core_checked_at": "2026-10-24T02:15:23.795Z"
   },
   "signals": [
     {
       "kind": "new",
       "label": "NEW",
       "value": "0h OLD WHEN SEEN"
+    },
+    {
+      "kind": "cross",
+      "label": "CROSS-SIGNAL",
+      "value": "Show HN + GitHub"
     }
   ],
   "images": {

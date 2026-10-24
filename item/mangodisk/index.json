@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-23T02:29:59.731Z",
+  "generated_at": "2026-10-24T02:29:59.639Z",
   "lang": "ko",
   "slug": "mangodisk",
   "url": "https://tesign.com/item/mangodisk/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-21T19:00:00.000Z",
-    "stars": 4550,
+    "as_of": "2026-10-23T21:00:00.000Z",
+    "stars": 4610,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-23T02:17:38.982Z",
+    "stars_checked_at": "2026-10-24T02:17:35.972Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -158,8 +158,8 @@
       "published_at": "2026-10-20T15:23:45.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-23T02:17:38.982Z",
-    "core_checked_at": "2026-10-23T02:17:38.982Z"
+    "checked_at": "2026-10-24T02:17:35.972Z",
+    "core_checked_at": "2026-10-24T02:17:35.972Z"
   },
   "signals": [
     {
