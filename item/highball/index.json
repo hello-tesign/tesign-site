@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-24T02:29:59.639Z",
+  "generated_at": "2026-10-25T02:29:59.850Z",
   "lang": "ko",
   "slug": "highball",
   "url": "https://tesign.com/item/highball/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-23T21:00:00.000Z",
-    "stars": 1824,
+    "as_of": "2026-10-24T21:00:00.000Z",
+    "stars": 1866,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-24T02:16:41.376Z",
+    "stars_checked_at": "2026-10-25T02:16:39.483Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -144,7 +144,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-23T21:00:00.000Z",
+    "as_of": "2026-10-24T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -170,8 +170,8 @@
       "published_at": "2026-10-20T12:51:15.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-24T02:16:41.376Z",
-    "core_checked_at": "2026-10-24T02:16:41.376Z"
+    "checked_at": "2026-10-25T02:16:39.483Z",
+    "core_checked_at": "2026-10-25T02:16:39.483Z"
   },
   "signals": [
     {

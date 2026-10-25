@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-24T02:29:59.639Z",
+  "generated_at": "2026-10-25T02:29:59.850Z",
   "lang": "ko",
   "slug": "deskbox",
   "url": "https://tesign.com/item/deskbox/",
@@ -108,12 +108,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-23T21:00:00.000Z",
-    "stars": 7470,
+    "as_of": "2026-10-24T21:00:00.000Z",
+    "stars": 7537,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-24T02:16:58.334Z",
+    "stars_checked_at": "2026-10-25T02:16:56.252Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
+    "star_delta_24h": null,
     "star_delta_7d": 2,
     "star_delta_30d": 2,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -130,8 +130,8 @@
       null,
       null,
       null,
-      null,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -142,9 +142,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-24T02:15:10.000Z",
+    "pushed_at": "2026-10-24T15:09:59.000Z",
     "owner_type": "User",
-    "open_issues": 66,
+    "open_issues": 69,
     "contributors": 1,
     "releases_count": 58,
     "latest_release": {
@@ -152,8 +152,8 @@
       "published_at": "2026-10-23T01:35:53.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-24T02:16:58.334Z",
-    "core_checked_at": "2026-10-24T02:16:58.334Z"
+    "checked_at": "2026-10-25T02:16:56.252Z",
+    "core_checked_at": "2026-10-25T02:16:56.252Z"
   },
   "signals": [],
   "images": {

@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/open-code-review/
 - JSON: https://tesign.com/en/item/open-code-review/index.json
 - Korean Markdown: https://tesign.com/item/open-code-review/index.md
-- Generated: 2026-10-24 02:29 UTC
+- Generated: 2026-10-25 02:29 UTC
 
 ## RANKS
 
-- All-time #136 · SECURITY #1 (As of 2026-10-23 21:00 UTC)
+- All-time #135 · SECURITY #1 (As of 2026-10-24 21:00 UTC)
 
 ## Numbers
 
-- 48,154 stars — checked on GitHub 2026-10-24 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-23 21:00 UTC)
+- 48,204 stars — checked on GitHub 2026-10-25 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-24 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -34,9 +34,9 @@
 - Last commit: 2026-10-22 04:24 UTC
 - Latest release: v1.13.3 (2026-10-22)
 - Contributors: 203
-- Open issues (incl. PRs): 345
+- Open issues (incl. PRs): 349
 - Made by: an organization
-- Checked on GitHub: 2026-10-24 02:16 UTC
+- Checked on GitHub: 2026-10-25 02:16 UTC
 
 ## TESIGN TAKE
 

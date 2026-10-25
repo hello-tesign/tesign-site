@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-24T02:29:59.639Z",
+  "generated_at": "2026-10-25T02:29:59.850Z",
   "lang": "en",
   "slug": "recordly",
   "url": "https://tesign.com/en/item/recordly/",
@@ -110,17 +110,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-23T21:00:00.000Z",
-    "stars": 34914,
+    "as_of": "2026-10-24T21:00:00.000Z",
+    "stars": 35102,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-24T02:16:30.383Z",
+    "stars_checked_at": "2026-10-25T02:16:28.765Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 4,
+    "star_delta_24h": null,
     "star_delta_7d": 6,
     "star_delta_30d": 6,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -133,7 +132,8 @@
       null,
       null,
       null,
-      4
+      4,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -143,8 +143,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-23T21:00:00.000Z",
-    "all_time": 201,
+    "as_of": "2026-10-24T21:00:00.000Z",
+    "all_time": 200,
     "rising": {
       "24h": null,
       "7d": null,
@@ -164,9 +164,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-17T07:32:21.000Z",
+    "pushed_at": "2026-10-24T03:35:21.000Z",
     "owner_type": "Organization",
-    "open_issues": 498,
+    "open_issues": 496,
     "contributors": 85,
     "releases_count": 48,
     "latest_release": {
@@ -174,8 +174,8 @@
       "published_at": "2026-09-08T04:34:51.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-24T02:16:30.383Z",
-    "core_checked_at": "2026-10-24T02:16:30.383Z"
+    "checked_at": "2026-10-25T02:16:28.765Z",
+    "core_checked_at": "2026-10-25T02:16:28.765Z"
   },
   "signals": [],
   "images": {

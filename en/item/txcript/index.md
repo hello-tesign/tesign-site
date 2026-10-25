@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/txcript/
 - JSON: https://tesign.com/en/item/txcript/index.json
 - Korean Markdown: https://tesign.com/item/txcript/index.md
-- Generated: 2026-10-24 02:29 UTC
+- Generated: 2026-10-25 02:29 UTC
 
 ## Numbers
 
-- 202 stars — checked on GitHub 2026-10-24 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-23 21:00 UTC)
-- 4 Show HN points — observed 2026-10-23 23:03 UTC
+- 205 stars — checked on GitHub 2026-10-25 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-24 21:00 UTC)
+- 4 Show HN points — observed 2026-10-25 02:04 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -34,7 +34,7 @@
 - Contributors: 9
 - Open issues (incl. PRs): 33
 - Made by: an organization
-- Checked on GitHub: 2026-10-24 02:18 UTC
+- Checked on GitHub: 2026-10-25 02:18 UTC
 
 ## Signals and evidence
 

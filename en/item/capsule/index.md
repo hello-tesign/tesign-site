@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/capsule/
 - JSON: https://tesign.com/en/item/capsule/index.json
 - Korean Markdown: https://tesign.com/item/capsule/index.md
-- Generated: 2026-10-24 02:29 UTC
+- Generated: 2026-10-25 02:29 UTC
 
 ## Numbers
 

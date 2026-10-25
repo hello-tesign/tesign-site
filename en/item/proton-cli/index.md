@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/proton-cli/
 - JSON: https://tesign.com/en/item/proton-cli/index.json
 - Korean Markdown: https://tesign.com/item/proton-cli/index.md
-- Generated: 2026-10-24 02:29 UTC
+- Generated: 2026-10-25 02:29 UTC
 
 ## Numbers
 
-- 104 stars — checked on GitHub 2026-10-24 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-23 21:00 UTC)
+- 105 stars — checked on GitHub 2026-10-25 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-24 21:00 UTC)
 - 3 Show HN points — observed 2026-09-20 04:28 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-23 03:09 UTC
+- Last commit: 2026-10-24 03:05 UTC
 - Latest release: v5.1.0 (2026-10-15)
 - Contributors: 1
 - Open issues (incl. PRs): 0
 - Made by: an individual
-- Checked on GitHub: 2026-10-24 02:17 UTC
+- Checked on GitHub: 2026-10-25 02:17 UTC
 
 ## Signals and evidence
 
