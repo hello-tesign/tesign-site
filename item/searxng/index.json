@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-25T02:29:59.850Z",
+  "generated_at": "2026-10-26T02:30:02.023Z",
   "lang": "ko",
   "slug": "searxng",
   "url": "https://tesign.com/item/searxng/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-24T21:00:00.000Z",
-    "stars": 38814,
+    "as_of": "2026-10-25T21:00:00.000Z",
+    "stars": 38843,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-25T02:15:09.484Z",
+    "stars_checked_at": "2026-10-26T02:15:11.950Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
@@ -105,8 +105,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -117,7 +117,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-24T21:00:00.000Z",
+    "as_of": "2026-10-25T21:00:00.000Z",
     "all_time": 170,
     "rising": {
       "24h": null,
@@ -133,14 +133,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-24T08:49:19.000Z",
+    "pushed_at": "2026-10-25T18:37:23.000Z",
     "owner_type": "Organization",
-    "open_issues": 206,
+    "open_issues": 205,
     "contributors": 360,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-25T02:15:09.484Z",
-    "core_checked_at": "2026-10-25T02:15:09.484Z"
+    "checked_at": "2026-10-26T02:15:11.950Z",
+    "core_checked_at": "2026-10-26T02:15:11.950Z"
   },
   "signals": [],
   "images": {

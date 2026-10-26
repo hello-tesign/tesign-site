@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-25T02:29:59.850Z",
+  "generated_at": "2026-10-26T02:30:02.023Z",
   "lang": "en",
   "slug": "explainroo",
   "url": "https://tesign.com/en/item/explainroo/",
@@ -89,10 +89,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-24T21:00:00.000Z",
-    "stars": 636,
+    "as_of": "2026-10-25T21:00:00.000Z",
+    "stars": 647,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-25T02:15:15.197Z",
+    "stars_checked_at": "2026-10-26T02:15:17.791Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -133,8 +133,8 @@
       "published_at": "2026-10-20T07:40:49.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-25T02:15:15.197Z",
-    "core_checked_at": "2026-10-25T02:15:15.197Z"
+    "checked_at": "2026-10-26T02:15:17.791Z",
+    "core_checked_at": "2026-10-26T02:15:17.791Z"
   },
   "signals": [
     {

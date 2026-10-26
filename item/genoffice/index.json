@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-25T02:29:59.850Z",
+  "generated_at": "2026-10-26T02:30:02.023Z",
   "lang": "ko",
   "slug": "genoffice",
   "url": "https://tesign.com/item/genoffice/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-24T21:00:00.000Z",
-    "stars": 10747,
+    "as_of": "2026-10-25T21:00:00.000Z",
+    "stars": 10837,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-25T02:17:21.176Z",
+    "stars_checked_at": "2026-10-26T02:17:24.767Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
@@ -133,8 +133,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -148,7 +148,7 @@
   "activity": {
     "pushed_at": "2026-10-24T07:21:51.000Z",
     "owner_type": "Organization",
-    "open_issues": 93,
+    "open_issues": 120,
     "contributors": 50,
     "releases_count": 38,
     "latest_release": {
@@ -156,8 +156,8 @@
       "published_at": "2026-10-22T14:11:54.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-25T02:17:21.176Z",
-    "core_checked_at": "2026-10-25T02:17:21.176Z"
+    "checked_at": "2026-10-26T02:17:24.767Z",
+    "core_checked_at": "2026-10-26T02:17:24.767Z"
   },
   "signals": [
     {

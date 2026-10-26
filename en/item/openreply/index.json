@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-25T02:29:59.850Z",
+  "generated_at": "2026-10-26T02:30:02.023Z",
   "lang": "en",
   "slug": "openreply",
   "url": "https://tesign.com/en/item/openreply/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-24T21:00:00.000Z",
-    "stars": 2842,
+    "as_of": "2026-10-25T21:00:00.000Z",
+    "stars": 2856,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-25T02:17:45.677Z",
+    "stars_checked_at": "2026-10-26T02:17:50.513Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -144,7 +144,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-24T21:00:00.000Z",
+    "as_of": "2026-10-25T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -167,12 +167,12 @@
   "activity": {
     "pushed_at": "2026-10-05T15:27:02.000Z",
     "owner_type": "User",
-    "open_issues": 24,
+    "open_issues": 25,
     "contributors": 29,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-25T02:17:45.677Z",
-    "core_checked_at": "2026-10-25T02:17:45.677Z"
+    "checked_at": "2026-10-26T02:17:50.513Z",
+    "core_checked_at": "2026-10-26T02:17:50.513Z"
   },
   "signals": [
     {

@@ -5,22 +5,22 @@
 - Page: https://tesign.com/en/item/archify/
 - JSON: https://tesign.com/en/item/archify/index.json
 - Korean Markdown: https://tesign.com/item/archify/index.md
-- Generated: 2026-10-25 02:29 UTC
+- Generated: 2026-10-26 02:30 UTC
 
 ## RANKS
 
-- All-time #47 · DEV TOOLS #12 · DESIGN #3 (As of 2026-10-24 21:00 UTC)
+- All-time #47 · DEV TOOLS #12 · DESIGN #3 (As of 2026-10-25 21:00 UTC)
 
 ## Numbers
 
-- 88,771 stars — checked on GitHub 2026-10-25 02:16 UTC
-- 7-day +37 observed via GH Archive (as of 2026-10-24 21:00 UTC)
+- 89,228 stars — checked on GitHub 2026-10-26 02:16 UTC
+- 7-day +25 observed via GH Archive (as of 2026-10-25 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
 
-- LICENSE: MIT (permissive) — https://spdx.org/licenses/MIT.html
-- USAGE: Use, change and redistribute, commercially too. Keep the notice.
+- LICENSE: Apache-2.0 (permissive) — https://spdx.org/licenses/Apache-2.0.html
+- USAGE: Commercial use, redistribution OK. Keep notices; mark changes.
 - OPEN SOURCE: YES
 - LANGUAGE: JavaScript
 - PLATFORM: [unconfirmed]
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-24 14:25 UTC
+- Last commit: 2026-10-25 15:52 UTC
 - Latest release: v3.2.0 (2026-10-19)
 - Contributors: 93
-- Open issues (incl. PRs): 300
+- Open issues (incl. PRs): 243
 - Made by: an individual
-- Checked on GitHub: 2026-10-25 02:16 UTC
+- Checked on GitHub: 2026-10-26 02:16 UTC
 
 ## TESIGN TAKE
 

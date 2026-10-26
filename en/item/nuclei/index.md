@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/nuclei/
 - JSON: https://tesign.com/en/item/nuclei/index.json
 - Korean Markdown: https://tesign.com/item/nuclei/index.md
-- Generated: 2026-10-25 02:29 UTC
+- Generated: 2026-10-26 02:30 UTC
 
 ## RANKS
 
-- All-time #222 · SECURITY #2 (As of 2026-10-24 21:00 UTC)
+- All-time #222 · SECURITY #2 (As of 2026-10-25 21:00 UTC)
 
 ## Numbers
 
-- 32,295 stars — checked on GitHub 2026-10-25 02:15 UTC
-- 7-day +3 observed via GH Archive (as of 2026-10-24 21:00 UTC)
+- 32,309 stars — checked on GitHub 2026-10-26 02:15 UTC
+- 7-day +3 observed via GH Archive (as of 2026-10-25 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-24 22:59 UTC
+- Last commit: 2026-10-25 21:09 UTC
 - Latest release: v3.11.1 (2026-08-08)
-- Contributors: 295
-- Open issues (incl. PRs): 115
+- Contributors: 305
+- Open issues (incl. PRs): 80
 - Made by: an organization
-- Checked on GitHub: 2026-10-25 02:15 UTC
+- Checked on GitHub: 2026-10-26 02:15 UTC
 
 ## TESIGN TAKE
 

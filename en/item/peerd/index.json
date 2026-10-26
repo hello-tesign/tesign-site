@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-25T02:29:59.850Z",
+  "generated_at": "2026-10-26T02:30:02.023Z",
   "lang": "en",
   "slug": "peerd",
   "url": "https://tesign.com/en/item/peerd/",
@@ -109,10 +109,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-24T21:00:00.000Z",
-    "stars": 422,
+    "as_of": "2026-10-25T21:00:00.000Z",
+    "stars": 423,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-25T02:18:01.671Z",
+    "stars_checked_at": "2026-10-26T02:18:07.794Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -143,9 +143,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-25T01:20:32.000Z",
+    "pushed_at": "2026-10-25T15:26:19.000Z",
     "owner_type": "User",
-    "open_issues": 65,
+    "open_issues": 41,
     "contributors": 9,
     "releases_count": 25,
     "latest_release": {
@@ -153,8 +153,8 @@
       "published_at": "2026-10-15T13:02:02.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-25T02:18:01.671Z",
-    "core_checked_at": "2026-10-25T02:18:01.671Z"
+    "checked_at": "2026-10-26T02:18:07.794Z",
+    "core_checked_at": "2026-10-26T02:18:07.794Z"
   },
   "signals": [
     {

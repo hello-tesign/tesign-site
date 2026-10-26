@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-25T02:29:59.850Z",
+  "generated_at": "2026-10-26T02:30:02.023Z",
   "lang": "ko",
   "slug": "inkstone",
   "url": "https://tesign.com/item/inkstone/",
@@ -100,10 +100,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-24T21:00:00.000Z",
-    "stars": 1132,
+    "as_of": "2026-10-25T21:00:00.000Z",
+    "stars": 1134,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-25T02:18:03.559Z",
+    "stars_checked_at": "2026-10-26T02:18:09.694Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -144,8 +144,8 @@
       "published_at": "2026-09-14T07:50:53.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-25T02:18:03.559Z",
-    "core_checked_at": "2026-10-25T02:18:03.559Z"
+    "checked_at": "2026-10-26T02:18:09.694Z",
+    "core_checked_at": "2026-10-26T02:18:09.694Z"
   },
   "signals": [],
   "images": {

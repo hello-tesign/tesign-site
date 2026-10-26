@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/hypomux/
 - JSON: https://tesign.com/en/item/hypomux/index.json
 - Korean Markdown: https://tesign.com/item/hypomux/index.md
-- Generated: 2026-10-25 02:29 UTC
+- Generated: 2026-10-26 02:30 UTC
 
 ## Numbers
 
-- 3,889 stars — checked on GitHub 2026-10-25 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-24 21:00 UTC)
+- 3,894 stars — checked on GitHub 2026-10-26 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-25 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-24 15:26 UTC
+- Last commit: 2026-10-25 15:34 UTC
 - Latest release: v2.8.2 (2026-10-24)
 - Contributors: 8
 - Open issues (incl. PRs): 13
 - Made by: an individual
-- Checked on GitHub: 2026-10-25 02:17 UTC
+- Checked on GitHub: 2026-10-26 02:17 UTC
 
 ## Signals and evidence
 

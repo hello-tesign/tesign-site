@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-25T02:29:59.850Z",
+  "generated_at": "2026-10-26T02:30:02.023Z",
   "lang": "ko",
   "slug": "vorssaint",
   "url": "https://tesign.com/item/vorssaint/",
@@ -108,14 +108,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-24T21:00:00.000Z",
-    "stars": 29771,
+    "as_of": "2026-10-25T21:00:00.000Z",
+    "stars": 29950,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-25T02:16:57.274Z",
+    "stars_checked_at": "2026-10-26T02:16:59.788Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 17,
-    "star_delta_30d": 17,
+    "star_delta_7d": 11,
+    "star_delta_30d": 11,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -125,12 +125,12 @@
       null,
       null,
       null,
-      6,
       2,
       null,
       null,
       4,
       5,
+      null,
       null
     ],
     "hf_likes": null,
@@ -141,8 +141,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-24T21:00:00.000Z",
-    "all_time": 247,
+    "as_of": "2026-10-25T21:00:00.000Z",
+    "all_time": 245,
     "rising": {
       "24h": null,
       "7d": null,
@@ -157,18 +157,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-24T03:01:57.000Z",
+    "pushed_at": "2026-10-25T18:11:51.000Z",
     "owner_type": "User",
-    "open_issues": 1193,
-    "contributors": 215,
+    "open_issues": 1204,
+    "contributors": 222,
     "releases_count": 93,
     "latest_release": {
       "tag": "v3.4.2",
       "published_at": "2026-10-21T22:40:15.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-25T02:16:57.274Z",
-    "core_checked_at": "2026-10-25T02:16:57.274Z"
+    "checked_at": "2026-10-26T02:16:59.788Z",
+    "core_checked_at": "2026-10-26T02:16:59.788Z"
   },
   "signals": [],
   "images": {

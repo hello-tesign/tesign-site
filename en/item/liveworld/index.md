@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/liveworld/
 - JSON: https://tesign.com/en/item/liveworld/index.json
 - Korean Markdown: https://tesign.com/item/liveworld/index.md
-- Generated: 2026-10-25 02:29 UTC
+- Generated: 2026-10-26 02:30 UTC
 
 ## Numbers
 

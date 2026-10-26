@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-25T02:29:59.850Z",
+  "generated_at": "2026-10-26T02:30:02.023Z",
   "lang": "en",
   "slug": "archify",
   "url": "https://tesign.com/en/item/archify/",
@@ -83,10 +83,10 @@
   ],
   "platform": [],
   "license": {
-    "spdx": "MIT",
+    "spdx": "Apache-2.0",
     "scope": "permissive",
-    "scope_text": "Use, change and redistribute, commercially too. Keep the notice.",
-    "url": "https://spdx.org/licenses/MIT.html",
+    "scope_text": "Commercial use, redistribution OK. Keep notices; mark changes.",
+    "url": "https://spdx.org/licenses/Apache-2.0.html",
     "note": null,
     "open_source": true
   },
@@ -106,14 +106,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-24T21:00:00.000Z",
-    "stars": 88771,
+    "as_of": "2026-10-25T21:00:00.000Z",
+    "stars": 89228,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-25T02:16:27.769Z",
+    "stars_checked_at": "2026-10-26T02:16:30.063Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 37,
-    "star_delta_30d": 37,
+    "star_delta_7d": 25,
+    "star_delta_30d": 25,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -123,12 +123,12 @@
       null,
       null,
       null,
-      12,
       6,
       null,
       null,
       7,
       12,
+      null,
       null
     ],
     "hf_likes": null,
@@ -139,7 +139,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-24T21:00:00.000Z",
+    "as_of": "2026-10-25T21:00:00.000Z",
     "all_time": 47,
     "rising": {
       "24h": null,
@@ -160,9 +160,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-24T14:25:59.000Z",
+    "pushed_at": "2026-10-25T15:52:40.000Z",
     "owner_type": "User",
-    "open_issues": 300,
+    "open_issues": 243,
     "contributors": 93,
     "releases_count": 23,
     "latest_release": {
@@ -170,8 +170,8 @@
       "published_at": "2026-10-19T00:43:00.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-25T02:16:27.769Z",
-    "core_checked_at": "2026-10-25T02:16:27.769Z"
+    "checked_at": "2026-10-26T02:16:30.063Z",
+    "core_checked_at": "2026-10-26T02:16:30.063Z"
   },
   "signals": [],
   "images": {
