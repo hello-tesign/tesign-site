@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/openworker/
 - JSON: https://tesign.com/en/item/openworker/index.json
 - Korean Markdown: https://tesign.com/item/openworker/index.md
-- Generated: 2026-10-26 02:30 UTC
+- Generated: 2026-10-27 02:30 UTC
 
 ## Numbers
 
-- 18,684 stars — checked on GitHub 2026-10-26 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-25 21:00 UTC)
+- 18,701 stars — checked on GitHub 2026-10-27 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-26 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-26 01:56 UTC
+- Last commit: 2026-10-27 01:32 UTC
 - Latest release: v0.3.1 (2026-10-05)
-- Contributors: 68
-- Open issues (incl. PRs): 376
+- Contributors: 77
+- Open issues (incl. PRs): 363
 - Made by: an individual
-- Checked on GitHub: 2026-10-26 02:17 UTC
+- Checked on GitHub: 2026-10-27 02:17 UTC
 
 ## Signals and evidence
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-26T02:30:02.023Z",
+  "generated_at": "2026-10-27T02:30:00.304Z",
   "lang": "en",
   "slug": "sonora",
   "url": "https://tesign.com/en/item/sonora/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-25T21:00:00.000Z",
-    "stars": 2361,
+    "as_of": "2026-10-26T22:00:00.000Z",
+    "stars": 2406,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-26T02:17:31.751Z",
+    "stars_checked_at": "2026-10-27T02:17:54.168Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,18 +148,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-25T19:49:25.000Z",
+    "pushed_at": "2026-10-26T22:57:34.000Z",
     "owner_type": "Organization",
-    "open_issues": 190,
-    "contributors": 71,
-    "releases_count": 62,
+    "open_issues": 191,
+    "contributors": 73,
+    "releases_count": 63,
     "latest_release": {
-      "tag": "v0.44.2",
-      "published_at": "2026-10-25T01:19:20.000Z",
-      "prerelease": false
+      "tag": "nightly",
+      "published_at": "2026-10-26T21:35:36.000Z",
+      "prerelease": true
     },
-    "checked_at": "2026-10-26T02:17:31.751Z",
-    "core_checked_at": "2026-10-26T02:17:31.751Z"
+    "checked_at": "2026-10-27T02:17:54.168Z",
+    "core_checked_at": "2026-10-27T02:17:54.168Z"
   },
   "signals": [
     {
