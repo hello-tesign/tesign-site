@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-27T02:30:00.304Z",
+  "generated_at": "2026-10-28T02:30:00.175Z",
   "lang": "en",
   "slug": "hermes-agent",
   "url": "https://tesign.com/en/item/hermes-agent/",
@@ -119,10 +119,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-26T22:00:00.000Z",
-    "stars": 257432,
+    "as_of": "2026-10-27T21:00:00.000Z",
+    "stars": 257772,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-27T02:16:59.288Z",
+    "stars_checked_at": "2026-10-28T02:16:47.339Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 8,
@@ -138,8 +138,8 @@
       null,
       null,
       null,
-      null,
       8,
+      null,
       null,
       null,
       null
@@ -152,7 +152,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-26T22:00:00.000Z",
+    "as_of": "2026-10-27T21:00:00.000Z",
     "all_time": 2,
     "rising": {
       "24h": null,
@@ -173,18 +173,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-27T02:14:23.000Z",
+    "pushed_at": "2026-10-28T01:49:49.000Z",
     "owner_type": "Organization",
-    "open_issues": 51304,
-    "contributors": 4800,
+    "open_issues": 51511,
+    "contributors": 4814,
     "releases_count": 44,
     "latest_release": {
       "tag": "v0.22.5",
       "published_at": "2026-10-23T05:28:45.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-27T02:16:59.288Z",
-    "core_checked_at": "2026-10-27T02:16:59.288Z"
+    "checked_at": "2026-10-28T02:16:47.339Z",
+    "core_checked_at": "2026-10-28T02:16:47.339Z"
   },
   "signals": [],
   "images": {

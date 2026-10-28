@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/monica/
 - JSON: https://tesign.com/en/item/monica/index.json
 - Korean Markdown: https://tesign.com/item/monica/index.md
-- Generated: 2026-10-27 02:30 UTC
+- Generated: 2026-10-28 02:30 UTC
 
 ## RANKS
 
-- SECURITY #11 (As of 2026-10-26 22:00 UTC)
+- SECURITY #11 (As of 2026-10-27 21:00 UTC)
 
 ## Numbers
 
-- 1,179 stars — checked on GitHub 2026-10-27 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-26 22:00 UTC)
+- 1,182 stars — checked on GitHub 2026-10-28 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-27 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -37,7 +37,7 @@
 - Contributors: 15
 - Open issues (incl. PRs): 16
 - Made by: an organization
-- Checked on GitHub: 2026-10-27 02:15 UTC
+- Checked on GitHub: 2026-10-28 02:15 UTC
 
 ## TESIGN TAKE
 

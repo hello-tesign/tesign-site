@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-27T02:30:00.304Z",
+  "generated_at": "2026-10-28T02:30:00.175Z",
   "lang": "en",
   "slug": "caveman",
   "url": "https://tesign.com/en/item/caveman/",
@@ -107,10 +107,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-26T22:00:00.000Z",
-    "stars": 115326,
+    "as_of": "2026-10-27T21:00:00.000Z",
+    "stars": 115556,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-27T02:17:00.388Z",
+    "stars_checked_at": "2026-10-28T02:16:48.336Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -140,8 +140,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-26T22:00:00.000Z",
-    "all_time": 24,
+    "as_of": "2026-10-27T21:00:00.000Z",
+    "all_time": 23,
     "rising": {
       "24h": null,
       "7d": null,
@@ -151,7 +151,7 @@
       {
         "category": "ai",
         "label": "AI",
-        "rank": 16
+        "rank": 15
       },
       {
         "category": "dev-tools",
@@ -161,9 +161,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-26T07:59:57.000Z",
+    "pushed_at": "2026-10-27T21:39:46.000Z",
     "owner_type": "User",
-    "open_issues": 112,
+    "open_issues": 115,
     "contributors": 104,
     "releases_count": 52,
     "latest_release": {
@@ -171,8 +171,8 @@
       "published_at": "2026-10-23T05:22:07.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-27T02:17:00.388Z",
-    "core_checked_at": "2026-10-27T02:17:00.388Z"
+    "checked_at": "2026-10-28T02:16:48.336Z",
+    "core_checked_at": "2026-10-28T02:16:48.336Z"
   },
   "signals": [],
   "images": {

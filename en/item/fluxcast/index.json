@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-27T02:30:00.304Z",
+  "generated_at": "2026-10-28T02:30:00.175Z",
   "lang": "en",
   "slug": "fluxcast",
   "url": "https://tesign.com/en/item/fluxcast/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-26T22:00:00.000Z",
-    "stars": 451,
+    "as_of": "2026-10-27T21:00:00.000Z",
+    "stars": 452,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-27T02:15:31.912Z",
+    "stars_checked_at": "2026-10-28T02:15:30.037Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,9 +118,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-24T21:23:48.000Z",
+    "pushed_at": "2026-10-27T21:57:18.000Z",
     "owner_type": "User",
-    "open_issues": 32,
+    "open_issues": 33,
     "contributors": 26,
     "releases_count": 19,
     "latest_release": {
@@ -128,8 +128,8 @@
       "published_at": "2026-10-08T19:59:44.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-27T02:15:31.912Z",
-    "core_checked_at": "2026-10-27T02:15:31.912Z"
+    "checked_at": "2026-10-28T02:15:30.037Z",
+    "core_checked_at": "2026-10-28T02:15:30.037Z"
   },
   "signals": [
     {

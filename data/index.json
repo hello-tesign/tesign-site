@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/index/1",
-  "generated_at": "2026-10-27T02:30:00.304Z",
+  "generated_at": "2026-10-28T02:30:00.175Z",
   "site": "https://tesign.com",
   "count": 209,
   "convention": {
@@ -21,7 +21,7 @@
     "llms": "https://tesign.com/llms.txt",
     "contact": "mailto:hello@tesign.com"
   },
-  "numbers_as_of": "2026-10-26T22:00:00.000Z",
+  "numbers_as_of": "2026-10-27T21:00:00.000Z",
   "items": [
     {
       "slug": "litmus",

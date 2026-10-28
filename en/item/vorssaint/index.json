@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-27T02:30:00.304Z",
+  "generated_at": "2026-10-28T02:30:00.175Z",
   "lang": "en",
   "slug": "vorssaint",
   "url": "https://tesign.com/en/item/vorssaint/",
@@ -108,10 +108,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-26T22:00:00.000Z",
-    "stars": 30138,
+    "as_of": "2026-10-27T21:00:00.000Z",
+    "stars": 30303,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-27T02:17:19.067Z",
+    "stars_checked_at": "2026-10-28T02:17:04.677Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 9,
@@ -126,9 +126,9 @@
       null,
       null,
       null,
-      null,
       4,
       5,
+      null,
       null,
       null,
       null
@@ -141,8 +141,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-26T22:00:00.000Z",
-    "all_time": 243,
+    "as_of": "2026-10-27T21:00:00.000Z",
+    "all_time": 241,
     "rising": {
       "24h": null,
       "7d": null,
@@ -152,23 +152,23 @@
       {
         "category": "productivity",
         "label": "PRODUCTIVITY",
-        "rank": 17
+        "rank": 16
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-26T05:45:24.000Z",
+    "pushed_at": "2026-10-28T02:13:53.000Z",
     "owner_type": "User",
-    "open_issues": 1227,
-    "contributors": 222,
+    "open_issues": 1244,
+    "contributors": 227,
     "releases_count": 93,
     "latest_release": {
       "tag": "v3.4.2",
       "published_at": "2026-10-21T22:40:15.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-27T02:17:19.067Z",
-    "core_checked_at": "2026-10-27T02:17:19.067Z"
+    "checked_at": "2026-10-28T02:17:04.677Z",
+    "core_checked_at": "2026-10-28T02:17:04.677Z"
   },
   "signals": [],
   "images": {

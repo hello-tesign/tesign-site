@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-27T02:30:00.304Z",
+  "generated_at": "2026-10-28T02:30:00.175Z",
   "lang": "ko",
   "slug": "gitorange",
   "url": "https://tesign.com/item/gitorange/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-26T22:00:00.000Z",
+    "as_of": "2026-10-27T21:00:00.000Z",
     "stars": 32,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-27T02:15:05.748Z",
+    "stars_checked_at": "2026-10-28T02:15:05.043Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -124,8 +124,8 @@
     "contributors": 2,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-27T02:15:05.748Z",
-    "core_checked_at": "2026-10-27T02:15:05.748Z"
+    "checked_at": "2026-10-28T02:15:05.043Z",
+    "core_checked_at": "2026-10-28T02:15:05.043Z"
   },
   "signals": [
     {
