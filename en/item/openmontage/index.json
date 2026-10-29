@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-28T02:30:00.175Z",
+  "generated_at": "2026-10-29T02:30:01.997Z",
   "lang": "en",
   "slug": "openmontage",
   "url": "https://tesign.com/en/item/openmontage/",
@@ -114,17 +114,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-27T21:00:00.000Z",
-    "stars": 72483,
+    "as_of": "2026-10-28T21:00:00.000Z",
+    "stars": 72754,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-28T02:16:56.277Z",
+    "stars_checked_at": "2026-10-29T02:16:57.508Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
+    "star_delta_24h": null,
     "star_delta_7d": 17,
     "star_delta_30d": 17,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -137,7 +136,8 @@
       4,
       2,
       null,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -147,8 +147,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-27T21:00:00.000Z",
-    "all_time": 73,
+    "as_of": "2026-10-28T21:00:00.000Z",
+    "all_time": 71,
     "rising": {
       "24h": null,
       "7d": null,
@@ -163,14 +163,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-24T00:49:34.000Z",
+    "pushed_at": "2026-10-28T21:46:02.000Z",
     "owner_type": "User",
-    "open_issues": 417,
-    "contributors": 75,
+    "open_issues": 419,
+    "contributors": 76,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-28T02:16:56.277Z",
-    "core_checked_at": "2026-10-28T02:16:56.277Z"
+    "checked_at": "2026-10-29T02:16:57.508Z",
+    "core_checked_at": "2026-10-29T02:16:57.508Z"
   },
   "signals": [],
   "images": {

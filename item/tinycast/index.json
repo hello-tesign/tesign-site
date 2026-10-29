@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-28T02:30:00.175Z",
+  "generated_at": "2026-10-29T02:30:01.997Z",
   "lang": "ko",
   "slug": "tinycast",
   "url": "https://tesign.com/item/tinycast/",
@@ -110,10 +110,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-27T21:00:00.000Z",
-    "stars": 8878,
+    "as_of": "2026-10-28T21:00:00.000Z",
+    "stars": 8909,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-28T02:17:47.079Z",
+    "stars_checked_at": "2026-10-29T02:17:48.431Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -146,7 +146,7 @@
   "activity": {
     "pushed_at": "2026-10-26T23:12:23.000Z",
     "owner_type": "User",
-    "open_issues": 25,
+    "open_issues": 30,
     "contributors": 75,
     "releases_count": 123,
     "latest_release": {
@@ -154,8 +154,8 @@
       "published_at": "2026-10-26T23:12:23.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-28T02:17:47.079Z",
-    "core_checked_at": "2026-10-28T02:17:47.079Z"
+    "checked_at": "2026-10-29T02:17:48.431Z",
+    "core_checked_at": "2026-10-29T02:17:48.431Z"
   },
   "signals": [
     {

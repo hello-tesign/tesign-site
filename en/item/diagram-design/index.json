@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-28T02:30:00.175Z",
+  "generated_at": "2026-10-29T02:30:01.997Z",
   "lang": "en",
   "slug": "diagram-design",
   "url": "https://tesign.com/en/item/diagram-design/",
@@ -113,17 +113,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-27T21:00:00.000Z",
-    "stars": 61854,
+    "as_of": "2026-10-28T21:00:00.000Z",
+    "stars": 62484,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-28T02:16:37.268Z",
+    "stars_checked_at": "2026-10-29T02:16:38.646Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
+    "star_delta_24h": null,
     "star_delta_7d": 13,
     "star_delta_30d": 13,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -136,7 +135,8 @@
       null,
       null,
       null,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -146,8 +146,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-27T21:00:00.000Z",
-    "all_time": 97,
+    "as_of": "2026-10-28T21:00:00.000Z",
+    "all_time": 95,
     "rising": {
       "24h": null,
       "7d": null,
@@ -164,12 +164,12 @@
   "activity": {
     "pushed_at": "2026-10-27T20:01:35.000Z",
     "owner_type": "User",
-    "open_issues": 40,
+    "open_issues": 45,
     "contributors": 65,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-28T02:16:37.268Z",
-    "core_checked_at": "2026-10-28T02:16:37.268Z"
+    "checked_at": "2026-10-29T02:16:38.646Z",
+    "core_checked_at": "2026-10-29T02:16:38.646Z"
   },
   "signals": [],
   "images": {

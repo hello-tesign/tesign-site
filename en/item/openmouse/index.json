@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-28T02:30:00.175Z",
+  "generated_at": "2026-10-29T02:30:01.997Z",
   "lang": "en",
   "slug": "openmouse",
   "url": "https://tesign.com/en/item/openmouse/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-27T21:00:00.000Z",
-    "stars": 2670,
+    "as_of": "2026-10-28T21:00:00.000Z",
+    "stars": 2692,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-28T02:17:46.124Z",
+    "stars_checked_at": "2026-10-29T02:17:47.451Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -146,7 +146,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-27T21:00:00.000Z",
+    "as_of": "2026-10-28T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -157,7 +157,7 @@
       {
         "category": "games",
         "label": "GAMES",
-        "rank": 8
+        "rank": 7
       },
       {
         "category": "hardware",
@@ -167,14 +167,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-26T23:45:29.000Z",
+    "pushed_at": "2026-10-28T05:37:27.000Z",
     "owner_type": "Organization",
-    "open_issues": 25,
+    "open_issues": 26,
     "contributors": 55,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-28T02:17:46.124Z",
-    "core_checked_at": "2026-10-28T02:17:46.124Z"
+    "checked_at": "2026-10-29T02:17:47.451Z",
+    "core_checked_at": "2026-10-29T02:17:47.451Z"
   },
   "signals": [
     {

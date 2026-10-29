@@ -5,12 +5,12 @@
 - 페이지: https://tesign.com/item/acode/
 - JSON: https://tesign.com/item/acode/index.json
 - 영어 마크다운: https://tesign.com/en/item/acode/index.md
-- 생성 시각: 2026-10-28 02:30 UTC
+- 생성 시각: 2026-10-29 02:30 UTC
 
 ## 숫자
 
-- 별 7,551 — GitHub에서 2026-10-28 02:15 UTC 확인
-- 7일 +2은 GH Archive 관측 (기준 2026-10-27 21:00 UTC)
+- 별 7,560 — GitHub에서 2026-10-29 02:15 UTC 확인
+- 7일 +2은 GH Archive 관측 (기준 2026-10-28 21:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -28,12 +28,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-10-27 07:25 UTC
+- 마지막 커밋: 2026-10-28 19:05 UTC
 - 최근 릴리스: 1.13.5-nightly.f4b7530 (2026-10-27) · 프리릴리스
 - 기여자: 132
-- 열린 이슈 (PR 포함): 91
+- 열린 이슈 (PR 포함): 90
 - 만든 이: 조직
-- GitHub 확인 시각: 2026-10-28 02:15 UTC
+- GitHub 확인 시각: 2026-10-29 02:15 UTC
 
 ## TESIGN TAKE
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-28T02:30:00.175Z",
+  "generated_at": "2026-10-29T02:30:01.997Z",
   "lang": "ko",
   "slug": "window-sweaters",
   "url": "https://tesign.com/item/window-sweaters/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-27T21:00:00.000Z",
-    "stars": 823,
+    "as_of": "2026-10-28T21:00:00.000Z",
+    "stars": 825,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-28T02:15:22.828Z",
+    "stars_checked_at": "2026-10-29T02:15:24.264Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -128,8 +128,8 @@
       "published_at": "2026-09-18T21:31:46.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-28T02:15:22.828Z",
-    "core_checked_at": "2026-10-28T02:15:22.828Z"
+    "checked_at": "2026-10-29T02:15:24.264Z",
+    "core_checked_at": "2026-10-29T02:15:24.264Z"
   },
   "signals": [
     {

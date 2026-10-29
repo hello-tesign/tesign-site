@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/caveman/
 - JSON: https://tesign.com/en/item/caveman/index.json
 - Korean Markdown: https://tesign.com/item/caveman/index.md
-- Generated: 2026-10-28 02:30 UTC
+- Generated: 2026-10-29 02:30 UTC
 
 ## RANKS
 
-- All-time #23 · AI #15 · DEV TOOLS #5 (As of 2026-10-27 21:00 UTC)
+- All-time #23 · AI #15 · DEV TOOLS #5 (As of 2026-10-28 21:00 UTC)
 
 ## Numbers
 
-- 115,556 stars — checked on GitHub 2026-10-28 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-27 21:00 UTC)
+- 115,828 stars — checked on GitHub 2026-10-29 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-28 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-27 21:39 UTC
+- Last commit: 2026-10-28 07:29 UTC
 - Latest release: bin-v4.0.2 (2026-10-23)
 - Contributors: 104
-- Open issues (incl. PRs): 115
+- Open issues (incl. PRs): 119
 - Made by: an individual
-- Checked on GitHub: 2026-10-28 02:16 UTC
+- Checked on GitHub: 2026-10-29 02:16 UTC
 
 ## TESIGN TAKE
 

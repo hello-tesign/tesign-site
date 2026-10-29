@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/breakscale/
 - JSON: https://tesign.com/en/item/breakscale/index.json
 - Korean Markdown: https://tesign.com/item/breakscale/index.md
-- Generated: 2026-10-28 02:30 UTC
+- Generated: 2026-10-29 02:30 UTC
 
 ## RANKS
 
-- EDUCATION #6 (As of 2026-10-27 21:00 UTC)
+- EDUCATION #6 (As of 2026-10-28 21:00 UTC)
 
 ## Numbers
 
-- 1,851 stars — checked on GitHub 2026-10-28 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-27 21:00 UTC)
+- 1,873 stars — checked on GitHub 2026-10-29 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-28 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-26 23:07 UTC
+- Last commit: 2026-10-28 18:00 UTC
 - Latest release: no releases
 - Contributors: 15
-- Open issues (incl. PRs): 13
-- Made by: an individual
-- Checked on GitHub: 2026-10-28 02:17 UTC
+- Open issues (incl. PRs): 15
+- Made by: an organization
+- Checked on GitHub: 2026-10-29 02:17 UTC
 
 ## Signals and evidence
 
