@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-29T02:30:01.997Z",
+  "generated_at": "2026-10-30T02:29:59.706Z",
   "lang": "ko",
   "slug": "podroid",
   "url": "https://tesign.com/item/podroid/",
@@ -108,7 +108,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-28T21:00:00.000Z",
+    "as_of": "2026-10-29T11:00:00.000Z",
     "stars": 3655,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-29T02:16:20.006Z",

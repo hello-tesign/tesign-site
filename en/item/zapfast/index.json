@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-29T02:30:01.997Z",
+  "generated_at": "2026-10-30T02:29:59.706Z",
   "lang": "en",
   "slug": "zapfast",
   "url": "https://tesign.com/en/item/zapfast/",
@@ -121,7 +121,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-28T21:00:00.000Z",
+    "as_of": "2026-10-29T11:00:00.000Z",
     "stars": 2280,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-29T02:18:20.098Z",
@@ -148,13 +148,13 @@
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
-    "hn_points": 3,
-    "hn_points_observed_at": "2026-10-28T14:29:31.828Z",
+    "hn_points": 4,
+    "hn_points_observed_at": "2026-10-29T12:46:58.474Z",
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-28T21:00:00.000Z",
+    "as_of": "2026-10-29T11:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,

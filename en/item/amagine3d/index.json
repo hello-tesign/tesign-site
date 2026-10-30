@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-29T02:30:01.997Z",
+  "generated_at": "2026-10-30T02:29:59.706Z",
   "lang": "en",
   "slug": "amagine3d",
   "url": "https://tesign.com/en/item/amagine3d/",
@@ -117,7 +117,7 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-28T21:00:00.000Z",
+    "as_of": "2026-10-29T11:00:00.000Z",
     "stars": 6280,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-10-29T02:16:58.564Z",

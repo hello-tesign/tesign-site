@@ -5,16 +5,17 @@
 - 페이지: https://tesign.com/item/gods-eye-view/
 - JSON: https://tesign.com/item/gods-eye-view/index.json
 - 영어 마크다운: https://tesign.com/en/item/gods-eye-view/index.md
-- 생성 시각: 2026-10-29 02:30 UTC
+- 생성 시각: 2026-10-30 02:29 UTC
 
 ## 순위
 
-- 역대 103위 · 데이터 분야 2위 · 과학 분야 1위 (기준 2026-10-28 21:00 UTC)
+- 역대 103위 · 데이터 분야 2위 · 과학 분야 1위 (기준 2026-10-29 11:00 UTC)
 
 ## 숫자
 
-- 별 60,949 — GitHub에서 2026-10-29 02:16 UTC 확인
-- 7일 +10은 GH Archive 관측 (기준 2026-10-28 21:00 UTC)
+- 별 60,951 — GitHub에서 2026-10-29 02:16 UTC 확인 (+2 확인 이후 관측)
+- 7일 +12은 GH Archive 관측 (기준 2026-10-29 11:00 UTC)
+- 24h +2 ★ · 30d +12 ★ (기준 2026-10-29 11:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
