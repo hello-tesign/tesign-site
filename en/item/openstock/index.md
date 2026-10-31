@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/openstock/
 - JSON: https://tesign.com/en/item/openstock/index.json
 - Korean Markdown: https://tesign.com/item/openstock/index.md
-- Generated: 2026-10-30 02:29 UTC
+- Generated: 2026-10-31 02:30 UTC
 
 ## RANKS
 
-- FINANCE #5 (As of 2026-10-29 11:00 UTC)
+- FINANCE #5 (As of 2026-10-30 22:00 UTC)
 
 ## Numbers
 
-- 20,914 stars — checked on GitHub 2026-10-29 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-29 11:00 UTC)
+- 20,991 stars — checked on GitHub 2026-10-31 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-30 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -35,9 +35,9 @@
 - Last commit: 2026-10-25 15:14 UTC
 - Latest release: v2026.10.25 (2026-10-25)
 - Contributors: 21
-- Open issues (incl. PRs): 6
+- Open issues (incl. PRs): 8
 - Made by: an organization
-- Checked on GitHub: 2026-10-29 02:18 UTC
+- Checked on GitHub: 2026-10-31 02:18 UTC
 
 ## TESIGN TAKE
 

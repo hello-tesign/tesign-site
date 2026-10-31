@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/openanalytics/
 - JSON: https://tesign.com/en/item/openanalytics/index.json
 - Korean Markdown: https://tesign.com/item/openanalytics/index.md
-- Generated: 2026-10-30 02:29 UTC
+- Generated: 2026-10-31 02:30 UTC
 
 ## Numbers
 
-- 643 stars — checked on GitHub 2026-10-29 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-29 11:00 UTC)
+- 642 stars — checked on GitHub 2026-10-31 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-30 22:00 UTC)
 - 10 Show HN points — observed 2026-09-13 14:24 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -32,9 +32,9 @@
 - Last commit: 2026-10-22 08:40 UTC
 - Latest release: v0.8.0 (2026-09-19)
 - Contributors: 4
-- Open issues (incl. PRs): 5
+- Open issues (incl. PRs): 6
 - Made by: an organization
-- Checked on GitHub: 2026-10-29 02:18 UTC
+- Checked on GitHub: 2026-10-31 02:17 UTC
 
 ## Signals and evidence
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-30T02:29:59.706Z",
+  "generated_at": "2026-10-31T02:30:02.782Z",
   "lang": "ko",
   "slug": "agent-memory",
   "url": "https://tesign.com/item/agent-memory/",
@@ -113,14 +113,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-29T11:00:00.000Z",
-    "stars": 4372,
+    "as_of": "2026-10-30T22:00:00.000Z",
+    "stars": 4382,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-29T02:16:43.936Z",
+    "stars_checked_at": "2026-10-31T02:16:42.761Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 2,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -131,7 +131,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -147,14 +147,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-27T16:26:26.000Z",
+    "pushed_at": "2026-10-30T14:02:49.000Z",
     "owner_type": "Organization",
-    "open_issues": 42,
-    "contributors": 12,
+    "open_issues": 17,
+    "contributors": 19,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-10-29T02:16:43.936Z",
-    "core_checked_at": "2026-10-29T02:16:43.936Z"
+    "checked_at": "2026-10-31T02:16:42.761Z",
+    "core_checked_at": "2026-10-31T02:16:42.761Z"
   },
   "signals": [],
   "images": {

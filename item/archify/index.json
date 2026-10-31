@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-30T02:29:59.706Z",
+  "generated_at": "2026-10-31T02:30:02.782Z",
   "lang": "ko",
   "slug": "archify",
   "url": "https://tesign.com/item/archify/",
@@ -106,14 +106,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-29T11:00:00.000Z",
-    "stars": 91031,
+    "as_of": "2026-10-30T22:00:00.000Z",
+    "stars": 91858,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-29T02:16:34.650Z",
-    "stars_observed_since_check": 2,
-    "star_delta_24h": 4,
-    "star_delta_7d": 25,
-    "star_delta_30d": 30,
+    "stars_checked_at": "2026-10-31T02:16:33.642Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
+    "star_delta_7d": 11,
+    "star_delta_30d": 11,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -122,14 +122,14 @@
       null,
       null,
       null,
-      7,
-      12,
+      null,
       null,
       null,
       5,
       2,
       null,
-      4
+      4,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -139,8 +139,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-29T11:00:00.000Z",
-    "all_time": 40,
+    "as_of": "2026-10-30T22:00:00.000Z",
+    "all_time": 38,
     "rising": {
       "24h": null,
       "7d": null,
@@ -160,9 +160,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-29T01:34:25.000Z",
+    "pushed_at": "2026-10-31T02:05:18.000Z",
     "owner_type": "User",
-    "open_issues": 263,
+    "open_issues": 270,
     "contributors": 92,
     "releases_count": 23,
     "latest_release": {
@@ -170,8 +170,8 @@
       "published_at": "2026-10-19T00:43:00.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-29T02:16:34.650Z",
-    "core_checked_at": "2026-10-29T02:16:34.650Z"
+    "checked_at": "2026-10-31T02:16:33.642Z",
+    "core_checked_at": "2026-10-31T02:16:33.642Z"
   },
   "signals": [],
   "images": {

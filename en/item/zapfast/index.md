@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/zapfast/
 - JSON: https://tesign.com/en/item/zapfast/index.json
 - Korean Markdown: https://tesign.com/item/zapfast/index.md
-- Generated: 2026-10-30 02:29 UTC
+- Generated: 2026-10-31 02:30 UTC
 
 ## RANKS
 
-- SOCIAL #20 (As of 2026-10-29 11:00 UTC)
+- SOCIAL #19 (As of 2026-10-30 22:00 UTC)
 
 ## Numbers
 
-- 2,280 stars — checked on GitHub 2026-10-29 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-29 11:00 UTC)
-- 4 Show HN points — observed 2026-10-29 12:46 UTC
+- 2,315 stars — checked on GitHub 2026-10-31 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-30 22:00 UTC)
+- 4 Show HN points — observed 2026-10-30 09:25 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,12 +33,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-29 02:14 UTC
+- Last commit: 2026-10-29 07:27 UTC
 - Latest release: v0.20.1 (2026-10-24)
 - Contributors: 77
-- Open issues (incl. PRs): 123
+- Open issues (incl. PRs): 156
 - Made by: an individual
-- Checked on GitHub: 2026-10-29 02:18 UTC
+- Checked on GitHub: 2026-10-31 02:18 UTC
 
 ## Signals and evidence
 

@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/diplay/
 - JSON: https://tesign.com/en/item/diplay/index.json
 - Korean Markdown: https://tesign.com/item/diplay/index.md
-- Generated: 2026-10-30 02:29 UTC
+- Generated: 2026-10-31 02:30 UTC
 
 ## RANKS
 
-- HARDWARE #1 (As of 2026-10-29 11:00 UTC)
+- HARDWARE #1 (As of 2026-10-30 22:00 UTC)
 
 ## Numbers
 
-- 12,693 stars — checked on GitHub 2026-10-29 02:15 UTC
-- 7-day +3 observed via GH Archive (as of 2026-10-29 11:00 UTC)
+- 12,899 stars — checked on GitHub 2026-10-31 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-30 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -35,9 +35,9 @@
 - Last commit: 2026-10-28 09:01 UTC
 - Latest release: v0.2.22 (2026-10-28) · pre-release
 - Contributors: 64
-- Open issues (incl. PRs): 295
+- Open issues (incl. PRs): 321
 - Made by: an individual
-- Checked on GitHub: 2026-10-29 02:15 UTC
+- Checked on GitHub: 2026-10-31 02:15 UTC
 
 ## TESIGN TAKE
 

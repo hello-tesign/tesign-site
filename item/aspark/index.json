@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-30T02:29:59.706Z",
+  "generated_at": "2026-10-31T02:30:02.782Z",
   "lang": "ko",
   "slug": "aspark",
   "url": "https://tesign.com/item/aspark/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-29T11:00:00.000Z",
+    "as_of": "2026-10-30T22:00:00.000Z",
     "stars": 24,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-29T02:15:38.959Z",
+    "stars_checked_at": "2026-10-31T02:15:38.480Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-28T20:32:32.000Z",
+    "pushed_at": "2026-10-29T07:44:18.000Z",
     "owner_type": "User",
-    "open_issues": 21,
+    "open_issues": 20,
     "contributors": 8,
-    "releases_count": 17,
+    "releases_count": 18,
     "latest_release": {
-      "tag": "v0.16.0",
-      "published_at": "2026-10-27T19:52:52.000Z",
+      "tag": "v0.17.0",
+      "published_at": "2026-10-29T07:47:50.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-29T02:15:38.959Z",
-    "core_checked_at": "2026-10-29T02:15:38.959Z"
+    "checked_at": "2026-10-31T02:15:38.480Z",
+    "core_checked_at": "2026-10-31T02:15:38.480Z"
   },
   "signals": [
     {

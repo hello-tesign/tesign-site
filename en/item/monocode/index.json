@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-30T02:29:59.706Z",
+  "generated_at": "2026-10-31T02:30:02.782Z",
   "lang": "en",
   "slug": "monocode",
   "url": "https://tesign.com/en/item/monocode/",
@@ -115,14 +115,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-29T11:00:00.000Z",
-    "stars": 3469,
+    "as_of": "2026-10-30T22:00:00.000Z",
+    "stars": 3495,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-29T02:17:52.547Z",
+    "stars_checked_at": "2026-10-31T02:17:49.985Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 4,
-    "star_delta_30d": 4,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -132,7 +132,7 @@
       null,
       null,
       null,
-      4,
+      null,
       null,
       null,
       null,
@@ -149,18 +149,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-28T23:02:10.000Z",
+    "pushed_at": "2026-10-30T22:57:54.000Z",
     "owner_type": "User",
-    "open_issues": 580,
+    "open_issues": 599,
     "contributors": 85,
-    "releases_count": 81,
+    "releases_count": 83,
     "latest_release": {
-      "tag": "native-v0.16.0-preview.9",
-      "published_at": "2026-10-28T16:43:53.000Z",
+      "tag": "native-v0.16.0-preview.11",
+      "published_at": "2026-10-30T23:31:32.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-10-29T02:17:52.547Z",
-    "core_checked_at": "2026-10-29T02:17:52.547Z"
+    "checked_at": "2026-10-31T02:17:49.985Z",
+    "core_checked_at": "2026-10-31T02:17:49.985Z"
   },
   "signals": [
     {

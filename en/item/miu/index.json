@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-30T02:29:59.706Z",
+  "generated_at": "2026-10-31T02:30:02.782Z",
   "lang": "en",
   "slug": "miu",
   "url": "https://tesign.com/en/item/miu/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-29T11:00:00.000Z",
-    "stars": 245,
+    "as_of": "2026-10-30T22:00:00.000Z",
+    "stars": 248,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-29T02:15:53.648Z",
+    "stars_checked_at": "2026-10-31T02:15:53.838Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-28T16:25:12.000Z",
+    "pushed_at": "2026-10-31T02:09:06.000Z",
     "owner_type": "User",
     "open_issues": 11,
     "contributors": 2,
-    "releases_count": 43,
+    "releases_count": 45,
     "latest_release": {
-      "tag": "v1.0.42",
-      "published_at": "2026-10-28T16:25:14.000Z",
+      "tag": "v1.0.44",
+      "published_at": "2026-10-29T16:34:04.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-29T02:15:53.648Z",
-    "core_checked_at": "2026-10-29T02:15:53.648Z"
+    "checked_at": "2026-10-31T02:15:53.838Z",
+    "core_checked_at": "2026-10-31T02:15:53.838Z"
   },
   "signals": [],
   "images": {

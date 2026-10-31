@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-30T02:29:59.706Z",
+  "generated_at": "2026-10-31T02:30:02.782Z",
   "lang": "en",
   "slug": "gods-eye-view",
   "url": "https://tesign.com/en/item/gods-eye-view/",
@@ -118,11 +118,11 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-29T11:00:00.000Z",
-    "stars": 60951,
+    "as_of": "2026-10-30T22:00:00.000Z",
+    "stars": 61550,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-29T02:16:24.164Z",
-    "stars_observed_since_check": 2,
+    "stars_checked_at": "2026-10-31T02:16:23.365Z",
+    "stars_observed_since_check": 0,
     "star_delta_24h": 2,
     "star_delta_7d": 12,
     "star_delta_30d": 12,
@@ -136,11 +136,11 @@
       null,
       null,
       4,
-      4,
       2,
       null,
       null,
       null,
+      4,
       2
     ],
     "hf_likes": null,
@@ -151,8 +151,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-29T11:00:00.000Z",
-    "all_time": 103,
+    "as_of": "2026-10-30T22:00:00.000Z",
+    "all_time": 101,
     "rising": {
       "24h": null,
       "7d": null,
@@ -172,18 +172,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-29T00:43:28.000Z",
+    "pushed_at": "2026-10-30T21:02:11.000Z",
     "owner_type": "User",
-    "open_issues": 427,
-    "contributors": 97,
+    "open_issues": 419,
+    "contributors": 98,
     "releases_count": 5,
     "latest_release": {
       "tag": "v0.3.0",
       "published_at": "2026-10-28T05:19:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-29T02:16:24.164Z",
-    "core_checked_at": "2026-10-29T02:16:24.164Z"
+    "checked_at": "2026-10-31T02:16:23.365Z",
+    "core_checked_at": "2026-10-31T02:16:23.365Z"
   },
   "signals": [],
   "images": {
