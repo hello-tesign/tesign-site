@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/status-trio/
 - JSON: https://tesign.com/en/item/status-trio/index.json
 - Korean Markdown: https://tesign.com/item/status-trio/index.md
-- Generated: 2026-10-31 02:30 UTC
+- Generated: 2026-11-01 02:30 UTC
 
 ## Numbers
 
-- 1,000 stars — checked on GitHub 2026-10-31 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-10-30 22:00 UTC)
+- 1,181 stars — checked on GitHub 2026-11-01 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-10-31 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-10-31 00:44 UTC
+- Last commit: 2026-10-31 17:22 UTC
 - Latest release: v1.8.0 (2026-10-29)
-- Contributors: 10
-- Open issues (incl. PRs): 11
+- Contributors: 11
+- Open issues (incl. PRs): 17
 - Made by: an individual
-- Checked on GitHub: 2026-10-31 02:16 UTC
+- Checked on GitHub: 2026-11-01 02:16 UTC
 
 ## TESIGN TAKE
 

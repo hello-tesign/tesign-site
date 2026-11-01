@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-31T02:30:02.782Z",
+  "generated_at": "2026-11-01T02:30:01.694Z",
   "lang": "en",
   "slug": "ponytail",
   "url": "https://tesign.com/en/item/ponytail/",
@@ -109,14 +109,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-30T22:00:00.000Z",
-    "stars": 181001,
+    "as_of": "2026-10-31T21:00:00.000Z",
+    "stars": 181553,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-31T02:16:25.487Z",
+    "stars_checked_at": "2026-11-01T02:16:22.371Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 25,
-    "star_delta_30d": 25,
+    "star_delta_7d": 23,
+    "star_delta_30d": 23,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -127,11 +127,11 @@
       null,
       null,
       2,
-      2,
       5,
       4,
       4,
       8,
+      null,
       null
     ],
     "hf_likes": null,
@@ -142,7 +142,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-30T22:00:00.000Z",
+    "as_of": "2026-10-31T21:00:00.000Z",
     "all_time": 7,
     "rising": {
       "24h": null,
@@ -165,7 +165,7 @@
   "activity": {
     "pushed_at": "2026-10-29T11:59:31.000Z",
     "owner_type": "User",
-    "open_issues": 140,
+    "open_issues": 146,
     "contributors": 133,
     "releases_count": 30,
     "latest_release": {
@@ -173,8 +173,8 @@
       "published_at": "2026-10-29T03:11:08.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-31T02:16:25.487Z",
-    "core_checked_at": "2026-10-31T02:16:25.487Z"
+    "checked_at": "2026-11-01T02:16:22.371Z",
+    "core_checked_at": "2026-11-01T02:16:22.371Z"
   },
   "signals": [],
   "images": {

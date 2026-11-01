@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-31T02:30:02.782Z",
+  "generated_at": "2026-11-01T02:30:01.694Z",
   "lang": "ko",
   "slug": "colibri",
   "url": "https://tesign.com/item/colibri/",
@@ -125,10 +125,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-30T22:00:00.000Z",
-    "stars": 45218,
+    "as_of": "2026-10-31T21:00:00.000Z",
+    "stars": 45400,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-31T02:16:28.396Z",
+    "stars_checked_at": "2026-11-01T02:16:25.271Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 4,
@@ -145,9 +145,9 @@
       null,
       null,
       null,
+      2,
+      2,
       null,
-      2,
-      2,
       null
     ],
     "hf_likes": null,
@@ -158,8 +158,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-10-30T22:00:00.000Z",
-    "all_time": 125,
+    "as_of": "2026-10-31T21:00:00.000Z",
+    "all_time": 124,
     "rising": {
       "24h": null,
       "7d": null,
@@ -174,18 +174,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-10-31T01:39:15.000Z",
+    "pushed_at": "2026-10-31T22:47:43.000Z",
     "owner_type": "User",
-    "open_issues": 171,
-    "contributors": 200,
-    "releases_count": 20,
+    "open_issues": 157,
+    "contributors": 221,
+    "releases_count": 21,
     "latest_release": {
-      "tag": "v2.0.0",
-      "published_at": "2026-10-06T20:24:40.000Z",
+      "tag": "v2.1.0",
+      "published_at": "2026-10-31T12:50:50.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-31T02:16:28.396Z",
-    "core_checked_at": "2026-10-31T02:16:28.396Z"
+    "checked_at": "2026-11-01T02:16:25.271Z",
+    "core_checked_at": "2026-11-01T02:16:25.271Z"
   },
   "signals": [
     {

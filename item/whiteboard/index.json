@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-31T02:30:02.782Z",
+  "generated_at": "2026-11-01T02:30:01.694Z",
   "lang": "ko",
   "slug": "whiteboard",
   "url": "https://tesign.com/item/whiteboard/",
@@ -92,10 +92,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-30T22:00:00.000Z",
-    "stars": 3400,
+    "as_of": "2026-10-31T21:00:00.000Z",
+    "stars": 3405,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-31T02:15:32.265Z",
+    "stars_checked_at": "2026-11-01T02:15:30.638Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -126,9 +126,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-31T01:55:21.000Z",
+    "pushed_at": "2026-10-31T15:15:59.000Z",
     "owner_type": "Organization",
-    "open_issues": 36,
+    "open_issues": 40,
     "contributors": 19,
     "releases_count": 34,
     "latest_release": {
@@ -136,8 +136,8 @@
       "published_at": "2026-10-30T21:11:26.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-31T02:15:32.265Z",
-    "core_checked_at": "2026-10-31T02:15:32.265Z"
+    "checked_at": "2026-11-01T02:15:30.638Z",
+    "core_checked_at": "2026-11-01T02:15:30.638Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-10-31T02:30:02.782Z",
+  "generated_at": "2026-11-01T02:30:01.694Z",
   "lang": "en",
   "slug": "nodeterm",
   "url": "https://tesign.com/en/item/nodeterm/",
@@ -117,10 +117,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-30T22:00:00.000Z",
-    "stars": 2213,
+    "as_of": "2026-10-31T21:00:00.000Z",
+    "stars": 2270,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-10-31T02:17:53.962Z",
+    "stars_checked_at": "2026-11-01T02:17:48.341Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -151,7 +151,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-30T22:59:18.000Z",
+    "pushed_at": "2026-10-31T22:09:03.000Z",
     "owner_type": "User",
     "open_issues": 55,
     "contributors": 53,
@@ -161,8 +161,8 @@
       "published_at": "2026-10-24T19:55:38.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-10-31T02:17:53.962Z",
-    "core_checked_at": "2026-10-31T02:17:53.962Z"
+    "checked_at": "2026-11-01T02:17:48.341Z",
+    "core_checked_at": "2026-11-01T02:17:48.341Z"
   },
   "signals": [
     {
