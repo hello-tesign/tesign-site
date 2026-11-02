@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-01T02:30:01.694Z",
+  "generated_at": "2026-11-02T02:30:00.189Z",
   "lang": "en",
   "slug": "mac-mouse-fix",
   "url": "https://tesign.com/en/item/mac-mouse-fix/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-31T21:00:00.000Z",
-    "stars": 11188,
+    "as_of": "2026-11-01T21:00:00.000Z",
+    "stars": 11193,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-01T02:15:31.640Z",
+    "stars_checked_at": "2026-11-02T02:15:31.735Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,9 +118,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-01T00:39:28.000Z",
+    "pushed_at": "2026-11-02T00:49:55.000Z",
     "owner_type": "User",
-    "open_issues": 1311,
+    "open_issues": 1312,
     "contributors": 16,
     "releases_count": 56,
     "latest_release": {
@@ -128,8 +128,8 @@
       "published_at": "2026-10-03T21:18:58.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-01T02:15:31.640Z",
-    "core_checked_at": "2026-11-01T02:15:31.640Z"
+    "checked_at": "2026-11-02T02:15:31.735Z",
+    "core_checked_at": "2026-11-02T02:15:31.735Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-01T02:30:01.694Z",
+  "generated_at": "2026-11-02T02:30:00.189Z",
   "lang": "en",
   "slug": "adrafinil",
   "url": "https://tesign.com/en/item/adrafinil/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-31T21:00:00.000Z",
+    "as_of": "2026-11-01T21:00:00.000Z",
     "stars": 521,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-01T02:17:15.282Z",
+    "stars_checked_at": "2026-11-02T02:17:17.988Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,7 +147,7 @@
   "activity": {
     "pushed_at": "2026-10-31T21:07:31.000Z",
     "owner_type": "User",
-    "open_issues": 0,
+    "open_issues": 1,
     "contributors": 9,
     "releases_count": 22,
     "latest_release": {
@@ -155,8 +155,8 @@
       "published_at": "2026-10-31T21:07:32.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-01T02:17:15.282Z",
-    "core_checked_at": "2026-11-01T02:17:15.282Z"
+    "checked_at": "2026-11-02T02:17:17.988Z",
+    "core_checked_at": "2026-11-02T02:17:17.988Z"
   },
   "signals": [
     {

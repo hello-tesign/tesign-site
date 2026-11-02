@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-01T02:30:01.694Z",
+  "generated_at": "2026-11-02T02:30:00.189Z",
   "lang": "ko",
   "slug": "llm-space",
   "url": "https://tesign.com/item/llm-space/",
@@ -109,10 +109,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-31T21:00:00.000Z",
-    "stars": 2081,
+    "as_of": "2026-11-01T21:00:00.000Z",
+    "stars": 2083,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-01T02:17:18.267Z",
+    "stars_checked_at": "2026-11-02T02:17:21.110Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -143,9 +143,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-12T08:54:10.000Z",
+    "pushed_at": "2026-11-01T15:16:31.000Z",
     "owner_type": "Organization",
-    "open_issues": 22,
+    "open_issues": 24,
     "contributors": 26,
     "releases_count": 46,
     "latest_release": {
@@ -153,8 +153,8 @@
       "published_at": "2026-10-12T08:53:29.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-01T02:17:18.267Z",
-    "core_checked_at": "2026-11-01T02:17:18.267Z"
+    "checked_at": "2026-11-02T02:17:21.110Z",
+    "core_checked_at": "2026-11-02T02:17:21.110Z"
   },
   "signals": [
     {

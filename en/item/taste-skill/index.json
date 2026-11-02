@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-01T02:30:01.694Z",
+  "generated_at": "2026-11-02T02:30:00.189Z",
   "lang": "en",
   "slug": "taste-skill",
   "url": "https://tesign.com/en/item/taste-skill/",
@@ -100,14 +100,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-31T21:00:00.000Z",
-    "stars": 107085,
+    "as_of": "2026-11-01T21:00:00.000Z",
+    "stars": 107851,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-01T02:16:49.979Z",
+    "stars_checked_at": "2026-11-02T02:16:51.692Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 10,
-    "star_delta_7d": 14,
-    "star_delta_30d": 14,
+    "star_delta_24h": 3,
+    "star_delta_7d": 15,
+    "star_delta_30d": 15,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -117,13 +117,13 @@
       null,
       null,
       null,
-      2,
       null,
       null,
       null,
       null,
       6,
-      6
+      6,
+      3
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -133,7 +133,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-10-31T21:00:00.000Z",
+    "as_of": "2026-11-01T21:00:00.000Z",
     "all_time": 27,
     "rising": {
       "24h": null,
@@ -156,7 +156,7 @@
   "activity": {
     "pushed_at": "2026-10-31T07:59:58.000Z",
     "owner_type": "User",
-    "open_issues": 8,
+    "open_issues": 9,
     "contributors": 24,
     "releases_count": 7,
     "latest_release": {
@@ -164,8 +164,8 @@
       "published_at": "2026-10-24T23:44:17.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-01T02:16:49.979Z",
-    "core_checked_at": "2026-11-01T02:16:49.979Z"
+    "checked_at": "2026-11-02T02:16:51.692Z",
+    "core_checked_at": "2026-11-02T02:16:51.692Z"
   },
   "signals": [],
   "images": {

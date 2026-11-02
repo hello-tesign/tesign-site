@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-01T02:30:01.694Z",
+  "generated_at": "2026-11-02T02:30:00.189Z",
   "lang": "en",
   "slug": "bongocat",
   "url": "https://tesign.com/en/item/bongocat/",
@@ -106,10 +106,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-10-31T21:00:00.000Z",
-    "stars": 3953,
+    "as_of": "2026-11-01T21:00:00.000Z",
+    "stars": 3973,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-01T02:16:48.129Z",
+    "stars_checked_at": "2026-11-02T02:16:49.768Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -150,8 +150,8 @@
       "published_at": "2026-09-26T12:41:28.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-01T02:16:48.129Z",
-    "core_checked_at": "2026-11-01T02:16:48.129Z"
+    "checked_at": "2026-11-02T02:16:49.768Z",
+    "core_checked_at": "2026-11-02T02:16:49.768Z"
   },
   "signals": [],
   "images": {
