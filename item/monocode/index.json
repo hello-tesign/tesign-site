@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-02T02:30:00.189Z",
+  "generated_at": "2026-11-03T02:30:03.709Z",
   "lang": "ko",
   "slug": "monocode",
   "url": "https://tesign.com/item/monocode/",
@@ -99,7 +99,7 @@
     "note": null,
     "open_source": true
   },
-  "language": "TypeScript",
+  "language": "Rust",
   "source_urls": {
     "canonical": "https://usemono.dev/",
     "github": "https://github.com/hardbeat920/monocode",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-01T21:00:00.000Z",
-    "stars": 3506,
+    "as_of": "2026-11-02T21:00:00.000Z",
+    "stars": 3515,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-02T02:17:47.733Z",
+    "stars_checked_at": "2026-11-03T02:18:11.606Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -149,18 +149,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-01T13:34:20.000Z",
+    "pushed_at": "2026-11-02T20:58:18.000Z",
     "owner_type": "User",
-    "open_issues": 627,
-    "contributors": 85,
+    "open_issues": 625,
+    "contributors": 86,
     "releases_count": 84,
     "latest_release": {
       "tag": "native-v0.16.0-preview.12",
       "published_at": "2026-10-31T18:32:45.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-11-02T02:17:47.733Z",
-    "core_checked_at": "2026-11-02T02:17:47.733Z"
+    "checked_at": "2026-11-03T02:18:11.606Z",
+    "core_checked_at": "2026-11-03T02:18:11.606Z"
   },
   "signals": [
     {

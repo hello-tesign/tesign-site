@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-02T02:30:00.189Z",
+  "generated_at": "2026-11-03T02:30:03.709Z",
   "lang": "en",
   "slug": "capcut-cli",
   "url": "https://tesign.com/en/item/capcut-cli/",
@@ -87,10 +87,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-01T21:00:00.000Z",
-    "stars": 1083,
+    "as_of": "2026-11-02T21:00:00.000Z",
+    "stars": 1095,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-02T02:15:32.747Z",
+    "stars_checked_at": "2026-11-03T02:15:39.587Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -121,18 +121,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-01T01:54:28.000Z",
+    "pushed_at": "2026-11-02T11:54:17.000Z",
     "owner_type": "User",
-    "open_issues": 3,
-    "contributors": 13,
+    "open_issues": 4,
+    "contributors": 14,
     "releases_count": 42,
     "latest_release": {
       "tag": "v0.32.0",
       "published_at": "2026-10-29T19:47:12.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-02T02:15:32.747Z",
-    "core_checked_at": "2026-11-02T02:15:32.747Z"
+    "checked_at": "2026-11-03T02:15:39.587Z",
+    "core_checked_at": "2026-11-03T02:15:39.587Z"
   },
   "signals": [],
   "images": {

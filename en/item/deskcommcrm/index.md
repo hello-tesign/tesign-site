@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/deskcommcrm/
 - JSON: https://tesign.com/en/item/deskcommcrm/index.json
 - Korean Markdown: https://tesign.com/item/deskcommcrm/index.md
-- Generated: 2026-11-02 02:30 UTC
+- Generated: 2026-11-03 02:30 UTC
 
 ## RANKS
 
-- COMMERCE #3 (As of 2026-11-01 21:00 UTC)
+- COMMERCE #3 (As of 2026-11-02 21:00 UTC)
 
 ## Numbers
 
-- 5,044 stars — checked on GitHub 2026-11-02 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-01 21:00 UTC)
+- 5,080 stars — checked on GitHub 2026-11-03 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-02 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-02 00:18 UTC
-- Latest release: v1.98.0 (2026-11-01)
-- Contributors: 206
-- Open issues (incl. PRs): 349
+- Last commit: 2026-11-03 00:47 UTC
+- Latest release: v1.99.0 (2026-11-02)
+- Contributors: 207
+- Open issues (incl. PRs): 354
 - Made by: an individual
-- Checked on GitHub: 2026-11-02 02:16 UTC
+- Checked on GitHub: 2026-11-03 02:16 UTC
 
 ## TESIGN TAKE
 

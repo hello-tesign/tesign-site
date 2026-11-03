@@ -5,12 +5,12 @@
 - 페이지: https://tesign.com/item/monocode/
 - JSON: https://tesign.com/item/monocode/index.json
 - 영어 마크다운: https://tesign.com/en/item/monocode/index.md
-- 생성 시각: 2026-11-02 02:30 UTC
+- 생성 시각: 2026-11-03 02:30 UTC
 
 ## 숫자
 
-- 별 3,506 — GitHub에서 2026-11-02 02:17 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-11-01 21:00 UTC)
+- 별 3,515 — GitHub에서 2026-11-03 02:18 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-11-02 21:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -18,7 +18,7 @@
 - 라이선스: MIT (허용적) — https://spdx.org/licenses/MIT.html
 - 사용 범위: 상업 이용·수정·재배포 가능. 저작권 고지는 유지.
 - 오픈소스: 예
-- 언어: TypeScript
+- 언어: Rust
 - 플랫폼: macos · linux · windows
 - 분류: 개발 도구 · AI
 - 태그: coding-agents · tauri · desktop · claude-code · codex · gui
@@ -28,12 +28,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-11-01 13:34 UTC
+- 마지막 커밋: 2026-11-02 20:58 UTC
 - 최근 릴리스: native-v0.16.0-preview.12 (2026-10-31) · 프리릴리스
-- 기여자: 85
-- 열린 이슈 (PR 포함): 627
+- 기여자: 86
+- 열린 이슈 (PR 포함): 625
 - 만든 이: 개인
-- GitHub 확인 시각: 2026-11-02 02:17 UTC
+- GitHub 확인 시각: 2026-11-03 02:18 UTC
 
 ## 선정 신호와 근거
 

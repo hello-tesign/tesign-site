@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-02T02:30:00.189Z",
+  "generated_at": "2026-11-03T02:30:03.709Z",
   "lang": "ko",
   "slug": "strata",
   "url": "https://tesign.com/item/strata/",
@@ -110,10 +110,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-01T21:00:00.000Z",
-    "stars": 1527,
+    "as_of": "2026-11-02T21:00:00.000Z",
+    "stars": 1530,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-02T02:17:56.101Z",
+    "stars_checked_at": "2026-11-03T02:18:20.666Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -144,18 +144,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-02T00:09:09.000Z",
+    "pushed_at": "2026-11-03T01:14:40.000Z",
     "owner_type": "Organization",
-    "open_issues": 47,
-    "contributors": 58,
+    "open_issues": 54,
+    "contributors": 59,
     "releases_count": 69,
     "latest_release": {
       "tag": "v1.2.0-nightly.20261101",
       "published_at": "2026-11-01T06:12:59.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-11-02T02:17:56.101Z",
-    "core_checked_at": "2026-11-02T02:17:56.101Z"
+    "checked_at": "2026-11-03T02:18:20.666Z",
+    "core_checked_at": "2026-11-03T02:18:20.666Z"
   },
   "signals": [
     {
