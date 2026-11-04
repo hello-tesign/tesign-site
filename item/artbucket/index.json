@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-03T02:30:03.709Z",
+  "generated_at": "2026-11-04T02:30:01.763Z",
   "lang": "ko",
   "slug": "artbucket",
   "url": "https://tesign.com/item/artbucket/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-02T21:00:00.000Z",
+    "as_of": "2026-11-03T21:00:00.000Z",
     "stars": 31,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-03T02:18:55.170Z",
+    "stars_checked_at": "2026-11-04T02:18:41.036Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,9 +119,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-01T22:27:36.000Z",
+    "pushed_at": "2026-11-03T13:04:18.000Z",
     "owner_type": "Organization",
-    "open_issues": 16,
+    "open_issues": 17,
     "contributors": 9,
     "releases_count": 40,
     "latest_release": {
@@ -129,8 +129,8 @@
       "published_at": "2026-10-15T15:29:37.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-03T02:18:55.170Z",
-    "core_checked_at": "2026-11-03T02:18:55.170Z"
+    "checked_at": "2026-11-04T02:18:41.036Z",
+    "core_checked_at": "2026-11-04T02:18:41.036Z"
   },
   "signals": [
     {

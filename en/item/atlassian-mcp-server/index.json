@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-03T02:30:03.709Z",
+  "generated_at": "2026-11-04T02:30:01.763Z",
   "lang": "en",
   "slug": "atlassian-mcp-server",
   "url": "https://tesign.com/en/item/atlassian-mcp-server/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-02T21:00:00.000Z",
-    "stars": 1140,
+    "as_of": "2026-11-03T21:00:00.000Z",
+    "stars": 1142,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-03T02:16:11.584Z",
+    "stars_checked_at": "2026-11-04T02:16:09.025Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,14 +119,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-29T18:23:30.000Z",
+    "pushed_at": "2026-11-03T22:02:59.000Z",
     "owner_type": "Organization",
-    "open_issues": 112,
+    "open_issues": 113,
     "contributors": 18,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-03T02:16:11.584Z",
-    "core_checked_at": "2026-11-03T02:16:11.584Z"
+    "checked_at": "2026-11-04T02:16:09.025Z",
+    "core_checked_at": "2026-11-04T02:16:09.025Z"
   },
   "signals": [],
   "images": {

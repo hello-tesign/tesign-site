@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-03T02:30:03.709Z",
+  "generated_at": "2026-11-04T02:30:01.763Z",
   "lang": "en",
   "slug": "open-code-review",
   "url": "https://tesign.com/en/item/open-code-review/",
@@ -119,10 +119,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-02T21:00:00.000Z",
-    "stars": 49301,
+    "as_of": "2026-11-03T21:00:00.000Z",
+    "stars": 49368,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-03T02:16:44.434Z",
+    "stars_checked_at": "2026-11-04T02:16:39.383Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -152,8 +152,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-02T21:00:00.000Z",
-    "all_time": 128,
+    "as_of": "2026-11-03T21:00:00.000Z",
+    "all_time": 127,
     "rising": {
       "24h": null,
       "7d": null,
@@ -168,18 +168,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-02T15:05:55.000Z",
+    "pushed_at": "2026-11-03T14:29:42.000Z",
     "owner_type": "Organization",
-    "open_issues": 369,
-    "contributors": 205,
-    "releases_count": 142,
+    "open_issues": 356,
+    "contributors": 206,
+    "releases_count": 143,
     "latest_release": {
-      "tag": "v1.13.4",
-      "published_at": "2026-11-02T15:19:48.000Z",
+      "tag": "v1.13.5",
+      "published_at": "2026-11-03T14:43:14.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-03T02:16:44.434Z",
-    "core_checked_at": "2026-11-03T02:16:44.434Z"
+    "checked_at": "2026-11-04T02:16:39.383Z",
+    "core_checked_at": "2026-11-04T02:16:39.383Z"
   },
   "signals": [],
   "images": {

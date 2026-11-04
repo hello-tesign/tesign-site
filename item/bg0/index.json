@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-03T02:30:03.709Z",
+  "generated_at": "2026-11-04T02:30:01.763Z",
   "lang": "ko",
   "slug": "bg0",
   "url": "https://tesign.com/item/bg0/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-02T21:00:00.000Z",
-    "stars": 487,
+    "as_of": "2026-11-03T21:00:00.000Z",
+    "stars": 488,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-03T02:18:40.694Z",
+    "stars_checked_at": "2026-11-04T02:18:27.401Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -154,8 +154,8 @@
     "contributors": 6,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-03T02:18:40.694Z",
-    "core_checked_at": "2026-11-03T02:18:40.694Z"
+    "checked_at": "2026-11-04T02:18:27.401Z",
+    "core_checked_at": "2026-11-04T02:18:27.401Z"
   },
   "signals": [
     {

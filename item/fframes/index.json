@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-03T02:30:03.709Z",
+  "generated_at": "2026-11-04T02:30:01.763Z",
   "lang": "ko",
   "slug": "fframes",
   "url": "https://tesign.com/item/fframes/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-02T21:00:00.000Z",
-    "stars": 3142,
+    "as_of": "2026-11-03T21:00:00.000Z",
+    "stars": 3162,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-03T02:15:19.404Z",
+    "stars_checked_at": "2026-11-04T02:15:20.041Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,9 +118,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-02T03:00:29.000Z",
+    "pushed_at": "2026-11-03T18:41:40.000Z",
     "owner_type": "User",
-    "open_issues": 16,
+    "open_issues": 19,
     "contributors": 26,
     "releases_count": 5,
     "latest_release": {
@@ -128,8 +128,8 @@
       "published_at": "2026-10-20T20:16:29.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-03T02:15:19.404Z",
-    "core_checked_at": "2026-11-03T02:15:19.404Z"
+    "checked_at": "2026-11-04T02:15:20.041Z",
+    "core_checked_at": "2026-11-04T02:15:20.041Z"
   },
   "signals": [],
   "images": {

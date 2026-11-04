@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-03T02:30:03.709Z",
+  "generated_at": "2026-11-04T02:30:01.763Z",
   "lang": "ko",
   "slug": "agent-memory",
   "url": "https://tesign.com/item/agent-memory/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-02T21:00:00.000Z",
-    "stars": 4299,
+    "as_of": "2026-11-03T21:00:00.000Z",
+    "stars": 4301,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-03T02:16:55.416Z",
+    "stars_checked_at": "2026-11-04T02:16:49.742Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,14 +147,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-30T14:02:49.000Z",
+    "pushed_at": "2026-11-03T17:53:53.000Z",
     "owner_type": "Organization",
-    "open_issues": 20,
-    "contributors": 19,
+    "open_issues": 14,
+    "contributors": 21,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-03T02:16:55.416Z",
-    "core_checked_at": "2026-11-03T02:16:55.416Z"
+    "checked_at": "2026-11-04T02:16:49.742Z",
+    "core_checked_at": "2026-11-04T02:16:49.742Z"
   },
   "signals": [],
   "images": {

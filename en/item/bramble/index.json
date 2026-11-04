@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-03T02:30:03.709Z",
+  "generated_at": "2026-11-04T02:30:01.763Z",
   "lang": "en",
   "slug": "bramble",
   "url": "https://tesign.com/en/item/bramble/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-02T21:00:00.000Z",
-    "stars": 505,
+    "as_of": "2026-11-03T21:00:00.000Z",
+    "stars": 511,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-03T02:18:36.375Z",
+    "stars_checked_at": "2026-11-04T02:18:23.385Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -146,18 +146,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-03T02:12:32.000Z",
+    "pushed_at": "2026-11-03T13:50:03.000Z",
     "owner_type": "User",
-    "open_issues": 43,
+    "open_issues": 41,
     "contributors": 9,
-    "releases_count": 138,
+    "releases_count": 142,
     "latest_release": {
-      "tag": "1.35.0-chromium",
-      "published_at": "2026-10-31T00:40:47.000Z",
+      "tag": "1.36.0-chromium",
+      "published_at": "2026-11-03T03:31:11.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-03T02:18:36.375Z",
-    "core_checked_at": "2026-11-03T02:18:36.375Z"
+    "checked_at": "2026-11-04T02:18:23.385Z",
+    "core_checked_at": "2026-11-04T02:18:23.385Z"
   },
   "signals": [
     {
