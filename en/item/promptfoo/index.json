@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-04T02:30:01.763Z",
+  "generated_at": "2026-11-05T02:30:01.990Z",
   "lang": "en",
   "slug": "promptfoo",
   "url": "https://tesign.com/en/item/promptfoo/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-03T21:00:00.000Z",
-    "stars": 26805,
+    "as_of": "2026-11-04T21:00:00.000Z",
+    "stars": 26850,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-04T02:16:05.651Z",
+    "stars_checked_at": "2026-11-05T02:16:01.914Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,9 +119,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-03T08:29:35.000Z",
+    "pushed_at": "2026-11-05T02:13:31.000Z",
     "owner_type": "Organization",
-    "open_issues": 911,
+    "open_issues": 920,
     "contributors": 395,
     "releases_count": 432,
     "latest_release": {
@@ -129,8 +129,8 @@
       "published_at": "2026-10-25T01:53:11.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-04T02:16:05.651Z",
-    "core_checked_at": "2026-11-04T02:16:05.651Z"
+    "checked_at": "2026-11-05T02:16:01.914Z",
+    "core_checked_at": "2026-11-05T02:16:01.914Z"
   },
   "signals": [],
   "images": {

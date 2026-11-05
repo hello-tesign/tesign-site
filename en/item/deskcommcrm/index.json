@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-04T02:30:01.763Z",
+  "generated_at": "2026-11-05T02:30:01.990Z",
   "lang": "en",
   "slug": "deskcommcrm",
   "url": "https://tesign.com/en/item/deskcommcrm/",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-03T21:00:00.000Z",
-    "stars": 5112,
+    "as_of": "2026-11-04T21:00:00.000Z",
+    "stars": 5149,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-04T02:16:46.808Z",
+    "stars_checked_at": "2026-11-05T02:16:42.560Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,7 +148,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-03T21:00:00.000Z",
+    "as_of": "2026-11-04T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -164,18 +164,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-04T01:34:48.000Z",
+    "pushed_at": "2026-11-05T01:54:00.000Z",
     "owner_type": "User",
-    "open_issues": 378,
-    "contributors": 210,
-    "releases_count": 124,
+    "open_issues": 422,
+    "contributors": 214,
+    "releases_count": 125,
     "latest_release": {
-      "tag": "v1.99.0",
-      "published_at": "2026-11-02T19:41:17.000Z",
+      "tag": "v1.100.0",
+      "published_at": "2026-11-04T04:36:17.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-04T02:16:46.808Z",
-    "core_checked_at": "2026-11-04T02:16:46.808Z"
+    "checked_at": "2026-11-05T02:16:42.560Z",
+    "core_checked_at": "2026-11-05T02:16:42.560Z"
   },
   "signals": [],
   "images": {

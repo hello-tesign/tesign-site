@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-04T02:30:01.763Z",
+  "generated_at": "2026-11-05T02:30:01.990Z",
   "lang": "ko",
   "slug": "pi-desktop",
   "url": "https://tesign.com/item/pi-desktop/",
@@ -105,14 +105,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-03T21:00:00.000Z",
-    "stars": 7646,
+    "as_of": "2026-11-04T21:00:00.000Z",
+    "stars": 7679,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-04T02:16:57.317Z",
+    "stars_checked_at": "2026-11-05T02:16:53.084Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 2,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -123,7 +123,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -139,18 +139,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-03T22:01:39.000Z",
+    "pushed_at": "2026-11-05T01:53:06.000Z",
     "owner_type": "User",
-    "open_issues": 262,
-    "contributors": 128,
-    "releases_count": 106,
+    "open_issues": 258,
+    "contributors": 129,
+    "releases_count": 107,
     "latest_release": {
-      "tag": "v0.22.0-beta.3",
-      "published_at": "2026-11-01T05:39:39.000Z",
+      "tag": "v0.22.0-beta.5",
+      "published_at": "2026-11-04T14:46:01.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-11-04T02:16:57.317Z",
-    "core_checked_at": "2026-11-04T02:16:57.317Z"
+    "checked_at": "2026-11-05T02:16:53.084Z",
+    "core_checked_at": "2026-11-05T02:16:53.084Z"
   },
   "signals": [],
   "images": {

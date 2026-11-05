@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-04T02:30:01.763Z",
+  "generated_at": "2026-11-05T02:30:01.990Z",
   "lang": "en",
   "slug": "breakscale",
   "url": "https://tesign.com/en/item/breakscale/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-03T21:00:00.000Z",
-    "stars": 1976,
+    "as_of": "2026-11-04T21:00:00.000Z",
+    "stars": 1981,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-04T02:17:58.196Z",
+    "stars_checked_at": "2026-11-05T02:17:53.506Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -146,7 +146,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-03T21:00:00.000Z",
+    "as_of": "2026-11-04T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -162,14 +162,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-02T23:09:24.000Z",
+    "pushed_at": "2026-11-04T14:06:14.000Z",
     "owner_type": "Organization",
     "open_issues": 14,
-    "contributors": 16,
+    "contributors": 17,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-04T02:17:58.196Z",
-    "core_checked_at": "2026-11-04T02:17:58.196Z"
+    "checked_at": "2026-11-05T02:17:53.506Z",
+    "core_checked_at": "2026-11-05T02:17:53.506Z"
   },
   "signals": [
     {

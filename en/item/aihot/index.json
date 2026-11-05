@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-04T02:30:01.763Z",
+  "generated_at": "2026-11-05T02:30:01.990Z",
   "lang": "en",
   "slug": "aihot",
   "url": "https://tesign.com/en/item/aihot/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-03T21:00:00.000Z",
-    "stars": 9403,
+    "as_of": "2026-11-04T21:00:00.000Z",
+    "stars": 9565,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-04T02:18:37.812Z",
+    "stars_checked_at": "2026-11-05T02:18:31.952Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
@@ -105,8 +105,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null,
       null
     ],
@@ -118,7 +118,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-03T21:00:00.000Z",
+    "as_of": "2026-11-04T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -136,12 +136,12 @@
   "activity": {
     "pushed_at": "2026-11-03T10:31:35.000Z",
     "owner_type": "User",
-    "open_issues": 0,
+    "open_issues": 3,
     "contributors": 25,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-04T02:18:37.812Z",
-    "core_checked_at": "2026-11-04T02:18:37.812Z"
+    "checked_at": "2026-11-05T02:18:31.952Z",
+    "core_checked_at": "2026-11-05T02:18:31.952Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-04T02:30:01.763Z",
+  "generated_at": "2026-11-05T02:30:01.990Z",
   "lang": "en",
   "slug": "openknowledge",
   "url": "https://tesign.com/en/item/openknowledge/",
@@ -123,10 +123,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-03T21:00:00.000Z",
-    "stars": 4780,
+    "as_of": "2026-11-04T21:00:00.000Z",
+    "stars": 4790,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-04T02:17:26.699Z",
+    "stars_checked_at": "2026-11-05T02:17:22.250Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -157,18 +157,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-03T18:49:39.000Z",
+    "pushed_at": "2026-11-04T20:14:21.000Z",
     "owner_type": "Organization",
-    "open_issues": 59,
+    "open_issues": 58,
     "contributors": 15,
-    "releases_count": 1365,
+    "releases_count": 1366,
     "latest_release": {
-      "tag": "v0.89.3-beta.0",
-      "published_at": "2026-11-03T03:06:19.000Z",
-      "prerelease": true
+      "tag": "v0.89.3",
+      "published_at": "2026-11-04T14:33:31.000Z",
+      "prerelease": false
     },
-    "checked_at": "2026-11-04T02:17:26.699Z",
-    "core_checked_at": "2026-11-04T02:17:26.699Z"
+    "checked_at": "2026-11-05T02:17:22.250Z",
+    "core_checked_at": "2026-11-05T02:17:22.250Z"
   },
   "signals": [
     {
