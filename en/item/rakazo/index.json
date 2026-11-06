@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-05T02:30:01.990Z",
+  "generated_at": "2026-11-06T02:30:01.835Z",
   "lang": "en",
   "slug": "rakazo",
   "url": "https://tesign.com/en/item/rakazo/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-04T21:00:00.000Z",
-    "stars": 7029,
+    "as_of": "2026-11-05T21:00:00.000Z",
+    "stars": 7204,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-05T02:17:41.904Z",
+    "stars_checked_at": "2026-11-06T02:17:49.764Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
@@ -128,8 +128,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null,
       null,
       null,
@@ -145,18 +145,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-05T01:44:21.000Z",
+    "pushed_at": "2026-11-06T02:17:45.000Z",
     "owner_type": "User",
-    "open_issues": 140,
-    "contributors": 175,
+    "open_issues": 164,
+    "contributors": 178,
     "releases_count": 20,
     "latest_release": {
-      "tag": "v0.8.0",
-      "published_at": "2026-11-04T21:20:37.000Z",
+      "tag": "android",
+      "published_at": "2026-10-10T22:04:11.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-05T02:17:41.904Z",
-    "core_checked_at": "2026-11-05T02:17:41.904Z"
+    "checked_at": "2026-11-06T02:17:49.764Z",
+    "core_checked_at": "2026-11-06T02:17:49.764Z"
   },
   "signals": [
     {

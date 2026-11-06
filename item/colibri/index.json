@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-05T02:30:01.990Z",
+  "generated_at": "2026-11-06T02:30:01.835Z",
   "lang": "ko",
   "slug": "colibri",
   "url": "https://tesign.com/item/colibri/",
@@ -125,14 +125,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-04T21:00:00.000Z",
-    "stars": 47783,
+    "as_of": "2026-11-05T21:00:00.000Z",
+    "stars": 48187,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-05T02:16:30.895Z",
+    "stars_checked_at": "2026-11-06T02:16:32.222Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
-    "star_delta_7d": 6,
-    "star_delta_30d": 6,
+    "star_delta_24h": 2,
+    "star_delta_7d": 8,
+    "star_delta_30d": 8,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -146,9 +146,9 @@
       null,
       null,
       null,
-      null,
       6,
-      null
+      null,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -159,9 +159,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-04T22:42:47.000Z",
+    "pushed_at": "2026-11-06T01:58:37.000Z",
     "owner_type": "User",
-    "open_issues": 180,
+    "open_issues": 178,
     "contributors": 221,
     "releases_count": 21,
     "latest_release": {
@@ -169,8 +169,8 @@
       "published_at": "2026-10-31T12:50:50.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-05T02:16:30.895Z",
-    "core_checked_at": "2026-11-05T02:16:30.895Z"
+    "checked_at": "2026-11-06T02:16:32.222Z",
+    "core_checked_at": "2026-11-06T02:16:32.222Z"
   },
   "signals": [
     {

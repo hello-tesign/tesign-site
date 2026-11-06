@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-05T02:30:01.990Z",
+  "generated_at": "2026-11-06T02:30:01.835Z",
   "lang": "ko",
   "slug": "smarttube",
   "url": "https://tesign.com/item/smarttube/",
@@ -83,10 +83,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-04T21:00:00.000Z",
-    "stars": 35933,
+    "as_of": "2026-11-05T21:00:00.000Z",
+    "stars": 35977,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-05T02:15:11.575Z",
+    "stars_checked_at": "2026-11-06T02:15:11.248Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -116,7 +116,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-11-04T21:00:00.000Z",
+    "as_of": "2026-11-05T21:00:00.000Z",
     "all_time": 191,
     "rising": {
       "24h": null,
@@ -132,18 +132,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-03T23:08:10.000Z",
+    "pushed_at": "2026-11-05T12:21:42.000Z",
     "owner_type": "User",
     "open_issues": 829,
     "contributors": 45,
-    "releases_count": 1019,
+    "releases_count": 1020,
     "latest_release": {
-      "tag": "32.68s",
-      "published_at": "2026-10-20T22:38:25.000Z",
-      "prerelease": false
+      "tag": "32.70",
+      "published_at": "2026-11-05T12:21:42.000Z",
+      "prerelease": true
     },
-    "checked_at": "2026-11-05T02:15:11.575Z",
-    "core_checked_at": "2026-11-05T02:15:11.575Z"
+    "checked_at": "2026-11-06T02:15:11.248Z",
+    "core_checked_at": "2026-11-06T02:15:11.248Z"
   },
   "signals": [],
   "images": {

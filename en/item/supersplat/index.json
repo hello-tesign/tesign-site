@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-05T02:30:01.990Z",
+  "generated_at": "2026-11-06T02:30:01.835Z",
   "lang": "en",
   "slug": "supersplat",
   "url": "https://tesign.com/en/item/supersplat/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-04T21:00:00.000Z",
-    "stars": 10592,
+    "as_of": "2026-11-05T21:00:00.000Z",
+    "stars": 10600,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-05T02:16:00.797Z",
+    "stars_checked_at": "2026-11-06T02:16:01.763Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,7 +118,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-04T21:00:00.000Z",
+    "as_of": "2026-11-05T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -149,8 +149,8 @@
       "published_at": "2026-10-26T09:31:43.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-05T02:16:00.797Z",
-    "core_checked_at": "2026-11-05T02:16:00.797Z"
+    "checked_at": "2026-11-06T02:16:01.763Z",
+    "core_checked_at": "2026-11-06T02:16:01.763Z"
   },
   "signals": [],
   "images": {

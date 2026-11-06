@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-05T02:30:01.990Z",
+  "generated_at": "2026-11-06T02:30:01.835Z",
   "lang": "ko",
   "slug": "kage",
   "url": "https://tesign.com/item/kage/",
@@ -121,10 +121,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-04T21:00:00.000Z",
-    "stars": 3520,
+    "as_of": "2026-11-05T21:00:00.000Z",
+    "stars": 3525,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-05T02:17:19.104Z",
+    "stars_checked_at": "2026-11-06T02:17:25.832Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -165,8 +165,8 @@
       "published_at": "2026-08-10T07:20:08.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-05T02:17:19.104Z",
-    "core_checked_at": "2026-11-05T02:17:19.104Z"
+    "checked_at": "2026-11-06T02:17:25.832Z",
+    "core_checked_at": "2026-11-06T02:17:25.832Z"
   },
   "signals": [
     {

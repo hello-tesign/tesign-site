@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-05T02:30:01.990Z",
+  "generated_at": "2026-11-06T02:30:01.835Z",
   "lang": "en",
   "slug": "reladraw",
   "url": "https://tesign.com/en/item/reladraw/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-04T21:00:00.000Z",
-    "stars": 1167,
+    "as_of": "2026-11-05T21:00:00.000Z",
+    "stars": 1168,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-05T02:15:25.638Z",
+    "stars_checked_at": "2026-11-06T02:15:25.045Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-03T03:16:23.000Z",
+    "pushed_at": "2026-11-06T00:34:20.000Z",
     "owner_type": "Organization",
     "open_issues": 0,
     "contributors": 1,
-    "releases_count": 24,
+    "releases_count": 25,
     "latest_release": {
-      "tag": "v0.22.0",
-      "published_at": "2026-11-03T03:17:06.000Z",
+      "tag": "v0.22.1",
+      "published_at": "2026-11-06T00:38:01.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-05T02:15:25.638Z",
-    "core_checked_at": "2026-11-05T02:15:25.638Z"
+    "checked_at": "2026-11-06T02:15:25.045Z",
+    "core_checked_at": "2026-11-06T02:15:25.045Z"
   },
   "signals": [
     {
