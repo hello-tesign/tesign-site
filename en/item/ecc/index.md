@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/ecc/
 - JSON: https://tesign.com/en/item/ecc/index.json
 - Korean Markdown: https://tesign.com/item/ecc/index.md
-- Generated: 2026-11-06 02:30 UTC
+- Generated: 2026-11-07 02:30 UTC
 
 ## Numbers
 
-- 297,905 stars — checked on GitHub 2026-11-06 02:16 UTC
-- 7-day +38 observed via GH Archive (as of 2026-11-05 21:00 UTC)
-- 24h +5 ★ · 30d +38 ★ (as of 2026-11-05 21:00 UTC)
+- 298,616 stars — checked on GitHub 2026-11-07 02:16 UTC
+- 7-day +33 observed via GH Archive (as of 2026-11-06 21:00 UTC)
+- 24h +4 ★ · 30d +33 ★ (as of 2026-11-06 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-02 04:56 UTC
+- Last commit: 2026-11-06 21:21 UTC
 - Latest release: v2.2.3 (2026-10-01)
 - Contributors: 478
-- Open issues (incl. PRs): 236
+- Open issues (incl. PRs): 238
 - Made by: an individual
-- Checked on GitHub: 2026-11-06 02:16 UTC
+- Checked on GitHub: 2026-11-07 02:16 UTC
 
 ## TESIGN TAKE
 

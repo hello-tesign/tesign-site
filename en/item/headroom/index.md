@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/headroom/
 - JSON: https://tesign.com/en/item/headroom/index.json
 - Korean Markdown: https://tesign.com/item/headroom/index.md
-- Generated: 2026-11-06 02:30 UTC
+- Generated: 2026-11-07 02:30 UTC
 
 ## RANKS
 
-- All-time #59 (As of 2026-11-05 21:00 UTC)
+- All-time #59 (As of 2026-11-06 21:00 UTC)
 
 ## Numbers
 
-- 78,944 stars — checked on GitHub 2026-11-06 02:17 UTC
-- 7-day +2 observed via GH Archive (as of 2026-11-05 21:00 UTC)
+- 79,031 stars — checked on GitHub 2026-11-07 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-06 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-06 02:16 UTC
+- Last commit: 2026-11-06 18:57 UTC
 - Latest release: v0.43.1 (2026-11-05)
-- Contributors: 387
-- Open issues (incl. PRs): 330
+- Contributors: 397
+- Open issues (incl. PRs): 275
 - Made by: an organization
-- Checked on GitHub: 2026-11-06 02:17 UTC
+- Checked on GitHub: 2026-11-07 02:17 UTC
 
 ## TESIGN TAKE
 

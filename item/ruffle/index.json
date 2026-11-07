@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-06T02:30:01.835Z",
+  "generated_at": "2026-11-07T02:30:01.747Z",
   "lang": "ko",
   "slug": "ruffle",
   "url": "https://tesign.com/item/ruffle/",
@@ -88,10 +88,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-05T21:00:00.000Z",
-    "stars": 18816,
+    "as_of": "2026-11-06T21:00:00.000Z",
+    "stars": 18826,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-06T02:15:52.185Z",
+    "stars_checked_at": "2026-11-07T02:15:49.642Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -121,7 +121,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-11-05T21:00:00.000Z",
+    "as_of": "2026-11-06T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -142,18 +142,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-06T00:11:11.000Z",
+    "pushed_at": "2026-11-07T00:10:36.000Z",
     "owner_type": "Organization",
     "open_issues": 5749,
     "contributors": 241,
-    "releases_count": 1884,
+    "releases_count": 1885,
     "latest_release": {
-      "tag": "nightly-2026-11-06",
-      "published_at": "2026-11-06T00:11:15.000Z",
+      "tag": "nightly-2026-11-07",
+      "published_at": "2026-11-07T00:10:40.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-11-06T02:15:52.185Z",
-    "core_checked_at": "2026-11-06T02:15:52.185Z"
+    "checked_at": "2026-11-07T02:15:49.642Z",
+    "core_checked_at": "2026-11-07T02:15:49.642Z"
   },
   "signals": [],
   "images": {

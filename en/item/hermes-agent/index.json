@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-06T02:30:01.835Z",
+  "generated_at": "2026-11-07T02:30:01.747Z",
   "lang": "en",
   "slug": "hermes-agent",
   "url": "https://tesign.com/en/item/hermes-agent/",
@@ -119,14 +119,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-05T21:00:00.000Z",
-    "stars": 260896,
+    "as_of": "2026-11-06T21:00:00.000Z",
+    "stars": 261224,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-06T02:16:50.828Z",
+    "stars_checked_at": "2026-11-07T02:16:45.350Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 12,
-    "star_delta_30d": 12,
+    "star_delta_24h": null,
+    "star_delta_7d": 8,
+    "star_delta_30d": 8,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -136,13 +136,13 @@
       null,
       null,
       null,
-      4,
       2,
       2,
       null,
       2,
       null,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -152,7 +152,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-05T21:00:00.000Z",
+    "as_of": "2026-11-06T21:00:00.000Z",
     "all_time": 2,
     "rising": {
       "24h": null,
@@ -173,18 +173,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-06T02:07:51.000Z",
+    "pushed_at": "2026-11-07T02:15:03.000Z",
     "owner_type": "Organization",
-    "open_issues": 53087,
-    "contributors": 5052,
+    "open_issues": 53390,
+    "contributors": 5054,
     "releases_count": 47,
     "latest_release": {
       "tag": "v0.23.0",
       "published_at": "2026-11-05T21:32:33.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-06T02:16:50.828Z",
-    "core_checked_at": "2026-11-06T02:16:50.828Z"
+    "checked_at": "2026-11-07T02:16:45.350Z",
+    "core_checked_at": "2026-11-07T02:16:45.350Z"
   },
   "signals": [],
   "images": {

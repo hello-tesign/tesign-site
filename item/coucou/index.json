@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-06T02:30:01.835Z",
+  "generated_at": "2026-11-07T02:30:01.747Z",
   "lang": "ko",
   "slug": "coucou",
   "url": "https://tesign.com/item/coucou/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-05T21:00:00.000Z",
-    "stars": 6986,
+    "as_of": "2026-11-06T21:00:00.000Z",
+    "stars": 7014,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-06T02:15:19.711Z",
+    "stars_checked_at": "2026-11-07T02:15:19.077Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-04T23:57:01.000Z",
+    "pushed_at": "2026-11-06T13:51:13.000Z",
     "owner_type": "User",
-    "open_issues": 496,
-    "contributors": 49,
+    "open_issues": 455,
+    "contributors": 65,
     "releases_count": 57,
     "latest_release": {
       "tag": "windows-v0.5.9",
       "published_at": "2026-11-03T16:07:18.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-06T02:15:19.711Z",
-    "core_checked_at": "2026-11-06T02:15:19.711Z"
+    "checked_at": "2026-11-07T02:15:19.077Z",
+    "core_checked_at": "2026-11-07T02:15:19.077Z"
   },
   "signals": [
     {
