@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-07T02:30:01.747Z",
+  "generated_at": "2026-11-08T02:30:00.325Z",
   "lang": "en",
   "slug": "gods-eye-view",
   "url": "https://tesign.com/en/item/gods-eye-view/",
@@ -118,14 +118,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-06T21:00:00.000Z",
-    "stars": 63224,
+    "as_of": "2026-11-07T21:00:00.000Z",
+    "stars": 63413,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-07T02:16:22.497Z",
+    "stars_checked_at": "2026-11-08T02:16:17.674Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 6,
-    "star_delta_30d": 6,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -135,8 +135,8 @@
       null,
       null,
       null,
-      4,
-      2,
+      null,
+      null,
       null,
       null,
       null,
@@ -151,7 +151,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-06T21:00:00.000Z",
+    "as_of": "2026-11-07T21:00:00.000Z",
     "all_time": 93,
     "rising": {
       "24h": null,
@@ -172,18 +172,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-06T21:46:02.000Z",
+    "pushed_at": "2026-11-07T18:39:58.000Z",
     "owner_type": "User",
-    "open_issues": 422,
-    "contributors": 110,
+    "open_issues": 421,
+    "contributors": 112,
     "releases_count": 5,
     "latest_release": {
       "tag": "v0.3.0",
       "published_at": "2026-10-28T05:19:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-07T02:16:22.497Z",
-    "core_checked_at": "2026-11-07T02:16:22.497Z"
+    "checked_at": "2026-11-08T02:16:17.674Z",
+    "core_checked_at": "2026-11-08T02:16:17.674Z"
   },
   "signals": [],
   "images": {

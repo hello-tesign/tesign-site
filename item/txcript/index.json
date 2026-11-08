@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-07T02:30:01.747Z",
+  "generated_at": "2026-11-08T02:30:00.325Z",
   "lang": "ko",
   "slug": "txcript",
   "url": "https://tesign.com/item/txcript/",
@@ -94,10 +94,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-06T21:00:00.000Z",
+    "as_of": "2026-11-07T21:00:00.000Z",
     "stars": 216,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-07T02:18:19.572Z",
+    "stars_checked_at": "2026-11-08T02:18:12.611Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -138,8 +138,8 @@
       "published_at": "2026-09-13T23:41:24.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-07T02:18:19.572Z",
-    "core_checked_at": "2026-11-07T02:18:19.572Z"
+    "checked_at": "2026-11-08T02:18:12.611Z",
+    "core_checked_at": "2026-11-08T02:18:12.611Z"
   },
   "signals": [
     {

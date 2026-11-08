@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/yue/
 - JSON: https://tesign.com/en/item/yue/index.json
 - Korean Markdown: https://tesign.com/item/yue/index.md
-- Generated: 2026-11-07 02:30 UTC
+- Generated: 2026-11-08 02:30 UTC
 
 ## RANKS
 
-- MEDIA #13 (As of 2026-11-06 21:00 UTC)
+- MEDIA #13 (As of 2026-11-07 21:00 UTC)
 
 ## Numbers
 
-- 13,140 stars — checked on GitHub 2026-11-07 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-06 21:00 UTC)
+- 13,168 stars — checked on GitHub 2026-11-08 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-07 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -37,7 +37,7 @@
 - Contributors: 14
 - Open issues (incl. PRs): 43
 - Made by: an organization
-- Checked on GitHub: 2026-11-07 02:16 UTC
+- Checked on GitHub: 2026-11-08 02:16 UTC
 
 ## TESIGN TAKE
 

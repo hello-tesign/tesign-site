@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-07T02:30:01.747Z",
+  "generated_at": "2026-11-08T02:30:00.325Z",
   "lang": "ko",
   "slug": "lertaro",
   "url": "https://tesign.com/item/lertaro/",
@@ -106,10 +106,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-06T21:00:00.000Z",
-    "stars": 1393,
+    "as_of": "2026-11-07T21:00:00.000Z",
+    "stars": 1404,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-07T02:17:59.639Z",
+    "stars_checked_at": "2026-11-08T02:17:52.574Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -140,7 +140,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-07T01:31:00.000Z",
+    "pushed_at": "2026-11-07T04:04:00.000Z",
     "owner_type": "Organization",
     "open_issues": 9,
     "contributors": 6,
@@ -150,8 +150,8 @@
       "published_at": "2026-11-06T03:08:25.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-07T02:17:59.639Z",
-    "core_checked_at": "2026-11-07T02:17:59.639Z"
+    "checked_at": "2026-11-08T02:17:52.574Z",
+    "core_checked_at": "2026-11-08T02:17:52.574Z"
   },
   "signals": [
     {

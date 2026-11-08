@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-07T02:30:01.747Z",
+  "generated_at": "2026-11-08T02:30:00.325Z",
   "lang": "en",
   "slug": "spec-kit",
   "url": "https://tesign.com/en/item/spec-kit/",
@@ -146,12 +146,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-06T21:00:00.000Z",
-    "stars": 148209,
+    "as_of": "2026-11-07T21:00:00.000Z",
+    "stars": 148440,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-07T02:16:29.496Z",
+    "stars_checked_at": "2026-11-08T02:16:24.425Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": null,
+    "star_delta_24h": 2,
     "star_delta_7d": 18,
     "star_delta_30d": 18,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -163,13 +163,13 @@
       null,
       null,
       null,
-      2,
       4,
       null,
       8,
       null,
       4,
-      null
+      null,
+      2
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -179,7 +179,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-06T21:00:00.000Z",
+    "as_of": "2026-11-07T21:00:00.000Z",
     "all_time": 11,
     "rising": {
       "24h": null,
@@ -200,9 +200,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-07T01:31:19.000Z",
+    "pushed_at": "2026-11-07T04:09:22.000Z",
     "owner_type": "Organization",
-    "open_issues": 199,
+    "open_issues": 204,
     "contributors": 340,
     "releases_count": 241,
     "latest_release": {
@@ -210,8 +210,8 @@
       "published_at": "2026-11-06T17:24:25.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-07T02:16:29.496Z",
-    "core_checked_at": "2026-11-07T02:16:29.496Z"
+    "checked_at": "2026-11-08T02:16:24.425Z",
+    "core_checked_at": "2026-11-08T02:16:24.425Z"
   },
   "signals": [],
   "images": {
