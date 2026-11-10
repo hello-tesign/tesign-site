@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-08T02:30:00.325Z",
+  "generated_at": "2026-11-10T02:29:59.649Z",
   "lang": "ko",
   "slug": "vercel-labs-fx",
   "url": "https://tesign.com/item/vercel-labs-fx/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "stars": 3794,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "stars": 3801,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-08T02:17:47.679Z",
+    "stars_checked_at": "2026-11-10T02:18:01.646Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,9 +147,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-08T02:14:23.000Z",
+    "pushed_at": "2026-11-10T02:14:00.000Z",
     "owner_type": "Organization",
-    "open_issues": 331,
+    "open_issues": 344,
     "contributors": 31,
     "releases_count": 16,
     "latest_release": {
@@ -157,8 +157,8 @@
       "published_at": "2026-10-29T21:29:25.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-08T02:17:47.679Z",
-    "core_checked_at": "2026-11-08T02:17:47.679Z"
+    "checked_at": "2026-11-10T02:18:01.646Z",
+    "core_checked_at": "2026-11-10T02:18:01.646Z"
   },
   "signals": [
     {

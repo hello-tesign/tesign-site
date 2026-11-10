@@ -5,22 +5,23 @@
 - Page: https://tesign.com/en/item/recordly/
 - JSON: https://tesign.com/en/item/recordly/index.json
 - Korean Markdown: https://tesign.com/item/recordly/index.md
-- Generated: 2026-11-08 02:30 UTC
+- Generated: 2026-11-10 02:29 UTC
 
 ## RANKS
 
-- All-time #189 · PRODUCTIVITY #15 · MEDIA #6 (As of 2026-11-07 21:00 UTC)
+- All-time #188 · PRODUCTIVITY #15 · MEDIA #6 (As of 2026-11-09 22:00 UTC)
 
 ## Numbers
 
-- 36,271 stars — checked on GitHub 2026-11-08 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-07 21:00 UTC)
+- 36,415 stars — checked on GitHub 2026-11-10 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-09 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
 
-- LICENSE: Licence unconfirmed
-- USAGE: Unconfirmed — check before use.
+- LICENSE: AGPL-3.0 (copyleft) — https://spdx.org/licenses/AGPL-3.0.html
+- USAGE: Release source if you redistribute or host it as a service.
+- OPEN SOURCE: YES
 - LANGUAGE: TypeScript
 - PLATFORM: macos · windows · linux
 - CATEGORY: MEDIA · PRODUCTIVITY
@@ -31,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-08 01:17 UTC
+- Last commit: 2026-11-09 09:29 UTC
 - Latest release: v1.4.0 (2026-09-08)
 - Contributors: 86
-- Open issues (incl. PRs): 521
+- Open issues (incl. PRs): 514
 - Made by: an organization
-- Checked on GitHub: 2026-11-08 02:16 UTC
+- Checked on GitHub: 2026-11-10 02:16 UTC
 
 ## TESIGN TAKE
 

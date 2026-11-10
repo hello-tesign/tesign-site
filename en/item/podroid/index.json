@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-08T02:30:00.325Z",
+  "generated_at": "2026-11-10T02:29:59.649Z",
   "lang": "en",
   "slug": "podroid",
   "url": "https://tesign.com/en/item/podroid/",
@@ -108,10 +108,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "stars": 3750,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "stars": 3808,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-08T02:16:13.768Z",
+    "stars_checked_at": "2026-11-10T02:16:19.626Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -142,18 +142,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-20T14:09:03.000Z",
+    "pushed_at": "2026-11-09T23:20:12.000Z",
     "owner_type": "User",
-    "open_issues": 28,
+    "open_issues": 19,
     "contributors": 7,
-    "releases_count": 29,
+    "releases_count": 30,
     "latest_release": {
-      "tag": "v1.2.9",
-      "published_at": "2026-09-21T14:06:42.000Z",
+      "tag": "v1.3.0",
+      "published_at": "2026-11-09T23:02:28.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-08T02:16:13.768Z",
-    "core_checked_at": "2026-11-08T02:16:13.768Z"
+    "checked_at": "2026-11-10T02:16:19.626Z",
+    "core_checked_at": "2026-11-10T02:16:19.626Z"
   },
   "signals": [],
   "images": {

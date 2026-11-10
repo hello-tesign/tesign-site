@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-08T02:30:00.325Z",
+  "generated_at": "2026-11-10T02:29:59.649Z",
   "lang": "ko",
   "slug": "status-trio",
   "url": "https://tesign.com/item/status-trio/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "stars": 1727,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "stars": 1798,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-08T02:15:59.623Z",
+    "stars_checked_at": "2026-11-10T02:16:04.198Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,18 +118,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-07T10:09:16.000Z",
+    "pushed_at": "2026-11-10T00:41:31.000Z",
     "owner_type": "User",
-    "open_issues": 32,
-    "contributors": 15,
+    "open_issues": 39,
+    "contributors": 18,
     "releases_count": 23,
     "latest_release": {
       "tag": "v1.9.4",
       "published_at": "2026-11-06T15:29:19.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-08T02:15:59.623Z",
-    "core_checked_at": "2026-11-08T02:15:59.623Z"
+    "checked_at": "2026-11-10T02:16:04.198Z",
+    "core_checked_at": "2026-11-10T02:16:04.198Z"
   },
   "signals": [],
   "images": {

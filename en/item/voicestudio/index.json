@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-08T02:30:00.325Z",
+  "generated_at": "2026-11-10T02:29:59.649Z",
   "lang": "en",
   "slug": "voicestudio",
   "url": "https://tesign.com/en/item/voicestudio/",
@@ -118,14 +118,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "stars": 103944,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "stars": 106248,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-08T02:16:18.623Z",
+    "stars_checked_at": "2026-11-10T02:16:24.690Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 13,
-    "star_delta_7d": 50,
-    "star_delta_30d": 50,
+    "star_delta_24h": 4,
+    "star_delta_7d": 40,
+    "star_delta_30d": 40,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -135,13 +135,13 @@
       null,
       null,
       null,
-      11,
-      7,
       4,
       2,
       5,
       8,
-      13
+      13,
+      4,
+      4
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -151,8 +151,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "all_time": 30,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "all_time": 29,
     "rising": {
       "24h": null,
       "7d": null,
@@ -162,7 +162,7 @@
       {
         "category": "ai",
         "label": "AI",
-        "rank": 20
+        "rank": 19
       },
       {
         "category": "media",
@@ -172,18 +172,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-07T21:02:43.000Z",
+    "pushed_at": "2026-11-10T01:50:27.000Z",
     "owner_type": "User",
-    "open_issues": 143,
-    "contributors": 143,
-    "releases_count": 46,
+    "open_issues": 58,
+    "contributors": 160,
+    "releases_count": 50,
     "latest_release": {
-      "tag": "v0.5.7",
-      "published_at": "2026-10-26T14:59:48.000Z",
-      "prerelease": false
+      "tag": "v0.5.8-beta.3",
+      "published_at": "2026-11-09T11:41:42.000Z",
+      "prerelease": true
     },
-    "checked_at": "2026-11-08T02:16:18.623Z",
-    "core_checked_at": "2026-11-08T02:16:18.623Z"
+    "checked_at": "2026-11-10T02:16:24.690Z",
+    "core_checked_at": "2026-11-10T02:16:24.690Z"
   },
   "signals": [],
   "images": {

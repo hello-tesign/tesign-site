@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-08T02:30:00.325Z",
+  "generated_at": "2026-11-10T02:29:59.649Z",
   "lang": "ko",
   "slug": "recordly",
   "url": "https://tesign.com/item/recordly/",
@@ -87,12 +87,12 @@
     "linux"
   ],
   "license": {
-    "spdx": null,
-    "scope": "unknown",
-    "scope_text": "미확인 — 쓰기 전에 살펴보세요.",
-    "url": "https://github.com/webadderallorg/recordly?tab=License-1-ov-file",
+    "spdx": "AGPL-3.0",
+    "scope": "copyleft",
+    "scope_text": "사용·수정은 자유. 배포는 물론 네트워크 서비스로 제공해도 소스 공개.",
+    "url": "https://spdx.org/licenses/AGPL-3.0.html",
     "note": null,
-    "open_source": null
+    "open_source": true
   },
   "language": "TypeScript",
   "source_urls": {
@@ -110,10 +110,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "stars": 36271,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "stars": 36415,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-08T02:16:28.448Z",
+    "stars_checked_at": "2026-11-10T02:16:35.141Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -143,8 +143,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "all_time": 189,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "all_time": 188,
     "rising": {
       "24h": null,
       "7d": null,
@@ -164,9 +164,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-08T01:17:07.000Z",
+    "pushed_at": "2026-11-09T09:29:02.000Z",
     "owner_type": "Organization",
-    "open_issues": 521,
+    "open_issues": 514,
     "contributors": 86,
     "releases_count": 48,
     "latest_release": {
@@ -174,8 +174,8 @@
       "published_at": "2026-09-08T04:34:51.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-08T02:16:28.448Z",
-    "core_checked_at": "2026-11-08T02:16:28.448Z"
+    "checked_at": "2026-11-10T02:16:35.141Z",
+    "core_checked_at": "2026-11-10T02:16:35.141Z"
   },
   "signals": [],
   "images": {

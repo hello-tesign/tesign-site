@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-08T02:30:00.325Z",
+  "generated_at": "2026-11-10T02:29:59.649Z",
   "lang": "ko",
   "slug": "zenconverter",
   "url": "https://tesign.com/item/zenconverter/",
@@ -105,10 +105,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "stars": 1879,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "stars": 1892,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-08T02:17:38.045Z",
+    "stars_checked_at": "2026-11-10T02:17:51.215Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -139,18 +139,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-10-31T03:10:36.000Z",
+    "pushed_at": "2026-11-08T13:46:59.000Z",
     "owner_type": "User",
-    "open_issues": 8,
+    "open_issues": 7,
     "contributors": 4,
-    "releases_count": 16,
+    "releases_count": 17,
     "latest_release": {
-      "tag": "pre-release",
-      "published_at": "2026-10-31T03:10:38.000Z",
-      "prerelease": true
+      "tag": "v0.2.5",
+      "published_at": "2026-11-08T13:46:59.000Z",
+      "prerelease": false
     },
-    "checked_at": "2026-11-08T02:17:38.045Z",
-    "core_checked_at": "2026-11-08T02:17:38.045Z"
+    "checked_at": "2026-11-10T02:17:51.215Z",
+    "core_checked_at": "2026-11-10T02:17:51.215Z"
   },
   "signals": [
     {

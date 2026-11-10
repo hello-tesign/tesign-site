@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/fframes/
 - JSON: https://tesign.com/en/item/fframes/index.json
 - Korean Markdown: https://tesign.com/item/fframes/index.md
-- Generated: 2026-11-08 02:30 UTC
+- Generated: 2026-11-10 02:29 UTC
 
 ## Numbers
 
-- 3,054 stars — checked on GitHub 2026-11-08 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-07 21:00 UTC)
+- 3,057 stars — checked on GitHub 2026-11-10 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-09 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-06 20:02 UTC
+- Last commit: 2026-11-08 05:49 UTC
 - Latest release: v1.3.0 (2026-10-20)
-- Contributors: 26
+- Contributors: 27
 - Open issues (incl. PRs): 23
 - Made by: an individual
-- Checked on GitHub: 2026-11-08 02:15 UTC
+- Checked on GitHub: 2026-11-10 02:15 UTC
 
 ## TESIGN TAKE
 

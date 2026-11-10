@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-08T02:30:00.325Z",
+  "generated_at": "2026-11-10T02:29:59.649Z",
   "lang": "en",
   "slug": "sparkyfitness",
   "url": "https://tesign.com/en/item/sparkyfitness/",
@@ -124,10 +124,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "stars": 6726,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "stars": 6747,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-08T02:18:09.643Z",
+    "stars_checked_at": "2026-11-10T02:18:26.062Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -157,7 +157,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-07T21:00:00.000Z",
+    "as_of": "2026-11-09T22:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -173,18 +173,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-08T01:37:14.000Z",
+    "pushed_at": "2026-11-09T20:43:37.000Z",
     "owner_type": "User",
-    "open_issues": 181,
+    "open_issues": 190,
     "contributors": 186,
-    "releases_count": 112,
+    "releases_count": 113,
     "latest_release": {
-      "tag": "v1.11.0",
-      "published_at": "2026-10-30T19:04:53.000Z",
+      "tag": "v1.12.0",
+      "published_at": "2026-11-09T20:28:15.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-08T02:18:09.643Z",
-    "core_checked_at": "2026-11-08T02:18:09.643Z"
+    "checked_at": "2026-11-10T02:18:26.062Z",
+    "core_checked_at": "2026-11-10T02:18:26.062Z"
   },
   "signals": [],
   "images": {

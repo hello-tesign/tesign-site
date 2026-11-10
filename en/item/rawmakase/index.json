@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-08T02:30:00.325Z",
+  "generated_at": "2026-11-10T02:29:59.649Z",
   "lang": "en",
   "slug": "rawmakase",
   "url": "https://tesign.com/en/item/rawmakase/",
@@ -92,10 +92,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "stars": 1634,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "stars": 1653,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-08T02:15:12.758Z",
+    "stars_checked_at": "2026-11-10T02:15:13.603Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -126,18 +126,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-07T14:49:33.000Z",
+    "pushed_at": "2026-11-09T22:42:45.000Z",
     "owner_type": "User",
-    "open_issues": 48,
-    "contributors": 23,
+    "open_issues": 39,
+    "contributors": 24,
     "releases_count": 38,
     "latest_release": {
       "tag": "v0.4.12",
       "published_at": "2026-11-05T14:23:50.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-08T02:15:12.758Z",
-    "core_checked_at": "2026-11-08T02:15:12.758Z"
+    "checked_at": "2026-11-10T02:15:13.603Z",
+    "core_checked_at": "2026-11-10T02:15:13.603Z"
   },
   "signals": [
     {

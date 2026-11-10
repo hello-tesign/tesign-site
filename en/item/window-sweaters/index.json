@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-08T02:30:00.325Z",
+  "generated_at": "2026-11-10T02:29:59.649Z",
   "lang": "en",
   "slug": "window-sweaters",
   "url": "https://tesign.com/en/item/window-sweaters/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-07T21:00:00.000Z",
-    "stars": 1340,
+    "as_of": "2026-11-09T22:00:00.000Z",
+    "stars": 1371,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-08T02:15:20.876Z",
+    "stars_checked_at": "2026-11-10T02:15:22.343Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,18 +118,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-05T19:30:59.000Z",
+    "pushed_at": "2026-11-09T04:47:46.000Z",
     "owner_type": "User",
-    "open_issues": 14,
-    "contributors": 2,
+    "open_issues": 12,
+    "contributors": 3,
     "releases_count": 5,
     "latest_release": {
       "tag": "v1.5.0",
       "published_at": "2026-09-18T21:31:46.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-08T02:15:20.876Z",
-    "core_checked_at": "2026-11-08T02:15:20.876Z"
+    "checked_at": "2026-11-10T02:15:22.343Z",
+    "core_checked_at": "2026-11-10T02:15:22.343Z"
   },
   "signals": [
     {

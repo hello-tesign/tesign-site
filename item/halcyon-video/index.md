@@ -5,12 +5,12 @@
 - 페이지: https://tesign.com/item/halcyon-video/
 - JSON: https://tesign.com/item/halcyon-video/index.json
 - 영어 마크다운: https://tesign.com/en/item/halcyon-video/index.md
-- 생성 시각: 2026-11-08 02:30 UTC
+- 생성 시각: 2026-11-10 02:29 UTC
 
 ## 숫자
 
-- 별 972 — GitHub에서 2026-11-08 02:17 UTC 확인
-- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-11-07 21:00 UTC)
+- 별 988 — GitHub에서 2026-11-10 02:17 UTC 확인
+- 7일 별 증가 관측 없음 (GH Archive) (기준 2026-11-09 22:00 UTC)
 - 별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다.
 
 ## 한눈에 보는 사실
@@ -28,12 +28,12 @@
 
 ## 활동
 
-- 마지막 커밋: 2026-11-06 20:10 UTC
-- 최근 릴리스: v0.30.2 (2026-11-02)
+- 마지막 커밋: 2026-11-09 15:00 UTC
+- 최근 릴리스: v0.30.3 (2026-11-09)
 - 기여자: 4
-- 열린 이슈 (PR 포함): 61
+- 열린 이슈 (PR 포함): 51
 - 만든 이: 조직
-- GitHub 확인 시각: 2026-11-08 02:17 UTC
+- GitHub 확인 시각: 2026-11-10 02:17 UTC
 
 ## 선정 신호와 근거
 
