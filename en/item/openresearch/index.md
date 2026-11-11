@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/openresearch/
 - JSON: https://tesign.com/en/item/openresearch/index.json
 - Korean Markdown: https://tesign.com/item/openresearch/index.md
-- Generated: 2026-11-10 02:29 UTC
+- Generated: 2026-11-11 02:29 UTC
 
 ## RANKS
 
-- SCIENCE #2 (As of 2026-11-09 22:00 UTC)
+- SCIENCE #2 (As of 2026-11-10 22:00 UTC)
 
 ## Numbers
 
-- 8,023 stars — checked on GitHub 2026-11-10 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-09 22:00 UTC)
+- 8,060 stars — checked on GitHub 2026-11-11 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-10 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,12 +31,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-10 01:53 UTC
-- Latest release: canary (2026-10-27) · pre-release
-- Contributors: 36
-- Open issues (incl. PRs): 44
+- Last commit: 2026-11-11 02:14 UTC
+- Latest release: v0.2.26 (2026-11-10)
+- Contributors: 38
+- Open issues (incl. PRs): 50
 - Made by: an organization
-- Checked on GitHub: 2026-11-10 02:16 UTC
+- Checked on GitHub: 2026-11-11 02:16 UTC
 
 ## TESIGN TAKE
 

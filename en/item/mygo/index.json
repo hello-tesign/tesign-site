@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-10T02:29:59.649Z",
+  "generated_at": "2026-11-11T02:29:59.112Z",
   "lang": "en",
   "slug": "mygo",
   "url": "https://tesign.com/en/item/mygo/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-09T22:00:00.000Z",
-    "stars": 5703,
+    "as_of": "2026-11-10T22:00:00.000Z",
+    "stars": 5869,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-10T02:18:34.517Z",
+    "stars_checked_at": "2026-11-11T02:18:36.088Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": 2,
@@ -107,8 +107,8 @@
       null,
       null,
       null,
-      null,
       2,
+      null,
       null
     ],
     "hf_likes": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-09T21:27:54.000Z",
+    "pushed_at": "2026-11-11T01:51:35.000Z",
     "owner_type": "User",
-    "open_issues": 100,
-    "contributors": 102,
+    "open_issues": 101,
+    "contributors": 110,
     "releases_count": 80,
     "latest_release": {
       "tag": "native-sqlitecore",
       "published_at": "2026-11-08T17:11:23.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-10T02:18:34.517Z",
-    "core_checked_at": "2026-11-10T02:18:34.517Z"
+    "checked_at": "2026-11-11T02:18:36.088Z",
+    "core_checked_at": "2026-11-11T02:18:36.088Z"
   },
   "signals": [],
   "images": {

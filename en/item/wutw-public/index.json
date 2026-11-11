@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-10T02:29:59.649Z",
+  "generated_at": "2026-11-11T02:29:59.112Z",
   "lang": "en",
   "slug": "wutw-public",
   "url": "https://tesign.com/en/item/wutw-public/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-09T22:00:00.000Z",
-    "stars": 253,
+    "as_of": "2026-11-10T22:00:00.000Z",
+    "stars": 254,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-10T02:16:44.404Z",
+    "stars_checked_at": "2026-11-11T02:16:44.464Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -151,8 +151,8 @@
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-10T02:16:44.404Z",
-    "core_checked_at": "2026-11-10T02:16:44.404Z"
+    "checked_at": "2026-11-11T02:16:44.464Z",
+    "core_checked_at": "2026-11-11T02:16:44.464Z"
   },
   "signals": [
     {

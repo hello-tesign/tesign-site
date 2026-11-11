@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-10T02:29:59.649Z",
+  "generated_at": "2026-11-11T02:29:59.112Z",
   "lang": "en",
   "slug": "headroom",
   "url": "https://tesign.com/en/item/headroom/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-09T22:00:00.000Z",
-    "stars": 79253,
+    "as_of": "2026-11-10T22:00:00.000Z",
+    "stars": 79321,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-10T02:17:04.044Z",
+    "stars_checked_at": "2026-11-11T02:17:03.703Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,8 +147,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-09T22:00:00.000Z",
-    "all_time": 58,
+    "as_of": "2026-11-10T22:00:00.000Z",
+    "all_time": 59,
     "rising": {
       "24h": null,
       "7d": null,
@@ -157,18 +157,18 @@
     "categories": []
   },
   "activity": {
-    "pushed_at": "2026-11-10T01:58:30.000Z",
+    "pushed_at": "2026-11-10T18:46:25.000Z",
     "owner_type": "Organization",
-    "open_issues": 252,
-    "contributors": 402,
+    "open_issues": 273,
+    "contributors": 404,
     "releases_count": 178,
     "latest_release": {
       "tag": "v0.44.0",
       "published_at": "2026-11-10T01:58:31.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-10T02:17:04.044Z",
-    "core_checked_at": "2026-11-10T02:17:04.044Z"
+    "checked_at": "2026-11-11T02:17:03.703Z",
+    "core_checked_at": "2026-11-11T02:17:03.703Z"
   },
   "signals": [],
   "images": {

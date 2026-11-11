@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/wechatbridge/
 - JSON: https://tesign.com/en/item/wechatbridge/index.json
 - Korean Markdown: https://tesign.com/item/wechatbridge/index.md
-- Generated: 2026-11-10 02:29 UTC
+- Generated: 2026-11-11 02:29 UTC
 
 ## Numbers
 
-- 2,179 stars — checked on GitHub 2026-11-10 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-09 22:00 UTC)
+- 2,190 stars — checked on GitHub 2026-11-11 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-10 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-06 10:15 UTC
+- Last commit: 2026-11-10 09:09 UTC
 - Latest release: no releases
 - Contributors: 8
 - Open issues (incl. PRs): 28
 - Made by: an individual
-- Checked on GitHub: 2026-11-10 02:15 UTC
+- Checked on GitHub: 2026-11-11 02:15 UTC
 
 ## Signals and evidence
 

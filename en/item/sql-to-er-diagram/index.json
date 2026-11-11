@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-10T02:29:59.649Z",
+  "generated_at": "2026-11-11T02:29:59.112Z",
   "lang": "en",
   "slug": "sql-to-er-diagram",
   "url": "https://tesign.com/en/item/sql-to-er-diagram/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-09T22:00:00.000Z",
+    "as_of": "2026-11-10T22:00:00.000Z",
     "stars": 716,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-10T02:17:17.388Z",
+    "stars_checked_at": "2026-11-11T02:17:16.672Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -145,14 +145,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-07-17T16:17:09.000Z",
+    "pushed_at": "2026-11-10T17:06:12.000Z",
     "owner_type": "User",
-    "open_issues": 1,
+    "open_issues": 2,
     "contributors": 2,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-10T02:17:17.388Z",
-    "core_checked_at": "2026-11-10T02:17:17.388Z"
+    "checked_at": "2026-11-11T02:17:16.672Z",
+    "core_checked_at": "2026-11-11T02:17:16.672Z"
   },
   "signals": [
     {

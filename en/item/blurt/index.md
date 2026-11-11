@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/blurt/
 - JSON: https://tesign.com/en/item/blurt/index.json
 - Korean Markdown: https://tesign.com/item/blurt/index.md
-- Generated: 2026-11-10 02:29 UTC
+- Generated: 2026-11-11 02:29 UTC
 
 ## Numbers
 
-- 70 stars — checked on GitHub 2026-11-10 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-09 22:00 UTC)
+- 70 stars — checked on GitHub 2026-11-11 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-10 22:00 UTC)
 - 1 Show HN points — observed 2026-10-21 21:59 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-09 17:51 UTC
+- Last commit: 2026-11-11 01:49 UTC
 - Latest release: v0.1.70 (2026-11-06)
 - Contributors: 16
-- Open issues (incl. PRs): 12
+- Open issues (incl. PRs): 13
 - Made by: an organization
-- Checked on GitHub: 2026-11-10 02:15 UTC
+- Checked on GitHub: 2026-11-11 02:15 UTC
 
 ## Signals and evidence
 
