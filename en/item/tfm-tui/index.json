@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-11T02:29:59.112Z",
+  "generated_at": "2026-11-12T02:29:59.090Z",
   "lang": "en",
   "slug": "tfm-tui",
   "url": "https://tesign.com/en/item/tfm-tui/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-10T22:00:00.000Z",
-    "stars": 356,
+    "as_of": "2026-11-11T21:00:00.000Z",
+    "stars": 359,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-11T02:15:39.116Z",
+    "stars_checked_at": "2026-11-12T02:15:39.412Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -120,7 +120,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-06T13:22:25.000Z",
+    "pushed_at": "2026-11-11T23:02:44.000Z",
     "owner_type": "User",
     "open_issues": 2,
     "contributors": 2,
@@ -130,8 +130,8 @@
       "published_at": "2026-10-28T12:07:11.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-11T02:15:39.116Z",
-    "core_checked_at": "2026-11-11T02:15:39.116Z"
+    "checked_at": "2026-11-12T02:15:39.412Z",
+    "core_checked_at": "2026-11-12T02:15:39.412Z"
   },
   "signals": [],
   "images": {

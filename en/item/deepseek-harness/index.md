@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/deepseek-harness/
 - JSON: https://tesign.com/en/item/deepseek-harness/index.json
 - Korean Markdown: https://tesign.com/item/deepseek-harness/index.md
-- Generated: 2026-11-11 02:29 UTC
+- Generated: 2026-11-12 02:29 UTC
 
 ## RANKS
 
-- All-time #1 · AI #1 · DEV TOOLS #1 (As of 2026-11-10 22:00 UTC)
+- All-time #1 · AI #1 · DEV TOOLS #1 (As of 2026-11-11 21:00 UTC)
 
 ## Numbers
 
-- 278,253 stars — checked on GitHub 2026-11-11 02:16 UTC
-- 7-day +68 observed via GH Archive (as of 2026-11-10 22:00 UTC)
-- 24h +4 ★ · 30d +68 ★ (as of 2026-11-10 22:00 UTC)
+- 279,065 stars — checked on GitHub 2026-11-12 02:16 UTC
+- 7-day +52 observed via GH Archive (as of 2026-11-11 21:00 UTC)
+- 24h +6 ★ · 30d +52 ★ (as of 2026-11-11 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -33,12 +33,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-04 13:06 UTC
-- Latest release: dsh-v0.2.2-rc.1 (2026-11-04) · pre-release
-- Contributors: 66
+- Last commit: 2026-11-11 11:32 UTC
+- Latest release: dsh-v0.2.2-rc.2 (2026-11-11) · pre-release
+- Contributors: 69
 - Open issues (incl. PRs): 0
 - Made by: an organization
-- Checked on GitHub: 2026-11-11 02:16 UTC
+- Checked on GitHub: 2026-11-12 02:16 UTC
 
 ## TESIGN TAKE
 

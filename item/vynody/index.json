@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-11T02:29:59.112Z",
+  "generated_at": "2026-11-12T02:29:59.090Z",
   "lang": "ko",
   "slug": "vynody",
   "url": "https://tesign.com/item/vynody/",
@@ -87,10 +87,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-10T22:00:00.000Z",
+    "as_of": "2026-11-11T21:00:00.000Z",
     "stars": 175,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-11T02:15:18.933Z",
+    "stars_checked_at": "2026-11-12T02:15:18.909Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -121,18 +121,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-10T23:09:30.000Z",
+    "pushed_at": "2026-11-11T10:51:36.000Z",
     "owner_type": "User",
-    "open_issues": 27,
+    "open_issues": 28,
     "contributors": 5,
-    "releases_count": 137,
+    "releases_count": 138,
     "latest_release": {
-      "tag": "3.1.0",
-      "published_at": "2026-11-08T11:53:01.000Z",
+      "tag": "3.2.0",
+      "published_at": "2026-11-11T10:51:36.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-11T02:15:18.933Z",
-    "core_checked_at": "2026-11-11T02:15:18.933Z"
+    "checked_at": "2026-11-12T02:15:18.909Z",
+    "core_checked_at": "2026-11-12T02:15:18.909Z"
   },
   "signals": [
     {

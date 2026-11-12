@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/aspark/
 - JSON: https://tesign.com/en/item/aspark/index.json
 - Korean Markdown: https://tesign.com/item/aspark/index.md
-- Generated: 2026-11-11 02:29 UTC
+- Generated: 2026-11-12 02:29 UTC
 
 ## Numbers
 
-- 25 stars — checked on GitHub 2026-11-11 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-10 22:00 UTC)
+- 25 stars — checked on GitHub 2026-11-12 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-11 21:00 UTC)
 - 1 Show HN points — observed 2026-09-28 13:04 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -32,9 +32,9 @@
 - Last commit: 2026-11-10 18:39 UTC
 - Latest release: v0.17.0 (2026-10-29)
 - Contributors: 9
-- Open issues (incl. PRs): 19
+- Open issues (incl. PRs): 21
 - Made by: an individual
-- Checked on GitHub: 2026-11-11 02:15 UTC
+- Checked on GitHub: 2026-11-12 02:15 UTC
 
 ## Signals and evidence
 

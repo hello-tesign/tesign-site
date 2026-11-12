@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/mygo/
 - JSON: https://tesign.com/en/item/mygo/index.json
 - Korean Markdown: https://tesign.com/item/mygo/index.md
-- Generated: 2026-11-11 02:29 UTC
+- Generated: 2026-11-12 02:29 UTC
 
 ## Numbers
 
-- 5,869 stars — checked on GitHub 2026-11-11 02:18 UTC
-- 7-day +2 observed via GH Archive (as of 2026-11-10 22:00 UTC)
+- 5,986 stars — checked on GitHub 2026-11-12 02:18 UTC
+- 7-day +2 observed via GH Archive (as of 2026-11-11 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-11 01:51 UTC
-- Latest release: native-sqlitecore (2026-11-08)
-- Contributors: 110
-- Open issues (incl. PRs): 101
+- Last commit: 2026-11-11 18:52 UTC
+- Latest release: v0.9.0 (2026-11-11)
+- Contributors: 113
+- Open issues (incl. PRs): 124
 - Made by: an individual
-- Checked on GitHub: 2026-11-11 02:18 UTC
+- Checked on GitHub: 2026-11-12 02:18 UTC
 
 ## TESIGN TAKE
 
