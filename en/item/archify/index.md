@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/archify/
 - JSON: https://tesign.com/en/item/archify/index.json
 - Korean Markdown: https://tesign.com/item/archify/index.md
-- Generated: 2026-11-12 02:29 UTC
+- Generated: 2026-11-13 02:30 UTC
 
 ## RANKS
 
-- All-time #34 · DEV TOOLS #8 · DESIGN #3 (As of 2026-11-11 21:00 UTC)
+- All-time #33 · DEV TOOLS #8 · DESIGN #3 (As of 2026-11-12 21:00 UTC)
 
 ## Numbers
 
-- 95,667 stars — checked on GitHub 2026-11-12 02:16 UTC
-- 7-day +4 observed via GH Archive (as of 2026-11-11 21:00 UTC)
+- 95,955 stars — checked on GitHub 2026-11-13 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-12 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-12 01:21 UTC
+- Last commit: 2026-11-13 01:34 UTC
 - Latest release: archify-dsh-v1.1.0 (2026-11-08)
 - Contributors: 92
-- Open issues (incl. PRs): 373
+- Open issues (incl. PRs): 371
 - Made by: an individual
-- Checked on GitHub: 2026-11-12 02:16 UTC
+- Checked on GitHub: 2026-11-13 02:16 UTC
 
 ## TESIGN TAKE
 

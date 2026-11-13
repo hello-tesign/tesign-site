@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-12T02:29:59.090Z",
+  "generated_at": "2026-11-13T02:30:01.377Z",
   "lang": "en",
   "slug": "coder",
   "url": "https://tesign.com/en/item/coder/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-11T21:00:00.000Z",
-    "stars": 17366,
+    "as_of": "2026-11-12T21:00:00.000Z",
+    "stars": 17372,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-12T02:16:19.271Z",
+    "stars_checked_at": "2026-11-13T02:16:23.355Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,7 +119,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-11T21:00:00.000Z",
+    "as_of": "2026-11-12T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -135,9 +135,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-12T02:13:13.000Z",
+    "pushed_at": "2026-11-13T02:11:23.000Z",
     "owner_type": "Organization",
-    "open_issues": 1139,
+    "open_issues": 1175,
     "contributors": 289,
     "releases_count": 414,
     "latest_release": {
@@ -145,8 +145,8 @@
       "published_at": "2026-11-10T15:49:07.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-12T02:16:19.271Z",
-    "core_checked_at": "2026-11-12T02:16:19.271Z"
+    "checked_at": "2026-11-13T02:16:23.355Z",
+    "core_checked_at": "2026-11-13T02:16:23.355Z"
   },
   "signals": [],
   "images": {

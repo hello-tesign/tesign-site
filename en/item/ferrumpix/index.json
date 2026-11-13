@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-12T02:29:59.090Z",
+  "generated_at": "2026-11-13T02:30:01.377Z",
   "lang": "en",
   "slug": "ferrumpix",
   "url": "https://tesign.com/en/item/ferrumpix/",
@@ -114,10 +114,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-11T21:00:00.000Z",
-    "stars": 751,
+    "as_of": "2026-11-12T21:00:00.000Z",
+    "stars": 752,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-12T02:18:12.967Z",
+    "stars_checked_at": "2026-11-13T02:18:16.160Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,18 +148,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-11T20:16:02.000Z",
+    "pushed_at": "2026-11-13T00:20:50.000Z",
     "owner_type": "User",
     "open_issues": 13,
     "contributors": 4,
-    "releases_count": 78,
+    "releases_count": 79,
     "latest_release": {
       "tag": "latest",
-      "published_at": "2026-11-10T23:20:52.000Z",
+      "published_at": "2026-11-12T08:55:43.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-12T02:18:12.967Z",
-    "core_checked_at": "2026-11-12T02:18:12.967Z"
+    "checked_at": "2026-11-13T02:18:16.160Z",
+    "core_checked_at": "2026-11-13T02:18:16.160Z"
   },
   "signals": [
     {

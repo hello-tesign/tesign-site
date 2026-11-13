@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-12T02:29:59.090Z",
+  "generated_at": "2026-11-13T02:30:01.377Z",
   "lang": "en",
   "slug": "coucou",
   "url": "https://tesign.com/en/item/coucou/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-11T21:00:00.000Z",
-    "stars": 7134,
+    "as_of": "2026-11-12T21:00:00.000Z",
+    "stars": 7155,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-12T02:15:17.747Z",
+    "stars_checked_at": "2026-11-13T02:15:19.987Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-11T23:58:33.000Z",
+    "pushed_at": "2026-11-12T21:49:50.000Z",
     "owner_type": "User",
-    "open_issues": 458,
-    "contributors": 65,
+    "open_issues": 456,
+    "contributors": 66,
     "releases_count": 58,
     "latest_release": {
       "tag": "v0.6.0",
       "published_at": "2026-11-11T23:58:30.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-12T02:15:17.747Z",
-    "core_checked_at": "2026-11-12T02:15:17.747Z"
+    "checked_at": "2026-11-13T02:15:19.987Z",
+    "core_checked_at": "2026-11-13T02:15:19.987Z"
   },
   "signals": [
     {

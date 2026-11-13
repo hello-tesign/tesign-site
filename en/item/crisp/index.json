@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-12T02:29:59.090Z",
+  "generated_at": "2026-11-13T02:30:01.377Z",
   "lang": "en",
   "slug": "crisp",
   "url": "https://tesign.com/en/item/crisp/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-11T21:00:00.000Z",
-    "stars": 2385,
+    "as_of": "2026-11-12T21:00:00.000Z",
+    "stars": 2392,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-12T02:18:17.273Z",
+    "stars_checked_at": "2026-11-13T02:18:20.237Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -145,9 +145,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-12T00:00:15.000Z",
+    "pushed_at": "2026-11-12T15:58:42.000Z",
     "owner_type": "User",
-    "open_issues": 12,
+    "open_issues": 14,
     "contributors": 17,
     "releases_count": 16,
     "latest_release": {
@@ -155,8 +155,8 @@
       "published_at": "2026-10-11T00:13:54.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-12T02:18:17.273Z",
-    "core_checked_at": "2026-11-12T02:18:17.273Z"
+    "checked_at": "2026-11-13T02:18:20.237Z",
+    "core_checked_at": "2026-11-13T02:18:20.237Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-12T02:29:59.090Z",
+  "generated_at": "2026-11-13T02:30:01.377Z",
   "lang": "en",
   "slug": "spec-kit",
   "url": "https://tesign.com/en/item/spec-kit/",
@@ -146,14 +146,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-11T21:00:00.000Z",
-    "stars": 149370,
+    "as_of": "2026-11-12T21:00:00.000Z",
+    "stars": 149552,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-12T02:16:34.023Z",
+    "stars_checked_at": "2026-11-13T02:16:37.555Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 8,
-    "star_delta_30d": 8,
+    "star_delta_7d": 4,
+    "star_delta_30d": 4,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -163,11 +163,11 @@
       null,
       null,
       null,
-      4,
       null,
       2,
       null,
       2,
+      null,
       null,
       null
     ],
@@ -179,7 +179,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-11T21:00:00.000Z",
+    "as_of": "2026-11-12T21:00:00.000Z",
     "all_time": 11,
     "rising": {
       "24h": null,
@@ -200,18 +200,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-11T22:53:42.000Z",
+    "pushed_at": "2026-11-12T21:54:10.000Z",
     "owner_type": "Organization",
-    "open_issues": 222,
-    "contributors": 348,
+    "open_issues": 231,
+    "contributors": 349,
     "releases_count": 243,
     "latest_release": {
       "tag": "v1.4.0",
       "published_at": "2026-11-10T21:26:08.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-12T02:16:34.023Z",
-    "core_checked_at": "2026-11-12T02:16:34.023Z"
+    "checked_at": "2026-11-13T02:16:37.555Z",
+    "core_checked_at": "2026-11-13T02:16:37.555Z"
   },
   "signals": [],
   "images": {
