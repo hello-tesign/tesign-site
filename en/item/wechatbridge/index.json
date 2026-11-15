@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-13T02:30:01.377Z",
+  "generated_at": "2026-11-15T02:30:01.011Z",
   "lang": "en",
   "slug": "wechatbridge",
   "url": "https://tesign.com/en/item/wechatbridge/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-12T21:00:00.000Z",
-    "stars": 2217,
+    "as_of": "2026-11-14T22:00:00.000Z",
+    "stars": 2286,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-13T02:15:30.418Z",
+    "stars_checked_at": "2026-11-15T02:15:27.659Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -121,12 +121,12 @@
   "activity": {
     "pushed_at": "2026-11-10T09:09:22.000Z",
     "owner_type": "User",
-    "open_issues": 28,
-    "contributors": 8,
+    "open_issues": 29,
+    "contributors": 9,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-13T02:15:30.418Z",
-    "core_checked_at": "2026-11-13T02:15:30.418Z"
+    "checked_at": "2026-11-15T02:15:27.659Z",
+    "core_checked_at": "2026-11-15T02:15:27.659Z"
   },
   "signals": [
     {

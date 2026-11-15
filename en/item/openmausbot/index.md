@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/openmausbot/
 - JSON: https://tesign.com/en/item/openmausbot/index.json
 - Korean Markdown: https://tesign.com/item/openmausbot/index.md
-- Generated: 2026-11-13 02:30 UTC
+- Generated: 2026-11-15 02:30 UTC
 
 ## Numbers
 
-- 21,750 stars — checked on GitHub 2026-11-13 02:17 UTC
-- 7-day +49 observed via GH Archive (as of 2026-11-12 21:00 UTC)
-- 24h +2 ★ · 30d +49 ★ (as of 2026-11-12 21:00 UTC)
+- 22,804 stars — checked on GitHub 2026-11-15 02:17 UTC
+- 7-day +18 observed via GH Archive (as of 2026-11-14 22:00 UTC)
+- 24h +2 ★ · 30d +18 ★ (as of 2026-11-14 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-12 19:50 UTC
-- Latest release: v0.1.154 (2026-11-12)
-- Contributors: 256
-- Open issues (incl. PRs): 1,043
+- Last commit: 2026-11-15 02:16 UTC
+- Latest release: v0.1.158 (2026-11-14)
+- Contributors: 279
+- Open issues (incl. PRs): 1,098
 - Made by: an individual
-- Checked on GitHub: 2026-11-13 02:17 UTC
+- Checked on GitHub: 2026-11-15 02:17 UTC
 
 ## Signals and evidence
 

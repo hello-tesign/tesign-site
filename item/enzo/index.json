@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-13T02:30:01.377Z",
+  "generated_at": "2026-11-15T02:30:01.011Z",
   "lang": "ko",
   "slug": "enzo",
   "url": "https://tesign.com/item/enzo/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-12T21:00:00.000Z",
+    "as_of": "2026-11-14T22:00:00.000Z",
     "stars": 121,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-13T02:15:39.631Z",
+    "stars_checked_at": "2026-11-15T02:15:34.847Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,7 +118,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-12T17:50:51.000Z",
+    "pushed_at": "2026-11-15T00:37:37.000Z",
     "owner_type": "User",
     "open_issues": 5,
     "contributors": 5,
@@ -128,8 +128,8 @@
       "published_at": "2026-10-14T15:53:19.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-13T02:15:39.631Z",
-    "core_checked_at": "2026-11-13T02:15:39.631Z"
+    "checked_at": "2026-11-15T02:15:34.847Z",
+    "core_checked_at": "2026-11-15T02:15:34.847Z"
   },
   "signals": [
     {

@@ -5,17 +5,17 @@
 - Page: https://tesign.com/en/item/humanizer/
 - JSON: https://tesign.com/en/item/humanizer/index.json
 - Korean Markdown: https://tesign.com/item/humanizer/index.md
-- Generated: 2026-11-13 02:30 UTC
+- Generated: 2026-11-15 02:30 UTC
 
 ## RANKS
 
-- All-time #78 · PRODUCTIVITY #6 (As of 2026-11-12 21:00 UTC)
+- All-time #77 · PRODUCTIVITY #6 (As of 2026-11-14 22:00 UTC)
 
 ## Numbers
 
-- 68,438 stars — checked on GitHub 2026-11-13 02:16 UTC
-- 7-day +7 observed via GH Archive (as of 2026-11-12 21:00 UTC)
-- 24h +2 ★ · 30d +7 ★ (as of 2026-11-12 21:00 UTC)
+- 69,149 stars — checked on GitHub 2026-11-15 02:16 UTC
+- 7-day +11 observed via GH Archive (as of 2026-11-14 22:00 UTC)
+- 24h +4 ★ · 30d +11 ★ (as of 2026-11-14 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -38,7 +38,7 @@
 - Contributors: 28
 - Open issues (incl. PRs): 4
 - Made by: an individual
-- Checked on GitHub: 2026-11-13 02:16 UTC
+- Checked on GitHub: 2026-11-15 02:16 UTC
 
 ## TESIGN TAKE
 
