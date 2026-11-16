@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-15T02:30:01.011Z",
+  "generated_at": "2026-11-16T02:30:00.177Z",
   "lang": "en",
   "slug": "terminal-browser",
   "url": "https://tesign.com/en/item/terminal-browser/",
@@ -121,10 +121,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-14T22:00:00.000Z",
-    "stars": 4644,
+    "as_of": "2026-11-15T22:00:00.000Z",
+    "stars": 4667,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-15T02:17:42.092Z",
+    "stars_checked_at": "2026-11-16T02:17:43.612Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -155,18 +155,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-14T16:01:28.000Z",
+    "pushed_at": "2026-11-16T00:31:31.000Z",
     "owner_type": "Organization",
-    "open_issues": 140,
+    "open_issues": 128,
     "contributors": 8,
-    "releases_count": 73,
+    "releases_count": 76,
     "latest_release": {
-      "tag": "pixel-v0.2.21",
-      "published_at": "2026-11-13T22:56:07.000Z",
+      "tag": "pixel-v0.2.24",
+      "published_at": "2026-11-16T00:38:40.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-15T02:17:42.092Z",
-    "core_checked_at": "2026-11-15T02:17:42.092Z"
+    "checked_at": "2026-11-16T02:17:43.612Z",
+    "core_checked_at": "2026-11-16T02:17:43.612Z"
   },
   "signals": [
     {

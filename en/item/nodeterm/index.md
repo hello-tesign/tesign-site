@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/nodeterm/
 - JSON: https://tesign.com/en/item/nodeterm/index.json
 - Korean Markdown: https://tesign.com/item/nodeterm/index.md
-- Generated: 2026-11-15 02:30 UTC
+- Generated: 2026-11-16 02:30 UTC
 
 ## Numbers
 
-- 2,529 stars — checked on GitHub 2026-11-15 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-14 22:00 UTC)
+- 2,542 stars — checked on GitHub 2026-11-16 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-15 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -27,12 +27,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-14 06:46 UTC
+- Last commit: 2026-11-15 19:02 UTC
 - Latest release: v0.5.1 (2026-11-06)
-- Contributors: 55
-- Open issues (incl. PRs): 91
+- Contributors: 56
+- Open issues (incl. PRs): 83
 - Made by: an individual
-- Checked on GitHub: 2026-11-15 02:17 UTC
+- Checked on GitHub: 2026-11-16 02:17 UTC
 
 ## Signals and evidence
 

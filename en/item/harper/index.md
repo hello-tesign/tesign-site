@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/harper/
 - JSON: https://tesign.com/en/item/harper/index.json
 - Korean Markdown: https://tesign.com/item/harper/index.md
-- Generated: 2026-11-15 02:30 UTC
+- Generated: 2026-11-16 02:30 UTC
 
 ## Numbers
 
-- 17,714 stars — checked on GitHub 2026-11-15 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-14 22:00 UTC)
+- 17,732 stars — checked on GitHub 2026-11-16 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-15 22:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-14 17:33 UTC
+- Last commit: 2026-11-15 06:37 UTC
 - Latest release: v3.2.0 (2026-11-13)
 - Contributors: 169
-- Open issues (incl. PRs): 1,086
+- Open issues (incl. PRs): 1,093
 - Made by: an organization
-- Checked on GitHub: 2026-11-15 02:16 UTC
+- Checked on GitHub: 2026-11-16 02:16 UTC
 
 ## TESIGN TAKE
 

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-15T02:30:01.011Z",
+  "generated_at": "2026-11-16T02:30:00.177Z",
   "lang": "en",
   "slug": "sol-pi",
   "url": "https://tesign.com/en/item/sol-pi/",
@@ -101,10 +101,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-14T22:00:00.000Z",
-    "stars": 3682,
+    "as_of": "2026-11-15T22:00:00.000Z",
+    "stars": 3683,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-15T02:17:04.630Z",
+    "stars_checked_at": "2026-11-16T02:17:07.621Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -135,14 +135,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-15T01:19:57.000Z",
+    "pushed_at": "2026-11-16T01:23:49.000Z",
     "owner_type": "Organization",
-    "open_issues": 91,
+    "open_issues": 92,
     "contributors": 9,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-15T02:17:04.630Z",
-    "core_checked_at": "2026-11-15T02:17:04.630Z"
+    "checked_at": "2026-11-16T02:17:07.621Z",
+    "core_checked_at": "2026-11-16T02:17:07.621Z"
   },
   "signals": [],
   "images": {

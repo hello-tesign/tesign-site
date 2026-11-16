@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-15T02:30:01.011Z",
+  "generated_at": "2026-11-16T02:30:00.177Z",
   "lang": "en",
   "slug": "orca",
   "url": "https://tesign.com/en/item/orca/",
@@ -120,14 +120,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-14T22:00:00.000Z",
-    "stars": 125108,
+    "as_of": "2026-11-15T22:00:00.000Z",
+    "stars": 125846,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-15T02:16:40.104Z",
+    "stars_checked_at": "2026-11-16T02:16:42.632Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 27,
-    "star_delta_30d": 27,
+    "star_delta_24h": null,
+    "star_delta_7d": 25,
+    "star_delta_30d": 25,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -138,12 +138,12 @@
       null,
       null,
       2,
-      2,
       5,
       null,
       6,
       10,
-      2
+      2,
+      null
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -154,18 +154,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-15T02:15:00.000Z",
+    "pushed_at": "2026-11-16T02:16:20.000Z",
     "owner_type": "Organization",
-    "open_issues": 8498,
-    "contributors": 668,
-    "releases_count": 1011,
+    "open_issues": 8500,
+    "contributors": 679,
+    "releases_count": 1012,
     "latest_release": {
-      "tag": "android-v0.0.65",
-      "published_at": "2026-11-15T01:09:25.000Z",
+      "tag": "mobile-android-v0.0.65",
+      "published_at": "2026-11-15T02:45:36.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-11-15T02:16:40.104Z",
-    "core_checked_at": "2026-11-15T02:16:40.104Z"
+    "checked_at": "2026-11-16T02:16:42.632Z",
+    "core_checked_at": "2026-11-16T02:16:42.632Z"
   },
   "signals": [],
   "images": {

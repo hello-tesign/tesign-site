@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-15T02:30:01.011Z",
+  "generated_at": "2026-11-16T02:30:00.177Z",
   "lang": "en",
   "slug": "zapfast",
   "url": "https://tesign.com/en/item/zapfast/",
@@ -127,10 +127,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-14T22:00:00.000Z",
-    "stars": 4500,
+    "as_of": "2026-11-15T22:00:00.000Z",
+    "stars": 4576,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-15T02:18:20.142Z",
+    "stars_checked_at": "2026-11-16T02:18:24.028Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -160,7 +160,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-14T22:00:00.000Z",
+    "as_of": "2026-11-15T22:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -176,9 +176,9 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-14T19:09:51.000Z",
+    "pushed_at": "2026-11-15T20:09:57.000Z",
     "owner_type": "User",
-    "open_issues": 268,
+    "open_issues": 269,
     "contributors": 93,
     "releases_count": 49,
     "latest_release": {
@@ -186,8 +186,8 @@
       "published_at": "2026-11-14T17:34:16.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-15T02:18:20.142Z",
-    "core_checked_at": "2026-11-15T02:18:20.142Z"
+    "checked_at": "2026-11-16T02:18:24.028Z",
+    "core_checked_at": "2026-11-16T02:18:24.028Z"
   },
   "signals": [
     {

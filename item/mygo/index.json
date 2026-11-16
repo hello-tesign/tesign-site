@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-15T02:30:01.011Z",
+  "generated_at": "2026-11-16T02:30:00.177Z",
   "lang": "ko",
   "slug": "mygo",
   "url": "https://tesign.com/item/mygo/",
@@ -86,14 +86,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-14T22:00:00.000Z",
-    "stars": 6248,
+    "as_of": "2026-11-15T22:00:00.000Z",
+    "stars": 6316,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-15T02:18:31.442Z",
+    "stars_checked_at": "2026-11-16T02:18:35.400Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 2,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -103,7 +103,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-15T02:05:22.000Z",
+    "pushed_at": "2026-11-16T01:40:45.000Z",
     "owner_type": "User",
-    "open_issues": 105,
-    "contributors": 124,
-    "releases_count": 81,
+    "open_issues": 125,
+    "contributors": 125,
+    "releases_count": 82,
     "latest_release": {
-      "tag": "v0.9.0",
-      "published_at": "2026-11-11T10:45:00.000Z",
+      "tag": "v0.9.1",
+      "published_at": "2026-11-15T09:51:25.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-15T02:18:31.442Z",
-    "core_checked_at": "2026-11-15T02:18:31.442Z"
+    "checked_at": "2026-11-16T02:18:35.400Z",
+    "core_checked_at": "2026-11-16T02:18:35.400Z"
   },
   "signals": [],
   "images": {
