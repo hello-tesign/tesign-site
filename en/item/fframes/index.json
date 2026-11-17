@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-16T02:30:00.177Z",
+  "generated_at": "2026-11-17T02:30:00.195Z",
   "lang": "en",
   "slug": "fframes",
   "url": "https://tesign.com/en/item/fframes/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-15T22:00:00.000Z",
-    "stars": 3112,
+    "as_of": "2026-11-16T22:00:00.000Z",
+    "stars": 3123,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-16T02:15:15.033Z",
+    "stars_checked_at": "2026-11-17T02:15:14.865Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -128,8 +128,8 @@
       "published_at": "2026-10-20T20:16:29.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-16T02:15:15.033Z",
-    "core_checked_at": "2026-11-16T02:15:15.033Z"
+    "checked_at": "2026-11-17T02:15:14.865Z",
+    "core_checked_at": "2026-11-17T02:15:14.865Z"
   },
   "signals": [],
   "images": {

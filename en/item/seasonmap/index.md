@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/seasonmap/
 - JSON: https://tesign.com/en/item/seasonmap/index.json
 - Korean Markdown: https://tesign.com/item/seasonmap/index.md
-- Generated: 2026-11-16 02:30 UTC
+- Generated: 2026-11-17 02:30 UTC
 
 ## Numbers
 

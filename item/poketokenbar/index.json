@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-16T02:30:00.177Z",
+  "generated_at": "2026-11-17T02:30:00.195Z",
   "lang": "ko",
   "slug": "poketokenbar",
   "url": "https://tesign.com/item/poketokenbar/",
@@ -105,10 +105,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-15T22:00:00.000Z",
-    "stars": 567,
+    "as_of": "2026-11-16T22:00:00.000Z",
+    "stars": 568,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-16T02:18:16.511Z",
+    "stars_checked_at": "2026-11-17T02:18:16.277Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -141,7 +141,7 @@
   "activity": {
     "pushed_at": "2026-11-06T10:51:15.000Z",
     "owner_type": "User",
-    "open_issues": 61,
+    "open_issues": 63,
     "contributors": 54,
     "releases_count": 33,
     "latest_release": {
@@ -149,8 +149,8 @@
       "published_at": "2026-11-05T03:07:03.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-16T02:18:16.511Z",
-    "core_checked_at": "2026-11-16T02:18:16.511Z"
+    "checked_at": "2026-11-17T02:18:16.277Z",
+    "core_checked_at": "2026-11-17T02:18:16.277Z"
   },
   "signals": [
     {

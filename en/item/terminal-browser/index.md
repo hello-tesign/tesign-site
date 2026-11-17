@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/terminal-browser/
 - JSON: https://tesign.com/en/item/terminal-browser/index.json
 - Korean Markdown: https://tesign.com/item/terminal-browser/index.md
-- Generated: 2026-11-16 02:30 UTC
+- Generated: 2026-11-17 02:30 UTC
 
 ## Numbers
 
-- 4,667 stars — checked on GitHub 2026-11-16 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-15 22:00 UTC)
+- 4,689 stars — checked on GitHub 2026-11-17 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-16 22:00 UTC)
 - 4 Show HN points — observed 2026-09-13 14:00 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-16 00:31 UTC
-- Latest release: pixel-v0.2.24 (2026-11-16)
+- Last commit: 2026-11-16 22:12 UTC
+- Latest release: v0.15.5 (2026-11-16)
 - Contributors: 8
 - Open issues (incl. PRs): 128
 - Made by: an organization
-- Checked on GitHub: 2026-11-16 02:17 UTC
+- Checked on GitHub: 2026-11-17 02:17 UTC
 
 ## Signals and evidence
 

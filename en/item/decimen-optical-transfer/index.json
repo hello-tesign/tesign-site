@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-16T02:30:00.177Z",
+  "generated_at": "2026-11-17T02:30:00.195Z",
   "lang": "en",
   "slug": "decimen-optical-transfer",
   "url": "https://tesign.com/en/item/decimen-optical-transfer/",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-15T22:00:00.000Z",
-    "stars": 7024,
+    "as_of": "2026-11-16T22:00:00.000Z",
+    "stars": 7033,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-16T02:17:30.398Z",
+    "stars_checked_at": "2026-11-17T02:17:29.832Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,22 +147,7 @@
     "store": null,
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
-  "ranks": {
-    "as_of": "2026-11-15T22:00:00.000Z",
-    "all_time": null,
-    "rising": {
-      "24h": null,
-      "7d": null,
-      "30d": null
-    },
-    "categories": [
-      {
-        "category": "media",
-        "label": "MEDIA",
-        "rank": 20
-      }
-    ]
-  },
+  "ranks": null,
   "activity": {
     "pushed_at": "2026-10-09T08:00:57.000Z",
     "owner_type": "User",
@@ -174,8 +159,8 @@
       "published_at": "2026-08-20T00:46:56.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-16T02:17:30.398Z",
-    "core_checked_at": "2026-11-16T02:17:30.398Z"
+    "checked_at": "2026-11-17T02:17:29.832Z",
+    "core_checked_at": "2026-11-17T02:17:29.832Z"
   },
   "signals": [
     {

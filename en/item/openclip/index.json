@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-16T02:30:00.177Z",
+  "generated_at": "2026-11-17T02:30:00.195Z",
   "lang": "en",
   "slug": "openclip",
   "url": "https://tesign.com/en/item/openclip/",
@@ -120,10 +120,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-15T22:00:00.000Z",
-    "stars": 775,
+    "as_of": "2026-11-16T22:00:00.000Z",
+    "stars": 800,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-16T02:17:58.199Z",
+    "stars_checked_at": "2026-11-17T02:17:58.111Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -154,9 +154,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-15T16:57:24.000Z",
+    "pushed_at": "2026-11-16T13:58:03.000Z",
     "owner_type": "User",
-    "open_issues": 16,
+    "open_issues": 19,
     "contributors": 21,
     "releases_count": 25,
     "latest_release": {
@@ -164,8 +164,8 @@
       "published_at": "2026-11-15T16:14:15.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-16T02:17:58.199Z",
-    "core_checked_at": "2026-11-16T02:17:58.199Z"
+    "checked_at": "2026-11-17T02:17:58.111Z",
+    "core_checked_at": "2026-11-17T02:17:58.111Z"
   },
   "signals": [
     {

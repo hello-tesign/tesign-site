@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-16T02:30:00.177Z",
+  "generated_at": "2026-11-17T02:30:00.195Z",
   "lang": "en",
   "slug": "hibi",
   "url": "https://tesign.com/en/item/hibi/",
@@ -92,10 +92,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-15T22:00:00.000Z",
-    "stars": 205,
+    "as_of": "2026-11-16T22:00:00.000Z",
+    "stars": 206,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-16T02:15:47.867Z",
+    "stars_checked_at": "2026-11-17T02:15:46.337Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -126,18 +126,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-15T19:38:26.000Z",
+    "pushed_at": "2026-11-16T20:01:59.000Z",
     "owner_type": "User",
     "open_issues": 57,
     "contributors": 14,
-    "releases_count": 84,
+    "releases_count": 85,
     "latest_release": {
-      "tag": "nightly-2026-11-15-58fa3c4-124-1",
-      "published_at": "2026-11-15T19:38:27.000Z",
+      "tag": "nightly-2026-11-16-58fa3c4-125-1",
+      "published_at": "2026-11-16T20:02:00.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-11-16T02:15:47.867Z",
-    "core_checked_at": "2026-11-16T02:15:47.867Z"
+    "checked_at": "2026-11-17T02:15:46.337Z",
+    "core_checked_at": "2026-11-17T02:15:46.337Z"
   },
   "signals": [
     {

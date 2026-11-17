@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-16T02:30:00.177Z",
+  "generated_at": "2026-11-17T02:30:00.195Z",
   "lang": "en",
   "slug": "ui-ux-pro-max-skill",
   "url": "https://tesign.com/en/item/ui-ux-pro-max-skill/",
@@ -85,17 +85,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-15T22:00:00.000Z",
-    "stars": 149983,
+    "as_of": "2026-11-16T22:00:00.000Z",
+    "stars": 150464,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-16T02:15:21.357Z",
+    "stars_checked_at": "2026-11-17T02:15:20.969Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 2,
-    "star_delta_7d": 12,
-    "star_delta_30d": 12,
+    "star_delta_24h": 3,
+    "star_delta_7d": 15,
+    "star_delta_30d": 15,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
       null,
       null,
       null,
@@ -108,7 +107,8 @@
       null,
       2,
       null,
-      2
+      2,
+      3
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -118,7 +118,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-15T22:00:00.000Z",
+    "as_of": "2026-11-16T22:00:00.000Z",
     "all_time": 11,
     "rising": {
       "24h": null,
@@ -139,18 +139,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-16T01:11:28.000Z",
+    "pushed_at": "2026-11-16T04:10:04.000Z",
     "owner_type": "Organization",
-    "open_issues": 84,
-    "contributors": 115,
+    "open_issues": 83,
+    "contributors": 116,
     "releases_count": 41,
     "latest_release": {
       "tag": "v2.15.0",
       "published_at": "2026-08-13T17:10:40.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-16T02:15:21.357Z",
-    "core_checked_at": "2026-11-16T02:15:21.357Z"
+    "checked_at": "2026-11-17T02:15:20.969Z",
+    "core_checked_at": "2026-11-17T02:15:20.969Z"
   },
   "signals": [],
   "images": {

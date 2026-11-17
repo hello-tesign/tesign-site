@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-16T02:30:00.177Z",
+  "generated_at": "2026-11-17T02:30:00.195Z",
   "lang": "en",
   "slug": "slotstream",
   "url": "https://tesign.com/en/item/slotstream/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-15T22:00:00.000Z",
-    "stars": 674,
+    "as_of": "2026-11-16T22:00:00.000Z",
+    "stars": 673,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-16T02:18:10.249Z",
+    "stars_checked_at": "2026-11-17T02:18:10.053Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -145,7 +145,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-09T04:35:58.000Z",
+    "pushed_at": "2026-11-16T04:45:09.000Z",
     "owner_type": "User",
     "open_issues": 5,
     "contributors": 8,
@@ -155,8 +155,8 @@
       "published_at": "2026-10-19T17:55:19.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-16T02:18:10.249Z",
-    "core_checked_at": "2026-11-16T02:18:10.249Z"
+    "checked_at": "2026-11-17T02:18:10.053Z",
+    "core_checked_at": "2026-11-17T02:18:10.053Z"
   },
   "signals": [
     {
