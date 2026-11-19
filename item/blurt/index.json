@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-17T02:30:00.195Z",
+  "generated_at": "2026-11-19T02:30:03.222Z",
   "lang": "ko",
   "slug": "blurt",
   "url": "https://tesign.com/item/blurt/",
@@ -91,10 +91,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-16T22:00:00.000Z",
-    "stars": 72,
+    "as_of": "2026-11-18T20:00:00.000Z",
+    "stars": 73,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-17T02:15:55.345Z",
+    "stars_checked_at": "2026-11-19T02:15:59.845Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -125,18 +125,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-13T21:39:10.000Z",
+    "pushed_at": "2026-11-19T01:44:00.000Z",
     "owner_type": "Organization",
-    "open_issues": 12,
-    "contributors": 16,
+    "open_issues": 8,
+    "contributors": 17,
     "releases_count": 43,
     "latest_release": {
       "tag": "v0.1.70",
       "published_at": "2026-11-06T23:05:10.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-17T02:15:55.345Z",
-    "core_checked_at": "2026-11-17T02:15:55.345Z"
+    "checked_at": "2026-11-19T02:15:59.845Z",
+    "core_checked_at": "2026-11-19T02:15:59.845Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-17T02:30:00.195Z",
+  "generated_at": "2026-11-19T02:30:03.222Z",
   "lang": "en",
   "slug": "martin-loop",
   "url": "https://tesign.com/en/item/martin-loop/",
@@ -118,10 +118,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-16T22:00:00.000Z",
+    "as_of": "2026-11-18T20:00:00.000Z",
     "stars": 286,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-17T02:18:24.704Z",
+    "stars_checked_at": "2026-11-19T02:18:30.102Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -152,9 +152,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-04T16:40:11.000Z",
+    "pushed_at": "2026-11-19T02:16:39.000Z",
     "owner_type": "User",
-    "open_issues": 1,
+    "open_issues": 2,
     "contributors": 5,
     "releases_count": 119,
     "latest_release": {
@@ -162,8 +162,8 @@
       "published_at": "2026-11-03T21:56:04.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-17T02:18:24.704Z",
-    "core_checked_at": "2026-11-17T02:18:24.704Z"
+    "checked_at": "2026-11-19T02:18:30.102Z",
+    "core_checked_at": "2026-11-19T02:18:30.102Z"
   },
   "signals": [],
   "images": {

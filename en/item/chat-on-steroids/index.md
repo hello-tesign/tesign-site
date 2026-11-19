@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/chat-on-steroids/
 - JSON: https://tesign.com/en/item/chat-on-steroids/index.json
 - Korean Markdown: https://tesign.com/item/chat-on-steroids/index.md
-- Generated: 2026-11-17 02:30 UTC
+- Generated: 2026-11-19 02:30 UTC
 
 ## Numbers
 
-- 5,195 stars — checked on GitHub 2026-11-17 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-16 22:00 UTC)
+- 5,196 stars — checked on GitHub 2026-11-19 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-18 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -31,9 +31,9 @@
 - Last commit: 2026-11-17 00:17 UTC
 - Latest release: canary (2026-11-17) · pre-release
 - Contributors: 49
-- Open issues (incl. PRs): 26
+- Open issues (incl. PRs): 31
 - Made by: an individual
-- Checked on GitHub: 2026-11-17 02:16 UTC
+- Checked on GitHub: 2026-11-19 02:16 UTC
 
 ## TESIGN TAKE
 

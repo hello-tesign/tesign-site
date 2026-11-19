@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-17T02:30:00.195Z",
+  "generated_at": "2026-11-19T02:30:03.222Z",
   "lang": "ko",
   "slug": "mimo-code",
   "url": "https://tesign.com/item/mimo-code/",
@@ -110,10 +110,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-16T22:00:00.000Z",
-    "stars": 13787,
+    "as_of": "2026-11-18T20:00:00.000Z",
+    "stars": 13792,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-17T02:17:13.586Z",
+    "stars_checked_at": "2026-11-19T02:17:18.701Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -144,9 +144,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-16T16:52:04.000Z",
+    "pushed_at": "2026-11-18T14:27:46.000Z",
     "owner_type": "Organization",
-    "open_issues": 1190,
+    "open_issues": 1192,
     "contributors": 25,
     "releases_count": 4,
     "latest_release": {
@@ -154,8 +154,8 @@
       "published_at": "2026-11-13T08:02:45.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-17T02:17:13.586Z",
-    "core_checked_at": "2026-11-17T02:17:13.586Z"
+    "checked_at": "2026-11-19T02:17:18.701Z",
+    "core_checked_at": "2026-11-19T02:17:18.701Z"
   },
   "signals": [
     {

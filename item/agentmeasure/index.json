@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-17T02:30:00.195Z",
+  "generated_at": "2026-11-19T02:30:03.222Z",
   "lang": "ko",
   "slug": "agentmeasure",
   "url": "https://tesign.com/item/agentmeasure/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-16T22:00:00.000Z",
-    "stars": 219,
+    "as_of": "2026-11-18T20:00:00.000Z",
+    "stars": 220,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-17T02:15:44.130Z",
+    "stars_checked_at": "2026-11-19T02:15:48.398Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,18 +119,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-15T13:28:44.000Z",
+    "pushed_at": "2026-11-18T01:32:37.000Z",
     "owner_type": "User",
     "open_issues": 9,
     "contributors": 21,
-    "releases_count": 20,
+    "releases_count": 23,
     "latest_release": {
-      "tag": "verovobench-data-v0.2",
-      "published_at": "2026-11-09T02:12:08.000Z",
+      "tag": "v0.14.2",
+      "published_at": "2026-11-18T01:23:19.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-17T02:15:44.130Z",
-    "core_checked_at": "2026-11-17T02:15:44.130Z"
+    "checked_at": "2026-11-19T02:15:48.398Z",
+    "core_checked_at": "2026-11-19T02:15:48.398Z"
   },
   "signals": [
     {

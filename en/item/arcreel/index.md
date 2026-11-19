@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/arcreel/
 - JSON: https://tesign.com/en/item/arcreel/index.json
 - Korean Markdown: https://tesign.com/item/arcreel/index.md
-- Generated: 2026-11-17 02:30 UTC
+- Generated: 2026-11-19 02:30 UTC
 
 ## Numbers
 
-- 6,605 stars — checked on GitHub 2026-11-17 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-16 22:00 UTC)
+- 6,638 stars — checked on GitHub 2026-11-19 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-18 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-17 01:22 UTC
+- Last commit: 2026-11-19 01:43 UTC
 - Latest release: v0.37.0 (2026-11-16)
 - Contributors: 25
-- Open issues (incl. PRs): 93
+- Open issues (incl. PRs): 84
 - Made by: an organization
-- Checked on GitHub: 2026-11-17 02:16 UTC
+- Checked on GitHub: 2026-11-19 02:16 UTC
 
 ## TESIGN TAKE
 

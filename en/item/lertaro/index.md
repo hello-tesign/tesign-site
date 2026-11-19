@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/lertaro/
 - JSON: https://tesign.com/en/item/lertaro/index.json
 - Korean Markdown: https://tesign.com/item/lertaro/index.md
-- Generated: 2026-11-17 02:30 UTC
+- Generated: 2026-11-19 02:30 UTC
 
 ## Numbers
 
-- 1,463 stars — checked on GitHub 2026-11-17 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-16 22:00 UTC)
+- 1,475 stars — checked on GitHub 2026-11-19 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-18 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-16 09:43 UTC
-- Latest release: v5.13.3 (2026-11-15)
+- Last commit: 2026-11-18 14:23 UTC
+- Latest release: v5.13.4 (2026-11-18)
 - Contributors: 7
-- Open issues (incl. PRs): 4
+- Open issues (incl. PRs): 6
 - Made by: an organization
-- Checked on GitHub: 2026-11-17 02:18 UTC
+- Checked on GitHub: 2026-11-19 02:18 UTC
 
 ## Signals and evidence
 

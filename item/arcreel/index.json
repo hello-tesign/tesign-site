@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-17T02:30:00.195Z",
+  "generated_at": "2026-11-19T02:30:03.222Z",
   "lang": "ko",
   "slug": "arcreel",
   "url": "https://tesign.com/item/arcreel/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-16T22:00:00.000Z",
-    "stars": 6605,
+    "as_of": "2026-11-18T20:00:00.000Z",
+    "stars": 6638,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-17T02:16:12.303Z",
+    "stars_checked_at": "2026-11-19T02:16:17.887Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,9 +119,9 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-17T01:22:08.000Z",
+    "pushed_at": "2026-11-19T01:43:27.000Z",
     "owner_type": "Organization",
-    "open_issues": 93,
+    "open_issues": 84,
     "contributors": 25,
     "releases_count": 66,
     "latest_release": {
@@ -129,8 +129,8 @@
       "published_at": "2026-11-16T04:48:44.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-17T02:16:12.303Z",
-    "core_checked_at": "2026-11-17T02:16:12.303Z"
+    "checked_at": "2026-11-19T02:16:17.887Z",
+    "core_checked_at": "2026-11-19T02:16:17.887Z"
   },
   "signals": [],
   "images": {

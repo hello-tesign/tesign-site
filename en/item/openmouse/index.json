@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-17T02:30:00.195Z",
+  "generated_at": "2026-11-19T02:30:03.222Z",
   "lang": "en",
   "slug": "openmouse",
   "url": "https://tesign.com/en/item/openmouse/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-16T22:00:00.000Z",
-    "stars": 2962,
+    "as_of": "2026-11-18T20:00:00.000Z",
+    "stars": 2982,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-17T02:17:50.027Z",
+    "stars_checked_at": "2026-11-19T02:17:54.713Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -146,7 +146,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-16T22:00:00.000Z",
+    "as_of": "2026-11-18T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -167,14 +167,14 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-12T09:47:19.000Z",
+    "pushed_at": "2026-11-18T00:43:46.000Z",
     "owner_type": "Organization",
-    "open_issues": 39,
+    "open_issues": 40,
     "contributors": 57,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-17T02:17:50.027Z",
-    "core_checked_at": "2026-11-17T02:17:50.027Z"
+    "checked_at": "2026-11-19T02:17:54.713Z",
+    "core_checked_at": "2026-11-19T02:17:54.713Z"
   },
   "signals": [
     {

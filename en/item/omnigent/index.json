@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-17T02:30:00.195Z",
+  "generated_at": "2026-11-19T02:30:03.222Z",
   "lang": "en",
   "slug": "omnigent",
   "url": "https://tesign.com/en/item/omnigent/",
@@ -115,10 +115,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-16T22:00:00.000Z",
-    "stars": 11394,
+    "as_of": "2026-11-18T20:00:00.000Z",
+    "stars": 11426,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-17T02:17:14.720Z",
+    "stars_checked_at": "2026-11-19T02:17:20.069Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -149,18 +149,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-17T02:15:26.000Z",
+    "pushed_at": "2026-11-19T02:10:53.000Z",
     "owner_type": "Organization",
-    "open_issues": 2517,
-    "contributors": 321,
+    "open_issues": 2477,
+    "contributors": 323,
     "releases_count": 25,
     "latest_release": {
       "tag": "v0.22.0",
       "published_at": "2026-11-13T06:44:09.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-17T02:17:14.720Z",
-    "core_checked_at": "2026-11-17T02:17:14.720Z"
+    "checked_at": "2026-11-19T02:17:20.069Z",
+    "core_checked_at": "2026-11-19T02:17:20.069Z"
   },
   "signals": [
     {

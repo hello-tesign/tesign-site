@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/agentmeasure/
 - JSON: https://tesign.com/en/item/agentmeasure/index.json
 - Korean Markdown: https://tesign.com/item/agentmeasure/index.md
-- Generated: 2026-11-17 02:30 UTC
+- Generated: 2026-11-19 02:30 UTC
 
 ## Numbers
 
-- 219 stars — checked on GitHub 2026-11-17 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-16 22:00 UTC)
+- 220 stars — checked on GitHub 2026-11-19 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-18 20:00 UTC)
 - 2 Show HN points — observed 2026-09-25 10:49 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-15 13:28 UTC
-- Latest release: verovobench-data-v0.2 (2026-11-09)
+- Last commit: 2026-11-18 01:32 UTC
+- Latest release: v0.14.2 (2026-11-18)
 - Contributors: 21
 - Open issues (incl. PRs): 9
 - Made by: an individual
-- Checked on GitHub: 2026-11-17 02:15 UTC
+- Checked on GitHub: 2026-11-19 02:15 UTC
 
 ## Signals and evidence
 
