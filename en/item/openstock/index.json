@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-19T02:30:03.222Z",
+  "generated_at": "2026-11-20T02:29:59.784Z",
   "lang": "en",
   "slug": "openstock",
   "url": "https://tesign.com/en/item/openstock/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-18T20:00:00.000Z",
-    "stars": 21750,
+    "as_of": "2026-11-19T21:00:00.000Z",
+    "stars": 21778,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-19T02:18:33.575Z",
+    "stars_checked_at": "2026-11-20T02:18:31.826Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -117,7 +117,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-18T20:00:00.000Z",
+    "as_of": "2026-11-19T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -133,18 +133,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-18T10:35:24.000Z",
+    "pushed_at": "2026-11-19T20:16:02.000Z",
     "owner_type": "Organization",
-    "open_issues": 16,
-    "contributors": 23,
+    "open_issues": 10,
+    "contributors": 27,
     "releases_count": 3,
     "latest_release": {
       "tag": "v2026.11.09",
       "published_at": "2026-11-09T17:59:05.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-19T02:18:33.575Z",
-    "core_checked_at": "2026-11-19T02:18:33.575Z"
+    "checked_at": "2026-11-20T02:18:31.826Z",
+    "core_checked_at": "2026-11-20T02:18:31.826Z"
   },
   "signals": [],
   "images": {

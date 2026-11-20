@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-19T02:30:03.222Z",
+  "generated_at": "2026-11-20T02:29:59.784Z",
   "lang": "ko",
   "slug": "window-sweaters",
   "url": "https://tesign.com/item/window-sweaters/",
@@ -84,14 +84,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-18T20:00:00.000Z",
-    "stars": 1521,
+    "as_of": "2026-11-19T21:00:00.000Z",
+    "stars": 1527,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-19T02:15:25.632Z",
+    "stars_checked_at": "2026-11-20T02:15:22.922Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 2,
+    "star_delta_7d": null,
+    "star_delta_30d": null,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -102,7 +102,7 @@
       null,
       null,
       null,
-      2,
+      null,
       null,
       null,
       null,
@@ -120,7 +120,7 @@
   "activity": {
     "pushed_at": "2026-11-13T21:09:57.000Z",
     "owner_type": "User",
-    "open_issues": 14,
+    "open_issues": 15,
     "contributors": 3,
     "releases_count": 5,
     "latest_release": {
@@ -128,8 +128,8 @@
       "published_at": "2026-09-18T21:31:46.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-19T02:15:25.632Z",
-    "core_checked_at": "2026-11-19T02:15:25.632Z"
+    "checked_at": "2026-11-20T02:15:22.922Z",
+    "core_checked_at": "2026-11-20T02:15:22.922Z"
   },
   "signals": [
     {

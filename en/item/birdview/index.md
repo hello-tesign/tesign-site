@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/birdview/
 - JSON: https://tesign.com/en/item/birdview/index.json
 - Korean Markdown: https://tesign.com/item/birdview/index.md
-- Generated: 2026-11-19 02:30 UTC
+- Generated: 2026-11-20 02:29 UTC
 
 ## Numbers
 
-- 700 stars — checked on GitHub 2026-11-19 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-18 20:00 UTC)
+- 700 stars — checked on GitHub 2026-11-20 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-19 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-14 14:01 UTC
+- Last commit: 2026-11-19 09:44 UTC
 - Latest release: v0.5.0 (2026-11-14)
 - Contributors: 3
 - Open issues (incl. PRs): 0
 - Made by: an individual
-- Checked on GitHub: 2026-11-19 02:17 UTC
+- Checked on GitHub: 2026-11-20 02:17 UTC
 
 ## Signals and evidence
 

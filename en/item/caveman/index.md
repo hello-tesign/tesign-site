@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/caveman/
 - JSON: https://tesign.com/en/item/caveman/index.json
 - Korean Markdown: https://tesign.com/item/caveman/index.md
-- Generated: 2026-11-19 02:30 UTC
+- Generated: 2026-11-20 02:29 UTC
 
 ## RANKS
 
-- All-time #18 · AI #13 · DEV TOOLS #5 (As of 2026-11-18 20:00 UTC)
+- All-time #18 · AI #13 · DEV TOOLS #5 (As of 2026-11-19 21:00 UTC)
 
 ## Numbers
 
-- 121,326 stars — checked on GitHub 2026-11-19 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-18 20:00 UTC)
+- 121,581 stars — checked on GitHub 2026-11-20 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-19 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-18 07:28 UTC
+- Last commit: 2026-11-20 00:03 UTC
 - Latest release: v4.1.0 (2026-11-08)
-- Contributors: 117
-- Open issues (incl. PRs): 105
+- Contributors: 116
+- Open issues (incl. PRs): 106
 - Made by: an individual
-- Checked on GitHub: 2026-11-19 02:16 UTC
+- Checked on GitHub: 2026-11-20 02:16 UTC
 
 ## TESIGN TAKE
 

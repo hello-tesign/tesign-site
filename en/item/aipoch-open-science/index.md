@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/aipoch-open-science/
 - JSON: https://tesign.com/en/item/aipoch-open-science/index.json
 - Korean Markdown: https://tesign.com/item/aipoch-open-science/index.md
-- Generated: 2026-11-19 02:30 UTC
+- Generated: 2026-11-20 02:29 UTC
 
 ## RANKS
 
-- SCIENCE #3 (As of 2026-11-18 20:00 UTC)
+- SCIENCE #3 (As of 2026-11-19 21:00 UTC)
 
 ## Numbers
 
-- 5,545 stars — checked on GitHub 2026-11-19 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-18 20:00 UTC)
+- 5,553 stars — checked on GitHub 2026-11-20 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-19 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-19 01:56 UTC
-- Latest release: v1.3.0 (2026-11-18)
+- Last commit: 2026-11-20 01:59 UTC
+- Latest release: v1.3.1 (2026-11-19)
 - Contributors: 34
-- Open issues (incl. PRs): 34
+- Open issues (incl. PRs): 37
 - Made by: an organization
-- Checked on GitHub: 2026-11-19 02:17 UTC
+- Checked on GitHub: 2026-11-20 02:17 UTC
 
 ## Signals and evidence
 

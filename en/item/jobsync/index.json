@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-19T02:30:03.222Z",
+  "generated_at": "2026-11-20T02:29:59.784Z",
   "lang": "en",
   "slug": "jobsync",
   "url": "https://tesign.com/en/item/jobsync/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-18T20:00:00.000Z",
-    "stars": 1535,
+    "as_of": "2026-11-19T21:00:00.000Z",
+    "stars": 1536,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-19T02:16:16.863Z",
+    "stars_checked_at": "2026-11-20T02:16:12.893Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-11-14T17:15:57.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-19T02:16:16.863Z",
-    "core_checked_at": "2026-11-19T02:16:16.863Z"
+    "checked_at": "2026-11-20T02:16:12.893Z",
+    "core_checked_at": "2026-11-20T02:16:12.893Z"
   },
   "signals": [],
   "images": {

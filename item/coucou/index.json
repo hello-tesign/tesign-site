@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-19T02:30:03.222Z",
+  "generated_at": "2026-11-20T02:29:59.784Z",
   "lang": "ko",
   "slug": "coucou",
   "url": "https://tesign.com/item/coucou/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-18T20:00:00.000Z",
-    "stars": 7338,
+    "as_of": "2026-11-19T21:00:00.000Z",
+    "stars": 7353,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-19T02:15:21.448Z",
+    "stars_checked_at": "2026-11-20T02:15:18.480Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-18T18:02:43.000Z",
+    "pushed_at": "2026-11-19T12:05:36.000Z",
     "owner_type": "User",
-    "open_issues": 464,
-    "contributors": 66,
-    "releases_count": 59,
+    "open_issues": 446,
+    "contributors": 71,
+    "releases_count": 60,
     "latest_release": {
-      "tag": "android-v0.5.0",
-      "published_at": "2026-11-13T19:42:45.000Z",
+      "tag": "v0.6.1",
+      "published_at": "2026-11-19T12:05:34.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-19T02:15:21.448Z",
-    "core_checked_at": "2026-11-19T02:15:21.448Z"
+    "checked_at": "2026-11-20T02:15:18.480Z",
+    "core_checked_at": "2026-11-20T02:15:18.480Z"
   },
   "signals": [
     {

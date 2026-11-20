@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/smarttube/
 - JSON: https://tesign.com/en/item/smarttube/index.json
 - Korean Markdown: https://tesign.com/item/smarttube/index.md
-- Generated: 2026-11-19 02:30 UTC
+- Generated: 2026-11-20 02:29 UTC
 
 ## RANKS
 
-- All-time #190 · MEDIA #7 (As of 2026-11-18 20:00 UTC)
+- All-time #189 · MEDIA #7 (As of 2026-11-19 21:00 UTC)
 
 ## Numbers
 
-- 36,451 stars — checked on GitHub 2026-11-19 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-18 20:00 UTC)
+- 36,475 stars — checked on GitHub 2026-11-20 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-19 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-19 00:00 UTC
-- Latest release: 32.79 (2026-11-18) · pre-release
+- Last commit: 2026-11-19 13:56 UTC
+- Latest release: 32.80 (2026-11-19) · pre-release
 - Contributors: 50
-- Open issues (incl. PRs): 888
+- Open issues (incl. PRs): 892
 - Made by: an individual
-- Checked on GitHub: 2026-11-19 02:15 UTC
+- Checked on GitHub: 2026-11-20 02:15 UTC
 
 ## TESIGN TAKE
 
