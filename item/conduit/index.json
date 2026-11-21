@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-20T02:29:59.784Z",
+  "generated_at": "2026-11-21T02:30:00.208Z",
   "lang": "ko",
   "slug": "conduit",
   "url": "https://tesign.com/item/conduit/",
@@ -111,10 +111,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-19T21:00:00.000Z",
+    "as_of": "2026-11-20T21:00:00.000Z",
     "stars": 434,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-20T02:18:23.443Z",
+    "stars_checked_at": "2026-11-21T02:18:14.861Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -147,7 +147,7 @@
   "activity": {
     "pushed_at": "2026-07-24T08:41:33.000Z",
     "owner_type": "User",
-    "open_issues": 43,
+    "open_issues": 44,
     "contributors": 3,
     "releases_count": 33,
     "latest_release": {
@@ -155,8 +155,8 @@
       "published_at": "2026-07-14T07:59:28.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-20T02:18:23.443Z",
-    "core_checked_at": "2026-11-20T02:18:23.443Z"
+    "checked_at": "2026-11-21T02:18:14.861Z",
+    "core_checked_at": "2026-11-21T02:18:14.861Z"
   },
   "signals": [
     {

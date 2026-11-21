@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-20T02:29:59.784Z",
+  "generated_at": "2026-11-21T02:30:00.208Z",
   "lang": "en",
   "slug": "zcode",
   "url": "https://tesign.com/en/item/zcode/",
@@ -89,10 +89,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-19T21:00:00.000Z",
-    "stars": 8785,
+    "as_of": "2026-11-20T21:00:00.000Z",
+    "stars": 8810,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-20T02:15:48.799Z",
+    "stars_checked_at": "2026-11-21T02:15:47.653Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -133,8 +133,8 @@
       "published_at": "2026-11-16T01:49:23.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-20T02:15:48.799Z",
-    "core_checked_at": "2026-11-20T02:15:48.799Z"
+    "checked_at": "2026-11-21T02:15:47.653Z",
+    "core_checked_at": "2026-11-21T02:15:47.653Z"
   },
   "signals": [
     {

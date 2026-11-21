@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-20T02:29:59.784Z",
+  "generated_at": "2026-11-21T02:30:00.208Z",
   "lang": "ko",
   "slug": "nurb",
   "url": "https://tesign.com/item/nurb/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-19T21:00:00.000Z",
-    "stars": 648,
+    "as_of": "2026-11-20T21:00:00.000Z",
+    "stars": 650,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-20T02:18:14.927Z",
+    "stars_checked_at": "2026-11-21T02:18:06.581Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -146,7 +146,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-19T12:29:15.000Z",
+    "pushed_at": "2026-11-20T12:34:10.000Z",
     "owner_type": "User",
     "open_issues": 4,
     "contributors": 13,
@@ -156,8 +156,8 @@
       "published_at": "2026-11-19T12:29:47.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-20T02:18:14.927Z",
-    "core_checked_at": "2026-11-20T02:18:14.927Z"
+    "checked_at": "2026-11-21T02:18:06.581Z",
+    "core_checked_at": "2026-11-21T02:18:06.581Z"
   },
   "signals": [
     {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-20T02:29:59.784Z",
+  "generated_at": "2026-11-21T02:30:00.208Z",
   "lang": "ko",
   "slug": "aipoch-open-science",
   "url": "https://tesign.com/item/aipoch-open-science/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-19T21:00:00.000Z",
-    "stars": 5553,
+    "as_of": "2026-11-20T21:00:00.000Z",
+    "stars": 5555,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-20T02:17:47.859Z",
+    "stars_checked_at": "2026-11-21T02:17:40.255Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -145,7 +145,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-11-19T21:00:00.000Z",
+    "as_of": "2026-11-20T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -161,18 +161,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-20T01:59:55.000Z",
+    "pushed_at": "2026-11-21T02:16:01.000Z",
     "owner_type": "Organization",
-    "open_issues": 37,
+    "open_issues": 41,
     "contributors": 34,
-    "releases_count": 89,
+    "releases_count": 90,
     "latest_release": {
-      "tag": "v1.3.1",
-      "published_at": "2026-11-19T16:33:52.000Z",
+      "tag": "v1.3.2",
+      "published_at": "2026-11-20T10:42:11.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-20T02:17:47.859Z",
-    "core_checked_at": "2026-11-20T02:17:47.859Z"
+    "checked_at": "2026-11-21T02:17:40.255Z",
+    "core_checked_at": "2026-11-21T02:17:40.255Z"
   },
   "signals": [
     {
