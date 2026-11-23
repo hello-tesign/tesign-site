@@ -5,13 +5,13 @@
 - Page: https://tesign.com/en/item/orca/
 - JSON: https://tesign.com/en/item/orca/index.json
 - Korean Markdown: https://tesign.com/item/orca/index.md
-- Generated: 2026-11-21 02:30 UTC
+- Generated: 2026-11-23 02:29 UTC
 
 ## Numbers
 
-- 131,099 stars — checked on GitHub 2026-11-21 02:16 UTC
-- 7-day +34 observed via GH Archive (as of 2026-11-20 21:00 UTC)
-- 24h +4 ★ · 30d +34 ★ (as of 2026-11-20 21:00 UTC)
+- 131,106 stars — checked on GitHub 2026-11-21 02:16 UTC (+7 observed since the check)
+- 7-day +39 observed via GH Archive (as of 2026-11-22 08:00 UTC)
+- 24h +5 ★ · 30d +41 ★ (as of 2026-11-22 08:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-21T02:30:00.208Z",
+  "generated_at": "2026-11-23T02:29:59.736Z",
   "lang": "ko",
   "slug": "colibri",
   "url": "https://tesign.com/item/colibri/",
@@ -125,18 +125,16 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-20T21:00:00.000Z",
+    "as_of": "2026-11-22T08:00:00.000Z",
     "stars": 52493,
     "stars_unit": "GitHub stars",
     "stars_checked_at": "2026-11-21T02:16:27.413Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 6,
+    "star_delta_7d": 4,
     "star_delta_30d": 6,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
-      null,
-      null,
       null,
       null,
       null,
@@ -148,6 +146,8 @@
       null,
       null,
       4,
+      null,
+      null,
       null
     ],
     "hf_likes": null,
