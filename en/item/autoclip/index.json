@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-23T02:29:59.736Z",
+  "generated_at": "2026-11-25T02:29:59.773Z",
   "lang": "en",
   "slug": "autoclip",
   "url": "https://tesign.com/en/item/autoclip/",
@@ -88,14 +88,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "stars": 12229,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "stars": 15412,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-21T02:15:35.382Z",
-    "stars_observed_since_check": 9,
-    "star_delta_24h": 4,
-    "star_delta_7d": 13,
-    "star_delta_30d": 13,
+    "stars_checked_at": "2026-11-25T02:15:39.067Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": 2,
+    "star_delta_7d": 15,
+    "star_delta_30d": 15,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -105,12 +105,12 @@
       null,
       null,
       null,
-      2,
-      null,
       null,
       null,
       2,
       7,
+      2,
+      2,
       2
     ],
     "hf_likes": null,
@@ -121,7 +121,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-22T08:00:00.000Z",
+    "as_of": "2026-11-24T21:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -132,23 +132,23 @@
       {
         "category": "media",
         "label": "MEDIA",
-        "rank": 15
+        "rank": 11
       }
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-20T16:31:32.000Z",
+    "pushed_at": "2026-11-25T01:20:51.000Z",
     "owner_type": "User",
-    "open_issues": 49,
-    "contributors": 6,
-    "releases_count": 19,
+    "open_issues": 40,
+    "contributors": 12,
+    "releases_count": 22,
     "latest_release": {
-      "tag": "v1.5.8",
-      "published_at": "2026-11-02T12:15:50.000Z",
+      "tag": "templates-catalog",
+      "published_at": "2026-11-25T01:08:54.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-21T02:15:35.382Z",
-    "core_checked_at": "2026-11-21T02:15:35.382Z"
+    "checked_at": "2026-11-25T02:15:39.067Z",
+    "core_checked_at": "2026-11-25T02:15:39.067Z"
   },
   "signals": [],
   "images": {

@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-23T02:29:59.736Z",
+  "generated_at": "2026-11-25T02:29:59.773Z",
   "lang": "en",
   "slug": "paperweight",
   "url": "https://tesign.com/en/item/paperweight/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "stars": 558,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "stars": 560,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-21T02:15:15.824Z",
+    "stars_checked_at": "2026-11-25T02:15:17.803Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -119,7 +119,7 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-20T21:25:08.000Z",
+    "pushed_at": "2026-11-24T19:56:01.000Z",
     "owner_type": "User",
     "open_issues": 7,
     "contributors": 6,
@@ -129,8 +129,8 @@
       "published_at": "2026-09-30T15:23:15.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-21T02:15:15.824Z",
-    "core_checked_at": "2026-11-21T02:15:15.824Z"
+    "checked_at": "2026-11-25T02:15:17.803Z",
+    "core_checked_at": "2026-11-25T02:15:17.803Z"
   },
   "signals": [
     {

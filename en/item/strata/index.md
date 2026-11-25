@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/strata/
 - JSON: https://tesign.com/en/item/strata/index.json
 - Korean Markdown: https://tesign.com/item/strata/index.md
-- Generated: 2026-11-23 02:29 UTC
+- Generated: 2026-11-25 02:29 UTC
 
 ## Numbers
 
-- 1,691 stars — checked on GitHub 2026-11-21 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-22 08:00 UTC)
+- 1,712 stars — checked on GitHub 2026-11-25 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-24 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-21 01:30 UTC
-- Latest release: v1.2.2-nightly.20261116 (2026-11-16) · pre-release
-- Contributors: 65
-- Open issues (incl. PRs): 51
+- Last commit: 2026-11-25 02:16 UTC
+- Latest release: v1.2.2 (2026-11-24)
+- Contributors: 67
+- Open issues (incl. PRs): 45
 - Made by: an organization
-- Checked on GitHub: 2026-11-21 02:17 UTC
+- Checked on GitHub: 2026-11-25 02:18 UTC
 
 ## Signals and evidence
 

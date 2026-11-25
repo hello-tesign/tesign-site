@@ -5,7 +5,7 @@
 - Page: https://tesign.com/en/item/lofi-cities/
 - JSON: https://tesign.com/en/item/lofi-cities/index.json
 - Korean Markdown: https://tesign.com/item/lofi-cities/index.md
-- Generated: 2026-11-23 02:29 UTC
+- Generated: 2026-11-25 02:29 UTC
 
 ## Numbers
 

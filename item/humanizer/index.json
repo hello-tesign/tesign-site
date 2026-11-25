@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-23T02:29:59.736Z",
+  "generated_at": "2026-11-25T02:29:59.773Z",
   "lang": "ko",
   "slug": "humanizer",
   "url": "https://tesign.com/item/humanizer/",
@@ -109,14 +109,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "stars": 71688,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "stars": 73218,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-21T02:16:47.778Z",
+    "stars_checked_at": "2026-11-25T02:17:01.652Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 2,
-    "star_delta_30d": 6,
+    "star_delta_7d": 8,
+    "star_delta_30d": 8,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -124,14 +124,14 @@
       null,
       null,
       null,
-      4,
-      null,
       null,
       null,
       2,
       null,
       null,
       null,
+      4,
+      2,
       null
     ],
     "hf_likes": null,
@@ -142,8 +142,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "all_time": 74,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "all_time": 69,
     "rising": {
       "24h": null,
       "7d": null,
@@ -160,16 +160,16 @@
   "activity": {
     "pushed_at": "2026-11-19T18:53:14.000Z",
     "owner_type": "User",
-    "open_issues": 3,
-    "contributors": 31,
+    "open_issues": 9,
+    "contributors": 30,
     "releases_count": 7,
     "latest_release": {
       "tag": "v4.0.0",
       "published_at": "2026-11-10T01:35:15.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-21T02:16:47.778Z",
-    "core_checked_at": "2026-11-21T02:16:47.778Z"
+    "checked_at": "2026-11-25T02:17:01.652Z",
+    "core_checked_at": "2026-11-25T02:17:01.652Z"
   },
   "signals": [],
   "images": {

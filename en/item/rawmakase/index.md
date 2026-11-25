@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/rawmakase/
 - JSON: https://tesign.com/en/item/rawmakase/index.json
 - Korean Markdown: https://tesign.com/item/rawmakase/index.md
-- Generated: 2026-11-23 02:29 UTC
+- Generated: 2026-11-25 02:29 UTC
 
 ## Numbers
 
-- 1,694 stars — checked on GitHub 2026-11-21 02:15 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-22 08:00 UTC)
+- 1,712 stars — checked on GitHub 2026-11-25 02:15 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-24 21:00 UTC)
 - 9 Show HN points — observed 2026-10-06 19:35 UTC
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
@@ -29,12 +29,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-21 00:00 UTC
-- Latest release: v0.7.1 (2026-11-20)
-- Contributors: 25
-- Open issues (incl. PRs): 12
+- Last commit: 2026-11-24 23:04 UTC
+- Latest release: v0.7.2 (2026-11-22)
+- Contributors: 26
+- Open issues (incl. PRs): 20
 - Made by: an individual
-- Checked on GitHub: 2026-11-21 02:15 UTC
+- Checked on GitHub: 2026-11-25 02:15 UTC
 
 ## Signals and evidence
 

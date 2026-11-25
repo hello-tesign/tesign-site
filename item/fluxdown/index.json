@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-23T02:29:59.736Z",
+  "generated_at": "2026-11-25T02:29:59.773Z",
   "lang": "ko",
   "slug": "fluxdown",
   "url": "https://tesign.com/item/fluxdown/",
@@ -120,10 +120,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "stars": 5864,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "stars": 5985,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-21T02:18:00.225Z",
+    "stars_checked_at": "2026-11-25T02:18:22.408Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -154,18 +154,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-21T00:42:10.000Z",
+    "pushed_at": "2026-11-25T00:43:49.000Z",
     "owner_type": "User",
-    "open_issues": 183,
+    "open_issues": 162,
     "contributors": 33,
-    "releases_count": 191,
+    "releases_count": 192,
     "latest_release": {
-      "tag": "v0.6.8",
-      "published_at": "2026-11-16T12:44:40.000Z",
-      "prerelease": false
+      "tag": "v0.6.9-rc.1",
+      "published_at": "2026-11-21T08:43:22.000Z",
+      "prerelease": true
     },
-    "checked_at": "2026-11-21T02:18:00.225Z",
-    "core_checked_at": "2026-11-21T02:18:00.225Z"
+    "checked_at": "2026-11-25T02:18:22.408Z",
+    "core_checked_at": "2026-11-25T02:18:22.408Z"
   },
   "signals": [
     {

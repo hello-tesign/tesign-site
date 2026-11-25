@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-23T02:29:59.736Z",
+  "generated_at": "2026-11-25T02:29:59.773Z",
   "lang": "en",
   "slug": "inspo",
   "url": "https://tesign.com/en/item/inspo/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "stars": 1073,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "stars": 1097,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-21T02:15:53.830Z",
+    "stars_checked_at": "2026-11-25T02:16:00.790Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -125,8 +125,8 @@
     "contributors": 3,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-21T02:15:53.830Z",
-    "core_checked_at": "2026-11-21T02:15:53.830Z"
+    "checked_at": "2026-11-25T02:16:00.790Z",
+    "core_checked_at": "2026-11-25T02:16:00.790Z"
   },
   "signals": [],
   "images": {

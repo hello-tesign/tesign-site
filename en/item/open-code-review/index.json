@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-23T02:29:59.736Z",
+  "generated_at": "2026-11-25T02:29:59.773Z",
   "lang": "en",
   "slug": "open-code-review",
   "url": "https://tesign.com/en/item/open-code-review/",
@@ -119,14 +119,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "stars": 54803,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "stars": 56067,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-21T02:16:31.742Z",
+    "stars_checked_at": "2026-11-25T02:16:43.403Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
-    "star_delta_7d": 22,
-    "star_delta_30d": 28,
+    "star_delta_7d": 8,
+    "star_delta_30d": 8,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -134,11 +134,11 @@
       null,
       null,
       null,
-      6,
-      2,
-      7,
-      7,
+      null,
+      null,
       4,
+      null,
+      2,
       null,
       2,
       null,
@@ -152,8 +152,8 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "all_time": 114,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "all_time": 112,
     "rising": {
       "24h": null,
       "7d": null,
@@ -168,18 +168,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-20T14:59:55.000Z",
+    "pushed_at": "2026-11-24T16:19:18.000Z",
     "owner_type": "Organization",
-    "open_issues": 340,
-    "contributors": 225,
-    "releases_count": 151,
+    "open_issues": 343,
+    "contributors": 232,
+    "releases_count": 155,
     "latest_release": {
-      "tag": "v1.13.13",
-      "published_at": "2026-11-19T03:04:50.000Z",
+      "tag": "v1.14.3",
+      "published_at": "2026-11-24T08:25:00.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-21T02:16:31.742Z",
-    "core_checked_at": "2026-11-21T02:16:31.742Z"
+    "checked_at": "2026-11-25T02:16:43.403Z",
+    "core_checked_at": "2026-11-25T02:16:43.403Z"
   },
   "signals": [],
   "images": {

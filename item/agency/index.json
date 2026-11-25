@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-23T02:29:59.736Z",
+  "generated_at": "2026-11-25T02:29:59.773Z",
   "lang": "ko",
   "slug": "agency",
   "url": "https://tesign.com/item/agency/",
@@ -113,10 +113,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-22T08:00:00.000Z",
+    "as_of": "2026-11-24T21:00:00.000Z",
     "stars": 513,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-21T02:16:40.842Z",
+    "stars_checked_at": "2026-11-25T02:16:53.430Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -153,8 +153,8 @@
     "contributors": 1,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-21T02:16:40.842Z",
-    "core_checked_at": "2026-11-21T02:16:40.842Z"
+    "checked_at": "2026-11-25T02:16:53.430Z",
+    "core_checked_at": "2026-11-25T02:16:53.430Z"
   },
   "signals": [],
   "images": {

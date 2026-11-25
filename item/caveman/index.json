@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-23T02:29:59.736Z",
+  "generated_at": "2026-11-25T02:29:59.773Z",
   "lang": "ko",
   "slug": "caveman",
   "url": "https://tesign.com/item/caveman/",
@@ -107,12 +107,12 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "stars": 121802,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "stars": 122661,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-21T02:16:46.847Z",
-    "stars_observed_since_check": 2,
-    "star_delta_24h": 2,
+    "stars_checked_at": "2026-11-25T02:17:00.656Z",
+    "stars_observed_since_check": 0,
+    "star_delta_24h": null,
     "star_delta_7d": 4,
     "star_delta_30d": 4,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
@@ -126,10 +126,10 @@
       null,
       null,
       null,
-      null,
-      null,
       2,
       2,
+      null,
+      null,
       null
     ],
     "hf_likes": null,
@@ -140,7 +140,7 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-11-22T08:00:00.000Z",
+    "as_of": "2026-11-24T21:00:00.000Z",
     "all_time": 18,
     "rising": {
       "24h": null,
@@ -161,18 +161,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-20T07:32:16.000Z",
+    "pushed_at": "2026-11-24T21:36:13.000Z",
     "owner_type": "User",
-    "open_issues": 108,
+    "open_issues": 103,
     "contributors": 116,
-    "releases_count": 56,
+    "releases_count": 59,
     "latest_release": {
-      "tag": "v4.1.0",
-      "published_at": "2026-11-08T04:17:28.000Z",
+      "tag": "v4.2.0",
+      "published_at": "2026-11-22T07:10:51.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-21T02:16:46.847Z",
-    "core_checked_at": "2026-11-21T02:16:46.847Z"
+    "checked_at": "2026-11-25T02:17:00.656Z",
+    "core_checked_at": "2026-11-25T02:17:00.656Z"
   },
   "signals": [],
   "images": {

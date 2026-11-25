@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-23T02:29:59.736Z",
+  "generated_at": "2026-11-25T02:29:59.773Z",
   "lang": "en",
   "slug": "puter-ai-builder",
   "url": "https://tesign.com/en/item/puter-ai-builder/",
@@ -84,10 +84,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-22T08:00:00.000Z",
-    "stars": 359,
+    "as_of": "2026-11-24T21:00:00.000Z",
+    "stars": 365,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-21T02:15:28.103Z",
+    "stars_checked_at": "2026-11-25T02:15:30.942Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -118,14 +118,14 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-20T16:51:24.000Z",
+    "pushed_at": "2026-11-24T00:43:00.000Z",
     "owner_type": "Organization",
-    "open_issues": 4,
+    "open_issues": 3,
     "contributors": 2,
     "releases_count": 0,
     "latest_release": null,
-    "checked_at": "2026-11-21T02:15:28.103Z",
-    "core_checked_at": "2026-11-21T02:15:28.103Z"
+    "checked_at": "2026-11-25T02:15:30.942Z",
+    "core_checked_at": "2026-11-25T02:15:30.942Z"
   },
   "signals": [
     {

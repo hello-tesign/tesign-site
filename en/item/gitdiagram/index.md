@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/gitdiagram/
 - JSON: https://tesign.com/en/item/gitdiagram/index.json
 - Korean Markdown: https://tesign.com/item/gitdiagram/index.md
-- Generated: 2026-11-23 02:29 UTC
+- Generated: 2026-11-25 02:29 UTC
 
 ## Numbers
 
-- 19,038 stars — checked on GitHub 2026-11-21 02:16 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-22 08:00 UTC)
+- 19,103 stars — checked on GitHub 2026-11-25 02:16 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-24 21:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -28,12 +28,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-19 11:29 UTC
+- Last commit: 2026-11-23 23:35 UTC
 - Latest release: no releases
 - Contributors: 5
 - Open issues (incl. PRs): 55
 - Made by: an individual
-- Checked on GitHub: 2026-11-21 02:16 UTC
+- Checked on GitHub: 2026-11-25 02:16 UTC
 
 ## TESIGN TAKE
 
