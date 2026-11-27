@@ -5,12 +5,12 @@
 - Page: https://tesign.com/en/item/martin-loop/
 - JSON: https://tesign.com/en/item/martin-loop/index.json
 - Korean Markdown: https://tesign.com/item/martin-loop/index.md
-- Generated: 2026-11-25 02:29 UTC
+- Generated: 2026-11-27 02:29 UTC
 
 ## Numbers
 
-- 263 stars — checked on GitHub 2026-11-25 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-24 21:00 UTC)
+- 262 stars — checked on GitHub 2026-11-27 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-26 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -27,12 +27,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-19 02:38 UTC
+- Last commit: 2026-11-27 01:15 UTC
 - Latest release: v0.10.0 (2026-11-19)
 - Contributors: 5
-- Open issues (incl. PRs): 1
+- Open issues (incl. PRs): 4
 - Made by: an individual
-- Checked on GitHub: 2026-11-25 02:18 UTC
+- Checked on GitHub: 2026-11-27 02:18 UTC
 
 ## TESIGN TAKE
 

@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/dsh-desktop/
 - JSON: https://tesign.com/en/item/dsh-desktop/index.json
 - Korean Markdown: https://tesign.com/item/dsh-desktop/index.md
-- Generated: 2026-11-25 02:29 UTC
+- Generated: 2026-11-27 02:29 UTC
 
 ## RANKS
 
-- All-time #186 (As of 2026-11-24 21:00 UTC)
+- All-time #182 (As of 2026-11-26 20:00 UTC)
 
 ## Numbers
 
-- 36,777 stars — checked on GitHub 2026-11-25 02:17 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-24 21:00 UTC)
+- 36,916 stars — checked on GitHub 2026-11-27 02:17 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-26 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -32,12 +32,12 @@
 
 ## ACTIVITY
 
-- Last commit: 2026-11-24 09:21 UTC
+- Last commit: 2026-11-26 09:25 UTC
 - Latest release: v2.0.24-beta.2 (2026-11-23) · pre-release
 - Contributors: 62
-- Open issues (incl. PRs): 404
+- Open issues (incl. PRs): 411
 - Made by: an organization
-- Checked on GitHub: 2026-11-25 02:17 UTC
+- Checked on GitHub: 2026-11-27 02:17 UTC
 
 ## Signals and evidence
 

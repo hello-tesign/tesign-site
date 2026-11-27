@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-25T02:29:59.773Z",
+  "generated_at": "2026-11-27T02:29:59.867Z",
   "lang": "ko",
   "slug": "vorssaint",
   "url": "https://tesign.com/item/vorssaint/",
@@ -108,10 +108,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-24T21:00:00.000Z",
-    "stars": 36052,
+    "as_of": "2026-11-26T20:00:00.000Z",
+    "stars": 36569,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-25T02:17:19.876Z",
+    "stars_checked_at": "2026-11-27T02:17:08.991Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -141,8 +141,8 @@
     "method": "별 총합 = GitHub에서 마지막으로 확인한 값(stars_checked_at) + 그 뒤 GH Archive에서 관측한 증가. 24h·7d·30d 증가는 GH Archive 시간별 이벤트를 기준 시각(as_of)까지 합한 값. 우리 점수는 없습니다."
   },
   "ranks": {
-    "as_of": "2026-11-24T21:00:00.000Z",
-    "all_time": 193,
+    "as_of": "2026-11-26T20:00:00.000Z",
+    "all_time": 190,
     "rising": {
       "24h": null,
       "7d": null,
@@ -157,18 +157,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-25T01:26:45.000Z",
+    "pushed_at": "2026-11-25T06:32:27.000Z",
     "owner_type": "User",
-    "open_issues": 1733,
+    "open_issues": 1793,
     "contributors": 269,
-    "releases_count": 95,
+    "releases_count": 96,
     "latest_release": {
-      "tag": "v3.4.4",
-      "published_at": "2026-11-11T14:09:33.000Z",
+      "tag": "v3.4.5",
+      "published_at": "2026-11-25T06:31:40.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-25T02:17:19.876Z",
-    "core_checked_at": "2026-11-25T02:17:19.876Z"
+    "checked_at": "2026-11-27T02:17:08.991Z",
+    "core_checked_at": "2026-11-27T02:17:08.991Z"
   },
   "signals": [],
   "images": {

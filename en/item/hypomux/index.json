@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-25T02:29:59.773Z",
+  "generated_at": "2026-11-27T02:29:59.867Z",
   "lang": "en",
   "slug": "hypomux",
   "url": "https://tesign.com/en/item/hypomux/",
@@ -112,10 +112,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-24T21:00:00.000Z",
-    "stars": 4197,
+    "as_of": "2026-11-26T20:00:00.000Z",
+    "stars": 4224,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-25T02:18:12.486Z",
+    "stars_checked_at": "2026-11-27T02:17:57.320Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -148,7 +148,7 @@
   "activity": {
     "pushed_at": "2026-11-11T15:30:16.000Z",
     "owner_type": "User",
-    "open_issues": 21,
+    "open_issues": 20,
     "contributors": 9,
     "releases_count": 23,
     "latest_release": {
@@ -156,8 +156,8 @@
       "published_at": "2026-11-08T12:27:57.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-11-25T02:18:12.486Z",
-    "core_checked_at": "2026-11-25T02:18:12.486Z"
+    "checked_at": "2026-11-27T02:17:57.320Z",
+    "core_checked_at": "2026-11-27T02:17:57.320Z"
   },
   "signals": [
     {

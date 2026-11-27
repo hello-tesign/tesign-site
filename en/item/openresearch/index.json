@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-25T02:29:59.773Z",
+  "generated_at": "2026-11-27T02:29:59.867Z",
   "lang": "en",
   "slug": "openresearch",
   "url": "https://tesign.com/en/item/openresearch/",
@@ -110,10 +110,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-24T21:00:00.000Z",
-    "stars": 8512,
+    "as_of": "2026-11-26T20:00:00.000Z",
+    "stars": 8553,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-25T02:16:42.166Z",
+    "stars_checked_at": "2026-11-27T02:16:34.226Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -143,7 +143,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-24T21:00:00.000Z",
+    "as_of": "2026-11-26T20:00:00.000Z",
     "all_time": null,
     "rising": {
       "24h": null,
@@ -159,18 +159,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-25T02:14:14.000Z",
+    "pushed_at": "2026-11-26T02:02:42.000Z",
     "owner_type": "Organization",
-    "open_issues": 47,
-    "contributors": 39,
+    "open_issues": 41,
+    "contributors": 40,
     "releases_count": 152,
     "latest_release": {
       "tag": "canary",
       "published_at": "2026-10-27T23:45:10.000Z",
       "prerelease": true
     },
-    "checked_at": "2026-11-25T02:16:42.166Z",
-    "core_checked_at": "2026-11-25T02:16:42.166Z"
+    "checked_at": "2026-11-27T02:16:34.226Z",
+    "core_checked_at": "2026-11-27T02:16:34.226Z"
   },
   "signals": [],
   "images": {

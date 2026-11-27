@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-25T02:29:59.773Z",
+  "generated_at": "2026-11-27T02:29:59.867Z",
   "lang": "en",
   "slug": "spec-kit",
   "url": "https://tesign.com/en/item/spec-kit/",
@@ -146,10 +146,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-24T21:00:00.000Z",
-    "stars": 151290,
+    "as_of": "2026-11-26T20:00:00.000Z",
+    "stars": 151691,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-25T02:16:40.839Z",
+    "stars_checked_at": "2026-11-27T02:16:33.047Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -179,7 +179,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-24T21:00:00.000Z",
+    "as_of": "2026-11-26T20:00:00.000Z",
     "all_time": 12,
     "rising": {
       "24h": null,
@@ -200,18 +200,18 @@
     ]
   },
   "activity": {
-    "pushed_at": "2026-11-24T20:13:48.000Z",
+    "pushed_at": "2026-11-26T21:54:22.000Z",
     "owner_type": "Organization",
-    "open_issues": 234,
-    "contributors": 354,
-    "releases_count": 247,
+    "open_issues": 249,
+    "contributors": 357,
+    "releases_count": 248,
     "latest_release": {
-      "tag": "v1.4.4",
-      "published_at": "2026-11-23T18:07:31.000Z",
+      "tag": "v1.4.5",
+      "published_at": "2026-11-25T17:43:41.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-25T02:16:40.839Z",
-    "core_checked_at": "2026-11-25T02:16:40.839Z"
+    "checked_at": "2026-11-27T02:16:33.047Z",
+    "core_checked_at": "2026-11-27T02:16:33.047Z"
   },
   "signals": [],
   "images": {

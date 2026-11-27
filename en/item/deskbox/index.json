@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-25T02:29:59.773Z",
+  "generated_at": "2026-11-27T02:29:59.867Z",
   "lang": "en",
   "slug": "deskbox",
   "url": "https://tesign.com/en/item/deskbox/",
@@ -108,10 +108,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-24T21:00:00.000Z",
-    "stars": 9639,
+    "as_of": "2026-11-26T20:00:00.000Z",
+    "stars": 9776,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-25T02:17:18.788Z",
+    "stars_checked_at": "2026-11-27T02:17:07.910Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -142,18 +142,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-24T19:12:01.000Z",
+    "pushed_at": "2026-11-25T08:18:17.000Z",
     "owner_type": "User",
-    "open_issues": 136,
+    "open_issues": 110,
     "contributors": 1,
-    "releases_count": 59,
+    "releases_count": 60,
     "latest_release": {
-      "tag": "v1.6.0",
-      "published_at": "2026-11-23T15:48:53.000Z",
+      "tag": "v1.6.2",
+      "published_at": "2026-11-25T08:18:29.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-25T02:17:18.788Z",
-    "core_checked_at": "2026-11-25T02:17:18.788Z"
+    "checked_at": "2026-11-27T02:17:07.910Z",
+    "core_checked_at": "2026-11-27T02:17:07.910Z"
   },
   "signals": [],
   "images": {

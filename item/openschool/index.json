@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-25T02:29:59.773Z",
+  "generated_at": "2026-11-27T02:29:59.867Z",
   "lang": "ko",
   "slug": "openschool",
   "url": "https://tesign.com/item/openschool/",
@@ -85,10 +85,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-24T21:00:00.000Z",
+    "as_of": "2026-11-26T20:00:00.000Z",
     "stars": 40,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-25T02:16:03.423Z",
+    "stars_checked_at": "2026-11-27T02:15:58.955Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -129,8 +129,8 @@
       "published_at": "2026-09-30T10:23:25.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-25T02:16:03.423Z",
-    "core_checked_at": "2026-11-25T02:16:03.423Z"
+    "checked_at": "2026-11-27T02:15:58.955Z",
+    "core_checked_at": "2026-11-27T02:15:58.955Z"
   },
   "signals": [],
   "images": {

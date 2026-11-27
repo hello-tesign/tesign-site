@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-25T02:29:59.773Z",
+  "generated_at": "2026-11-27T02:29:59.867Z",
   "lang": "en",
   "slug": "ponytail",
   "url": "https://tesign.com/en/item/ponytail/",
@@ -109,14 +109,14 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-24T21:00:00.000Z",
-    "stars": 198101,
+    "as_of": "2026-11-26T20:00:00.000Z",
+    "stars": 199398,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-25T02:16:35.045Z",
+    "stars_checked_at": "2026-11-27T02:16:27.796Z",
     "stars_observed_since_check": 0,
-    "star_delta_24h": 3,
-    "star_delta_7d": 15,
-    "star_delta_30d": 15,
+    "star_delta_24h": 8,
+    "star_delta_7d": 21,
+    "star_delta_30d": 21,
     "star_delta_unit": "GitHub stars gained in the window, GH Archive events summed to as_of",
     "spark_14d": [
       null,
@@ -127,12 +127,12 @@
       null,
       null,
       4,
-      null,
-      4,
       2,
       2,
       null,
-      3
+      3,
+      2,
+      8
     ],
     "hf_likes": null,
     "hf_likes_observed_at": null,
@@ -142,7 +142,7 @@
     "method": "Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours."
   },
   "ranks": {
-    "as_of": "2026-11-24T21:00:00.000Z",
+    "as_of": "2026-11-26T20:00:00.000Z",
     "all_time": 5,
     "rising": {
       "24h": null,
@@ -165,7 +165,7 @@
   "activity": {
     "pushed_at": "2026-11-22T02:31:58.000Z",
     "owner_type": "User",
-    "open_issues": 331,
+    "open_issues": 340,
     "contributors": 133,
     "releases_count": 30,
     "latest_release": {
@@ -173,8 +173,8 @@
       "published_at": "2026-10-29T03:11:08.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-25T02:16:35.045Z",
-    "core_checked_at": "2026-11-25T02:16:35.045Z"
+    "checked_at": "2026-11-27T02:16:27.796Z",
+    "core_checked_at": "2026-11-27T02:16:27.796Z"
   },
   "signals": [],
   "images": {

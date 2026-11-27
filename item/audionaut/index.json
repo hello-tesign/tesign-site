@@ -1,6 +1,6 @@
 {
   "schema": "tesign-radar/item/1",
-  "generated_at": "2026-11-25T02:29:59.773Z",
+  "generated_at": "2026-11-27T02:29:59.867Z",
   "lang": "ko",
   "slug": "audionaut",
   "url": "https://tesign.com/item/audionaut/",
@@ -86,10 +86,10 @@
     ]
   },
   "numbers": {
-    "as_of": "2026-11-24T21:00:00.000Z",
+    "as_of": "2026-11-26T20:00:00.000Z",
     "stars": 277,
     "stars_unit": "GitHub stars",
-    "stars_checked_at": "2026-11-25T02:15:03.913Z",
+    "stars_checked_at": "2026-11-27T02:15:03.552Z",
     "stars_observed_since_check": 0,
     "star_delta_24h": null,
     "star_delta_7d": null,
@@ -120,18 +120,18 @@
   },
   "ranks": null,
   "activity": {
-    "pushed_at": "2026-11-24T16:14:50.000Z",
+    "pushed_at": "2026-11-26T18:30:02.000Z",
     "owner_type": "User",
     "open_issues": 8,
     "contributors": 3,
-    "releases_count": 13,
+    "releases_count": 14,
     "latest_release": {
-      "tag": "v1.7.0",
-      "published_at": "2026-10-25T15:38:49.000Z",
+      "tag": "v1.8.0",
+      "published_at": "2026-11-26T17:28:19.000Z",
       "prerelease": false
     },
-    "checked_at": "2026-11-25T02:15:03.913Z",
-    "core_checked_at": "2026-11-25T02:15:03.913Z"
+    "checked_at": "2026-11-27T02:15:03.552Z",
+    "core_checked_at": "2026-11-27T02:15:03.552Z"
   },
   "signals": [
     {

@@ -5,16 +5,16 @@
 - Page: https://tesign.com/en/item/wealthfolio/
 - JSON: https://tesign.com/en/item/wealthfolio/index.json
 - Korean Markdown: https://tesign.com/item/wealthfolio/index.md
-- Generated: 2026-11-25 02:29 UTC
+- Generated: 2026-11-27 02:29 UTC
 
 ## RANKS
 
-- DATA #14 · FINANCE #6 (As of 2026-11-24 21:00 UTC)
+- DATA #14 · FINANCE #6 (As of 2026-11-26 20:00 UTC)
 
 ## Numbers
 
-- 9,745 stars — checked on GitHub 2026-11-25 02:18 UTC
-- no 7-day star increase observed (GH Archive) (as of 2026-11-24 21:00 UTC)
+- 9,786 stars — checked on GitHub 2026-11-27 02:18 UTC
+- no 7-day star increase observed (GH Archive) (as of 2026-11-26 20:00 UTC)
 - Star total = the value last checked on GitHub (stars_checked_at) + increases observed via GH Archive since. The 24h · 7d · 30d gains are GH Archive hourly events summed to the reference time (as_of). No score of ours.
 
 ## AT A GLANCE
@@ -35,9 +35,9 @@
 - Last commit: 2026-11-23 14:24 UTC
 - Latest release: v3.13.1 (2026-11-19)
 - Contributors: 109
-- Open issues (incl. PRs): 557
+- Open issues (incl. PRs): 564
 - Made by: an organization
-- Checked on GitHub: 2026-11-25 02:18 UTC
+- Checked on GitHub: 2026-11-27 02:18 UTC
 
 ## TESIGN TAKE
 
